@@ -9,7 +9,6 @@ from model.course import Course
 from model.section import Section
 from utility import time_utility, day_utility
 
-
 term = None
 if len(sys.argv) > 1:
     term = sys.argv[1]
@@ -23,13 +22,11 @@ year, semester = term.split("-")
 year_path = Path("../jsons") / year
 
 if not year_path.exists():
-    print("hi")
     year_path.mkdir(parents=True, exist_ok=True)
 
 semester_path = year_path / semester
 
 if not semester_path.exists():
-    print("bye")
     semester_path.mkdir(parents=True, exist_ok=True)
 
 url = f"https://classes.usc.edu/term-{year}{semester}/"
