@@ -7,7 +7,10 @@ def encode_days(days_string):
         days_string = "Mon, Wed, Fri"
     days = set([day.lower().strip()[:3] for day in days_string.split(",")])
     values = {day.lower().strip()[:3]: 2 ** i for i, day in enumerate(DAY_LIST)}
-    return sum(values[day] for day in days)
+    try:
+        return sum(values[day] for day in days)
+    except KeyError:
+        return 0
 
 
 def decode_days(value):

@@ -1,6 +1,6 @@
 def encode_time(time_string):
     if "-" not in time_string:
-        return "TBA", "TBA"
+        return -1, -1
     start, end = time_string.split("-")
     start_h, start_m = [int(time) for time in start.split(":")]
     end_h, end_m = [int(time) for time in end[:-2].split(":")]
