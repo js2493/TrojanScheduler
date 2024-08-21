@@ -39,8 +39,6 @@ soup = BeautifulSoup(response.content, "html.parser")
 elements = soup.find_all(class_="prefix")
 abbreviations = [element.text.lower() for element in elements]
 
-
-
 for abbreviation in abbreviations:
     department_url = f"{url}classes/{abbreviation}/"
     response = requests.get(department_url)
@@ -57,10 +55,12 @@ for abbreviation in abbreviations:
         desc = details.find(class_="catalogue").text.strip()
 
         sections = details.find(class_=["sections", "responsive"]).find_all('tr')
-        headers = [header.text for header in sections[0].find_all('th')]
+        headers = [header.get('class')[0] for header in sections[0].find_all('th')]
 
         course_sections = []
         for section in sections[1:]:
+            if not section.has_attr('data-section-id'):
+                continue
             start_time = end_time = 0
             curr_section = Section()
             for header in headers:
@@ -71,7 +71,6 @@ for abbreviation in abbreviations:
                     continue
 
                 if header == "time":
-                    print(section_data)
                     start_time, end_time = time_utility.encode_time(section_data)
                     continue
 
@@ -85,8 +84,9 @@ for abbreviation in abbreviations:
             curr_section.end_time = end_time
             course_sections.append(curr_section)
 
-        course_list.append(Course(department=department, course_num=course_num, course_name=course_name,
-                                  units=units, description=desc, sections=course_sections))
+        course_list.append(
+            Course(term=year + semester, department=department, course_num=course_num, course_name=course_name,
+                   units=units, description=desc, sections=course_sections))
 
     with open(f'../jsons/{year}/{semester}/{abbreviation}.json', 'w') as file:
         json.dump([course.to_dict() for course in course_list], file, indent=4)

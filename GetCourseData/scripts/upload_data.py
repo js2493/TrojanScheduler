@@ -2,6 +2,10 @@ import subprocess
 import sys
 from pathlib import Path
 
+from repository.course_repository import CourseRepository
+from repository.section_repository import SectionRepository
+from utility import parse_course_json
+
 term = None
 if len(sys.argv) > 1:
     term = sys.argv[1]
@@ -12,9 +16,9 @@ while term is None or "-" not in term or len(term) != 6:
 
 year, semester = term.split("-")
 
-path = Path("../jsons") / year / semester
+directory_path = Path("../jsons") / year / semester
 
-if not path.exists():
+if not directory_path.exists():
     response = input("Data does not exist yet. Download now? (Y/N): ")
     if response.strip().upper() == "Y":
         try:
@@ -26,4 +30,18 @@ if not path.exists():
     else:
         print("Data download aborted.")
         sys.exit(0)
+
+
+files = [f.name for f in directory_path.iterdir() if f.is_file()]
+course_repo = CourseRepository()
+section_repo = SectionRepository()
+
+for file in files:
+    courses, sections = parse_course_json.parse_data(str(directory_path) + "/" + file)
+    course_ids = course_repo.batch_insert(courses)
+    section_repo.batch_insert(sections, course_ids)
+    print(file.split(".")[0] + " finished")
+
+course_repo.close()
+section_repo.close()
 

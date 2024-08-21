@@ -10,10 +10,12 @@ class Course:
     course_name: str = ""
     units: str = ""
     description: str = ""
+    term: str = ""
     sections: List[Section] = dataclasses.field(default_factory=list)
 
     def to_dict(self):
         return {
+            "term": self.term,
             "department": self.department,
             "course_num": self.course_num,
             "course_name": self.course_name,
@@ -23,7 +25,7 @@ class Course:
         }
 
     def __str__(self):
-        return f"{self.department}-{self.course_num}: {self.course_name} {self.units}" + \
+        return f"{self.term} {self.department}-{self.course_num}: {self.course_name} {self.units}" + \
                 f"\n\t{self.description}" + str(self.sections)
 
 
