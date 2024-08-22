@@ -1,17 +1,27 @@
 from repository.repository import PostgreRepository
 
+
 class CourseRepository(PostgreRepository):
+    insert_sql = """
+    INSERT INTO courses (term, department, course_num, course_name, units, description)
+    VALUES (%s, %s, %s, %s, %s, %s)
+    ON CONFLICT (term, department, course_num)
+    DO NOTHING
+    RETURNING id;
+    """
 
     def create_table(self):
         create_table_sql = """
         CREATE TABLE IF NOT EXISTS courses (
             id SERIAL PRIMARY KEY,
-            department VARCHAR(20) NOT NULL,
-            course_num VARCHAR(20) NOT NULL,
-            course_name VARCHAR(255) NOT NULL,
-            units VARCHAR(30) NOT NULL,
-            description VARCHAR(1000),
-            term VARCHAR(20) NOT NULL
+            department TEXT NOT NULL,
+            course_num TEXT NOT NULL,
+            course_name TEXT NOT NULL,
+            units TEXT NOT NULL,
+            description TEXT,
+            term TEXT NOT NULL,
+            FOREIGN KEY (department) REFERENCES school_department(code),
+            UNIQUE(term, department, course_num)
         );
         """
         try:
@@ -22,14 +32,10 @@ class CourseRepository(PostgreRepository):
             print(f"An error occurred during table creation: {e}")
             self.connection.rollback()
 
-
     def insert(self, course):
-        insert_course_sql = """
-        INSERT INTO courses (term, department, course_num, course_name, units, description)
-        VALUES (%s, %s, %s, %s, %s, %s) RETURNING id;
-        """
+
         try:
-            self.cursor.execute(insert_course_sql, (
+            self.cursor.execute(self.insert_sql, (
                 course.term,
                 course.department,
                 course.course_num,
@@ -45,15 +51,33 @@ class CourseRepository(PostgreRepository):
             self.connection.rollback()
             return None
 
+    # def batch_insert(self, courses):
+    #     print("hello")
+    #     existing_ids = self.get_existing_ids(courses)
+    #     course_data = [(course.term, course.department, course.course_num,  course.course_name,
+    #                     course.units, course.description) for course in courses]
+    #     course_ids = []
+    #     try:
+    #         self.cursor.executemany(self.insert_sql, course_data)
+    #         self.connection.commit()
+    #         result = self.cursor.fetchall()
+    #         for ind, row in enumerate(result):
+    #             if row:
+    #                 course_ids.append(row[0])
+    #             else:
+    #                 course_ids.append(existing_ids.get((course_data[ind][0], course_data[ind][1], course_data[ind][2])))
+    #             print(course_ids)
+    #         return course_ids
+    #     except Exception as e:
+    #         print(f"An error occurred while inserting the course: {e}")
+    #         self.connection.rollback()
+
     def batch_insert(self, courses):
-        insert_course_sql = """
-        INSERT INTO courses (term, department, course_num, course_name, units, description)
-        VALUES (%s, %s, %s, %s, %s, %s) RETURNING id;
-        """
+        existing_ids = self.get_existing_ids(courses)
         course_ids = []
         try:
             for course in courses:
-                self.cursor.execute(insert_course_sql, (
+                self.cursor.execute(self.insert_sql, (
                     course.term,
                     course.department,
                     course.course_num,
@@ -61,7 +85,10 @@ class CourseRepository(PostgreRepository):
                     course.units,
                     course.description
                 ))
-                course_ids.append(self.cursor.fetchone()[0])
+                result = self.cursor.fetchone()
+                if not result:
+                    result = [existing_ids.get((course.term, course.department, course.course_num))]
+                course_ids.append(result[0])
             self.connection.commit()
             return course_ids
         except Exception as e:
@@ -69,3 +96,15 @@ class CourseRepository(PostgreRepository):
             self.connection.rollback()
             return None
 
+
+    def get_existing_ids(self, courses):
+        existing_ids = {}
+        for course in courses:
+            self.cursor.execute("""
+                   SELECT id FROM courses
+                   WHERE term = %s AND department = %s AND course_num = %s
+               """, (course.term, course.department, course.course_num))
+            result = self.cursor.fetchone()
+            if result:
+                existing_ids[(course.term, course.department, course.course_num)] = result[0]
+        return existing_ids

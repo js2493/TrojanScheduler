@@ -1,14 +1,17 @@
 DAY_LIST = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
+
 def encode_days(days_string):
     if days_string.lower() == "tba":
         return 0
-    if days_string.lower() == "mwf":
-        days_string = "Mon, Wed, Fri"
-    days = set([day.lower().strip()[:3] for day in days_string.split(",")])
-    values = {day.lower().strip()[:3]: 2 ** i for i, day in enumerate(DAY_LIST)}
+    splits = [ind for ind, letter in enumerate(days_string) if letter.isupper()]
+    parts = [days_string[i:j] for i, j in zip(splits, splits[1:] + [None])]
+    days = set([part[0] if part[0].lower() != "t" else part[:2] for part in parts])
+
+    values = {(day.lower().strip()[:1] if day.lower()[0] != "t" else day.lower().strip()[:2]): 2 ** i
+              for i, day in enumerate(DAY_LIST)}
     try:
-        return sum(values[day] for day in days)
+        return sum(values[day.lower()] for day in days)
     except KeyError:
         return 0
 
@@ -24,3 +27,10 @@ def decode_days(value):
             if not value:
                 break
     return list(reversed(days))
+
+
+print(encode_days("TuTh"))
+print(encode_days("MTuWThF"))
+
+print(decode_days(20))
+print(decode_days(62))
