@@ -1,5 +1,6 @@
 package com.trojanscheduler.project.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -17,20 +18,17 @@ import java.util.Set;
 @NoArgsConstructor
 public class TrojanUser implements UserDetails {
 
-
-    @ManyToMany
-    @JoinTable(
-            name = "user_section",
-            joinColumns = @JoinColumn(name = "username"),
-            inverseJoinColumns = @JoinColumn(name = "section_id")
-    )
-    private Set<Section> sectionList = new HashSet<>();
+    @OneToMany(mappedBy="user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private Set<Calendar> calendars = new HashSet<>();
 
     @Id
     private String username;
 
     @Column(nullable = false)
+    @JsonIgnore
     private String password;
+
+    @JsonIgnore
     private String email;
 
     public TrojanUser(String username, String password) {

@@ -30,27 +30,17 @@ public class UserController {
         return new ResponseEntity<>(user, HttpStatus.OK);
     }
 
-    @PostMapping("/enroll")
+    @PostMapping("/create_calendar")
     @PreAuthorize("#username == authentication.name")
-    public ResponseEntity<TrojanUser> addSection(
+    public ResponseEntity<TrojanUser> createCalendar(
             @RequestParam(name="username") String username,
-            @RequestParam(name="section_id") Long section_id) {
+            @RequestParam(name="calendar_name") String calendarName) {
         String name = SecurityContextHolder.getContext().getAuthentication().getName();
         System.out.println(name + " username: " + username);
 
-        TrojanUser user = userService.enrollSection(username, section_id);
+        TrojanUser user = userService.createCalendar(username, calendarName);
         return new ResponseEntity<>(user, HttpStatus.OK);
     }
 
-    @DeleteMapping("/drop")
-    @PreAuthorize("#username == authentication.name")
-    public ResponseEntity<TrojanUser> dropSection(
-            @RequestParam(name="username") String username,
-            @RequestParam(name="section_id") Long section_id) {
-        String name = SecurityContextHolder.getContext().getAuthentication().getName();
-        System.out.println(name + " username: " + username);
-        TrojanUser user = userService.dropSection(username, section_id);
-        return new ResponseEntity<>(user, HttpStatus.OK);
-    }
 
 }

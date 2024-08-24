@@ -19,9 +19,9 @@ public class Section {
     @JsonIgnore
     private Course course;
 
-    @ManyToMany(mappedBy="sectionList")
+    @ManyToMany(mappedBy="sections")
     @JsonIgnore
-    private Set<TrojanUser> users = new HashSet<>();
+    private Set<Calendar> calendars = new HashSet<>();
 
     private String section;
     private String session;

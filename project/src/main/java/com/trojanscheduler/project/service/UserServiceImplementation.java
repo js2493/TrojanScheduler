@@ -1,10 +1,13 @@
 package com.trojanscheduler.project.service;
 
 import com.trojanscheduler.project.exceptions.APIException;
+import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.Section;
 import com.trojanscheduler.project.model.TrojanUser;
+import com.trojanscheduler.project.repository.CalendarRepository;
 import com.trojanscheduler.project.repository.SectionRepository;
 import com.trojanscheduler.project.repository.TrojanUserRepository;
+import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -24,48 +27,17 @@ public class UserServiceImplementation implements UserService {
     private UserDetailsManager userDetailsManager;
 
     @Autowired
-    private SectionRepository sectionRepository;
-
-    @Autowired
-    private PasswordEncoder passwordEncoder;
+    private CalendarRepository calendarRepository;
 
 
     @Override
-    public TrojanUser enrollSection(String username, Long sectionId) {
-
-        TrojanUser user = (TrojanUser) userDetailsManager.loadUserByUsername(username);
-        Section section = sectionRepository.findById(sectionId).orElseThrow(() -> new NoSuchElementException("Section does not exist"));
-
-        user.getSectionList().add(section);
-        userDetailsManager.updateUser(user);
-
-        section.getUsers().add(user);
-        sectionRepository.save(section);
-
-        return user;
-    }
-
-    @Override
-    public TrojanUser dropSection(String username, Long sectionId) {
-
-        TrojanUser user = (TrojanUser) userDetailsManager.loadUserByUsername(username);
-        Section section = sectionRepository.findById(sectionId).orElseThrow(() -> new NoSuchElementException("Section does not exist"));
-
-        user.getSectionList().remove(section);
-        userDetailsManager.updateUser(user);
-
-        section.getUsers().remove(user);
-        sectionRepository.save(section);
-
-        return user;
-    }
-
-    @Override
+    @Transactional
     public TrojanUser createUser(String username, String password) {
         return this.createUser(username, password, null);
     }
 
     @Override
+    @Transactional
     public TrojanUser createUser(String username, String password, String email) {
         Optional<TrojanUser> existingUser = Optional.ofNullable(userRepository.findByUsername(username));
         if (existingUser.isPresent()) {
@@ -73,6 +45,20 @@ public class UserServiceImplementation implements UserService {
         }
         TrojanUser user = new TrojanUser(username, password, email);
         userDetailsManager.createUser(user);
+        return user;
+    }
+
+    @Override
+    @Transactional
+    public TrojanUser createCalendar(String username, String calendarName) {
+        TrojanUser user = (TrojanUser) userDetailsManager.loadUserByUsername(username);
+        Calendar calendar = new Calendar();
+        calendar.setUser(user);
+        calendar.setName(calendarName);
+
+        user.getCalendars().add(calendar);
+        userDetailsManager.updateUser(user);
+//        calendarRepository.save(calendar);
         return user;
     }
 
