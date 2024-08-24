@@ -4,7 +4,8 @@ import com.trojanscheduler.project.model.TrojanUser;
 
 public interface UserService {
 
-    TrojanUser enrollSection(Long userId, Long sectionId);
-    TrojanUser dropSection(Long userId, Long sectionId);
+    TrojanUser enrollSection(String username, Long sectionId);
+    TrojanUser dropSection(String username, Long sectionId);
     TrojanUser createUser(String username, String password);
+    TrojanUser createUser(String username, String password, String email);
 }
