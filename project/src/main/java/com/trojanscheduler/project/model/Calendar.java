@@ -36,4 +36,14 @@ public class Calendar {
         return Objects.hash(id);
     }
 
+    public void setName(String name) {
+        System.out.println("name " + name);
+        if (name == null) {
+            String length = String.valueOf((user.getCalendars().size() + 1));
+            this.name = user.getUsername() + " Calendar " + length;
+        } else {
+            this.name = name;
+        }
+    }
+
 }

@@ -27,12 +27,10 @@ public class CalendarController {
         return new ResponseEntity<>(calendar, HttpStatus.OK);
     }
     @DeleteMapping("/drop")
-//    @PreAuthorize("#username == authentication.name")
     public ResponseEntity<Calendar> dropSection(
             @RequestParam(name="calendar_id") Long calendar_id,
             @RequestParam(name="section_id") Long section_id) {
-//        String name = SecurityContextHolder.getContext().getAuthentication().getName();
-//        System.out.println(name + " username: " + username);
+
         Calendar calendar = calendarService.dropSection(calendar_id, section_id);
         return new ResponseEntity<>(calendar, HttpStatus.OK);
     }

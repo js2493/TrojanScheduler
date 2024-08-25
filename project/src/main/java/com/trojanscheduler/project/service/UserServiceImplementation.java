@@ -58,8 +58,26 @@ public class UserServiceImplementation implements UserService {
 
         user.getCalendars().add(calendar);
         userDetailsManager.updateUser(user);
-//        calendarRepository.save(calendar);
         return user;
+    }
+
+    @Override
+    public TrojanUser deleteCalendar(String username, Long calendarId) {
+
+        TrojanUser user = (TrojanUser) userDetailsManager.loadUserByUsername(username);
+        Calendar calendar = calendarRepository.findById(calendarId)
+                .orElseThrow(() -> new NoSuchElementException("Calendar not found"));
+
+        user.getCalendars().remove(calendar);
+        calendarRepository.delete(calendar);
+        userDetailsManager.updateUser(user);
+
+        return user;
+    }
+
+    @Override
+    public void deleteUser(String username) {
+        userDetailsManager.deleteUser(username);
     }
 
 

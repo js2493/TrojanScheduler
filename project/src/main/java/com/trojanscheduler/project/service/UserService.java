@@ -7,4 +7,8 @@ public interface UserService {
     TrojanUser createUser(String username, String password);
     TrojanUser createUser(String username, String password, String email);
     TrojanUser createCalendar(String username, String calendarName);
+
+    TrojanUser deleteCalendar(String username, Long calendarId);
+
+    void deleteUser(String username);
 }

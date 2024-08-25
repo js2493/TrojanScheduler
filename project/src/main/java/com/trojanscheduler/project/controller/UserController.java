@@ -30,17 +30,40 @@ public class UserController {
         return new ResponseEntity<>(user, HttpStatus.OK);
     }
 
-    @PostMapping("/create_calendar")
+    @DeleteMapping("/delete")
+    @PreAuthorize("#username == authentication.name")
+    public ResponseEntity<String> deleteUser(@RequestParam(name="username") String username) {
+        String name = SecurityContextHolder.getContext().getAuthentication().getName();
+        System.out.println(name + " username: " + username);
+        userService.deleteUser(username);
+        return new ResponseEntity<>("Successfully deleted user: " + username, HttpStatus.OK);
+    }
+
+    @PostMapping("/calendar")
     @PreAuthorize("#username == authentication.name")
     public ResponseEntity<TrojanUser> createCalendar(
             @RequestParam(name="username") String username,
-            @RequestParam(name="calendar_name") String calendarName) {
+            @RequestParam(name="calendar_name", required = false) String calendarName) {
         String name = SecurityContextHolder.getContext().getAuthentication().getName();
         System.out.println(name + " username: " + username);
 
         TrojanUser user = userService.createCalendar(username, calendarName);
         return new ResponseEntity<>(user, HttpStatus.OK);
     }
+
+    @DeleteMapping("/calendar")
+    @PreAuthorize("#username == authentication.name")
+    public ResponseEntity<TrojanUser> deleteCalendar(
+            @RequestParam(name="username") String username,
+            @RequestParam(name="calendar_id") Long calendarId) {
+        String name = SecurityContextHolder.getContext().getAuthentication().getName();
+        System.out.println(name + " username: " + username);
+
+        TrojanUser user = userService.deleteCalendar(username, calendarId);
+        return new ResponseEntity<>(user, HttpStatus.OK);
+    }
+
+
 
 
 }
