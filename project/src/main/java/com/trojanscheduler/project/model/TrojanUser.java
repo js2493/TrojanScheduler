@@ -7,10 +7,7 @@ import lombok.NoArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import java.util.Collection;
-import java.util.HashSet;
-import java.util.Objects;
-import java.util.Set;
+import java.util.*;
 
 
 @Data
@@ -18,8 +15,8 @@ import java.util.Set;
 @NoArgsConstructor
 public class TrojanUser implements UserDetails {
 
-    @OneToMany(mappedBy="user", cascade = CascadeType.ALL, orphanRemoval = true)
-    private Set<Calendar> calendars = new HashSet<>();
+    @OneToMany(fetch = FetchType.EAGER, mappedBy="user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Calendar> calendars = new ArrayList<>();
 
     @Id
     private String username;

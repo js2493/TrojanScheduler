@@ -4,6 +4,7 @@ import com.trojanscheduler.project.exceptions.APIException;
 import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.Section;
 import com.trojanscheduler.project.model.TrojanUser;
+import com.trojanscheduler.project.payload.UserSession;
 import com.trojanscheduler.project.repository.CalendarRepository;
 import com.trojanscheduler.project.repository.SectionRepository;
 import com.trojanscheduler.project.repository.TrojanUserRepository;
@@ -14,6 +15,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.provisioning.UserDetailsManager;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Optional;
 
@@ -28,6 +30,9 @@ public class UserServiceImplementation implements UserService {
 
     @Autowired
     private CalendarRepository calendarRepository;
+
+    @Autowired
+    private UserSession userSession;
 
 
     @Override
@@ -57,7 +62,12 @@ public class UserServiceImplementation implements UserService {
         calendar.setName(calendarName);
 
         user.getCalendars().add(calendar);
-        userDetailsManager.updateUser(user);
+
+        calendarRepository.save(calendar);
+
+        userSession.setCurrentCalendarId((long) calendar.getId());
+
+
         return user;
     }
 
@@ -73,6 +83,12 @@ public class UserServiceImplementation implements UserService {
         userDetailsManager.updateUser(user);
 
         return user;
+    }
+
+    @Override
+    public List<Calendar> getCalendars(String username) {
+        TrojanUser user = (TrojanUser) userDetailsManager.loadUserByUsername(username);
+        return user.getCalendars();
     }
 
     @Override

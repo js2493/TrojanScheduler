@@ -1,4 +1,4 @@
-package com.trojanscheduler.project.service;
+package com.trojanscheduler.project.config.security;
 
 import com.trojanscheduler.project.model.TrojanUser;
 import com.trojanscheduler.project.repository.TrojanUserRepository;

@@ -1,10 +1,14 @@
 package com.trojanscheduler.project.service;
 
-import com.trojanscheduler.project.model.Calendar;
-import com.trojanscheduler.project.model.TrojanUser;
+import com.trojanscheduler.project.model.Section;
+import com.trojanscheduler.project.payload.CalendarDTO;
+
+import java.util.Set;
 
 public interface CalendarService {
 
-    Calendar enrollSection(Long calendarId, Long sectionId);
-    Calendar dropSection(Long calendarId, Long sectionId);
+    CalendarDTO enrollSection(Long calendarId, Long sectionId);
+    CalendarDTO dropSection(Long calendarId, Long sectionId);
+    CalendarDTO anonymousEnrollSection(Long sectionId);
+    Set<Section> getSections(Long calendarId);
 }

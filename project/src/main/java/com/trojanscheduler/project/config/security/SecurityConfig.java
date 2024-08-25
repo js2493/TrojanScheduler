@@ -1,5 +1,6 @@
-package com.trojanscheduler.project.config;
+package com.trojanscheduler.project.config.security;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -17,17 +18,17 @@ import org.springframework.security.web.SecurityFilterChain;
 @EnableMethodSecurity
 public class SecurityConfig {
 
-
+    @Autowired
+    private TrojanAuthenticationSuccessHandler successHandler;
     @Bean
     SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http) throws Exception {
-        http.formLogin(Customizer.withDefaults());
+        http.formLogin(c -> c.successHandler(successHandler));
         http.httpBasic(Customizer.withDefaults());
         http.authorizeHttpRequests(requests -> requests
-                .requestMatchers("/api/users/register**").permitAll()
-                .requestMatchers("/login").permitAll()
-                .anyRequest().authenticated());
+                .requestMatchers("/api/users/delete**").authenticated()
+                .requestMatchers("/api/users/calendar**").authenticated()
+                .anyRequest().permitAll());
         http.csrf(csrf -> csrf.disable());
-//        http.sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS));
         return http.build();
     }
 

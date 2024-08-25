@@ -1,5 +1,6 @@
 package com.trojanscheduler.project.controller;
 
+import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.TrojanUser;
 import com.trojanscheduler.project.payload.RegistrationDTO;
 import com.trojanscheduler.project.service.UserService;
@@ -10,6 +11,8 @@ import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
@@ -17,11 +20,6 @@ public class UserController {
 
     public UserController(UserService userService) {
         this.userService = userService;
-    }
-
-    @GetMapping
-    public String logIn() {
-        return "Logged in";
     }
 
     @PostMapping("/register")
@@ -33,8 +31,6 @@ public class UserController {
     @DeleteMapping("/delete")
     @PreAuthorize("#username == authentication.name")
     public ResponseEntity<String> deleteUser(@RequestParam(name="username") String username) {
-        String name = SecurityContextHolder.getContext().getAuthentication().getName();
-        System.out.println(name + " username: " + username);
         userService.deleteUser(username);
         return new ResponseEntity<>("Successfully deleted user: " + username, HttpStatus.OK);
     }
@@ -44,8 +40,6 @@ public class UserController {
     public ResponseEntity<TrojanUser> createCalendar(
             @RequestParam(name="username") String username,
             @RequestParam(name="calendar_name", required = false) String calendarName) {
-        String name = SecurityContextHolder.getContext().getAuthentication().getName();
-        System.out.println(name + " username: " + username);
 
         TrojanUser user = userService.createCalendar(username, calendarName);
         return new ResponseEntity<>(user, HttpStatus.OK);
@@ -56,11 +50,15 @@ public class UserController {
     public ResponseEntity<TrojanUser> deleteCalendar(
             @RequestParam(name="username") String username,
             @RequestParam(name="calendar_id") Long calendarId) {
-        String name = SecurityContextHolder.getContext().getAuthentication().getName();
-        System.out.println(name + " username: " + username);
 
         TrojanUser user = userService.deleteCalendar(username, calendarId);
         return new ResponseEntity<>(user, HttpStatus.OK);
+    }
+
+    @GetMapping
+    @PreAuthorize("#username == authentication.name")
+    public ResponseEntity<List<Calendar>> getCalendars(@RequestParam(name="username") String username) {
+        return new ResponseEntity(userService.getCalendars(username), HttpStatus.OK);
     }
 
 

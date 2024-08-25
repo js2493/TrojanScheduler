@@ -3,6 +3,7 @@ package com.trojanscheduler.project.model;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.HashSet;
 import java.util.Objects;
@@ -10,6 +11,7 @@ import java.util.Set;
 
 @Entity
 @Data
+@NoArgsConstructor
 public class Calendar {
 
     @Id
@@ -37,13 +39,17 @@ public class Calendar {
     }
 
     public void setName(String name) {
-        System.out.println("name " + name);
         if (name == null) {
             String length = String.valueOf((user.getCalendars().size() + 1));
             this.name = user.getUsername() + " Calendar " + length;
         } else {
             this.name = name;
         }
+    }
+
+    public Calendar(TrojanUser user) {
+        this.user = user;
+        this.setName(null);
     }
 
 }

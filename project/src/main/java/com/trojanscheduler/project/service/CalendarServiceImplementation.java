@@ -2,6 +2,8 @@ package com.trojanscheduler.project.service;
 
 import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.Section;
+import com.trojanscheduler.project.payload.CalendarDTO;
+import com.trojanscheduler.project.payload.UserSession;
 import com.trojanscheduler.project.repository.CalendarRepository;
 import com.trojanscheduler.project.repository.SectionRepository;
 import jakarta.transaction.Transactional;
@@ -11,7 +13,9 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
+import java.util.List;
 import java.util.NoSuchElementException;
+import java.util.Set;
 
 @Service
 public class CalendarServiceImplementation implements CalendarService{
@@ -22,18 +26,17 @@ public class CalendarServiceImplementation implements CalendarService{
     @Autowired
     private SectionRepository sectionRepository;
 
+    @Autowired
+    private UserSession userSession;
+
+    @Autowired
+    private Calendar anonymousCalendar;
+
     @Override
     @Transactional
-    public Calendar enrollSection(Long calendarId, Long sectionId) {
+    public CalendarDTO enrollSection(Long calendarId, Long sectionId) {
 
-        Calendar calendar = calendarRepository.findById(calendarId)
-                .orElseThrow(() -> new NoSuchElementException("Calendar not found"));
-
-        String currentName = SecurityContextHolder.getContext().getAuthentication().getName();
-        String username = calendar.getUser().getUsername();
-        if (!currentName.equals(username)) {
-            throw new ResponseStatusException(HttpStatus.FORBIDDEN, "Must be logged in!");
-        }
+        Calendar calendar = this.getCalendarAuthenticated(calendarId);
 
         Section section = sectionRepository.findById(sectionId)
                 .orElseThrow(() -> new NoSuchElementException("Section does not exist"));
@@ -42,22 +45,15 @@ public class CalendarServiceImplementation implements CalendarService{
         section.getCalendars().add(calendar);
 
         calendarRepository.save(calendar);
-//        sectionRepository.save(section);
-        return calendar;
+
+        return new CalendarDTO(calendar);
     }
 
     @Override
     @Transactional
-    public Calendar dropSection(Long calendarId, Long sectionId) {
+    public CalendarDTO dropSection(Long calendarId, Long sectionId) {
 
-        Calendar calendar = calendarRepository.findById(calendarId)
-                .orElseThrow(() -> new NoSuchElementException("Calendar not found"));
-
-        String currentName = SecurityContextHolder.getContext().getAuthentication().getName();
-        String username = calendar.getUser().getUsername();
-        if (!currentName.equals(username)) {
-            throw new ResponseStatusException(HttpStatus.FORBIDDEN, "Must be logged in!");
-        }
+        Calendar calendar = this.getCalendarAuthenticated(calendarId);
 
         Section section = sectionRepository.findById(sectionId)
                 .orElseThrow(() -> new NoSuchElementException("Section does not exist"));
@@ -66,7 +62,35 @@ public class CalendarServiceImplementation implements CalendarService{
         section.getCalendars().remove(calendar);
 
         calendarRepository.save(calendar);
-//        sectionRepository.save(section);
+        return new CalendarDTO(calendar);
+    }
+
+    @Override
+    public CalendarDTO anonymousEnrollSection(Long sectionId) {
+        Section section = sectionRepository.findById(sectionId)
+                .orElseThrow(() -> new NoSuchElementException("Section does not exist"));
+        anonymousCalendar.getSections().add(section);
+
+        return new CalendarDTO(anonymousCalendar);
+    }
+
+    @Override
+    public Set<Section> getSections(Long calendarId) {
+        Calendar calendar = this.getCalendarAuthenticated(calendarId);
+        return calendar.getSections();     }
+
+    private Calendar getCalendarAuthenticated(Long calendarId) {
+        Calendar calendar = calendarRepository.findById(calendarId)
+                .orElseThrow(() -> new NoSuchElementException("Calendar not found"));
+        String currentName = SecurityContextHolder.getContext().getAuthentication().getName();
+        String username = calendar.getUser().getUsername();
+        if (!currentName.equals(username)) {
+            throw new ResponseStatusException(HttpStatus.FORBIDDEN, "Must be logged in!");
+        }
+
+        userSession.setCurrentCalendarId(calendarId);
+
         return calendar;
     }
+
 }

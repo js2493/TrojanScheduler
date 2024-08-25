@@ -1,6 +1,9 @@
 package com.trojanscheduler.project.service;
 
+import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.TrojanUser;
+
+import java.util.List;
 
 public interface UserService {
 
@@ -10,5 +13,7 @@ public interface UserService {
 
     TrojanUser deleteCalendar(String username, Long calendarId);
 
+    List<Calendar> getCalendars(String username);
     void deleteUser(String username);
+
 }
