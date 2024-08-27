@@ -3,12 +3,11 @@ package com.trojanscheduler.project.controller;
 import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.TrojanUser;
 import com.trojanscheduler.project.payload.RegistrationDTO;
-import com.trojanscheduler.project.service.UserService;
+import com.trojanscheduler.project.service.interfaces.UserService;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

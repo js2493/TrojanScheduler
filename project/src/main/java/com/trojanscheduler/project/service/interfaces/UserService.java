@@ -1,4 +1,4 @@
-package com.trojanscheduler.project.service;
+package com.trojanscheduler.project.service.interfaces;
 
 import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.TrojanUser;

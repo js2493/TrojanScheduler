@@ -2,7 +2,7 @@ package com.trojanscheduler.project.controller;
 
 import com.trojanscheduler.project.model.Section;
 import com.trojanscheduler.project.payload.CalendarDTO;
-import com.trojanscheduler.project.service.CalendarService;
+import com.trojanscheduler.project.service.interfaces.CalendarService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

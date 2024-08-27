@@ -1,0 +1,123 @@
+/* Container for all course cards */
+.course-results {
+    padding: 20px;
+}
+
+/* Back button at the top */
+.back-button {
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.back-button:hover {
+    background-color: #ddd;
+}
+
+/* Container for each course card */
+.courses-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Space between course cards */
+}
+
+/* Style for each course card */
+.course-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Header of each course card (e.g., course ID, name, and units) */
+.course-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4f81c7; /* Blue header */
+    color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+}
+
+.course-id {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.course-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.course-units {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* General style for course details */
+.course-card p {
+    margin: 8px 0;
+    font-size: 14px;
+}
+
+/* Style for different sections of course details */
+.course-type strong,
+.course-instructor strong,
+.course-time strong,
+.course-place strong,
+.course-date strong,
+.course-enrolled strong,
+.course-waitlist strong,
+.course-rating strong,
+.course-gpa strong {
+    color: #4f81c7; /* Matching the blue color */
+}
+
+/* Style for instructors */
+.course-instructor {
+    display: flex;
+    align-items: center;
+}
+
+/* Additional style for course places */
+.course-place {
+    font-style: italic;
+    color: #555;
+}
+
+/* Hover effect for each course card */
+.course-card:hover {
+    background-color: #f1f1f1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Style for the course rating and GPA, if needed */
+.course-rating, .course-gpa {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style for the exam date */
+.course-date {
+    font-weight: bold;
+    color: #d9534f; /* Red color for exam dates */
+}
+
+/* Responsive design: Stacks the course details on smaller screens */
+@media (max-width: 768px) {
+    .course-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .course-header span {
+        margin-top: 5px;
+    }
+}

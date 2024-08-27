@@ -2,16 +2,13 @@ package com.trojanscheduler.project.service;
 
 import com.trojanscheduler.project.exceptions.APIException;
 import com.trojanscheduler.project.model.Calendar;
-import com.trojanscheduler.project.model.Section;
 import com.trojanscheduler.project.model.TrojanUser;
 import com.trojanscheduler.project.payload.UserSession;
 import com.trojanscheduler.project.repository.CalendarRepository;
-import com.trojanscheduler.project.repository.SectionRepository;
 import com.trojanscheduler.project.repository.TrojanUserRepository;
+import com.trojanscheduler.project.service.interfaces.UserService;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.provisioning.UserDetailsManager;
 import org.springframework.stereotype.Service;
 

@@ -2,6 +2,7 @@ package com.trojanscheduler.project.service;
 
 import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.TrojanUser;
+import com.trojanscheduler.project.service.interfaces.HomeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.provisioning.UserDetailsManager;

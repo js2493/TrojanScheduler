@@ -1,0 +1,66 @@
+.container {
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.header {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.field {
+    margin-bottom: 15px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.select,
+.input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+}
+
+.flex-1 {
+    flex: 1;
+    margin: 10px;
+}
+
+.button-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.submit-button {
+    background-color: #990000;
+    color: white;
+}
+
+.reset-button {
+    background-color: transparent;
+    color: #990000;
+}
+
+.link {
+    margin-top: 10px;
+    text-align: right;
+    color: #990000;
+    text-decoration: none;
+    display: block;
+}
