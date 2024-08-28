@@ -35,7 +35,7 @@ public class CourseController {
     @GetMapping("/api/courses")
     public ResponseEntity<List<CourseDTO>> getCourses(
             @RequestParam(name="term", defaultValue = "") String term,
-            @RequestParam(name="school", defaultValue = "", required = false) String school,
+            @RequestParam(name="schoolId", defaultValue = "0", required = false) String schoolId,
             @RequestParam(name="department", defaultValue = "", required = false) String department,
             @RequestParam(name="course_code", defaultValue = "", required = false) String courseCode,
             @RequestParam(name="course_number", defaultValue = "", required = false) String courseNumber,
@@ -52,7 +52,7 @@ public class CourseController {
         if (Objects.equals(days, "0")) days = "127";
 
         CourseSearchParams courseSearchParams = new CourseSearchParams(
-                term, school, department, courseCode, courseNumber,
+                term, Integer.parseInt(schoolId), department, courseCode, courseNumber,
                 Integer.parseInt(startTime), Integer.parseInt(end_time), Integer.parseInt(days),
                 online, denViterbi
         );

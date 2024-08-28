@@ -135,3 +135,14 @@
 .course-num {
     width: 100%;
 }
+
+.back-button {
+    
+}
+
+.scrollable-container {
+    overflow-y: scroll;  /* Enables vertical scrolling */
+    overflow-x: hidden;
+    height: 100vh;
+}
+

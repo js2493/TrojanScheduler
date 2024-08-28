@@ -71,7 +71,7 @@ function ClassSelector(){
     const handleSearch = () => {
         const queryParameters = new URLSearchParams({
             term,
-            school: selectedSchool,
+            schoolId: selectedSchool,
             department: selectedDepartment,
             course_code: courseCode,
             course_number: courseNumber,
@@ -90,6 +90,7 @@ function ClassSelector(){
         fetch(courseUrl)
             .then(response => response.json())
             .then(data => {
+                data.sort((a,b) => a.courseId - b.courseId);
                 setCourses(data);
                 setSearchActive(!searchActive);
             })
@@ -136,7 +137,7 @@ function ClassSelector(){
             <div className="field">
                 <label className="label">School</label>
                 <select value={selectedSchool} onChange={(e) => setSelectedSchool(e.target.value)} className="select">
-                    <option value="">Include All Schools</option>
+                    <option value="0">Include All Schools</option>
                     {schools.map(school => (
                         <option key={school.id} value={school.id}>
                             {school.name}
@@ -220,10 +221,12 @@ function ClassSelector(){
             <button onClick={handleBack} className="button back-button">
                 Back to Search
             </button>
-            <div className="courses-container">
-                {courses.map(course => (
-                    <CourseCard key={course.courseId} course={course}/>
-                ))}
+            <div className="scrollable-container">
+                <div className="courses-container">
+                    {courses.map(course => (
+                        <CourseCard key={course.courseId} course={course}/>
+                    ))}
+                </div>
             </div>
         </div>
     )

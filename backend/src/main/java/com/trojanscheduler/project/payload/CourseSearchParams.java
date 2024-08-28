@@ -2,13 +2,12 @@ package com.trojanscheduler.project.payload;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import org.springframework.web.bind.annotation.RequestParam;
 
 @Getter
 @AllArgsConstructor
 public class CourseSearchParams {
     private String term;
-    private String school;
+    private int schoolId;
     private String department;
     private String courseCode;
     private String courseNumber;
