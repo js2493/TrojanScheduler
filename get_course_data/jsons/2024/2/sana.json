@@ -1,0 +1,181 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "101",
+        "course_name": "Race and Class in Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Analysis of race and the economic, political, gender, and social dimensions of contemporary Los Angeles including topics such as residential segregation, economic inequality, and city politics.",
+        "sections": [
+            {
+                "section": "10310D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "24 of 29",
+                "instructor": "Chrisshonna Nieva",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "135",
+        "course_name": "Peoples and Cultures of the Americas",
+        "units": "(4.0 units)",
+        "description": "An introduction to cultures and people in the Americas; the social, historical, economic and cultural formations that together make up the Latino/a American imaginary.",
+        "sections": [
+            {
+                "section": "10320D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 28,
+                "registered": "26 of 30",
+                "instructor": "Alicia Chavez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "200",
+        "course_name": "Introduction to American Studies and Ethnicity",
+        "units": "(4.0 units)",
+        "description": "Introduction to American studies and ethnic studies. Provides an overview of major theories, concepts, and issues.",
+        "sections": [
+            {
+                "section": "10347D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "25 of 30",
+                "instructor": "Alicia Chavez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "285",
+        "course_name": "African American Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Examines history of popular cultural forms such as literature, music, dance, theater, and visual arts produced by and about African Americans.",
+        "sections": [
+            {
+                "section": "10399D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "28 of 28",
+                "instructor": "Lanita Jacobs",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_number": "338",
+        "course_name": "Food in Culture and Society",
+        "units": "(4.0 units)",
+        "description": "An introduction to the field of food studies, as a historical and cross-disciplinary study of the place of food in culture and society.",
+        "sections": [
+            {
+                "section": "10628D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 665,
+                "days": 30,
+                "registered": "23 of 24",
+                "instructor": "Xochitl Ruiz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37115D",
+                "session": "051",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 28,
+                "registered": "18 of 19",
+                "instructor": "Brett Sheehan",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "POSC",
+        "course_number": "265",
+        "course_name": "Environmental Challenges",
+        "units": "(4.0 units)",
+        "description": "Examination of the challenges of environmental problem-solving at the personal, local, national and global scales, focused on the issue of climate change.",
+        "sections": [
+            {
+                "section": "51900R",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 10,
+                "registered": "28 of 31",
+                "instructor": "Jefferey Sellers",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51901R",
+                "session": "076",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "28 of 31",
+                "instructor": "Jefferey Sellers,Lisa Basil",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "353",
+        "course_name": "Close Relationships",
+        "units": "(4.0 units)",
+        "description": "Scientific perspective of close relationships: intimate relationships, friendships and others, evolutionary and biological bases of attraction and love, historical, social , cultural influences. Prerequisite: PSYC 100. (Duplicates credit in PSYC 359)",
+        "sections": [
+            {
+                "section": "52558R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 10,
+                "registered": "12 of 25",
+                "instructor": "Miranda Barone",
+                "location": "SGM226"
+            }
+        ]
+    }
+]

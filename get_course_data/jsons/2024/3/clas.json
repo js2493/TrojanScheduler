@@ -1,0 +1,661 @@
+[
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "151",
+        "course_name": "The Legacy of Rome",
+        "units": "(4.0 units)",
+        "description": "Ancient Roman values, ideas, and institutions of relevance to later periods of civilization.",
+        "sections": [
+            {
+                "section": "19880R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "151 of 151",
+                "instructor": "Stefano Rebeggiani",
+                "location": "HAR101"
+            },
+            {
+                "section": "19881R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Raphael Deutsch",
+                "location": "THH121"
+            },
+            {
+                "section": "19882R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Raphael Deutsch",
+                "location": "THH121"
+            },
+            {
+                "section": "19883R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Francesco Senarega",
+                "location": "THH121"
+            },
+            {
+                "section": "19884R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Francesco Senarega",
+                "location": "DMC209"
+            },
+            {
+                "section": "19885R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "26 of 25",
+                "instructor": "Jonathan Tao",
+                "location": "DMC206"
+            },
+            {
+                "section": "19886R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jonathan Tao",
+                "location": "DMC209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "190",
+        "course_name": "History of Science: Antiquity to the Scientific Revolution",
+        "units": "(4.0 units)",
+        "description": "Introduction to the history of premodern science and the social and intellectual processes and practices that have shaped the work of scientists.",
+        "sections": [
+            {
+                "section": "19895R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "43 of 50",
+                "instructor": "Alexandre Roberts",
+                "location": "THH116"
+            },
+            {
+                "section": "19896R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 25",
+                "instructor": "Harry Strawson",
+                "location": "DMC209"
+            },
+            {
+                "section": "19897R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Harry Strawson",
+                "location": "SOSB37"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "202",
+        "course_name": "Archaeology: Our Human Past",
+        "units": "(4.0 units)",
+        "description": "Archaeology as the means of investigating our shared human past, from the origins of humanity to the foundations of current civilization.",
+        "sections": [
+            {
+                "section": "10615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "88 of 88",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS106"
+            },
+            {
+                "section": "10616R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "6 of 28",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10617R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10718R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10719R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "280",
+        "course_name": "Classical Mythology in Art and Literature",
+        "units": "(4.0 units)",
+        "description": "Classical Greek and Roman mythology as inspiration for literature, art, music, and film in various historical contexts.",
+        "sections": [
+            {
+                "section": "19870R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "91 of 100",
+                "instructor": "Lucas Herchenroeder",
+                "location": "THH301"
+            },
+            {
+                "section": "19872R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "Lehman Schwab",
+                "location": "SOSB37"
+            },
+            {
+                "section": "19873R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "21 of 25",
+                "instructor": "Lehman Schwab",
+                "location": "SOSB37"
+            },
+            {
+                "section": "19875R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Madelaine Wheeler",
+                "location": "THH213"
+            },
+            {
+                "section": "19876R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Madelaine Wheeler",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "307",
+        "course_name": "Law and Society in Classical Greece",
+        "units": "(4.0 units)",
+        "description": "Investigations of the legal culture of classical Greece, focusing on regulation of social practices and on the role of social values in defining crime.",
+        "sections": [
+            {
+                "section": "19835D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "19 of 20",
+                "instructor": "Susan Lape",
+                "location": "MRF206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "321",
+        "course_name": "Greek Art and Archaeology",
+        "units": "(4.0 units)",
+        "description": "Survey of artistic works and monuments of ancient Greece from the Geometric through the Hellenistic period (c. 1000 - 30 BCE.).",
+        "sections": [
+            {
+                "section": "11923R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "John Pollini",
+                "location": "WPH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "324",
+        "course_name": "Late Antique Art and Archaeology",
+        "units": "(4.0 units)",
+        "description": "Investigation of the transformation between classical antiquity and the middle ages through examination of cities, buildings, images and artifacts of the 3rd-8th-century Mediterranean.",
+        "sections": [
+            {
+                "section": "19830R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "4 of 19",
+                "instructor": "Ann Marie Yasin",
+                "location": "THH211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "410",
+        "course_name": "Capstone Research Seminar",
+        "units": "(4.0 units)",
+        "description": "Required capstone for classics majors; overview of research methods and resources in classical studies culminating in final capstone project.",
+        "sections": [
+            {
+                "section": "19833R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "6 of 6",
+                "instructor": "Lucas Herchenroeder",
+                "location": "THH221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "19840D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucas Herchenroeder",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "515",
+        "course_name": "Topics in Classical Scholarship",
+        "units": "(4.0 units, max 12)",
+        "description": "Intensive study of individual authors, genres, periods, or areas of classical scholarship. Recommended preparation: knowledge of Greek or Latin.",
+        "sections": [
+            {
+                "section": "19846R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "2 of 10",
+                "instructor": "Anthony Boyle",
+                "location": "SOSB50"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "540",
+        "course_name": "Seminar in Early Greek Literature",
+        "units": "(4.0 units)",
+        "description": "Homer through Aeschylus.",
+        "sections": [
+            {
+                "section": "19844R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "5 of 10",
+                "instructor": "Afroditi Angelopoulou",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "575",
+        "course_name": "Seminar in Roman History, Culture and Society",
+        "units": "(4.0 units, max 12)",
+        "description": "Introduces students to research in Roman history and historiography.",
+        "sections": [
+            {
+                "section": "19843R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "5 of 10",
+                "instructor": "Susan Lape",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19855D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Stefano Rebeggiani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching Liberal Arts: Classics",
+        "units": "(2.0 units)",
+        "description": "Basic principles of philosophical pedagogy, with emphasis on practical applications and the importance of career-long skill development. Required for first-semester teaching assistants in Classics. Open only to doctoral students in Classics. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19851R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 4,
+                "registered": "3 of 4",
+                "instructor": "Christelle Fischer-Bovet",
+                "location": "KAP150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19852D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19853D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19854D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19856D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 8",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19860D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19861D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19862D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19864D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19865D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

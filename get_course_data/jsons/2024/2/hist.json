@@ -1,0 +1,86 @@
+[
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37115D",
+                "session": "051",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 28,
+                "registered": "18 of 19",
+                "instructor": "Brett Sheehan",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "36930D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Paul Lerner",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36950D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36960D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

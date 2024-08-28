@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20242",
+        "department": "ACMD",
+        "course_number": "513",
+        "course_name": "Professionalism in Academic Medicine and Health",
+        "units": "(3.0 units)",
+        "description": "Acquisition and evaluation of interpersonal and communication skills and professionalism including ethics and cultural competence; within the context of health care disparities and health initiatives.",
+        "sections": [
+            {
+                "section": "40263R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1210,
+                "days": 16,
+                "registered": "6 of 15",
+                "instructor": "Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACMD",
+        "course_number": "598",
+        "course_name": "Fieldwork: Designing Innovations for the Health Professions",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Individual projects designing curricular or other innovations for the home program as an application of Year 1 concepts and as part of the capstone experience. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40279R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 20",
+                "instructor": "Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACMD",
+        "course_number": "604",
+        "course_name": "Supporting the Educational Enterprise in Academic Medicine",
+        "units": "(3.0 units)",
+        "description": "Explores support functions in academic medical centers and health professions schools; financial, scientific, educational, faculty and student affairs departments, and offices of medical education.",
+        "sections": [
+            {
+                "section": "40277R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1210,
+                "days": 4,
+                "registered": "10 of 15",
+                "instructor": "Jerry Gates,Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACMD",
+        "course_number": "605",
+        "course_name": "Faculty Development for Health Sciences Faculty Educators",
+        "units": "(2.0 units)",
+        "description": "Role of faculty development programs in health professions schools; tools for delivering effective continuing education and faculty development; models for mentoring clinical faculty.",
+        "sections": [
+            {
+                "section": "40280R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1150,
+                "days": 8,
+                "registered": "3 of 15",
+                "instructor": "Kathleen Hill-Besinque,Julie Nyquist,Ann Spangler",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACMD",
+        "course_number": "621",
+        "course_name": "Capstone Portfolio for the Master of Academic Medicine",
+        "units": "(1.0 unit)",
+        "description": "Role of portfolios for teachers and learners; develop a personal capstone portfolio that represents each learners accomplishment of the core competencies of the MACM program.",
+        "sections": [
+            {
+                "section": "40282R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

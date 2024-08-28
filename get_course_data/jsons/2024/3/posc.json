@@ -1,0 +1,857 @@
+[
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "100",
+        "course_name": "Theory and Practice of American Democracy",
+        "units": "(4.0 units)",
+        "description": "Theoretical, institutional, and functional aspects of American national, state, and local government and politics; contemporary issues. Recommended for freshmen and sophomores.",
+        "sections": [
+            {
+                "section": "51900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "100 of 100",
+                "instructor": "Morris Levy",
+                "location": "THH102"
+            },
+            {
+                "section": "51901R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 4,
+                "registered": "23 of 25",
+                "instructor": "",
+                "location": "DMC200"
+            },
+            {
+                "section": "51902R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "THH217"
+            },
+            {
+                "section": "51903R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC154"
+            },
+            {
+                "section": "51904R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "120",
+        "course_name": "Comparative Politics",
+        "units": "(4.0 units)",
+        "description": "Gateway to the major in political science. Comparative analysis of political institutions and processes in selected industrial, developing and socialist countries, in terms of contrasting ideologies, parties, elites, and economies.",
+        "sections": [
+            {
+                "section": "51910R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Pablo Argote Tironi",
+                "location": "SOSB44"
+            },
+            {
+                "section": "51911R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Lisa Basil",
+                "location": "DMC155"
+            },
+            {
+                "section": "51912R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Lisa Basil",
+                "location": "THHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "130",
+        "course_name": "Law, Politics and Public Policy",
+        "units": "(4.0 units)",
+        "description": "Interaction between law and politics; overview of the American legal system; value conflicts and public policy questions which arise within it.",
+        "sections": [
+            {
+                "section": "51920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "199 of 200",
+                "instructor": "Samuel Zacher",
+                "location": "SGM123"
+            },
+            {
+                "section": "51921R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC257"
+            },
+            {
+                "section": "51922R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "51923R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH217"
+            },
+            {
+                "section": "51924R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC154"
+            },
+            {
+                "section": "51925R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "51926R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC160"
+            },
+            {
+                "section": "51927R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "51928R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "201",
+        "course_name": "Law and Politics",
+        "units": "(4.0 units)",
+        "description": "Examination of the rules and realities of American politics, and the role politics plays in American life and culture.",
+        "sections": [
+            {
+                "section": "02616R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 4,
+                "registered": "24 of 30",
+                "instructor": "Franita Tolson",
+                "location": "LAW2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "210",
+        "course_name": "Social Analysis of Gender",
+        "units": "(4.0 units)",
+        "description": "Multidisciplinary survey of gender assumptions in relation to sexuality, mental health, social and political relations, and artistic expression.",
+        "sections": [
+            {
+                "section": "34900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "149 of 150",
+                "instructor": "Chris Belcher",
+                "location": "MHP101"
+            },
+            {
+                "section": "34906D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "Ethan Trejo",
+                "location": "DMC109"
+            },
+            {
+                "section": "34907R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ethan Trejo",
+                "location": "THH112"
+            },
+            {
+                "section": "34908R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kelso Becktol",
+                "location": "DMC211"
+            },
+            {
+                "section": "34909R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kelso Becktol",
+                "location": "THH108"
+            },
+            {
+                "section": "34910R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Luka Fisher",
+                "location": "THH121"
+            },
+            {
+                "section": "34911R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Luka Fisher",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "248",
+        "course_name": "Human Rights",
+        "units": "(4.0 units)",
+        "description": "Overview of human rights controversies across the globe. Introduction to techniques of analysis for social issues, interdisciplinary research methods, and interpretation of complex political problems.",
+        "sections": [
+            {
+                "section": "51945R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Steve Swerdlow",
+                "location": "THH201"
+            },
+            {
+                "section": "51932R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "51933R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "51936R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC209"
+            },
+            {
+                "section": "51937R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "311",
+        "course_name": "Political Analysis",
+        "units": "(4.0 units)",
+        "description": "Methodological and theoretical problems of micro-analytic studies in political science. Techniques of data collection and assimilation.",
+        "sections": [
+            {
+                "section": "51949R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Sherry Zaks",
+                "location": "LVL16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "320",
+        "course_name": "Urban Politics",
+        "units": "(4.0 units)",
+        "description": "Evolution of contemporary institutions; differing views of community power; major policies; state and federal relations to local governments; metropolitan community problems.",
+        "sections": [
+            {
+                "section": "52001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Monica Unda Gutierrez",
+                "location": "MHPB7B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "325",
+        "course_name": "State Politics",
+        "units": "(4.0 units)",
+        "description": "American state politics from a comparative perspective. Examines political processes, differing policy outcomes and the impact of social change on system performance.",
+        "sections": [
+            {
+                "section": "51983R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "33 of 48",
+                "instructor": "Erik Hanson",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "335",
+        "course_name": "Political Parties, Campaigns, and Elections",
+        "units": "(4.0 units)",
+        "description": "Organization and function of political parties, nominations and elections, strategy and tactics of campaigning, professional candidate management finance, political machines, voting behavior.",
+        "sections": [
+            {
+                "section": "51985R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "49 of 49",
+                "instructor": "Christian Grose",
+                "location": "DMC150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "350",
+        "course_name": "Politics of Latin America",
+        "units": "(4.0 units)",
+        "description": "Theories of development and nation-building; revolutionary and evolutionary modernization; role of history, culture, socioeconomic conditions in affecting political structures and functions.",
+        "sections": [
+            {
+                "section": "51975R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Gerardo Munck",
+                "location": "DMC150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "351",
+        "course_name": "Middle East Politics",
+        "units": "(4.0 units)",
+        "description": "Political development in the Middle East, emphasizing historical, cultural, and socioeconomic conditions affecting political structures and functions; modernization and countervailing social, economic and religious forces.",
+        "sections": [
+            {
+                "section": "52020R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "48 of 48",
+                "instructor": "Fayez Hammad",
+                "location": "THH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "355",
+        "course_name": "Politics of East Asia",
+        "units": "(4.0 units)",
+        "description": "Institutions and processes of advanced societies; political culture, interest articulation and aggregation, the governmental process.",
+        "sections": [
+            {
+                "section": "52038R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "34 of 48",
+                "instructor": "Jinhee Choung",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "370",
+        "course_name": "European Political Thought I",
+        "units": "(4.0 units)",
+        "description": "Basic concepts of Western political thought from Plato through the contract theorists.",
+        "sections": [
+            {
+                "section": "52060R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "49 of 49",
+                "instructor": "Anthony Kammas",
+                "location": "DMC100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "380",
+        "course_name": "Political Theories and Social Reform",
+        "units": "(2.0-4.0 units)",
+        "description": "Political theories and philosophies in modern times and their relation to public policy and social reform.",
+        "sections": [
+            {
+                "section": "52070R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "68 of 68",
+                "instructor": "Anthony Kammas",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "391",
+        "course_name": "Honors I: Undergraduate Seminar",
+        "units": "(4.0 units)",
+        "description": "Selected topics in designated area of political science. Discussion of readings and presentation of papers.",
+        "sections": [
+            {
+                "section": "52083D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Jeb Barnes",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "395",
+        "course_name": "Directed Governmental and Political Leadership Internship",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Intensive experience in governmental and political offices. Minimum time requirement; evaluation by office and intern report required.",
+        "sections": [
+            {
+                "section": "52086D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 40",
+                "instructor": "Iva Bozovic",
+                "location": "DMC263"
+            },
+            {
+                "section": "52089D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "DMC263"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "398",
+        "course_name": "Trial Advocacy: Theory and Practice",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Course covering substantive law, evidence, public speaking and use of societal mores in courtroom advocacy. Open only to Mock Trial team members.",
+        "sections": [
+            {
+                "section": "52092D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "0 of 28",
+                "instructor": "Olu Orange",
+                "location": "DMC156"
+            },
+            {
+                "section": "52094D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "0 of 10",
+                "instructor": "Olu Orange",
+                "location": "DMC152"
+            },
+            {
+                "section": "52096D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "0 of 10",
+                "instructor": "Olu Orange",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "422",
+        "course_name": "Political Attitudes and Behavior",
+        "units": "(4.0 units)",
+        "description": "The citizen's political world; political socialization, opinion formation and dissemination; development of political cultures and subcultures; political mobilization; personality and politics.",
+        "sections": [
+            {
+                "section": "52120R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jane Junn",
+                "location": "DMC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "436",
+        "course_name": "Environmental Politics",
+        "units": "(4.0 units)",
+        "description": "The political realities of selected environmental issues; resolving and implementing social priorities; interests, attitudes, strategies, and tactics of pressure groups; institutional biases and opportunities.",
+        "sections": [
+            {
+                "section": "52137R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "9 of 48",
+                "instructor": "Erik Hanson",
+                "location": "DMC150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "439",
+        "course_name": "Critical Issues in American Politics",
+        "units": "(4.0 units, max 12)",
+        "description": "Intensive examination of critical issues of particular interest in the field of American politics.",
+        "sections": [
+            {
+                "section": "52138R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "19 of 19",
+                "instructor": "Kyuwon Lee",
+                "location": "SOSB44"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "452",
+        "course_name": "Critical Issues in Law and Public Policy",
+        "units": "(4.0 units, max 12)",
+        "description": "Intensive examination of special topics in the field of law and public policy.",
+        "sections": [
+            {
+                "section": "52101R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Cindy Panuco",
+                "location": "DMC257"
+            },
+            {
+                "section": "52152R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Jeb Barnes",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "469",
+        "course_name": "Critical Issues in Comparative Politics",
+        "units": "(4.0 units, max 12)",
+        "description": "Intensive examination of critical issues of particular interest in the field of comparative politics.",
+        "sections": [
+            {
+                "section": "52155R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Monica Unda Gutierrez",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "479",
+        "course_name": "Critical Issues in Political Thought",
+        "units": "(4.0 units, max 12)",
+        "description": "Intensive examination of critical issues of particular interest in the field of political thought.",
+        "sections": [
+            {
+                "section": "52165R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Anthony Kammas",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "52169D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "0 of 27",
+                "instructor": "Sally Pratt",
+                "location": "DMC200"
+            },
+            {
+                "section": "52170D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            },
+            {
+                "section": "52175D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2629 @@
+[
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "100",
+        "course_name": "THRIVE: Foundations of Well-Being",
+        "units": "(1.0-2.0 units)",
+        "description": "Exploration of themes of thriving including well-being, self-care and connection. Application to university life, building community, developing identity and integrating learned topics into everyday life.",
+        "sections": [
+            {
+                "section": "48019R",
+                "session": "160",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "42 of 130",
+                "instructor": "Ashley Uyeshiro,Diego Lopez",
+                "location": "GFS106"
+            },
+            {
+                "section": "48020R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 1110,
+                "end_time": 1160,
+                "days": 4,
+                "registered": "9 of 20",
+                "instructor": "Diego Lopez",
+                "location": "DMC254"
+            },
+            {
+                "section": "48023R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "3 of 20",
+                "instructor": "Ashley Uyeshiro",
+                "location": "DMC255"
+            },
+            {
+                "section": "48024R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "0 of 20",
+                "instructor": "Ashley Uyeshiro",
+                "location": "DMC259"
+            },
+            {
+                "section": "48025R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Ashley Uyeshiro",
+                "location": "DMC108"
+            },
+            {
+                "section": "48026R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "10 of 20",
+                "instructor": "Ashley Uyeshiro,Greedley Harris",
+                "location": "STU100"
+            },
+            {
+                "section": "48029R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "2 of 20",
+                "instructor": "Diego Lopez",
+                "location": "DMC160"
+            },
+            {
+                "section": "48036R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "1 of 20",
+                "instructor": "Diego Lopez",
+                "location": "STU400"
+            },
+            {
+                "section": "48037R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "4 of 20",
+                "instructor": "Ashley Uyeshiro",
+                "location": "STU410"
+            },
+            {
+                "section": "48038R",
+                "session": "160",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "5 of 20",
+                "instructor": "Diego Lopez",
+                "location": "DMC254"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "101",
+        "course_name": "Caring For Your Self: Engaging in Healthy Habits and Routines",
+        "units": "(2.0 units)",
+        "description": "Application of self-care, lifestyle, and behavior change principles in occupational science and occupational therapy to students own lives, through self-analysis and learning through doing.",
+        "sections": [
+            {
+                "section": "47906R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "27 of 30",
+                "instructor": "Ashley Uyeshiro",
+                "location": "MRF229"
+            },
+            {
+                "section": "48022R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "5 of 30",
+                "instructor": "Arameh Anvarizadeh",
+                "location": "MRF229"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "200",
+        "course_name": "Medical Terminology for Health Professions",
+        "units": "(1.0 unit)",
+        "description": "Foundation of medical terminology and hospital abbreviations useful for practice in health care.",
+        "sections": [
+            {
+                "section": "47702R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "56 of 65",
+                "instructor": "Kristy Payne",
+                "location": "LVL17"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "213",
+        "course_name": "A Life of Play",
+        "units": "(2.0 units)",
+        "description": "Exploration and incorporation of play as a meaningful activity to promote healthy living; emphasis on the importance of play in human development throughout the lifespan.",
+        "sections": [
+            {
+                "section": "48051R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 2,
+                "registered": "18 of 36",
+                "instructor": "Diego Lopez",
+                "location": "WPHB30"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "220",
+        "course_name": "Lifestyle Design: Self-Analysis of Activities for Health",
+        "units": "(2.0 units)",
+        "description": "Introduction to theoretical concepts concerning the relationship of engagement in activities, or occupations, to health and well-being. Application of these perspectives to students' own lives.",
+        "sections": [
+            {
+                "section": "47700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "24 of 72",
+                "instructor": "Gabriel Cravens",
+                "location": "THH208"
+            },
+            {
+                "section": "47701R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "6 of 55",
+                "instructor": "Gabriel Cravens",
+                "location": "DMC100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "250",
+        "course_name": "Introduction to Occupational Science and Occupational Therapy",
+        "units": "(4.0 units)",
+        "description": "Exploration of occupations, or meaningful activities, and how they may promote health and wellness, and the science behind why occupations are powerful tools for healing.",
+        "sections": [
+            {
+                "section": "47703R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "17 of 48",
+                "instructor": "Arameh Anvarizadeh",
+                "location": "KAP156"
+            },
+            {
+                "section": "47704R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "37 of 72",
+                "instructor": "Diego Lopez",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "251",
+        "course_name": "Across the Lifespan: Occupations, Health and Disability",
+        "units": "(4.0 units)",
+        "description": "Innovative team-based learning to explore theories and stages of development throughout the lifespan, as manifested in activity; representation of diverse contexts, perspectives, and abilities.",
+        "sections": [
+            {
+                "section": "47710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "28 of 37",
+                "instructor": "Diego Lopez",
+                "location": "DMC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "261",
+        "course_name": "Human Physiology for Allied Health Professions",
+        "units": "(3.0 units)",
+        "description": "Overview of human physiology emphasizing systems that sustain homeostasis and motion with a focus on biological foundations for a healthy lifestyle. Relevant pathophysiologic issues discussed.",
+        "sections": [
+            {
+                "section": "47908R",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "20 of 25",
+                "instructor": "Carly Roberts",
+                "location": "CHP139"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "280",
+        "course_name": "Essential Occupations of Emerging Adulthood",
+        "units": "(2.0 units)",
+        "description": "Examination of challenges associated with the emerging adulthood stage of development through an occupational science lens; strategies to promote health and well-being for this population.",
+        "sections": [
+            {
+                "section": "47905R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 38",
+                "instructor": "Gabriel Cravens",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "310",
+        "course_name": "Exploring Creative Occupations",
+        "units": "(2.0 units)",
+        "description": "Examination of theories and practices of the creative process in varied mediums; exploration of the relationship between creative occupation, identity, health, and quality of life.",
+        "sections": [
+            {
+                "section": "47712R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "16 of 35",
+                "instructor": "Gabriel Cravens",
+                "location": "DMC211"
+            },
+            {
+                "section": "47714R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "17 of 65",
+                "instructor": "Gabriel Cravens",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "312",
+        "course_name": "Living a Sustainable Life",
+        "units": "(2.0 units)",
+        "description": "Exploration of relationship with nature in daily life, including impact on mental health, nutrition, and built environments; includes hands-on activities at USC Peace Garden.",
+        "sections": [
+            {
+                "section": "47717R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "21 of 35",
+                "instructor": "Camille Dieterle",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "325",
+        "course_name": "The Brain: Mind, Body, and Self",
+        "units": "(4.0 units)",
+        "description": "Exploration of neuroscience in development as it impacts everyday living across the lifespan through the lens of the nervous system and its response to trauma.",
+        "sections": [
+            {
+                "section": "48052R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "35 of 50",
+                "instructor": "Diego Lopez",
+                "location": "LVL17"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "330",
+        "course_name": "Our Families, Ourselves",
+        "units": "(4.0 units)",
+        "description": "Definitions of families in an ever-changing cultural world, from colonial times to the present; relevance of meaningful activities to family life, values and structure.",
+        "sections": [
+            {
+                "section": "47723R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "14 of 50",
+                "instructor": "Kristy Payne",
+                "location": "DMC100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "340",
+        "course_name": "Animal and Human Interconnections in Daily Life",
+        "units": "(4.0 units)",
+        "description": "Exploration of the vast and evolving relationships between animals and humans; how animals expand human capacity for action and contribute to health, well-being and participation.",
+        "sections": [
+            {
+                "section": "48050R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "35 of 45",
+                "instructor": "Ashley Uyeshiro",
+                "location": "SOSB44"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "360",
+        "course_name": "Tell Me a Story: Narratives in Health and in Illness",
+        "units": "(4.0 units)",
+        "description": "Tell us your story! Analysis of story structure and purpose, rich life descriptions and powerful stories of illness and courage that elicit empathy and understanding.",
+        "sections": [
+            {
+                "section": "47729R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "7 of 20",
+                "instructor": "Kate Crowley",
+                "location": "DMC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "47792D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47793D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "500A",
+        "course_name": "Clinical Problems in Occupational Therapy",
+        "units": "(2.0-4.0 units)",
+        "description": "Specific applications of occupational therapy practice in varied clinical/health settings. Seminar to integrate theory with application of treatment principles for various dysfunctional conditions. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47787D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47788D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47794D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47795D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47796D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47797D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47798D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47889R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 930,
+                "days": 8,
+                "registered": "12 of 40",
+                "instructor": "Emily Ochi",
+                "location": "CHP225"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "500B",
+        "course_name": "Clinical Problems in Occupational Therapy",
+        "units": "(2.0-4.0 units)",
+        "description": "Specific applications of occupational therapy practice in varied clinical/health settings. Seminar to integrate theory with application of treatment principles for various dysfunctional conditions. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47799D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47800D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47801D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47802D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47803D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "500C",
+        "course_name": "Clinical Problems in Occupational Therapy",
+        "units": "(2.0-4.0 units)",
+        "description": "Specific applications of occupational therapy practice in varied clinical/health settings. Seminar to integrate theory with application of treatment principles for various dysfunctional conditions. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47805D",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "1 of 5",
+                "instructor": "Roberta Pineda",
+                "location": "CHP233D"
+            },
+            {
+                "section": "47806D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "501",
+        "course_name": "Practice Immersion: Adult Physical Rehabilitation",
+        "units": "(8.0 units)",
+        "description": "Scientific and theoretical underpinnings and knowledge and skills necessary for occupational therapy evaluation and intervention in adult rehabilitation and geriatrics; incorporates related Level I Fieldwork. Duplicates credit in former OT 401. Open only to Occupational Therapy majors.",
+        "sections": [
+            {
+                "section": "47730R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "37 of 39",
+                "instructor": "Allison Chu",
+                "location": "CHP112"
+            },
+            {
+                "section": "47732R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Allison Chu,Jane Baumgarten",
+                "location": "CHP139"
+            },
+            {
+                "section": "47733R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "17 of 19",
+                "instructor": "Allison Chu,Jane Baumgarten",
+                "location": "CHP139"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "502",
+        "course_name": "Practice Immersion: Mental Health",
+        "units": "(8.0 units)",
+        "description": "Scientific and theoretical underpinnings and knowledge and skills necessary for occupational therapy evaluation and intervention in mental health practice; incorporates related Level I Fieldwork. Duplicates credit in former OT 402. Open only to Occupational Therapy majors.",
+        "sections": [
+            {
+                "section": "47734R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 8,
+                "registered": "38 of 39",
+                "instructor": "Celso Delgado Jr",
+                "location": "CHP112"
+            },
+            {
+                "section": "47736R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "Celso Delgado Jr,Tessa Milman",
+                "location": "CHP112"
+            },
+            {
+                "section": "47737R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Celso Delgado Jr,Tessa Milman",
+                "location": "CHP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "503",
+        "course_name": "Practice Immersion: Pediatrics",
+        "units": "(8.0 units)",
+        "description": "Scientific and theoretical underpinnings and knowledge and skills necessary for occupational therapy evaluation and intervention in pediatrics; incorporates related Level I Fieldwork. Duplicates credit in former OT 403. Open only to Occupational Therapy majors.",
+        "sections": [
+            {
+                "section": "47738R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "38 of 40",
+                "instructor": "Merry Lee,",
+                "location": "CHP113A"
+            },
+            {
+                "section": "47740R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Merry Lee,Elena Meng",
+                "location": "CHP113A"
+            },
+            {
+                "section": "47741R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "18 of 20",
+                "instructor": "Linsey Grunes,Elena Meng",
+                "location": "CHP113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "504",
+        "course_name": "Practice Immersion: Productive Aging and Geriatrics",
+        "units": "(8.0 units)",
+        "description": "Examination of the aging process and introduction to the role of occupational therapy in working with older adults in a variety of settings.",
+        "sections": [
+            {
+                "section": "47742R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 8,
+                "registered": "39 of 40",
+                "instructor": "Ashley Halle",
+                "location": "CHP109"
+            },
+            {
+                "section": "47744R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Ashley Halle,Guy Reavis",
+                "location": "CHP139"
+            },
+            {
+                "section": "47745R",
+                "session": "700",
+                "type": "Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 8,
+                "registered": "19 of 20",
+                "instructor": "Ashley Halle,Guy Reavis",
+                "location": "CHP139"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "510",
+        "course_name": "Foundations of Occupation: Kinesiology in Daily Life",
+        "units": "(3.0 units)",
+        "description": "Foundations of biomechanical and musculoskeletal concepts necessary for the analysis of movement in every day occupation, as they relate to occupational therapy practice.",
+        "sections": [
+            {
+                "section": "48061R",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 510,
+                "end_time": 690,
+                "days": 16,
+                "registered": "9 of 10",
+                "instructor": "Elizabeth Phelps",
+                "location": "CHP233D"
+            },
+            {
+                "section": "48062R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 8,
+                "registered": "40 of 40",
+                "instructor": "Carly Roberts,Jane Baumgarten",
+                "location": "CHP233A"
+            },
+            {
+                "section": "48063R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 8,
+                "registered": "29 of 40",
+                "instructor": "Carly Roberts,Jane Baumgarten",
+                "location": "CHP233A"
+            },
+            {
+                "section": "48064R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "39 of 40",
+                "instructor": "Emily Sopkin,Jane Baumgarten",
+                "location": "CHP225"
+            },
+            {
+                "section": "48065R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 16,
+                "registered": "30 of 40",
+                "instructor": "Kati Wechsler,Jane Baumgarten",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "511",
+        "course_name": "Reflection in Practice",
+        "units": "(3.0 units)",
+        "description": "Self-reflection focused on awareness and articulation of one's therapeutic and communication styles, positionality, intersectionality, explicit and implicit biases, and privilege to form strong relationships.",
+        "sections": [
+            {
+                "section": "48066R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "40 of 40",
+                "instructor": "Jennifer Jones",
+                "location": "CHPG15"
+            },
+            {
+                "section": "48067R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "38 of 40",
+                "instructor": "Jennifer Jones",
+                "location": "CHPG15"
+            },
+            {
+                "section": "48068R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "40 of 40",
+                "instructor": "Tessa Milman",
+                "location": "CHP225"
+            },
+            {
+                "section": "48069R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "29 of 40",
+                "instructor": "Celso Delgado Jr",
+                "location": "CHP109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "512",
+        "course_name": "Survey of U.S. Health Systems",
+        "units": "(2.0 units)",
+        "description": "Foundation for understanding and analyzing health systems in the United States and their impact on occupational therapy practice, from access to intervention and reimbursement.",
+        "sections": [
+            {
+                "section": "47890R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 4,
+                "registered": "12 of 30",
+                "instructor": "James Lee",
+                "location": "MCA149"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "514",
+        "course_name": "Foundations of Occupation: Neuroscience in Daily Life",
+        "units": "(3.0 units)",
+        "description": "Application of basic neural function to the analysis of daily living tasks and activities; review of pathological conditions that interfere with performance in occupation.",
+        "sections": [
+            {
+                "section": "48070R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "40 of 40",
+                "instructor": "Nandita Raman",
+                "location": "CHP224"
+            },
+            {
+                "section": "48071R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 16,
+                "registered": "38 of 40",
+                "instructor": "Nandita Raman",
+                "location": "CHP224"
+            },
+            {
+                "section": "48072R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 8,
+                "registered": "39 of 40",
+                "instructor": "Leah Duker",
+                "location": "CHP224"
+            },
+            {
+                "section": "48073R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 8,
+                "registered": "30 of 40",
+                "instructor": "Nandita Raman",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "516",
+        "course_name": "Foundations of Occupation: Creativity, Craft and Activity An",
+        "units": "(3.0 units)",
+        "description": "Engagement in craft experience to develop proficiency in analysis of activity performance and occupation; exploration of creativity and craftsmanship in both historical and contemporary contexts.",
+        "sections": [
+            {
+                "section": "48074R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 16,
+                "registered": "40 of 40",
+                "instructor": "Lawrence Stevenson",
+                "location": "CHP111"
+            },
+            {
+                "section": "48075R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "38 of 40",
+                "instructor": "Amber Bennett",
+                "location": "CHP111"
+            },
+            {
+                "section": "48076R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 8,
+                "registered": "39 of 40",
+                "instructor": "Lawrence Stevenson",
+                "location": "CHP111"
+            },
+            {
+                "section": "48077R",
+                "session": "700",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 8,
+                "registered": "30 of 40",
+                "instructor": "Lawrence Stevenson",
+                "location": "CHP111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "517",
+        "course_name": "Foundations of Occupation: Sensory Processing in Daily Life",
+        "units": "(3.0 units)",
+        "description": "Comprehensive overview of the basic neurobehavioral principles underlying sensory processing and sensory integration theory and their relationship to everyday occupations.",
+        "sections": [
+            {
+                "section": "48047R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 2,
+                "registered": "6 of 20",
+                "instructor": "Janet Gunter",
+                "location": "CHP139"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "519",
+        "course_name": "Theoretical Foundations of Occupational Science and Occupati",
+        "units": "(3.0 units)",
+        "description": "Development of knowledge and critical thinking relative to ongoing, situated discourses about occupation, occupational therapy and occupational science.",
+        "sections": [
+            {
+                "section": "48043R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "40 of 40",
+                "instructor": "Guy Reavis",
+                "location": "CHP109"
+            },
+            {
+                "section": "48082R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "39 of 40",
+                "instructor": "Guy Reavis",
+                "location": "CHP112"
+            },
+            {
+                "section": "48084R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 16,
+                "registered": "39 of 40",
+                "instructor": "Catherine Shin",
+                "location": "CHP109"
+            },
+            {
+                "section": "48085R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "30 of 40",
+                "instructor": "Karrie Kingsley",
+                "location": "CHP109"
+            },
+            {
+                "section": "48089R",
+                "session": "046",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "11 of 30",
+                "instructor": "Daniel Park",
+                "location": "CSC250"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "526",
+        "course_name": "Practice Scholar: Applying Quantitative Evidence",
+        "units": "(3.0 units)",
+        "description": "Introduction to concepts of practice scholarship; emphasis on applying quantitative research evidence to clinical questions and appraising quantitative research evidence.",
+        "sections": [
+            {
+                "section": "48095R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Julia Lisle",
+                "location": "CHP225"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "538",
+        "course_name": "Current Issues in Practice: Adulthood and Aging",
+        "units": "(2.0 units)",
+        "description": "Exploration of adulthood, aging and occupation; current topics related to aging population and occupational therapy to promote health and participation throughout the lifespan. Duplicates credit in former OT 508. Open only to Occupational Therapy majors.",
+        "sections": [
+            {
+                "section": "47995R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "1 of 25",
+                "instructor": "Stacey Schepens Niemiec",
+                "location": "CHP109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "560",
+        "course_name": "Contemporary Issues in School-Based Practice",
+        "units": "(4.0 units)",
+        "description": "Current issues in school-based occupational therapy evaluation, ongoing assessment and intervention. Topics include successful collaboration in inclusive classrooms and on IFSP and IEP teams. Open only to OT majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47831R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1265,
+                "days": 8,
+                "registered": "0 of 30",
+                "instructor": "Joan Surfus",
+                "location": "CHP113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "567",
+        "course_name": "Contemporary Issues: Occupational Therapy in Early Intervent",
+        "units": "(4.0 units)",
+        "description": "Exploration of occupational therapy in early intervention settings including; relevant legislation, family-centered care, cultural context, documentation, ethics, and neuroscientific foundations of infant mental health.",
+        "sections": [
+            {
+                "section": "47869R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1265,
+                "days": 2,
+                "registered": "4 of 30",
+                "instructor": "Jenna Kobara",
+                "location": "CHP113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "569",
+        "course_name": "Sensory Integration Theory",
+        "units": "(2.0 units)",
+        "description": "Comprehensive overview of the basic neurobehavioral principles underlying sensory processing and sensory integration, patterns of dysfunction and their relationship to everyday occupations and intervention.",
+        "sections": [
+            {
+                "section": "47871R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "8 of 30",
+                "instructor": "Emily Campi",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "570",
+        "course_name": "Evaluation and Clinical Reasoning: Sensory Integration",
+        "units": "(2.0 units)",
+        "description": "Application of sensory integration principles in the clinical reasoning process and evaluation of sensory processing disorders. Includes integration of different methods of data collection.",
+        "sections": [
+            {
+                "section": "47758D",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "23 of 30",
+                "instructor": "Janet Gunter",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "572",
+        "course_name": "Ergonomics",
+        "units": "(4.0 units)",
+        "description": "Focus on the effects of physical design in the workplace on users' injury rate, behavior, performance and stress levels. Intervention for repetitive motion included. Open only to OT majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47840R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1265,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "Marissa Marchioni",
+                "location": "CHP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "573",
+        "course_name": "Hand Rehabilitation",
+        "units": "(4.0 units)",
+        "description": "Occupation-based evaluation and intervention for individuals with acute and chronic hand disorders. Topics include scar management, splinting, peripheral nerve injury, wound healing and physical agent modalities. Open only to OT majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "48044R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1265,
+                "days": 8,
+                "registered": "14 of 40",
+                "instructor": "Sergio Sandoval",
+                "location": "CHP139"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "578",
+        "course_name": "Therapeutic Communication: Facilitating Change in Clients",
+        "units": "(4.0 units)",
+        "description": "Exploration of selected therapeutic communication styles intended to facilitate change including motivational interviewing, mindfulness practices, and cognitive approaches to therapeutic intervention.",
+        "sections": [
+            {
+                "section": "47927R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 505,
+                "end_time": 720,
+                "days": 32,
+                "registered": "1 of 25",
+                "instructor": "Allison Chu",
+                "location": "CHP113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "586",
+        "course_name": "Fieldwork with Seminar",
+        "units": "(1.0-2.0 units, max 6)",
+        "description": "Fieldwork is mandatory to qualify for professional certification/licensure. Seminar facilitates reflective discussion and integration of class concepts to clinical practice.",
+        "sections": [
+            {
+                "section": "48031R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48032D",
+                "session": "404",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48033D",
+                "session": "469",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48034D",
+                "session": "484",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 2",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "588",
+        "course_name": "Building Technologies that Promote Health and Well-Being",
+        "units": "(2.0 units)",
+        "description": "Development of technical and business skills to create innovative technologies that promote health and well-being.",
+        "sections": [
+            {
+                "section": "48086R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "9 of 40",
+                "instructor": "Octavio Marin Pardo",
+                "location": "CHP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "589",
+        "course_name": "Interprofessional Education and Collaboration for Geriatrics",
+        "units": "(0.0 units)",
+        "description": "Students from multiple health professions learn about aging and collaborative team care through a combination of didactic and experiential learning working in a community-based setting.",
+        "sections": [
+            {
+                "section": "48096D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 130",
+                "instructor": "Ashley Halle",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47853D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Julie McLaughlin Gray",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47854D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Marisa Moore",
+                "location": "ONLINE"
+            },
+            {
+                "section": "47855D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47856D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47857D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47858D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47859D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47860D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47861D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47862D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47863D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "47865D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "47866D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "47867D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "47912D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Recent developments in occupational therapy and occupational science.",
+        "sections": [
+            {
+                "section": "48049R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "3 of 30",
+                "instructor": "Roberta Pineda",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "617",
+        "course_name": "Visionaries: Innovation and Technology to Promote Occupation",
+        "units": "(3.0 units)",
+        "description": "Exploration of the development, assessment, selection, and use of technologies to enable and enhance participation in a meaningful occupation in clinical, educational and research contexts.",
+        "sections": [
+            {
+                "section": "47750R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 32,
+                "registered": "37 of 40",
+                "instructor": "Marisa Moore",
+                "location": "CHP109"
+            },
+            {
+                "section": "47751R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 8,
+                "registered": "40 of 40",
+                "instructor": "Merry Lee",
+                "location": "CHP109"
+            },
+            {
+                "section": "47752R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "35 of 40",
+                "instructor": "Marisa Moore",
+                "location": "CHP112"
+            },
+            {
+                "section": "47753R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "40 of 40",
+                "instructor": "Marisa Moore",
+                "location": "CHP225"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "619",
+        "course_name": "Applying Occupational Science: Lifestyle Redesign",
+        "units": "(3.0 units)",
+        "description": "Interactive exploration of Lifestyle Redesign framework and applications for health promotion, wellness and disease management. Emphasis on preventing/managing chronic health conditions, intervention design and implementation.",
+        "sections": [
+            {
+                "section": "47760R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 2,
+                "registered": "38 of 40",
+                "instructor": "Jesus Diaz",
+                "location": "CHP113A"
+            },
+            {
+                "section": "47761R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 2,
+                "registered": "39 of 40",
+                "instructor": "Gabby Granados",
+                "location": "CHP225"
+            },
+            {
+                "section": "47762R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 2,
+                "registered": "37 of 40",
+                "instructor": "Nora Dixon",
+                "location": "CHP113A"
+            },
+            {
+                "section": "47763R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 2,
+                "registered": "38 of 40",
+                "instructor": "Camille Dieterle",
+                "location": "CHP225"
+            },
+            {
+                "section": "48021R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 2,
+                "registered": "3 of 12",
+                "instructor": "Camille Dieterle",
+                "location": "CHP221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "636",
+        "course_name": "Fieldwork with Seminar",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Clinical rotation with client/patient responsibilities under the supervision of an occupational therapist to achieve entry-level competence in specific practice area.",
+        "sections": [
+            {
+                "section": "47781D",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47782D",
+                "session": "468",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47845D",
+                "session": "452",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47848D",
+                "session": "484",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47852D",
+                "session": "498",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47875D",
+                "session": "959",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Deanna Mannarelli,Clarissa Saunders-Newton,Candace Chatman,Bari Turetzky",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "640",
+        "course_name": "Conceptual Foundations of Occupational Science",
+        "units": "(4.0 units)",
+        "description": "Analysis of the conceptual foundations and methodological orientations for occupational science, understandings of disciplinary perspectives, formulation of theoretical arguments, and the interpretation of research data.",
+        "sections": [
+            {
+                "section": "47882D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 4,
+                "registered": "10 of 12",
+                "instructor": "Mary Lawlor",
+                "location": "CHP233D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "660",
+        "course_name": "Research Practicum",
+        "units": "(2.0 units)",
+        "description": "Experiential learning through immersion in one or more externally funded research groups in the Division, enabling intense participation in multi-skilled research groups.",
+        "sections": [
+            {
+                "section": "47785D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Sook-Lei Liew",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "686",
+        "course_name": "Residency",
+        "units": "(6.0-10.0 units, max 22)",
+        "description": "Residency involving development, administration, evaluation, or policy formulation for occupation-centered programs in clinical or community settings. Development of portfolio for professional doctorate. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47743D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 30",
+                "instructor": "James Lee",
+                "location": "OFFCAMPUS"
+            },
+            {
+                "section": "48091D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 35",
+                "instructor": "Sarah Bream",
+                "location": "OFFCAMPUS"
+            },
+            {
+                "section": "48092D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 25",
+                "instructor": "James Lee",
+                "location": "OFFCAMPUS"
+            },
+            {
+                "section": "48094D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "5 of 7",
+                "instructor": "Julie McLaughlin Gray",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "699",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Selected topics in occupational therapy and occupational sciences.",
+        "sections": [
+            {
+                "section": "47833R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 960,
+                "days": 2,
+                "registered": "38 of 40",
+                "instructor": "Sue Bowles",
+                "location": "CHP109"
+            },
+            {
+                "section": "47836R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 960,
+                "days": 2,
+                "registered": "39 of 40",
+                "instructor": "Pam Roberts",
+                "location": "CHP112"
+            },
+            {
+                "section": "47837R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 720,
+                "days": 2,
+                "registered": "37 of 40",
+                "instructor": "Samia Rafeedie",
+                "location": "CHP109"
+            },
+            {
+                "section": "47839R",
+                "session": "700",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 720,
+                "days": 2,
+                "registered": "38 of 40",
+                "instructor": "Arameh Anvarizadeh",
+                "location": "CHP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "710",
+        "course_name": "Teaching and Learning Seminar: Becoming a Fieldwork Educator",
+        "units": "(1.0 unit)",
+        "description": "Current professional issues related to fieldwork education; examination of best practices for teaching, learning and supervision; development of an envisioned future as a fieldwork educator.",
+        "sections": [
+            {
+                "section": "47807R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 1050,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "38 of 38",
+                "instructor": "Candace Chatman",
+                "location": "ONLINE"
+            },
+            {
+                "section": "47808R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "18 of 38",
+                "instructor": "Bari Turetzky",
+                "location": "CSC250"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "713",
+        "course_name": "Doctoral Capstone Preparation: Seminar 1",
+        "units": "(1.0 unit)",
+        "description": "Seminar organized through Communities of Practice and facilitated by faculty mentors to further the knowledge and experience of students in a specific area of practice.",
+        "sections": [
+            {
+                "section": "47809D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47810D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47811D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47812D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47813D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47814D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47815D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47816D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47817D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47818D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47819D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47820D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47821D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47822D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47823D",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "715",
+        "course_name": "Practice Scholar: Synthesizing Evidence and Practice Needs",
+        "units": "(3.0 units)",
+        "description": "Synthesis of evidence to design occupation-based programs and interventions that are effective, meaningful, appropriate and feasible in a particular practice context.",
+        "sections": [
+            {
+                "section": "47825R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "42 of 46",
+                "instructor": "Linsey Grunes",
+                "location": "ONLINE"
+            },
+            {
+                "section": "47826R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 1050,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "44 of 46",
+                "instructor": "Kristy Payne",
+                "location": "ONLINE"
+            },
+            {
+                "section": "47827R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 16,
+                "registered": "39 of 46",
+                "instructor": "Linsey Grunes",
+                "location": "ONLINE"
+            },
+            {
+                "section": "47832R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 1050,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "8 of 40",
+                "instructor": "Deborah Pitts",
+                "location": "CHP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "716",
+        "course_name": "Mobilizing Knowledge for Impact: Concepts and Skills (KMb I)",
+        "units": "(2.0 units)",
+        "description": "Introduction to knowledge mobilization practices and skills, including approaches to co-develop tailored communication with partners to accelerate real-world impact.",
+        "sections": [
+            {
+                "section": "48097R",
+                "session": "060",
+                "type": "Lecture-Discussion",
+                "start_time": 810,
+                "end_time": 920,
+                "days": 2,
+                "registered": "9 of 20",
+                "instructor": "Michael Mcnulty",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "718",
+        "course_name": "Applied Leadership for Health Professionals",
+        "units": "(2.0 units)",
+        "description": "Cultivation of impactful leadership within the dynamic healthcare landscape; in-depth exploration of interdisciplinary leadership theories; applications to strategic management, policy, emerging technologies, ethical decision-making.",
+        "sections": [
+            {
+                "section": "48098R",
+                "session": "060",
+                "type": "Lecture-Discussion",
+                "start_time": 990,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "11 of 20",
+                "instructor": "Sue Bowles",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "719",
+        "course_name": "Occupational Science Origins and Evolutions",
+        "units": "(2.0 units)",
+        "description": "Evolution of occupational science discipline, including conceptual and theoretical developments, relationships with occupational therapy and other fields and global contributions.",
+        "sections": [
+            {
+                "section": "48099R",
+                "session": "060",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "13 of 20",
+                "instructor": "Rebecca Aldrich",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "720",
+        "course_name": "Pedagogy in Higher Education: Seminar and Practicum",
+        "units": "(1.0 unit)",
+        "description": "Fundamentals of teaching and learning in higher education in preparation for work in an academic setting; experiential learning in methods of course development and delivery.",
+        "sections": [
+            {
+                "section": "47828R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "40 of 40",
+                "instructor": "Kristy Payne",
+                "location": "ONLINE"
+            },
+            {
+                "section": "47829R",
+                "session": "700",
+                "type": "Lecture-Discussion",
+                "start_time": 1050,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "40 of 40",
+                "instructor": "Kristy Payne",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate, maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47894D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Amber Angell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47895D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Clarissa Saunders-Newton",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47896D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Bari Turetzky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47897D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47898D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "47899D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48040D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48041D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48042D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "47900D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Sook-Lei Liew",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "47901R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sook-Lei Liew",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "47902R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sook-Lei Liew",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "47903R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sook-Lei Liew",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OT",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "47904R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 5",
+                "instructor": "Sook-Lei Liew",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

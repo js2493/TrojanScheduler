@@ -1,0 +1,696 @@
+[
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "012",
+        "course_name": "French 120 Language Practicum",
+        "units": "(1.0 unit)",
+        "description": "English grammar as it relates to French in order to improve students' French language skills; explicit pronunciation and intonation practice. Requires concurrent enrollment in either FREN 120 French I or MPVA 261 French Language and Diction.",
+        "sections": [
+            {
+                "section": "34216D",
+                "session": "716",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Guilan Siassi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "015",
+        "course_name": "French 150 Language Practicum",
+        "units": "(1.0 unit)",
+        "description": "English grammar as it relates to French in order to improve students French language skills; explicit pronunciation and intonation practice.",
+        "sections": [
+            {
+                "section": "34236D",
+                "session": "716",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Guilan Siassi",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "120",
+        "course_name": "French I",
+        "units": "(4.0 units)",
+        "description": "Introduction to current French. Oral practice, listening and reading comprehension; grammar necessary for simple spoken and written expression.",
+        "sections": [
+            {
+                "section": "34206D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "18 of 19",
+                "instructor": "Julia Chamberlin",
+                "location": "WPH101"
+            },
+            {
+                "section": "34207D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Julia Chamberlin",
+                "location": "WPH101"
+            },
+            {
+                "section": "34208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "9 of 19",
+                "instructor": "Jennifer Misran",
+                "location": "THH106"
+            },
+            {
+                "section": "34214D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "15 of 19",
+                "instructor": "Melek Chekili",
+                "location": "WPH103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "150",
+        "course_name": "French II",
+        "units": "(4.0 units)",
+        "description": "Continuation of 120.",
+        "sections": [
+            {
+                "section": "34221R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "10 of 19",
+                "instructor": "Jennifer Misran",
+                "location": "DMC107"
+            },
+            {
+                "section": "34224R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "16 of 19",
+                "instructor": "Jennifer Misran",
+                "location": "DMC201"
+            },
+            {
+                "section": "34226R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "17 of 19",
+                "instructor": "Nathalie Burle",
+                "location": "THH108"
+            },
+            {
+                "section": "34228R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "6 of 19",
+                "instructor": "Guilan Siassi",
+                "location": "THH108"
+            },
+            {
+                "section": "34233R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Mina Soroosh",
+                "location": "THH106"
+            },
+            {
+                "section": "34234R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "8 of 19",
+                "instructor": "Mina Soroosh",
+                "location": "THH214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "152",
+        "course_name": "French Basic Language for the Professions",
+        "units": "(1.0 unit)",
+        "description": "Develops students linguistic, cultural and interpersonal competencies in professional contexts. Introduces students to the French economy, workplace and business practices, including job searches. The course is restricted to students who have taken FREN 150, placed in FREN 220, or are concurrently registered in FREN 150 or FREN 220. Students who have completed FREN 220 and above may not register for the course.",
+        "sections": [
+            {
+                "section": "34238R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "2 of 12",
+                "instructor": "Rania Ben Amor",
+                "location": "THH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "175",
+        "course_name": "Accelerated French for Speakers of Spanish and Other Romance Languages",
+        "units": "(4.0 units)",
+        "description": "Accelerated introduction to written and spoken French for students with a high level of proficiency in Spanish or another Romance Language. Students completing this course may enroll in the third semester of the basic language sequence FREN 220.",
+        "sections": [
+            {
+                "section": "34239R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "8 of 19",
+                "instructor": "Robert Decker",
+                "location": "THH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "220",
+        "course_name": "French III",
+        "units": "(4.0 units)",
+        "description": "Continuation of FREN 150. Review of structural patterns of French; selected cultural and literary readings; conversation and composition.",
+        "sections": [
+            {
+                "section": "34242R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Rania Ben Amor",
+                "location": "DMC210"
+            },
+            {
+                "section": "34244R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "17 of 19",
+                "instructor": "Rania Ben Amor",
+                "location": "DMC210"
+            },
+            {
+                "section": "34245R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "13 of 19",
+                "instructor": "Nathalie Burle",
+                "location": "THH110"
+            },
+            {
+                "section": "34247R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 0,
+                "registered": "9 of 19",
+                "instructor": "Nathalie Burle",
+                "location": "THH110"
+            },
+            {
+                "section": "34250R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Rania Ben Amor",
+                "location": "DMC210"
+            },
+            {
+                "section": "34251R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "15 of 19",
+                "instructor": "Nathalie Burle",
+                "location": "THH110"
+            },
+            {
+                "section": "34253R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Mina Soroosh",
+                "location": "DMC151"
+            },
+            {
+                "section": "34254R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Mina Soroosh",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "235",
+        "course_name": "Intermediate Conversational French",
+        "units": "(2.0 units)",
+        "description": "Designed for non-majors/minors interested in maintaining and developing French language competency. Builds vocabulary, ease of communication, and cultural knowledge through discussion of contemporary topics. Graded Credit/No Credit. Not available for credit to French majors. Not open to French majors.",
+        "sections": [
+            {
+                "section": "34256R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "16 of 16",
+                "instructor": "Julia Chamberlin",
+                "location": "THH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "250",
+        "course_name": "French IV",
+        "units": "(4.0 units)",
+        "description": "Introduction to French literature through the study of texts and audiovisuals organized around a central theme; develops close-reading techniques and discursive skills; reviews French grammar.",
+        "sections": [
+            {
+                "section": "34260R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "8 of 16",
+                "instructor": "Guilan Siassi",
+                "location": "DMC209"
+            },
+            {
+                "section": "34262R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "10 of 16",
+                "instructor": "Jennifer Misran",
+                "location": "WPHB30"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "300",
+        "course_name": "French Grammar and Composition",
+        "units": "(4.0 units)",
+        "description": "Grammatical structure and vocabulary building with practical application to written composition. Prerequisites: FREN 250.",
+        "sections": [
+            {
+                "section": "00364D",
+                "session": "613",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Mark Grimes",
+                "location": "OFFICE"
+            },
+            {
+                "section": "34265R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "3 of 12",
+                "instructor": "Atiyeh Showrai",
+                "location": "WPHB26"
+            },
+            {
+                "section": "34270R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "12 of 12",
+                "instructor": "Atiyeh Showrai",
+                "location": "THH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "320",
+        "course_name": "The French New Wave and its Legacy",
+        "units": "(4.0 units)",
+        "description": "Film-making in France from the earliest experiments to current trends. Emphasis on the political, social, historical context of French films. Taught in English. Reading knowledge of French recommended.",
+        "sections": [
+            {
+                "section": "34272R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Panivong Norindr",
+                "location": "DMC209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "330",
+        "course_name": "Critical Writing in French",
+        "units": "(4.0 units)",
+        "description": "Advanced composition through critical reading of literary texts; comprehensive analysis of difficult grammatical structures and stylistics. Prerequisite: FREN 300.",
+        "sections": [
+            {
+                "section": "00365D",
+                "session": "613",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Mark Grimes",
+                "location": "OFFICE"
+            },
+            {
+                "section": "34275R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "5 of 12",
+                "instructor": "Beatrice Mousli",
+                "location": "DMC103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "347",
+        "course_name": "Race, Gender and Power in Francophone Literature",
+        "units": "(4.0 units)",
+        "description": "Study of post-colonialism as a ferment for literary creation in the literature of French expression from Africa, the Caribbean and Canada. Conducted in French.",
+        "sections": [
+            {
+                "section": "34280R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "7 of 19",
+                "instructor": "Robert Decker",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "368",
+        "course_name": "French Foreign Policy: 1945 to the Present",
+        "units": "(4.0 units)",
+        "description": "Introduction to historical, thematic perspectives of French foreign policy since 1945 including review of external and internal constraints influencing foreign policy. (Paris semester only).",
+        "sections": [
+            {
+                "section": "00375R",
+                "session": "613",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Mark Grimes",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "375",
+        "course_name": "Global Narratives of Illness and Disability",
+        "units": "(4.0 units)",
+        "description": "Study of difference as represented through French, Francophone and related narratives of disability and illness, with attention to race and gender. Conducted in English.",
+        "sections": [
+            {
+                "section": "34284R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Julie Van Dam",
+                "location": "THH301"
+            },
+            {
+                "section": "34286R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jerome Gendrot",
+                "location": "THH213"
+            },
+            {
+                "section": "34287R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jerome Gendrot",
+                "location": "DMC155"
+            },
+            {
+                "section": "34288R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Chloe Luu",
+                "location": "THH215"
+            },
+            {
+                "section": "34289R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Chloe Luu",
+                "location": "THH215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "393",
+        "course_name": "Seminar in French Thought and Theory",
+        "units": "(4.0 units, max 8)",
+        "description": "Introduction to important trends in recent French philosophy, political and social theory, psychoanalysis, ethnology, semiotics, and media studies. Emphasis to be determined by department. Conducted in English.",
+        "sections": [
+            {
+                "section": "34291D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Antonia Szabari",
+                "location": "THH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "401",
+        "course_name": "Studies in Early Modernity",
+        "units": "(4.0 units, max 8)",
+        "description": "Study and analysis of representative works and major intellectual, cultural, and artistic trends from the early modern period (pre-1789). Prerequisite: FREN 330.",
+        "sections": [
+            {
+                "section": "34293R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "5 of 16",
+                "instructor": "Natania Meeker",
+                "location": "THH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "403",
+        "course_name": "Studies in Colonialism and Postcolonialism",
+        "units": "(4.0 units, max 8)",
+        "description": "Study and analysis of colonialism and postcolonialism in French and Francophone contexts. Prerequisite: FREN-330.",
+        "sections": [
+            {
+                "section": "34295R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "4 of 16",
+                "instructor": "Edwin Hill",
+                "location": "SOSB45"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "34300D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "520",
+        "course_name": "Studies in Diaspora and Transnationalism",
+        "units": "(4.0 units)",
+        "description": "Introduction to contemporary literature and thought on the dynamics of diaspora, transnationalism, andglobalization.",
+        "sections": [
+            {
+                "section": "34345R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "3 of 10",
+                "instructor": "Edwin Hill",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "FREN",
+        "course_num": "592",
+        "course_name": "Practicum in Teaching French",
+        "units": "(2.0 units)",
+        "description": "Introduction to the approaches and techniques of teaching French as a second language. Open only to Master and PhD students who will be Assistant Lecturers in French.",
+        "sections": [
+            {
+                "section": "34351D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

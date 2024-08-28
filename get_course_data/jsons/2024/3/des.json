@@ -1,0 +1,979 @@
+[
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "102",
+        "course_name": "Design Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Introduction to the basic elements and processes of visual communication and design. Instruction includes studio projects, lectures and readings. Various media used.",
+        "sections": [
+            {
+                "section": "33431R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "15 of 20",
+                "instructor": "Jean Robison",
+                "location": "WAH105"
+            },
+            {
+                "section": "33432R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "19 of 20",
+                "instructor": "China Adams",
+                "location": "WAH105"
+            },
+            {
+                "section": "33433D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 10,
+                "registered": "18 of 20",
+                "instructor": "Eric Junker",
+                "location": "WAH105"
+            },
+            {
+                "section": "33435R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "17 of 20",
+                "instructor": "Osvaldo Trujillo",
+                "location": "WAH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "105",
+        "course_name": "Art and Design Studio I",
+        "units": "(4.0 units)",
+        "description": "Introduction to the fundamental elements in art making, design creation and thinking, including key principles of process and critical analysis.",
+        "sections": [
+            {
+                "section": "33796D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "29 of 29",
+                "instructor": "China Adams,Ruben Ochoa",
+                "location": "WAH108"
+            },
+            {
+                "section": "33799D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 660,
+                "days": 10,
+                "registered": "7 of 25",
+                "instructor": "",
+                "location": "HAR117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "106",
+        "course_name": "Art and Design Studio II",
+        "units": "(4.0 units)",
+        "description": "Introduction to the fundamental elements in art making, design creation and thinking, including the key principles of process and critical analysis.",
+        "sections": [
+            {
+                "section": "33795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "29 of 30",
+                "instructor": "Paul Donald,Jean Robison",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "110",
+        "course_name": "Drawing for Art and Design",
+        "units": "(4.0 units)",
+        "description": "An introduction to drawing, both skill and perception oriented, as the basic tool for all the visual arts and design.",
+        "sections": [
+            {
+                "section": "33843D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 20,
+                "registered": "27 of 30",
+                "instructor": "Charla Elizabeth",
+                "location": "WAH118"
+            },
+            {
+                "section": "33844D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Charla Elizabeth,Karen Liebowitz",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "123",
+        "course_name": "The Design Challenge: Exploring the Design Process",
+        "units": "(4.0 units)",
+        "description": "An overview of the creative design process and introduction to techniques to solve visual problems.",
+        "sections": [
+            {
+                "section": "33429R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Charla Elizabeth,Yi Zong",
+                "location": "HAR117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "202",
+        "course_name": "Design II",
+        "units": "(4.0 units)",
+        "description": "Exploration of essential elements of traditional and digital design, including color and image-text integration, editing information, typography and sequencing.",
+        "sections": [
+            {
+                "section": "33436R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "6 of 20",
+                "instructor": "Eric Junker",
+                "location": "WAH105"
+            },
+            {
+                "section": "33437R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "17 of 20",
+                "instructor": "Osvaldo Trujillo",
+                "location": "WAH105"
+            },
+            {
+                "section": "33438D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Osvaldo Trujillo",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "203",
+        "course_name": "Digital Tools for Design",
+        "units": "(2.0 units)",
+        "description": "Exploration of the processes of germination, ideation and application/execution in design integrated with computer usage.",
+        "sections": [
+            {
+                "section": "33439R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 4,
+                "registered": "18 of 20",
+                "instructor": "Ginamahre Fulton",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33440R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 8,
+                "registered": "15 of 20",
+                "instructor": "Melanie Nakaue",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33441R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Ginamahre Fulton",
+                "location": "WAH6"
+            },
+            {
+                "section": "33442R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 16,
+                "registered": "10 of 20",
+                "instructor": "Hector Torres",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33443R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Yi Zong",
+                "location": "HAR112D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "213",
+        "course_name": "Digital Tools in 3D Design",
+        "units": "(2.0 units)",
+        "description": "3D digital modeling, rendering, digital capture and production methods for product, package and environmental design.",
+        "sections": [
+            {
+                "section": "33466R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 2,
+                "registered": "11 of 15",
+                "instructor": "Melanie Nakaue",
+                "location": "WAH102B"
+            },
+            {
+                "section": "33467R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 4,
+                "registered": "6 of 15",
+                "instructor": "Ginamahre Fulton",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "230",
+        "course_name": "3D Design: Materials and Tools",
+        "units": "(4.0 units)",
+        "description": "Introduction to the study of 3-D Design. Includes a wide investigation of materials, tools, and techniques specific to dimensional design as they apply to package, product, and environmental design.",
+        "sections": [
+            {
+                "section": "33290D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 20,
+                "registered": "14 of 20",
+                "instructor": "Alexis Zoto",
+                "location": "WAH102B"
+            },
+            {
+                "section": "33446R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "5 of 20",
+                "instructor": "Melanie Nakaue",
+                "location": "WAH102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "302",
+        "course_name": "Design III",
+        "units": "(4.0 units)",
+        "description": "Advanced exploration of typography and image-text integration, including collaborative projects, pre-press and proofing techniques, narrative concepts and information architecture.",
+        "sections": [
+            {
+                "section": "33447R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "6 of 20",
+                "instructor": "Bruno Lemgruber",
+                "location": "IFT111"
+            },
+            {
+                "section": "33448R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "17 of 20",
+                "instructor": "Ewa Wojciak",
+                "location": "IFT111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "303",
+        "course_name": "Web Design",
+        "units": "(2.0 units)",
+        "description": "A workshop-based course that focuses on software applications in design and web design.",
+        "sections": [
+            {
+                "section": "33450R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 8,
+                "registered": "15 of 20",
+                "instructor": "Hector Torres",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33452D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33451R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 16,
+                "registered": "9 of 20",
+                "instructor": "Ginamahre Fulton",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "313",
+        "course_name": "Graphic Design in Fashion",
+        "units": "(4.0 units)",
+        "description": "An intensive studio and lecture course focusing on the applications of graphic design in fashion and related fields.",
+        "sections": [
+            {
+                "section": "33470R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "18 of 20",
+                "instructor": "Helene Reiner",
+                "location": "IFT122"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "314",
+        "course_name": "Illustration for Art and Design",
+        "units": "(2.0 units)",
+        "description": "Illustration techniques and professional practices across the range of fine art, comics, editorial illustration, narrative arts, visual development and others. Digital and hybrid approaches.",
+        "sections": [
+            {
+                "section": "33851D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "16 of 20",
+                "instructor": "Angie Wang",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "322",
+        "course_name": "Publication Design",
+        "units": "(4.0 units)",
+        "description": "Application of layout, typography, design principles and image making in the design and production of books, magazines, zines and digital books.",
+        "sections": [
+            {
+                "section": "33468D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "21 of 20",
+                "instructor": "Peter Robbins",
+                "location": "IFT110"
+            },
+            {
+                "section": "33845D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "April Greiman",
+                "location": "IFT110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "323",
+        "course_name": "Design Theory",
+        "units": "(4.0 units)",
+        "description": "A comprehensive study of visual communication focusing on graphic design from 1900 to the present. An introduction to design thinking, language and principles including political and cultural implications.",
+        "sections": [
+            {
+                "section": "33455D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "41 of 50",
+                "instructor": "Shirin Raban",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "332A",
+        "course_name": "Typography",
+        "units": "(2.0 units)",
+        "description": "The study of visual communication through the use of letterforms from historical tradition to contemporary experimental rebellion.",
+        "sections": [
+            {
+                "section": "33456R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 2,
+                "registered": "16 of 20",
+                "instructor": "Lucy Cook",
+                "location": "IFT111"
+            },
+            {
+                "section": "33457D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 8,
+                "registered": "19 of 20",
+                "instructor": "Lucy Cook",
+                "location": "IFT110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "332B",
+        "course_name": "Typography",
+        "units": "(2.0 units)",
+        "description": "Continuation of DES 332a.",
+        "sections": [
+            {
+                "section": "33460R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 2,
+                "registered": "18 of 20",
+                "instructor": "Lucy Cook",
+                "location": "IFT110"
+            },
+            {
+                "section": "33463R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 16,
+                "registered": "18 of 20",
+                "instructor": "Brian O'Connell",
+                "location": "IFT111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "402",
+        "course_name": "Advanced Design Projects",
+        "units": "(4.0 units, max 12)",
+        "description": "Advanced information design within a flexible curriculum. Emphasis on team-oriented projects.",
+        "sections": [
+            {
+                "section": "33461R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "20 of 20",
+                "instructor": "Ewa Wojciak",
+                "location": "IFT110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "413",
+        "course_name": "Professional Practice in Design",
+        "units": "(4.0 units)",
+        "description": "A summation of one's practice, with a focus on transitioning to a career as a professional designer.",
+        "sections": [
+            {
+                "section": "33464R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Peter Robbins",
+                "location": "IFT109"
+            },
+            {
+                "section": "33465D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "418",
+        "course_name": "Independent Studies in Design",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Independent research of specific topics under the direction of a faculty member. Administrative and faculty approval required.",
+        "sections": [
+            {
+                "section": "33788D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "419",
+        "course_name": "Professional Internship in the Arts",
+        "units": "(2.0 units, max 4)",
+        "description": "An experiential/academic opportunity in a museum, gallery, community cultural center or related facility. Lectures, seminars, written analysis and working internship.",
+        "sections": [
+            {
+                "section": "33794D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 30",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "432",
+        "course_name": "Special Projects in Design",
+        "units": "(2.0 units)",
+        "description": "Students work on projects for outside clients, and receive instruction in professional practices, advanced design techniques, and sophisticated technology. By invitation or portfolio review only. Only open to upper division students.",
+        "sections": [
+            {
+                "section": "33330D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "Alexis Zoto",
+                "location": "IFT111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "494A",
+        "course_name": "Senior Thesis",
+        "units": "(2.0 units)",
+        "description": "Research and writing of a senior-level thesis or thesis project under the supervision of a faculty committee.",
+        "sections": [
+            {
+                "section": "33326D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 4,
+                "registered": "18 of 20",
+                "instructor": "Brian O'Connell",
+                "location": "IFT110"
+            },
+            {
+                "section": "33327D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 8,
+                "registered": "9 of 20",
+                "instructor": "Jean Robison",
+                "location": "IFT111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "494B",
+        "course_name": "Senior Thesis",
+        "units": "(2.0 units)",
+        "description": "Research and writing of a senior-level thesis or thesis project under the supervision of a faculty committee.",
+        "sections": [
+            {
+                "section": "33325D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 16,
+                "registered": "6 of 20",
+                "instructor": "Peter Robbins",
+                "location": "IFT111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics of current interest.",
+        "sections": [
+            {
+                "section": "33797D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "Canceled",
+                "instructor": "Brian O'Connell",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "503",
+        "course_name": "Contemporary Issues in Design",
+        "units": "(4.0 units)",
+        "description": "An analytic seminar of topics, ideas and concepts in the contemporary design world.",
+        "sections": [
+            {
+                "section": "33600D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "10 of 40",
+                "instructor": "Miya Elise Desjardins",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "513",
+        "course_name": "Visiting Designers Forum",
+        "units": "(2.0 units, max 4)",
+        "description": "Professional practice of design featuring formal presentations by visiting designers.",
+        "sections": [
+            {
+                "section": "33601D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1270,
+                "days": 20,
+                "registered": "20 of 40",
+                "instructor": "Ken Ehrlich",
+                "location": "ATM113B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "520",
+        "course_name": "Individual Studies",
+        "units": "(2.0 units, max 8)",
+        "description": "Investigation of creative problems through various design media.",
+        "sections": [
+            {
+                "section": "33602D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 36,
+                "registered": "10 of 18",
+                "instructor": "April Greiman,Bruno Lemgruber,Brian O'Connell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33609D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 36,
+                "registered": "9 of 10",
+                "instructor": "Brian O'Connell,Bruno Lemgruber,April Greiman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "530",
+        "course_name": "Design Studio Co-Lab",
+        "units": "(2.0 units, max 6)",
+        "description": "A critical examination of contextual issues, theories, movements and ideas that are relevant to the contemporary design practice in collaboration with a professional client.",
+        "sections": [
+            {
+                "section": "33604D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 4,
+                "registered": "7 of 40",
+                "instructor": "Eric Junker",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "540",
+        "course_name": "Design Pedagogy",
+        "units": "(4.0 units)",
+        "description": "A critical examination and application of the issues, theories, and ideas that support the studio practice and teaching of contemporary design.",
+        "sections": [
+            {
+                "section": "33605D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "10 of 40",
+                "instructor": "China Adams",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "33606D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "0 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "591",
+        "course_name": "Field Internship Experience",
+        "units": "(2.0 units)",
+        "description": "Supervised internship in a design firm, or with an independent designer, on projects and research specific to design practice.",
+        "sections": [
+            {
+                "section": "33607D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 40",
+                "instructor": "Antonio Bartolome",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "33324D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 40",
+                "instructor": "Bruno Lemgruber",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "33323D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 40",
+                "instructor": "Bruno Lemgruber",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DES",
+        "course_num": "594Z",
+        "course_name": "Master's thesis",
+        "units": "(0.0 units)",
+        "description": "Credit upon acceptance of master's thesis.",
+        "sections": [
+            {
+                "section": "33322D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 40",
+                "instructor": "Haven Lin-Kirk",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

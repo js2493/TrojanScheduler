@@ -1,0 +1,529 @@
+[
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "701",
+        "course_name": "Orientation to Advanced Prosthodontics",
+        "units": "(0.0-5.0 units, max 5)",
+        "description": "Preclinical overview of materials, techniques, instrumentation, and treatment procedures necessary for providing advanced prosthodontic care in the clinical environment.",
+        "sections": [
+            {
+                "section": "24411D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Tae Ahn",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "702A",
+        "course_name": "Seminar: Treatment Planning",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "This course consists of seminars led by students with case presentations of complex multidisciplinary treatment plans, completed therapy and staff conferences.",
+        "sections": [
+            {
+                "section": "24412D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "702C",
+        "course_name": "Seminar: Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "This course consists of seminars led by students with case presentations of complex multidisciplinary treatment plans, completed therapy and staff conferences.",
+        "sections": [
+            {
+                "section": "24421D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "702F",
+        "course_name": "Seminar: Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "This course consists of seminars led by students with case presentations of complex multidisciplinary treatment plans, completed therapy and staff conferences.",
+        "sections": [
+            {
+                "section": "24427D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "703A",
+        "course_name": "Seminar: Review of the Prosthodontic Literature -- Fixed",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Weekly two hour seminars devoted to review of the historic, classic, and current literature in fixed prosthodontics.",
+        "sections": [
+            {
+                "section": "24413D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "703B",
+        "course_name": "Seminar: Review of the Prosthodontic Literature -- Fixed",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Weekly two hour seminars devoted to review of the historic, classic, and current literature in fixed prosthodontics.",
+        "sections": [
+            {
+                "section": "24422D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "703E",
+        "course_name": "Seminar: Review of the Prosthodontic Literature -- Fixed",
+        "units": "(1.0 unit)",
+        "description": "Weekly two hour seminars devoted to review of the historic, classic, and current literature in fixed prosthodontics.",
+        "sections": [
+            {
+                "section": "24428D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "704A",
+        "course_name": "Seminar: Review of the Prosthodontic Literature -- Removable",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Weekly two hour seminars devoted to review of the historic, classic, and current literature in removable prosthodontics.",
+        "sections": [
+            {
+                "section": "24414D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "704B",
+        "course_name": "Seminar: Review of the Prosthodontic Literature -- Removable",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Weekly two hour seminars devoted to review of the historic, classic, and current literature in removable prosthodontics.",
+        "sections": [
+            {
+                "section": "24423D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "704E",
+        "course_name": "Seminar: Review of the Prosthodontic Literature -- Removable",
+        "units": "(1.0 unit)",
+        "description": "Weekly two hour seminars devoted to review of the historic, classic, and current literature in removable prosthodontics.",
+        "sections": [
+            {
+                "section": "24432D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "705",
+        "course_name": "Advanced Fixed Prosthodontics Techniques",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Tooth preparation and advanced laboratory techniques necessary to implement full mouth rehabilitation.",
+        "sections": [
+            {
+                "section": "24415D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Tae Ahn",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "706",
+        "course_name": "Advanced Complete Denture Techniques",
+        "units": "(1.0 unit)",
+        "description": "Advanced laboratory and clinical skills for a specialty prosthodontic practice.",
+        "sections": [
+            {
+                "section": "24416D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Tae Ahn",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "710A",
+        "course_name": "Implant Dentistry",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Implant modalities and types; basis for selection; techniques of placement and of supervision of prosthodontic restoration. Includes a review of classic implant literature. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24401D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Winston Chee,George Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24405D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Winston Chee,George Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24417D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,George Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "710B",
+        "course_name": "Implant Dentisty",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Implant modalities and types; basis for selection; techniques of placement and of supervision of prosthodontic restoration. Includes a review of classic implant literature. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24407D",
+                "session": "370",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,George Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24425D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Winston Chee,George Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "710D",
+        "course_name": "Implant Dentisty",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Implant modalities and types; basis for selection; techniques of placement and of supervision of prosthodontic restoration. Includes a review of classic implant literature. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24409D",
+                "session": "394",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,George Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "721A",
+        "course_name": "Principles of Occlusion",
+        "units": "(2.0 units)",
+        "description": "Application of current occlusal concepts in removable prosthodontics. Techniques of occlusal adjustment and additive waxing for development of occlusal morphology.",
+        "sections": [
+            {
+                "section": "24400D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Tae Ahn",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24418D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Tae Ahn",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "761A",
+        "course_name": "Clinic: Advanced Prosthodontics",
+        "units": "(1.0-10.0 units)",
+        "description": "Students treat patients with complex interdisciplinary problems. A minimum of five full mouth reconstructions and 10 sets of complete dentures will be completed.",
+        "sections": [
+            {
+                "section": "24419D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "761D",
+        "course_name": "Clinic: Advanced Prosthodontics",
+        "units": "(1.0-10.0 units)",
+        "description": "Students treat patients with complex interdisciplinary problems. A minimum of five full mouth reconstructions and 10 sets of complete dentures will be completed.",
+        "sections": [
+            {
+                "section": "24424D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "761H",
+        "course_name": "Clinic: Advanced Prosthodontics",
+        "units": "(1.0-10.0 units)",
+        "description": "Students treat patients with complex interdisciplinary problems. A minimum of five full mouth reconstructions and 10 sets of complete dentures will be completed.",
+        "sections": [
+            {
+                "section": "24430D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "782A",
+        "course_name": "Clinic: Implant Prosthodontics",
+        "units": "(0.0-10.0 units, max 5)",
+        "description": "Clinical procedures in implants for prosthodontic rehabilitation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24420D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "George Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "782B",
+        "course_name": "Clinic: Implant Prosthodontics",
+        "units": "(0.0-10.0 units, max 5)",
+        "description": "Clinical procedures in implants for prosthodontic rehabilitation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24426D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "George Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "782C",
+        "course_name": "Clinic: Implant Prosthodontics",
+        "units": "(0.0-10.0 units, max 3)",
+        "description": "Clinical procedures in implants for prosthodontic rehabilitation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24431D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "George Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REST",
+        "course_num": "782D",
+        "course_name": "Clinic: Implant Prosthodontics",
+        "units": "(0.0-10.0 units, max 1)",
+        "description": "Clinical procedures in implants for prosthodontic rehabilitation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24410D",
+                "session": "394",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Kian Kar",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

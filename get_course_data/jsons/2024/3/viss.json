@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20243",
+        "department": "VISS",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Special Topics in Visual Studies.",
+        "sections": [
+            {
+                "section": "12254D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "13 of 14",
+                "instructor": "Daniela Bleichmar",
+                "location": "THH308"
+            }
+        ]
+    }
+]

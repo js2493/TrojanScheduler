@@ -1,0 +1,829 @@
+[
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "120",
+        "course_name": "Introduction to Chemical Engineering",
+        "units": "(4.0 units)",
+        "description": "Problem-solving techniques in chemical engineering, including an introduction to engineering problem analysis, mass balances, and energy balances.",
+        "sections": [
+            {
+                "section": "29400D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "37 of 37",
+                "instructor": "Nicholas Graham",
+                "location": "KAP158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "305",
+        "course_name": "Numerical and Statistical Analysis for Chemical Engineers",
+        "units": "(4.0 units)",
+        "description": "Introduction to numerical algorithms, computational tools, principles of probability and statistics, and their application to chemical engineering problems.",
+        "sections": [
+            {
+                "section": "29407D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "30 of 41",
+                "instructor": "Wade Zeno",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "330",
+        "course_name": "Chemical Engineering Thermodynamics",
+        "units": "(4.0 units)",
+        "description": "Basic laws, energy and entropy balances. Multi-component phase behavior. Physical and chemical equilibria. Energy conversion and equilibrium separation processes, estimation and use of property data.",
+        "sections": [
+            {
+                "section": "29409D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "49 of 60",
+                "instructor": "Jincai Chang",
+                "location": "THH116"
+            },
+            {
+                "section": "29410R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "28 of 28",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "29411R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "21 of 30",
+                "instructor": "",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "430",
+        "course_name": "Principles and Applications of Systems Biology",
+        "units": "(4.0 units)",
+        "description": "Computational methods for simulation and analysis of metabolic networks, cellular signaling pathways, and gene regulatory networks. Biochemical kinetics, differential equations, stability analysis, sensitivity analysis.",
+        "sections": [
+            {
+                "section": "29253D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "13 of 30",
+                "instructor": "Stacey Finley,William Yang",
+                "location": "DMC211"
+            },
+            {
+                "section": "29254R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 4,
+                "registered": "13 of 30",
+                "instructor": "",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "443",
+        "course_name": "Chemical Engineering Fluid Mechanics",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles of fluid mechanics and momentum transfer applied to chemical engineering and chemical processing operations.",
+        "sections": [
+            {
+                "section": "29415D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "30 of 45",
+                "instructor": "Noah Malmstadt",
+                "location": "KAP156"
+            },
+            {
+                "section": "29416R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "GFS105"
+            },
+            {
+                "section": "29417R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 16,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "444B",
+        "course_name": "Chemical Engineering Laboratory",
+        "units": "(2.0 units)",
+        "description": "Conduct experiments and analyze data to generate results used to solve chemical engineering problems. Communicate results, data, and solutions in written reports and oral presentations.",
+        "sections": [
+            {
+                "section": "29419D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "28 of 36",
+                "instructor": "Jincai Chang",
+                "location": "DMC258"
+            },
+            {
+                "section": "29420R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE104"
+            },
+            {
+                "section": "29421R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE104"
+            },
+            {
+                "section": "29422R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "4 of 12",
+                "instructor": "",
+                "location": "PCE104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "450",
+        "course_name": "Sustainable Energy",
+        "units": "(4.0 units)",
+        "description": "Overview of sustainable energy, with emphasis on quantitative approaches to evaluate sustainability and examination of renewable sources of energy from the perspective of sustainability.",
+        "sections": [
+            {
+                "section": "29406R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "10 of 24",
+                "instructor": "Shaama Mallikarjun Sharada",
+                "location": "VHE210"
+            },
+            {
+                "section": "29429R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 8,
+                "registered": "10 of 24",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "460",
+        "course_name": "Chemical Process Dynamics and Control",
+        "units": "(4.0 units)",
+        "description": "Dynamic analysis and automation of chemical processes using closed loop control schemes. Control schemes are analyzed, simulated and implemented in the laboratory.",
+        "sections": [
+            {
+                "section": "29431D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "28 of 47",
+                "instructor": "Jay Lee",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "29432R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "28 of 47",
+                "instructor": "",
+                "location": "PCE104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "461",
+        "course_name": "Formation Data Sensing with Well Logs",
+        "units": "(4.0 units)",
+        "description": "Measurement theory and petroleum/geothermal applications of electrical, radioactive, acoustic, and production logging tools. Estimation of rock porosity, water saturation, permeability, shale content, gas flow rate.",
+        "sections": [
+            {
+                "section": "32204D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 910,
+                "days": 10,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32206D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 910,
+                "days": 10,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "463",
+        "course_name": "Introduction to Transport Processes in Porous Media",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of flow and transport in porous materials including: Properties of porous rocks, capillarity effect, single- and multiphase flow, diffusion and dispersion in miscible displacements.",
+        "sections": [
+            {
+                "section": "32208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1090,
+                "days": 8,
+                "registered": "0 of 28",
+                "instructor": "Kristian Jessen",
+                "location": "RTH105"
+            },
+            {
+                "section": "32290R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "PCE313"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "465",
+        "course_name": "Drilling Technology and Subsurface Methods",
+        "units": "(3.0 units)",
+        "description": "Theory and practice in drilling technology; mechanical properties of reservoir rocks; well completion; acidizing and fracturing, oilproduction gechnology. Lecture, 3 hours; laboratory, 3 hours",
+        "sections": [
+            {
+                "section": "32212D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 620,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "Iraj Ershaghi",
+                "location": ""
+            },
+            {
+                "section": "32214R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 810,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "PCE313"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "475",
+        "course_name": "Physical Properties of Polymers",
+        "units": "(4.0 units)",
+        "description": "Introduction to polymer physical properties and characterization, relationship to synthesis techniques and processing techniques, natural and synthetic materials, property optimization and modern applications.",
+        "sections": [
+            {
+                "section": "29452D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "7 of 30",
+                "instructor": "Malancha Gupta",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "485",
+        "course_name": "Computer-Aided Chemical Process Design",
+        "units": "(4.0 units)",
+        "description": "Simulate, design and optimize chemical engineering unit operations and process using modern process simulation software.",
+        "sections": [
+            {
+                "section": "29436D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "26 of 45",
+                "instructor": "Pin Wang",
+                "location": "MHPB7B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "488",
+        "course_name": "Molecular and Cellular Bioengineering",
+        "units": "(3.0 units)",
+        "description": "Design, synthesis, and analysis of biological molecules; routes to understand and engineer living systems at the molecular and cellular level; systems and synthetic biology.",
+        "sections": [
+            {
+                "section": "29439R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "0 of 15",
+                "instructor": "Richard Roberts",
+                "location": "DMC104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "29440D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 7",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "501",
+        "course_name": "Modeling and Analysis of Chemical Engineering Systems",
+        "units": "(4.0 units)",
+        "description": "Advanced treatment of mathematical modeling and analysis of Chemical Engineering core topics including fluid flow, heat and mass transfer, reaction engineering, and deformation of materials.",
+        "sections": [
+            {
+                "section": "29460D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "12 of 25",
+                "instructor": "Muhammad Sahimi",
+                "location": "OHE132"
+            },
+            {
+                "section": "29461D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "2 of 25",
+                "instructor": "Muhammad Sahimi",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "510",
+        "course_name": "Energy and Process Efficiency",
+        "units": "(4.0 units)",
+        "description": "Systematic engineering practices to augment energy efficiency while minimizing associated economic expenditures; encompasses a wide-ranging analysis of various power generation modalities.",
+        "sections": [
+            {
+                "section": "29463D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "5 of 40",
+                "instructor": "Virgil Adumitroaie",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "520",
+        "course_name": "Mathematical Methods for Deep Learning",
+        "units": "(4.0 units)",
+        "description": "Understanding deep learning: for students in engineering, physical and life sciences and computer science with mathematical background.",
+        "sections": [
+            {
+                "section": "32127R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 24",
+                "instructor": "Rajiv Kalia",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "538",
+        "course_name": "Transport Processes I",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of transport processes - momentum, heat and mass transfer - in systems of interest to chemical engineering.",
+        "sections": [
+            {
+                "section": "29441D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "1 of 30",
+                "instructor": "Muhammad Sahimi",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29462D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "12 of 40",
+                "instructor": "Muhammad Sahimi",
+                "location": "OHE100C"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "542",
+        "course_name": "Chemical Engineering Kinetics",
+        "units": "(4.0 units)",
+        "description": "Advanced concepts in Reaction Engineering and Reactor Design.",
+        "sections": [
+            {
+                "section": "29469D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "0 of 25",
+                "instructor": "Theo Tsotsis",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29470D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "17 of 25",
+                "instructor": "Theo Tsotsis",
+                "location": "OHE136"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "550",
+        "course_name": "Seminars in Chemical Engineering",
+        "units": "(0.0-1.0 units, max 2)",
+        "description": "Seminars to cover recent developments in the field of chemical engineering given by invited speakers.",
+        "sections": [
+            {
+                "section": "29497D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 4,
+                "registered": "11 of 76",
+                "instructor": "",
+                "location": "ZHS352"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29476D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 35",
+                "instructor": "Andrea Hodge",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29478D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on accceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29479D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29480D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29484D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 40",
+                "instructor": "Andrea Hodge",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29486D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29487D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29488D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29489D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29490D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

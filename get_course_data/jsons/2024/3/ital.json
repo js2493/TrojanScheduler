@@ -1,0 +1,341 @@
+[
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "012",
+        "course_name": "Italian 120 Language Practicum",
+        "units": "(1.0 unit)",
+        "description": "English grammar as it relates to Italian in order to improve students' Italian language skills; explicit pronunciation and intonation practice. Requires concurrent enrollment in either ITAL 120 Italian I or MPVA 260 Italian Language and Diction.",
+        "sections": [
+            {
+                "section": "34412D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "015",
+        "course_name": "Italian 150 Language Practicum",
+        "units": "(1.0 unit)",
+        "description": "English grammar as it relates to Italian in order to improve students Italian language skills; explicit pronunciation and intonation practice.",
+        "sections": [
+            {
+                "section": "34415D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "020",
+        "course_name": "Course in Reading Italian",
+        "units": "(2.0 units)",
+        "description": "For graduate students who wish help in meeting the Italian reading requirement for the Ph.D. degree. Synoptic presentation of Italian grammar. Emphasis on development of reading skills. Graded CR/NC. Not available for degree credit.",
+        "sections": [
+            {
+                "section": "34400D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "1 of 10",
+                "instructor": "Francesca Ricciardelli",
+                "location": "DMC209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "120",
+        "course_name": "Italian I",
+        "units": "(4.0 units)",
+        "description": "Introduction to current Italian. Oral practice, hearing and reading comprehension; grammar necessary for simple spoken and written expression. Lecture, classroom drill, laboratory drill.",
+        "sections": [
+            {
+                "section": "34403D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "8 of 19",
+                "instructor": "Antonio Idini",
+                "location": "DMC109"
+            },
+            {
+                "section": "34404D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "7 of 19",
+                "instructor": "Antonio Idini",
+                "location": "DMC160"
+            },
+            {
+                "section": "34405D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Alessio Filippi",
+                "location": "DMC260"
+            },
+            {
+                "section": "34406D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "15 of 19",
+                "instructor": "Alessio Filippi",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "150",
+        "course_name": "Italian II",
+        "units": "(4.0 units)",
+        "description": "Continuation of Italian I.",
+        "sections": [
+            {
+                "section": "34418R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 0,
+                "registered": "10 of 19",
+                "instructor": "Francesca Ricciardelli",
+                "location": "WPH206"
+            },
+            {
+                "section": "34421R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 0,
+                "registered": "17 of 19",
+                "instructor": "Francesca Ricciardelli",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "175",
+        "course_name": "Accelerated Italian for Speakers of Spanish and Other Romance Languages",
+        "units": "(4.0 units)",
+        "description": "Accelerated introduction to written and spoken Italian for students with a high level of proficiency in Spanish or another Romance Language. Students completing this course may enroll in the third semester of the basic language sequence ITAL 220.",
+        "sections": [
+            {
+                "section": "34426R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "8 of 19",
+                "instructor": "James Fortney",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "220",
+        "course_name": "Italian III",
+        "units": "(4.0 units)",
+        "description": "Continuation of Italian II. Review of structure of the language, drill in aural and reading comprehension, practice in oral expression.",
+        "sections": [
+            {
+                "section": "34427R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "9 of 19",
+                "instructor": "Francesca Leardini",
+                "location": "DMC157"
+            },
+            {
+                "section": "34430R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "11 of 19",
+                "instructor": "Francesca Leardini",
+                "location": "DMC157"
+            },
+            {
+                "section": "34431R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 0,
+                "registered": "8 of 19",
+                "instructor": "Alessio Filippi",
+                "location": "DMC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "222",
+        "course_name": "Italian Professional Internship: Communication and Culture",
+        "units": "(2.0 units)",
+        "description": "Combined classroom discussion and supervised internship at companies. Practical experience in applying communication and cultural knowledge in a professional employment context.",
+        "sections": [
+            {
+                "section": "34433D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 32,
+                "registered": "4 of 10",
+                "instructor": "Francesca Ricciardelli",
+                "location": "THH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "240",
+        "course_name": "Italian IV",
+        "units": "(4.0 units)",
+        "description": "Continuation of Italian III. Review and expand upon abilities to create with the language in concrete exchanges, descriptions, comparisons, questions and discussions relevant to current issues and topics.",
+        "sections": [
+            {
+                "section": "34434R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "7 of 16",
+                "instructor": "Antonio Idini",
+                "location": "THH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "320",
+        "course_name": "Critical Writing in Italian",
+        "units": "(4.0 units)",
+        "description": "Advanced composition through critical reading of literary texts; comprehensive analysis of difficult grammatical structures and stylistics.",
+        "sections": [
+            {
+                "section": "34438R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "3 of 10",
+                "instructor": "Francesca Leardini",
+                "location": "THH221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "382",
+        "course_name": "Dante",
+        "units": "(4.0 units)",
+        "description": "Analysis of the Divina Commedia and other works. Conducted in English. (Duplicates credit in former ITAL 450)",
+        "sections": [
+            {
+                "section": "34446R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Ruggero Sciuto",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "401",
+        "course_name": "Studies in Early Modernity",
+        "units": "(4.0 units, max 8)",
+        "description": "Study and analysis of representative works and major intellectual, cultural, and artistic trends from the early modern period (pre-1800).",
+        "sections": [
+            {
+                "section": "34449R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "5 of 16",
+                "instructor": "Ruggero Sciuto",
+                "location": "LVL3Y"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITAL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "34450D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

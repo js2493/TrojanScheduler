@@ -1,0 +1,1422 @@
+[
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "106",
+        "course_name": "Introduction to Civil Engineering",
+        "units": "(2.0 units)",
+        "description": "Introduction to the civil engineering discipline, subdisciplines, technology and problem solving; technical report writing; contemporary civil engineering topics; engineering ethics.",
+        "sections": [
+            {
+                "section": "29600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "31 of 35",
+                "instructor": "Amy Rechenmacher",
+                "location": "KAP158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "110",
+        "course_name": "Introduction to Environmental Engineering",
+        "units": "(2.0 units)",
+        "description": "Basic concepts of environmental engineering including topics of water, land, energy, air, climate, resource management, human society and professional development.",
+        "sections": [
+            {
+                "section": "29604R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 620,
+                "days": 20,
+                "registered": "15 of 30",
+                "instructor": "Amy Childress,Adam Smith,Kandis Leslie Abdul-Aziz,Jiachen Zhang,Felipe De Barros,Adam Simpson",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "119",
+        "course_name": "Statistical Data Analysis in Engineering",
+        "units": "(2.0 units)",
+        "description": "Data exploration and visualization, fundamentals of probability distributions and statistical inference (including notions of confidence interval, maximum likelihood, regression).",
+        "sections": [
+            {
+                "section": "29605R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 8,
+                "registered": "45 of 49",
+                "instructor": "Audrey Olivier",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "215",
+        "course_name": "Statics and Dynamics",
+        "units": "(4.0 units)",
+        "description": "Statics, kinematics and kinetics of systems of particles and rigid bodies; equivalent force systems; distributed forces and applications; moments of inertia, momentum, energy; vibrations; Eulers equations.",
+        "sections": [
+            {
+                "section": "29609R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "47 of 48",
+                "instructor": "Amy Rechenmacher",
+                "location": ""
+            },
+            {
+                "section": "29613R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "47 of 48",
+                "instructor": "",
+                "location": "KAP156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "334",
+        "course_name": "Mechanical Behavior of Materials",
+        "units": "(4.0 units)",
+        "description": "Basic material science, atomic bonding, crystalline structures, structural and mechanical behavior and characterization of metals, concrete, wood, composites and asphalt.",
+        "sections": [
+            {
+                "section": "29636R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "32 of 36",
+                "instructor": "Bora Gencturk",
+                "location": "KAP145"
+            },
+            {
+                "section": "29638R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "9 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            },
+            {
+                "section": "29640R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "7 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            },
+            {
+                "section": "29641R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 2,
+                "registered": "9 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            },
+            {
+                "section": "29642R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "7 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "358",
+        "course_name": "Elementary Theory of Structures",
+        "units": "(4.0 units)",
+        "description": "Deformations and deflections of elastic systems; statically indeterminate beams, arches, and frames; secondary stresses; computer analysis of simple structural systems.",
+        "sections": [
+            {
+                "section": "29644R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "35 of 36",
+                "instructor": "Mihailo Trifunac",
+                "location": ""
+            },
+            {
+                "section": "29648R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "35 of 36",
+                "instructor": "",
+                "location": "GFS116"
+            },
+            {
+                "section": "29646R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "35 of 36",
+                "instructor": "",
+                "location": "SAL126"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "408",
+        "course_name": "Risk and Decision Analysis in Civil Engineering",
+        "units": "(2.0 units)",
+        "description": "Introduction to probabilistic concepts and to the formulation and solution of related problems in civil and environmental engineering.",
+        "sections": [
+            {
+                "section": "29655R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "49 of 50",
+                "instructor": "Roger Ghanem",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "410",
+        "course_name": "Introduction to Environmental Engineering Microbiology",
+        "units": "(4.0 units)",
+        "description": "Fundamentals and applications of microbiology in the context of natural and engineered environmental systems.",
+        "sections": [
+            {
+                "section": "29616R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "20 of 21",
+                "instructor": "Adam Smith",
+                "location": "THHB9"
+            },
+            {
+                "section": "29617R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "20 of 21",
+                "instructor": "",
+                "location": "BHEB8"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "430",
+        "course_name": "Sustainable Transportation",
+        "units": "(2.0 units)",
+        "description": "Sustainability practices in building and maintaining transportation infrastructure; interrelations between innovation, policies and regulations for improving mobility services while reducing the environmental impact.",
+        "sections": [
+            {
+                "section": "29625R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "9 of 20",
+                "instructor": "Eric Shen",
+                "location": "RTH115"
+            },
+            {
+                "section": "29626D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "0 of 10",
+                "instructor": "Eric Shen",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "450",
+        "course_name": "Coastal Engineering and Design",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of wave motion and coastal wave transformation. Statistical analysis of oceanographic conditions. Basics of coastal infrastructure design and coastal planning.",
+        "sections": [
+            {
+                "section": "29620R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "6 of 30",
+                "instructor": "Costas Synolakis",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "453",
+        "course_name": "Water Quality Science and Engineering",
+        "units": "(4.0 units)",
+        "description": "Water quality criteria and fundamentals of acceptability; processes employed in treatment of water and wastewater; water reclamation and reuse; sustainability in water and wastewater systems.",
+        "sections": [
+            {
+                "section": "29670R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Adam Simpson",
+                "location": "ZHS360"
+            },
+            {
+                "section": "29671R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "GFS210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "456",
+        "course_name": "Structural Design I",
+        "units": "(4.0 units)",
+        "description": "Structural design processes for wood, steel, concrete, and masonry structural beams, columns, and connections; determination of structural loads; framing systems; and applications of structural mechanics to the design process.",
+        "sections": [
+            {
+                "section": "29673R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "32 of 40",
+                "instructor": "Maria Mohammed",
+                "location": "GFS207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "459",
+        "course_name": "Introduction to Structural Dynamics",
+        "units": "(2.0 units)",
+        "description": "Response of single and multiple degree of freedom systems to dynamic excitation; structural modeling and approximate solutions; introduction to earthquake resistant design.",
+        "sections": [
+            {
+                "section": "29674R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "6 of 20",
+                "instructor": "Mihailo Trifunac",
+                "location": "THH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "460",
+        "course_name": "Construction Engineering",
+        "units": "(4.0 units)",
+        "description": "Introduction to the construction processes; estimating and bidding, construction administration, planning and scheduling, equipment and methods, labor relations, cost control systems, safety and ethics.",
+        "sections": [
+            {
+                "section": "29677R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 920,
+                "days": 2,
+                "registered": "18 of 36",
+                "instructor": "Henry Koffman",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "469",
+        "course_name": "Sustainable Design and Construction",
+        "units": "(2.0 units)",
+        "description": "Leadership in Energy and Environmental Design (LEED); green building strategies; carbon footprinting; calculating the embodied energy of building materials; cyclical processes in design and construction.",
+        "sections": [
+            {
+                "section": "29607R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 820,
+                "days": 4,
+                "registered": "21 of 60",
+                "instructor": "Henry Koffman",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29612D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 820,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "Henry Koffman",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "470",
+        "course_name": "Building Information Modeling: Project Visualization and Sim",
+        "units": "(4.0 units)",
+        "description": "Building Information Modeling, current BIM technologies; coordination of design and construction; information management throughout building lifecycle; project visualization and simulation for integrated practice.",
+        "sections": [
+            {
+                "section": "29615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 830,
+                "days": 2,
+                "registered": "12 of 27",
+                "instructor": "Burcin Becerik",
+                "location": "RTH115"
+            },
+            {
+                "section": "29618D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 830,
+                "days": 2,
+                "registered": "6 of 10",
+                "instructor": "Burcin Becerik",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "471",
+        "course_name": "Principles of Transportation Engineering",
+        "units": "(4.0 units)",
+        "description": "Planning, design, construction, maintenance, and operation of facilities for air, water, rail and highway transit systems.",
+        "sections": [
+            {
+                "section": "29699R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "19 of 35",
+                "instructor": "Ketan Savla",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "482",
+        "course_name": "Subsurface Foundation Design",
+        "units": "(4.0 units)",
+        "description": "Site exploration and characterization; analysis and design of structural foundations, including spread footings, mats, piles and drilled shafts; retaining wall and braced excavation design.",
+        "sections": [
+            {
+                "section": "29709R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 35",
+                "instructor": "Chukwuebuka Nweke",
+                "location": "DMC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "485",
+        "course_name": "Water and Wastewater Treatment Design",
+        "units": "(4.0 units)",
+        "description": "Engineering design of unit operations and processes for water and wastewater treatment: coagulation, sedimentation, filtration, disinfection; primary, secondary, tertiary, advanced treatment; sludge treatment and processing.",
+        "sections": [
+            {
+                "section": "29712R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "21 of 23",
+                "instructor": "Wonho Song",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "29715D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Amy Rechenmacher",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Course content to be selected each semester from recent developments in civil engineering and related fields.",
+        "sections": [
+            {
+                "section": "29720R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "0 of 20",
+                "instructor": "Tyler Sendelbach",
+                "location": "GFS108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "501",
+        "course_name": "Architecture, Engineering and Construction Practices",
+        "units": "(4.0 units)",
+        "description": "Systems, processes, and constraints governing the initiation, direction, engineering, and delivery of major construction projects. Professional construction management, responsibilities, and practice.",
+        "sections": [
+            {
+                "section": "29719R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "21 of 41",
+                "instructor": "Sandra Ichiho",
+                "location": "KAP156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "502",
+        "course_name": "Construction Accounting, Finance and Strategy",
+        "units": "(4.0 units)",
+        "description": "Fundamental accounting principles, financial analysis and financial control, strategic management and a review of alternative project delivery methods.",
+        "sections": [
+            {
+                "section": "29724R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "20 of 35",
+                "instructor": "Ed Reynolds",
+                "location": "RTH115"
+            },
+            {
+                "section": "29725D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "10 of 20",
+                "instructor": "Ed Reynolds",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "507",
+        "course_name": "Mechanics of Solids I",
+        "units": "(4.0 units)",
+        "description": "Fundamental theory of linear elasticity applicable to multiple branches of solid mechanics.",
+        "sections": [
+            {
+                "section": "29732R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "17 of 40",
+                "instructor": "Vincent Lee",
+                "location": "RTH105"
+            },
+            {
+                "section": "29733D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "8 of 17",
+                "instructor": "Vincent Lee",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "521",
+        "course_name": "Transportation Systems Analysis",
+        "units": "(4.0 units)",
+        "description": "Economic and systems level aspects of transportation; traveler decision models; network performance; congestion pricing; resource allocation; revenue forecasting and project evaluation.",
+        "sections": [
+            {
+                "section": "29801R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 760,
+                "days": 10,
+                "registered": "7 of 20",
+                "instructor": "Ketan Savla",
+                "location": "HED103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "523",
+        "course_name": "Physiochemical Processes in Environmental Engineering",
+        "units": "(4.0 units)",
+        "description": "Concepts and applications of physicochemical processes in engineered systems, including coagulation, sedimentation, filtration, adsorption and membrane processes.",
+        "sections": [
+            {
+                "section": "29736R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "4 of 30",
+                "instructor": "Amy Childress",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "527",
+        "course_name": "Climate Change and Atmospheric Aerosols",
+        "units": "(4.0 units)",
+        "description": "Climate change; climate science fundamentals; Earth's energy balance and atmosphere; greenhouse gas dynamics; fundamentals of airborne particles; climate-aerosol interactions; particle-radiation and particle-cloud interactions.",
+        "sections": [
+            {
+                "section": "31420R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "27 of 30",
+                "instructor": "Jiachen Zhang",
+                "location": "OHE120"
+            },
+            {
+                "section": "31422D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "4 of 10",
+                "instructor": "Jiachen Zhang",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31421R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1110,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "27 of 30",
+                "instructor": "Jiachen Zhang",
+                "location": "OHE120"
+            },
+            {
+                "section": "31424D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1110,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "4 of 10",
+                "instructor": "Jiachen Zhang",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "529",
+        "course_name": "Finite Element Analysis",
+        "units": "(4.0 units)",
+        "description": "Basic concepts; variational methods; isoparametric formulation; plane stress; plane strain; axisymmetric structures; plates and shells; structural dynamics; stability and buckling; computer applications; nonlinear analysis.",
+        "sections": [
+            {
+                "section": "29743R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "10 of 30",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "RTH105"
+            },
+            {
+                "section": "29744R",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "2 of 10",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29746R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 8,
+                "registered": "10 of 30",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29747D",
+                "session": "034",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "531",
+        "course_name": "Quantifying Uncertainty in Civil & Environmental Engineering",
+        "units": "(2.0 units)",
+        "description": "Introduction to uncertainty quantification; fundamentals of probability theory, forward propagation of uncertainties, probabilistic inference from data; civil and environmental engineering applications.",
+        "sections": [
+            {
+                "section": "29800R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "13 of 30",
+                "instructor": "Audrey Olivier",
+                "location": "RTH105"
+            },
+            {
+                "section": "29860D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "8 of 10",
+                "instructor": "Audrey Olivier",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "535",
+        "course_name": "Earthquake Engineering: Strong Motion Studies",
+        "units": "(2.0 units)",
+        "description": "Earthquake source mechanisms; wave propagation, scattering, diffraction and amplification; scaling of strong ground motion for seismic hazard analysis for earthquake resistant design.",
+        "sections": [
+            {
+                "section": "29767R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1030,
+                "days": 16,
+                "registered": "7 of 20",
+                "instructor": "Mihailo Trifunac",
+                "location": "GFS108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "539",
+        "course_name": "Advanced Steel Structures",
+        "units": "(4.0 units)",
+        "description": "Structural steel and its properties, the design of typical steel buildings and design and performance of steel buildings for earthquake loads.",
+        "sections": [
+            {
+                "section": "29768R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "14 of 25",
+                "instructor": "Sifat Muin",
+                "location": "OHE136"
+            },
+            {
+                "section": "29769D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "5 of 10",
+                "instructor": "Sifat Muin",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "543",
+        "course_name": "Structural Instability and Failure",
+        "units": "(4.0 units)",
+        "description": "Stability analysis of columns, frames, plates, circular rings and shells; Energy-based method; Dynamic analysis of structural stability; Elastic fracture mechanics; Small-strain plasticity.",
+        "sections": [
+            {
+                "section": "29766R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Qiming Wang",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "553",
+        "course_name": "Biological Processes in Environmental Engineering",
+        "units": "(4.0 units)",
+        "description": "Design of aerobic and anaerobic biological treatment processes for organic and inorganic pollutant removal and resource recovery from waste streams.",
+        "sections": [
+            {
+                "section": "29760R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "4 of 35",
+                "instructor": "Adam Smith",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "562",
+        "course_name": "Aquatic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Quantitative prediction of chemical speciation in aquatic systems, including acid-base chemistry, precipitation/dissolution, complexation, oxidation/reduction and phase partitioning of organics. Applications to water treatment.",
+        "sections": [
+            {
+                "section": "31415R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "12 of 30",
+                "instructor": "Adam Simpson",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "564",
+        "course_name": "Construction Planning and Preconstruction",
+        "units": "(4.0 units)",
+        "description": "The steps and processes for the planning and pre-construction phases of a project using tools and technologies for budgeting, scheduling and planning.",
+        "sections": [
+            {
+                "section": "29828D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 16,
+                "registered": "4 of 10",
+                "instructor": "Jonathan Holzer",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29829R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 16,
+                "registered": "26 of 35",
+                "instructor": "Jonathan Holzer",
+                "location": "RTH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "569",
+        "course_name": "Project Controls",
+        "units": "(4.0 units)",
+        "description": "Project controls principles including costs and schedules, cost engineering concepts, schedule development, status evaluation, progress monitoring and responses to variances and changes.",
+        "sections": [
+            {
+                "section": "29837R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "1 of 30",
+                "instructor": "Devang Dedhia",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "573",
+        "course_name": "Advanced Technologies in AEC Practices",
+        "units": "(4.0 units)",
+        "description": "Data-centric engineering paradigms, modeling and simulation technologies; applications for Architecture, Engineering and Construction (AEC) projects or challenges.",
+        "sections": [
+            {
+                "section": "29840R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "21 of 35",
+                "instructor": "David Gerber",
+                "location": "OHE122"
+            },
+            {
+                "section": "29850D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "8 of 10",
+                "instructor": "David Gerber",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "574",
+        "course_name": "Construction Means and Methods",
+        "units": "(4.0 units)",
+        "description": "Job site logistics, field management, means and methods as they pertain to the builder, with an emphasis on constructability, productivity and schedule impacts for building construction.",
+        "sections": [
+            {
+                "section": "29841R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "17 of 30",
+                "instructor": "Daniel Mcauliffe",
+                "location": "RTH115"
+            },
+            {
+                "section": "29842D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Daniel Mcauliffe",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "577",
+        "course_name": "Data Analytics for Surface Transportation",
+        "units": "(4.0 units)",
+        "description": "Investigating, analyzing, and incorporating data sources, case studies, and statistical tools to explore surface transportation systems.",
+        "sections": [
+            {
+                "section": "29807R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 16,
+                "registered": "5 of 18",
+                "instructor": "Roxana Javid",
+                "location": "WPH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "579",
+        "course_name": "Introduction to Transportation Planning Law",
+        "units": "(2.0 units)",
+        "description": "Federal and state statutory and regulatory requirements affecting California transportation systems, including transportation planning and funding law; and government contracting, environmental and civil rights requirements.",
+        "sections": [
+            {
+                "section": "29813R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1210,
+                "days": 2,
+                "registered": "5 of 25",
+                "instructor": "Patrick Harder",
+                "location": "GFS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "584",
+        "course_name": "Intelligent Transportation Operations",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of intelligent transportation systems, including automated vehicle technology and applications, communication systems, advanced transportation management systems, policy issues, transportation network services and smart cities.",
+        "sections": [
+            {
+                "section": "29816R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 4,
+                "registered": "9 of 20",
+                "instructor": "Roxana Javid",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29815D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded Cr/NC.",
+        "sections": [
+            {
+                "section": "29809D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29810D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 9)",
+        "description": "Course content will be selected each semester to reflect current trends and developments in the field of civil engineering.",
+        "sections": [
+            {
+                "section": "29825R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "3 of 15",
+                "instructor": "Farzad Naeim",
+                "location": "GFS212"
+            },
+            {
+                "section": "29826R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "3 of 15",
+                "instructor": "Berok Khoshnevis",
+                "location": "GFS201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "634",
+        "course_name": "Institutional and Policy Issues in Transportation",
+        "units": "(4.0 units)",
+        "description": "Analysis of policies relating to transportation alternatives; institutional environment and background; federal, state, regional, and local agency responsibilities and interactions.",
+        "sections": [
+            {
+                "section": "51239D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "22 of 37",
+                "instructor": "Hasan Ikhrata",
+                "location": "VPD116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "647",
+        "course_name": "Multiscale Methods in Mechanics",
+        "units": "(3.0 units)",
+        "description": "Behavior of manmade and natural materials at different scales; experimental methods to characterize behavior; governing equations, interscale coupling, information exchange; probabilistic representations; error analysis. Prerequisite: AME 525 or AME 526 or CE 525 or CE 526.",
+        "sections": [
+            {
+                "section": "29808R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 2,
+                "registered": "0 of 12",
+                "instructor": "Roger Ghanem",
+                "location": "THH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "670",
+        "course_name": "Advanced Research Methods for Built Environment Informatics",
+        "units": "(3.0 units)",
+        "description": "Research methods in informatics for intelligent built environments; data acquisition, analysis and interpretation for adaptive and responsive built environments and their interactions with end users.",
+        "sections": [
+            {
+                "section": "29820D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 930,
+                "days": 4,
+                "registered": "4 of 12",
+                "instructor": "Burcin Becerik",
+                "location": "WPH400"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29824D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29830D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29831R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29832R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29833R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29834D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "term": "20243",
+        "department": "OPR",
+        "course_num": "704",
+        "course_name": "Oral Pathology and Maxillofacial Medicine",
+        "units": "(2.0 units)",
+        "description": "Review of oral diseases affecting the oral cavity which includes developmental conditions, pigmented lesions, Immune-Mediated and Allergic Conditions, mucosal and connective tissue abnormalities.",
+        "sections": [
+            {
+                "section": "24571D",
+                "session": "341",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 4",
+                "instructor": "Parish Sedghizadeh,Audrey Boros,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24572D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Parish Sedghizadeh,Audrey Boros,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24575D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 25",
+                "instructor": "Parish Sedghizadeh,Audrey Boros,Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24576D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 3",
+                "instructor": "Parish Sedghizadeh,Audrey Boros,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

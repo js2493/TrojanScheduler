@@ -1,0 +1,87 @@
+[
+    {
+        "term": "20242",
+        "department": "PUBD",
+        "course_number": "500",
+        "course_name": "Introduction to the Advanced Study of Public Diplomacy",
+        "units": "(4.0 units)",
+        "description": "Introduction to the advanced academic study of public diplomacy from multidisciplinary perspectives: including media and communication, international relations and history.",
+        "sections": [
+            {
+                "section": "52830D",
+                "session": "339",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jay Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52831D",
+                "session": "914",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PUBD",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the school. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52880D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52881D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PUBD",
+        "course_number": "596",
+        "course_name": "Practicum in Public Diplomacy Research",
+        "units": "(4.0 units)",
+        "description": "Development and production of original research-based project in the area of public diplomacy. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52887D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Robert Banks",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

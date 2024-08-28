@@ -1,0 +1,909 @@
+[
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "421",
+        "course_name": "Social and Ethical Issues in Business",
+        "units": "(4.0 units)",
+        "description": "Explores ethical issues in business from diverse perspectives including the roles and responsibilities of institutional actors, corporate social responsibility and balancing stakeholder interest.",
+        "sections": [
+            {
+                "section": "16679R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "27 of 36",
+                "instructor": "Johanna Tolan",
+                "location": "JFF239"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "458",
+        "course_name": "AI Technology Strategic Management",
+        "units": "(2.0-4.0 units)",
+        "description": "How to develop strategy approaches for managing new technology in business with a focus on artificial intelligence.",
+        "sections": [
+            {
+                "section": "16666R",
+                "session": "431",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "32 of 36",
+                "instructor": "John Eklund",
+                "location": "JFF241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "462",
+        "course_name": "Management Consulting",
+        "units": "(4.0 units)",
+        "description": "Role of professional consultants; data gathering methods; consulting approaches from strategy, finance, operations, information systems, marketing, and human resources; action planning; ethical and career issues.",
+        "sections": [
+            {
+                "section": "16668R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Michael Mische",
+                "location": ""
+            },
+            {
+                "section": "16669R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "35 of 48",
+                "instructor": "Michael Mische",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "468",
+        "course_name": "Cross-Cultural Negotiations",
+        "units": "(4.0 units)",
+        "description": "Cross-cultural awareness, knowledge, and skills necessary to negotiate effectively with counterparts from other cultures and countries.",
+        "sections": [
+            {
+                "section": "16676R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "16 of 36",
+                "instructor": "Marco Aponte-Moreno",
+                "location": "JFF328"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "469",
+        "course_name": "Negotiation and Persuasion",
+        "units": "(4.0 units)",
+        "description": "Theories, strategies, and ethics underlying negotiation and persuasion in contemporary organizations and societies. Emphasizes the knowledge and skills needed for effective negotiation and persuasion.",
+        "sections": [
+            {
+                "section": "16671R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "45 of 48",
+                "instructor": "Peter Kim",
+                "location": "JFF241"
+            },
+            {
+                "section": "16672R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "29 of 48",
+                "instructor": "Peter Kim",
+                "location": "JFF241"
+            },
+            {
+                "section": "16674R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Christine El Haddad",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "470",
+        "course_name": "Global Leadership",
+        "units": "(4.0 units)",
+        "description": "Major theories and practices of leading people in multi-national firms. Skills for facilitating cooperation, communication, and motivation among people from different cultures. Recommended preparation: BUAD 304",
+        "sections": [
+            {
+                "section": "16673R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "29 of 48",
+                "instructor": "Quentin Fleming",
+                "location": "JFF241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "471",
+        "course_name": "Managing and Developing People",
+        "units": "(4.0 units)",
+        "description": "Management of the human resource function for organizational performance. Recommended preparation: BUAD 304.",
+        "sections": [
+            {
+                "section": "16685R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "15 of 48",
+                "instructor": "Keven Brahim Kaddi",
+                "location": "JFFLL102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "472",
+        "course_name": "Power, Politics and Influence",
+        "units": "(4.0 units)",
+        "description": "Theories and practices about how power, politics and influence affect organizational life. Knowledge and skills for diagnosing and managing these features of an organization.",
+        "sections": [
+            {
+                "section": "16675R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "37 of 48",
+                "instructor": "Rebecca Heino",
+                "location": "JFF241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "475",
+        "course_name": "The Art of Leadership - Self Discovery",
+        "units": "(1.0 unit)",
+        "description": "Introductory leadership. Self-examination of personal leadership styles using survey tools, comparative models and in-class exercises. Duplicates credit in former MOR 476a. Open only to students in the USC Warren Bennis Scholars Program.",
+        "sections": [
+            {
+                "section": "16670D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "17 of 25",
+                "instructor": "Chris Bresnahan",
+                "location": "JFF327"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "479",
+        "course_name": "The Business of Sports",
+        "units": "(4.0 units)",
+        "description": "Addresses the business side of the sports industry; examines professional sports franchises, amateur athletics, and collegiate sports and how they relate to corporate America, the media, and the public sector. Recommended Preparation BUAD 304.",
+        "sections": [
+            {
+                "section": "16725R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "David Carter",
+                "location": "JFF241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "480",
+        "course_name": "Sports Business Innovation: Impacts on Decision Making",
+        "units": "(4.0 units)",
+        "description": "Investigates how innovation in sports business influences industry cash flow and executive decision making. Examines emerging areas of innovation and their impacts on industry stakeholders.",
+        "sections": [
+            {
+                "section": "16684R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "21 of 48",
+                "instructor": "Courtney Brunious",
+                "location": "JFFLL102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "492",
+        "course_name": "Global Strategy",
+        "units": "(4.0 units)",
+        "description": "Examination of corporate strategy practices in an international context. Effects of cultures, political systems, markets, and economic systems on developing effective global strategies.",
+        "sections": [
+            {
+                "section": "16678R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "35 of 36",
+                "instructor": "Carl Voigt",
+                "location": "JFF328"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "498",
+        "course_name": "Special Topics",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Selected topics reflecting current trends and recent developments in organizational behavior, business strategy and organizational theory. (Graded CR/NC)",
+        "sections": [
+            {
+                "section": "16681D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 990,
+                "days": 32,
+                "registered": "8 of 36",
+                "instructor": "Chris Bresnahan",
+                "location": "JFF328"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics reflecting current trends and recent developments in organizational behavior, business strategy and organizational theory.",
+        "sections": [
+            {
+                "section": "16688R",
+                "session": "431",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Michael Mische",
+                "location": ""
+            },
+            {
+                "section": "16724R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1210,
+                "days": 4,
+                "registered": "37 of 88",
+                "instructor": "David Belasco",
+                "location": "ASCG26"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "542",
+        "course_name": "Strategic Issues for Global Business",
+        "units": "(3.0 units)",
+        "description": "Globalization strategies from entry to maturity; alternative approaches from going alone to alliances; strategy implementation issues in different cultures and political systems. Cases, videos and speakers.",
+        "sections": [
+            {
+                "section": "16692R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "53 of 53",
+                "instructor": "Carl Voigt",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "554",
+        "course_name": "Leading Innovation and Change",
+        "units": "(3.0 units)",
+        "description": "Practical knowledge on helping organizations develop innovations and lead change to leverage them. Exploration of innovation and change in different organizations and competitive environments.",
+        "sections": [
+            {
+                "section": "16700R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "47 of 52",
+                "instructor": "Michael Mische",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "555",
+        "course_name": "Designing High Performance Organizations",
+        "units": "(3.0 units)",
+        "description": "Theory and practice of organization design. How to maximize organization performance by aligning structure, rewards, staffing, processes, and culture with strategy and environment.",
+        "sections": [
+            {
+                "section": "16699R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "52 of 52 (1 on waitlist)",
+                "instructor": "Kenneth Perlman",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "557",
+        "course_name": "Strategy and Organization Consulting",
+        "units": "(3.0 units)",
+        "description": "How consultants assist clients to formulate strategic plans and realign organizations; approaches used by major consulting firms; information about consulting industry, fee-setting and proposals. Consultant speakers and project.",
+        "sections": [
+            {
+                "section": "16694R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "51 of 52 (15 on waitlist)",
+                "instructor": "Michael Mische",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "559",
+        "course_name": "Strategic Renewal and Transformation",
+        "units": "(3.0 units)",
+        "description": "Dynamic strategic planning; how businesses re-invent themselves; why change is difficult; politics of change process; leadership steps for implementing successful strategic changes. Cases and readings.",
+        "sections": [
+            {
+                "section": "16696R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "23 of 49",
+                "instructor": "Michael Mische",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "560",
+        "course_name": "Managerial Judgment and Decision-Making",
+        "units": "(3.0 units)",
+        "description": "Development of skills and insight into making effective strategic, financial, and management decisions including awareness of hazards of decisions, issues of rationality, and risk taking.",
+        "sections": [
+            {
+                "section": "16693R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "31 of 55",
+                "instructor": "Christine El Haddad",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "562",
+        "course_name": "Strategic Choice and Valuation Analysis",
+        "units": "(3.0 units)",
+        "description": "Advanced strategic planning using tools of scenario development and activity valuation for assessing market entry, expansion and business portfolio configuration. Exercises, cases and project.",
+        "sections": [
+            {
+                "section": "16704R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "36 of 54",
+                "instructor": "Carl Voigt",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "567",
+        "course_name": "Interpersonal Influence and Power",
+        "units": "(3.0 units)",
+        "description": "Legitimate and effective use of power to resolve conflicts and mobilize action through understanding the talent and self-interest of people involved in decision-making. Readings, cases.",
+        "sections": [
+            {
+                "section": "16713R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "49 of 58",
+                "instructor": "Chris Bresnahan",
+                "location": "JKP112"
+            },
+            {
+                "section": "16721R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "34 of 57",
+                "instructor": "Rebecca Heino",
+                "location": "JKP212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "569",
+        "course_name": "Negotiation and Deal-Making",
+        "units": "(3.0 units)",
+        "description": "Strategies and dynamics of deal-making; practical skills necessary to win in a range of business transactions conducted in domestic and international settings. Cases, role-playing, films and simulations.",
+        "sections": [
+            {
+                "section": "16703R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 64,
+                "registered": "48 of 48 (7 on waitlist)",
+                "instructor": "Peter Carnevale",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16705R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "53 of 54 (9 on waitlist)",
+                "instructor": "Scott Wiltermuth",
+                "location": "JKP112"
+            },
+            {
+                "section": "16709R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "48 of 48 (6 on waitlist)",
+                "instructor": "Scott Wiltermuth",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "571",
+        "course_name": "Leadership and Executive Development",
+        "units": "(3.0 units)",
+        "description": "Contemporary approaches to leadership, including corporate practices to develop leaders; examples of successful and derailed executives. Students self-assess personal leadership and draft development plans. Readings, speakers, cases.",
+        "sections": [
+            {
+                "section": "16707R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "36 of 77",
+                "instructor": "Chris Bresnahan",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "572",
+        "course_name": "Leadership and Self-Management",
+        "units": "(3.0 units)",
+        "description": "Successful leaders are effective at self-managing their thoughts, emotions and actions. Concepts and methods for developing essential self-management skills.",
+        "sections": [
+            {
+                "section": "16716R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Chris Bresnahan",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "574B",
+        "course_name": "Leading and Coaching: Foundations and Practicum",
+        "units": "(1.5 units)",
+        "description": "Marshall MBA Leadership Fellows Program (MLFP). Learn, practice and teach leadership. Engage in critical thinking and problem solving. (a) Foundations. (b) Practicum. Application required.",
+        "sections": [
+            {
+                "section": "16741D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 4,
+                "registered": "27 of 33",
+                "instructor": "Rebecca Heino",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "579",
+        "course_name": "The Business of Sports Entertainment",
+        "units": "(3.0 units)",
+        "description": "Business practices and issues in different sports markets including growth opportunities and innovative marketing strategies for attracting and retaining fans and corporate sponsors. Industry speakers.",
+        "sections": [
+            {
+                "section": "16708R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "36 of 39",
+                "instructor": "David Carter",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "588",
+        "course_name": "Corporate Strategy and Competitive Dynamics",
+        "units": "(1.5-3.0 units)",
+        "description": "Central challenges facing executives in multi-business firms; toolkit for analyzing and executing strategic and operational aspects of corporate advantage, M&As; and competitive dynamics.",
+        "sections": [
+            {
+                "section": "16722R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "57 of 57",
+                "instructor": "Peer Fiss",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16710D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Kyle Mayer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "592",
+        "course_name": "Field Research in Management and Organization",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Individual or team projects studying the management practices of an industry, company, government agency, country geographic region, etc. Proposal, data collection, analyses, and written report. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16735D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Kyle Mayer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "593",
+        "course_name": "Independent Research in Management and Organization",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16712D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "595",
+        "course_name": "Internship in Management and Organization",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest. (Curricular Practical Training.)",
+        "sections": [
+            {
+                "section": "16737D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "596",
+        "course_name": "Research Practicum in Management and Organization",
+        "units": "(0.5-2.0 units, max 8)",
+        "description": "Hands-on practical experience working with a Marshall faculty member in the Management and Organization Department on an ongoing research project. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16738D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "597",
+        "course_name": "Consulting Project in Management and Organization",
+        "units": "(0.5-5.0 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16715D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "598",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Selected topics reflecting current trends and recent developments in management and policy sciences.",
+        "sections": [
+            {
+                "section": "16734R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "26 of 26",
+                "instructor": "Scott Wiltermuth",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Selected topics reflecting current trends and recent developments in management and policy sciences.",
+        "sections": [
+            {
+                "section": "16711R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Nathanael Fast",
+                "location": ""
+            },
+            {
+                "section": "16739R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Christian Busch",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "601",
+        "course_name": "Seminar in Organizational Behavior",
+        "units": "(3.0 units)",
+        "description": "In-depth review of the theories and empirical research in the discipline of organizational behavior. Topics include: personality, motivation, job design, leadership, and others.",
+        "sections": [
+            {
+                "section": "16792R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "4 of 10",
+                "instructor": "Nathanael Fast",
+                "location": "HOH706"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "603",
+        "course_name": "Seminar in Strategic Management",
+        "units": "(3.0 units)",
+        "description": "Survey of strategic management. Topics include historical overview of strategic management, research methods used, current theory, and empirical research on the developing paradigms. Open only to Business Administration doctoral students.",
+        "sections": [
+            {
+                "section": "16635R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "3 of 10",
+                "instructor": "Nan Jia",
+                "location": "HOH706"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MOR",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Open only to Marshall Ph.D. students specializing in Management and Organization. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16799D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

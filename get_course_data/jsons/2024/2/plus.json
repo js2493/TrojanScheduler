@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "PLUS",
+        "course_number": "669",
+        "course_name": "Designing Livable Environments II",
+        "units": "(1.0 unit)",
+        "description": "Studio setting; students will go through a design charrette, site visit and develop an understanding of design principles.",
+        "sections": [
+            {
+                "section": "51555D",
+                "session": "545",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Elizabeth Falletta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PLUS",
+        "course_number": "670",
+        "course_name": "Communicating Data for Planning and Development",
+        "units": "(1.0 unit)",
+        "description": "Methods and techniques for data visualization; application to planning and development contexts; critical assessment of data presentation approaches and methods.",
+        "sections": [
+            {
+                "section": "51556D",
+                "session": "545",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Elizabeth Falletta",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,764 @@
+[
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "137A",
+        "course_name": "Music Production I",
+        "units": "(2.0 units)",
+        "description": "Introduction to computer-based audio recording systems and audio recording, editing and mixing procedures and techniques.",
+        "sections": [
+            {
+                "section": "43400D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "9 of 10",
+                "instructor": "Rick Schmunk",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "175",
+        "course_name": "Fundamentals of Audio Recording",
+        "units": "(2.0 units)",
+        "description": "Introduction to the principles and techniques of audio recording. Students will gain a basic understanding of signal flow, gain structure, microphones, monitoring systems, signal processing, mixing. Duplicates credit in former MTEC 275a.",
+        "sections": [
+            {
+                "section": "43403D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "57 of 60",
+                "instructor": "Charles Gutierrez",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "176",
+        "course_name": "Critical Listening",
+        "units": "(2.0 units)",
+        "description": "Introductory course where students will develop an understanding of audio quality, the musical aspects of audio production and the vocabulary necessary to offer audio critique. Recommended preparation: MTEC-175. Duplicates credit in former MTEC 275a.",
+        "sections": [
+            {
+                "section": "43404D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "49 of 50",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "237A",
+        "course_name": "Music Production II",
+        "units": "(2.0 units)",
+        "description": "Study of small ensemble (rhythm section, vocal, background vocals) music production in a variety of popular music styles.",
+        "sections": [
+            {
+                "section": "43407D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "7 of 8",
+                "instructor": "Rick Schmunk",
+                "location": "TMCG124"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "245",
+        "course_name": "Introduction to MIDI Sequencing",
+        "units": "(1.0 unit)",
+        "description": "Introductory course where students will learn to use professional MIDI sequencing software to sequence, edit, and realize music compositions.",
+        "sections": [
+            {
+                "section": "43411D",
+                "session": "177",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 30",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147 & ONLINE"
+            },
+            {
+                "section": "43412D",
+                "session": "177",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 30",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147 & ONLINE"
+            },
+            {
+                "section": "43413D",
+                "session": "177",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "246",
+        "course_name": "Introduction to Audio Recording and Editing",
+        "units": "(1.0 unit)",
+        "description": "Introduction to the techniques and applications of recording, editing and mixing sound on personal computers.",
+        "sections": [
+            {
+                "section": "43417D",
+                "session": "213",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 30",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147 & ONLINE"
+            },
+            {
+                "section": "43418D",
+                "session": "213",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 30",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147 & ONLINE"
+            },
+            {
+                "section": "43419D",
+                "session": "213",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "275",
+        "course_name": "Fundamentals of Audio Engineering",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of Audio Engineering is an intermediate course in the principles and techniques of professional audio production as related to music. Recommended preparation: MTEC-175 and MTEC-176. Duplicates credit in former MTEC 275b.",
+        "sections": [
+            {
+                "section": "43427D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "20 of 36",
+                "instructor": "Brian Malouf",
+                "location": "KDC236"
+            },
+            {
+                "section": "43428D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 18",
+                "instructor": "Brian Malouf",
+                "location": "MUS103"
+            },
+            {
+                "section": "43429D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "6 of 18",
+                "instructor": "Brian Malouf",
+                "location": "MUS103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "277",
+        "course_name": "Introduction to Music Technology",
+        "units": "(4.0 units)",
+        "description": "A survey of the technology used to create, prepare, perform, and distribute music, with an emphasis on recording, MIDI, music production, mastering and Internet technologies. Not available for major credit to B.M. and B.S., Music Industry majors. (Duplicates credit in former MUIN 277.)",
+        "sections": [
+            {
+                "section": "43430R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "35 of 60",
+                "instructor": "Charles Gutierrez",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction in the applications of technology to the creation and performance of music. Recommended preparation: Experience with audio recording and synthesizers.",
+        "sections": [
+            {
+                "section": "43432D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Tom Hall",
+                "location": "TMC118"
+            },
+            {
+                "section": "43433D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 20",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "337A",
+        "course_name": "Music Production III",
+        "units": "(2.0 units)",
+        "description": "Small group instruction to develop the student's arranging, production and project management skills as related to small budget music and multimedia projects.",
+        "sections": [
+            {
+                "section": "43435D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "6 of 8",
+                "instructor": "Brian Malouf",
+                "location": "MUS103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "378",
+        "course_name": "Introduction to Mixing and Mastering",
+        "units": "(2.0 units)",
+        "description": "Fundamental principles and techniques used to fuse multiple audio elements into clear, comprehensive final products.",
+        "sections": [
+            {
+                "section": "43438D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "6 of 20",
+                "instructor": "Christian Amonson",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "389",
+        "course_name": "Digital Equipment and Recording",
+        "units": "(2.0 units)",
+        "description": "Digital equipment including computers, sequencers, digital signal synthesis, MIDI, and rotary and stationary digital recording. Prerequisite: MTEC 275. (Duplicates credit in former MUIN 389.)",
+        "sections": [
+            {
+                "section": "43442D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Joerg Stoeffel",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "427",
+        "course_name": "Music Production IV",
+        "units": "(2.0 units)",
+        "description": "Advanced study of working as a songwriter-producer in the modern music industry.",
+        "sections": [
+            {
+                "section": "43447D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1200,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "3 of 8",
+                "instructor": "Michael Smith",
+                "location": "TMCG124"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "430",
+        "course_name": "Advanced Instrumental Recording",
+        "units": "(2.0 units, max 4)",
+        "description": "An in-depth study of the standard practices and techniques used in contemporary multi-track recording.",
+        "sections": [
+            {
+                "section": "43448D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "5 of 8",
+                "instructor": "Christian Amonson",
+                "location": "TMCG112b"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "437",
+        "course_name": "Advanced Music Production for Non-Majors",
+        "units": "(2.0 units, max 4)",
+        "description": "The study of small music production in a variety of popular music styles with the goal of developing the students arranging, production and project management skills.",
+        "sections": [
+            {
+                "section": "43450D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "8 of 8",
+                "instructor": "Sean Holt",
+                "location": "TMCG124"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "443",
+        "course_name": "Desktop Music Production",
+        "units": "(2.0 units)",
+        "description": "Intermediate course where students will learn to use professional MIDI sequencing and digital audio software to compose, edit, and mix songs and other music compositions. Recommended preparation: MTEC-245. Duplicates credit in former MUIN 305.",
+        "sections": [
+            {
+                "section": "43451D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "20 of 20 (4 on waitlist)",
+                "instructor": "Douglas Petty",
+                "location": "TMCG147"
+            },
+            {
+                "section": "43452D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "9 of 10",
+                "instructor": "Michael Smith",
+                "location": "TMCG124"
+            },
+            {
+                "section": "43453D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "20 of 20 (7 on waitlist)",
+                "instructor": "Douglas Petty",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "444",
+        "course_name": "Non-Linear MIDI Sequencing",
+        "units": "(2.0 units)",
+        "description": "An in-depth course focusing on the principles and techniques of sequencing and performing musical compositions using a non-linear sequencer. Recommended preparation: MTEC 245.",
+        "sections": [
+            {
+                "section": "43454D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "11 of 20",
+                "instructor": "Rick Schmunk",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "445",
+        "course_name": "Advanced Desktop Music Production",
+        "units": "(2.0 units)",
+        "description": "Students will learn to apply their musical and technical skills to create professional quality computer-based arrangements in a variety of musical styles. Recommended preparation: MTEC 443 or MTEC 444 and MTEC 474a.",
+        "sections": [
+            {
+                "section": "43455D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "18 of 20",
+                "instructor": "Michael Smith",
+                "location": "TMCG147"
+            },
+            {
+                "section": "43456D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "8 of 15",
+                "instructor": "Douglas Petty",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "446A",
+        "course_name": "Computer Assisted Recording and Editing",
+        "units": "(2.0 units)",
+        "description": "Techniques and applications of recording and editing sound on personal computers. Hardware, software, editing for song, sound effects and dialog for film. (Duplicates credit in former MUIN 446a.)",
+        "sections": [
+            {
+                "section": "43458D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "20 of 20 (4 on waitlist)",
+                "instructor": "Christian Amonson",
+                "location": "TMCG147"
+            },
+            {
+                "section": "43459D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "17 of 20",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "446B",
+        "course_name": "Computer Assisted Recording and Editing",
+        "units": "(2.0 units)",
+        "description": "Techniques and applications of recording and editing sound on personal computers. Hardware, software, editing for song, sound effects and dialog for film. (Duplicates credit in former MUIN 446b.)",
+        "sections": [
+            {
+                "section": "43460D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "4 of 20",
+                "instructor": "Charles Gutierrez",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "448",
+        "course_name": "Computer Music Notation and Preparation",
+        "units": "(2.0 units)",
+        "description": "Techniques and principles of computer music notation including conventions of music notation, idiomatic practices, preparation of significant score types, and MIDI basics. Duplicates credit in former MUIN 448.",
+        "sections": [
+            {
+                "section": "43462D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "16 of 20",
+                "instructor": "Thanh Tran",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "474A",
+        "course_name": "Electronic Synthesizer Techniques",
+        "units": "(2.0-4.0 units)",
+        "description": "Electronic music procedures in a multi-track studio. Duplicates credit in former MUEA 474ax.",
+        "sections": [
+            {
+                "section": "43464D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Tom Hall",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "474B",
+        "course_name": "Electronic Synthesizer Techniques",
+        "units": "(2.0-4.0 units)",
+        "description": "Electronic music procedures in a multi-track studio. Computer applications. Duplicates credit in former MUEA 474b.",
+        "sections": [
+            {
+                "section": "43465D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "3 of 20",
+                "instructor": "Tom Hall",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "477",
+        "course_name": "Remote Recording Techniques",
+        "units": "(2.0 units)",
+        "description": "Special problems of location recording; specialized equipment; microphone design and operation. Prerequisite: MTEC 275. (Duplicates credit in former MUIN 477.)",
+        "sections": [
+            {
+                "section": "43466D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "6 of 18",
+                "instructor": "Christian Amonson",
+                "location": "MUS103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "478",
+        "course_name": "Advanced Multichannel Remix",
+        "units": "(2.0 units)",
+        "description": "Special problems of multi-channel re-mixing with simultaneous audio re-processing. Album, film, television and multimedia formats will be covered. Prerequisite: MTEC 446a. (Duplicates credit in former MUIN 478.)",
+        "sections": [
+            {
+                "section": "43467D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Brian Malouf",
+                "location": "MUS103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Duplicates credit in former MUEA 490x.",
+        "sections": [
+            {
+                "section": "43473D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "498A",
+        "course_name": "Senior Project",
+        "units": "(1.0 unit)",
+        "description": "Culmination of the four-year course of study intended to afford students the opportunity to pursue a mentored project to advance their future careers.",
+        "sections": [
+            {
+                "section": "43479D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Intermediate and advanced instruction in the applications of technology to the creation and performance of music. Recommended preparation: Experience with audio recording and synthesizers.",
+        "sections": [
+            {
+                "section": "43485D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Tom Hall",
+                "location": "TMC118"
+            },
+            {
+                "section": "43486D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. Duplicates credit in former MUEA 590.",
+        "sections": [
+            {
+                "section": "43492D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTEC",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. Duplicates credit in former MUEA 790.",
+        "sections": [
+            {
+                "section": "43497D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

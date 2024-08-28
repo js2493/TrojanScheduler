@@ -1,0 +1,317 @@
+[
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "509",
+        "course_name": "Culture, Gender and Global Society",
+        "units": "(4.0 units)",
+        "description": "Cultural and gendered responses to economic globalization; topics include culture and security, identity politics, clashes of and accommodations among civilizations, modernity, post-modernity and world society. MA and other students outside of POIR must obtain faculty permission to register in the course.",
+        "sections": [
+            {
+                "section": "52311R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "5 of 15",
+                "instructor": "Jacques Hymans",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52337D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching Politics and International Relations",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within political science and international relations disciplines. Intended for teaching assistants in Dornsife College. Graded CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "52341R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "10 of 15",
+                "instructor": "Carol Wise",
+                "location": "DMC108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "52340R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 8",
+                "instructor": "Danielle Ballard",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "610",
+        "course_name": "Research Design",
+        "units": "(4.0 units)",
+        "description": "The course will cover the design of experimental and observational research. We will examine both quantitative and qualitative approaches to social science research. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "52301D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "7 of 15",
+                "instructor": "Sherry Zaks",
+                "location": "DMC209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "611",
+        "course_name": "Introduction to Regression Analysis",
+        "units": "(4.0 units)",
+        "description": "The course will introduce students to regression analysis and its application to social science research. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "52302D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Dan Schrage",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "613",
+        "course_name": "Topics in Quantitative Analysis",
+        "units": "(4.0 units, max 12)",
+        "description": "Introduces statistical models beyond the standard linear regression model. Topics include maximum likelihood estimation, generalized linear models and advanced methods.",
+        "sections": [
+            {
+                "section": "52306D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "9 of 15",
+                "instructor": "Kyuwon Lee",
+                "location": "GFS212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "620",
+        "course_name": "American Politics and Policy Processes",
+        "units": "(4.0 units)",
+        "description": "Survey of literature; examination of approaches, concepts, and issues in the field of American politics and policy processes. Duplicates credit in former POSC 510. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "52310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "3 of 12",
+                "instructor": "Morris Levy",
+                "location": "THH219"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "640",
+        "course_name": "Comparative Politics",
+        "units": "(4.0 units)",
+        "description": "Survey of literature; examination of approaches, concepts, and issues in the field of comparative politics. Duplicates credit in former POSC 520. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "52316D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "8 of 15",
+                "instructor": "Gerardo Munck",
+                "location": "DMC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52343D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Sally Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52345D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Sally Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52346D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 12",
+                "instructor": "Sally Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52347D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 12",
+                "instructor": "Sally Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52348D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 12",
+                "instructor": "Sally Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POIR",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR.NC.",
+        "sections": [
+            {
+                "section": "52349D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Sally Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

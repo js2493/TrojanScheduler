@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20243",
+        "department": "GR",
+        "course_num": "150",
+        "course_name": "Greek II",
+        "units": "(4.0 units)",
+        "description": "Essentials of classical Greek grammar and vocabulary, continued. Basic reading skills.",
+        "sections": [
+            {
+                "section": "19951R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Afroditi Angelopoulou",
+                "location": "DMC103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GR",
+        "course_num": "352",
+        "course_name": "Aristotle",
+        "units": "(4.0 units)",
+        "description": "Advanced reading in ancient Greek focusing on a single, highly influential author: Aristotle (384 BCE - 322 BCE).",
+        "sections": [
+            {
+                "section": "19957R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 10,
+                "registered": "1 of 8",
+                "instructor": "Alexandre Roberts",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

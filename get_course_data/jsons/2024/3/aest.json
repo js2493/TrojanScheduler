@@ -1,0 +1,213 @@
+[
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "100A",
+        "course_name": "Aerospace Studies I (Air Force Mission and Organization)",
+        "units": "(1.0 unit)",
+        "description": "Introduction to U.S. Air Force and the military profession; USAF organization and functions; Strategic Air Command organization, command control and weapons systems; communications skills.",
+        "sections": [
+            {
+                "section": "41710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "DMC101"
+            },
+            {
+                "section": "41791R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "9 of 35",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "110A",
+        "course_name": "Leadership Laboratory I",
+        "units": "(1.0 unit)",
+        "description": "Introduction to the military experience focusing on customs and courtesies, drill and ceremonies, and the environment of an Air Force Officer. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41795R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 420,
+                "end_time": 530,
+                "days": 32,
+                "registered": "32 of 50",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "THH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "200A",
+        "course_name": "Aerospace Studies II (Air Force History)",
+        "units": "(1.0 unit)",
+        "description": "Development of aerospace power in the U.S. through WWII; emphasis on the Army Air Corps; communication skills.",
+        "sections": [
+            {
+                "section": "41720R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "3 of 25",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "DMC257"
+            },
+            {
+                "section": "41792R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "35 of 35",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "210A",
+        "course_name": "Leadership Laboratory II",
+        "units": "(1.0 unit)",
+        "description": "Introduction to the military experience focusing on customs and courtesies, drill and ceremonies, and the environment of an Air Force Officer. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41796R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 420,
+                "end_time": 530,
+                "days": 32,
+                "registered": "36 of 45",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "THH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "300A",
+        "course_name": "Aerospace Studies III (Air Force Management and Leadership)",
+        "units": "(3.0 units)",
+        "description": "Air Force management fucusing on the new manager in the Air Force milieu. Emphasis on communication skills peculiar to the Air Force.",
+        "sections": [
+            {
+                "section": "41793R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "12 of 25",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "310A",
+        "course_name": "Leadership Laboratory III",
+        "units": "(1.0 unit)",
+        "description": "Practical introduction to Air Force leadership focusing on military communicative skills, group dynamics, and application of theories of leadership and management. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41797R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 420,
+                "end_time": 530,
+                "days": 32,
+                "registered": "11 of 30",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "THH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "400A",
+        "course_name": "Aerospace Studies IV (National Security Forces in Contemporary American Society)",
+        "units": "(3.0 units)",
+        "description": "Military professionalism and the context in which defense policy is formulated and implemented; national security policy, political/social constraints, and military justice.",
+        "sections": [
+            {
+                "section": "41794R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "10 of 25",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "DMC157"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "410A",
+        "course_name": "Leadership Laboratory IV",
+        "units": "(1.0 unit)",
+        "description": "Advanced Air Force leadership experience focusin on the practical development of the Air Force officer through command and staff positions within the Cadet Corps. Craded CR/NC.",
+        "sections": [
+            {
+                "section": "41798R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 420,
+                "end_time": 530,
+                "days": 32,
+                "registered": "10 of 30",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "THH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AEST",
+        "course_num": "420A",
+        "course_name": "Leadership Laboratory V",
+        "units": "(1.0 unit)",
+        "description": "Advanced leadership experiences for AFROTC continuing cadets. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41751R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 420,
+                "end_time": 530,
+                "days": 32,
+                "registered": "4 of 20",
+                "instructor": "Sadae Spicer,Jacqueline Salas,Reynor Manalac,Mark Burley,John Gofus",
+                "location": "THH102"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "135",
+        "course_name": "Peoples and Cultures of the Americas",
+        "units": "(4.0 units)",
+        "description": "An introduction to cultures and people in the Americas; the social, historical, economic and cultural formations that together make up the Latino/a American imaginary.",
+        "sections": [
+            {
+                "section": "10320D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 28,
+                "registered": "26 of 30",
+                "instructor": "Alicia Chavez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37115D",
+                "session": "051",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 28,
+                "registered": "18 of 19",
+                "instructor": "Brett Sheehan",
+                "location": "MHP102"
+            }
+        ]
+    }
+]

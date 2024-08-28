@@ -1,0 +1,203 @@
+[
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "593A",
+        "course_name": "Capstone Project",
+        "units": "(2.0 units)",
+        "description": "Guided learning of the research process by the design and implementation of an approved project.",
+        "sections": [
+            {
+                "section": "24673D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 4",
+                "instructor": "Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "701",
+        "course_name": "Community Health Sciences",
+        "units": "(2.0 units)",
+        "description": "Examination of common theoretical and conceptual models, health education methodologies and emerging technology to provide health services in community settings.",
+        "sections": [
+            {
+                "section": "24657D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24659D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "702",
+        "course_name": "Social and Behavioral Sciences",
+        "units": "(2.0 units)",
+        "description": "Social and behavioral factors of diverse groups that can affect the health status and choices of communities.",
+        "sections": [
+            {
+                "section": "24665D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24666D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "707",
+        "course_name": "Epidemiology",
+        "units": "(2.0 units)",
+        "description": "The fundamental understanding of epidemiology that concerns various domains and disciplines; application of epidemiologic principles in community oral health projects.",
+        "sections": [
+            {
+                "section": "24661D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "708",
+        "course_name": "Community Health Science Administration, Assessment and Eval",
+        "units": "(2.0 units)",
+        "description": "Development of foundational knowledge and skills to be administrative and executive leaders in the healthcare industry.",
+        "sections": [
+            {
+                "section": "24662D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24663D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 8",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "712",
+        "course_name": "Practicum 2",
+        "units": "(1.0 unit)",
+        "description": "Incorporates a service learning approach involving a partnership between the student, community organization and designated faculty or research team members.",
+        "sections": [
+            {
+                "section": "24668D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 12",
+                "instructor": "Mina Habibian,Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "714",
+        "course_name": "Community Health Funding and Support",
+        "units": "(2.0 units)",
+        "description": "Approaches to the generation and allocation of financial support for community oral health policies, programs and systems.",
+        "sections": [
+            {
+                "section": "24669D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Roseann Mulligan,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COH",
+        "course_num": "717",
+        "course_name": "Practicum 3",
+        "units": "(1.0 unit)",
+        "description": "Participation in a multidisciplinary team; collection of community health data to build a plan for sustainability and maintenance.",
+        "sections": [
+            {
+                "section": "24675D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 4",
+                "instructor": "Mina Habibian,Anette Vistoso Monreal,Alonzo Clark",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

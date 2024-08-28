@@ -1,0 +1,217 @@
+[
+    {
+        "term": "20242",
+        "department": "MPKS",
+        "course_number": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors.",
+        "sections": [
+            {
+                "section": "45560D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            },
+            {
+                "section": "45561D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            },
+            {
+                "section": "45562D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPKS",
+        "course_number": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principle instrument for music minors and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "45585D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            },
+            {
+                "section": "45586D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            },
+            {
+                "section": "45587D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPKS",
+        "course_number": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "45735D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45736D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45737D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPKS",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45800D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45801D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45802D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPKS",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45875D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45876D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45877D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    }
+]

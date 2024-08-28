@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20243",
+        "department": "MED",
+        "course_num": "100",
+        "course_name": "First Year Medicine",
+        "units": "(1.0-18.0 units, max 18)",
+        "description": "FOR REGISTRATION AND FEE PURPOSES ONLY.",
+        "sections": [
+            {
+                "section": "00010R",
+                "session": "003",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "123 of 200",
+                "instructor": "Ron Ben-Ari,Kevin Nash",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MED",
+        "course_num": "200",
+        "course_name": "Second Year Medicine",
+        "units": "(1.0-18.0 units, max 18)",
+        "description": "FOR REGISTRATION AND FEE PURPOSES ONLY.",
+        "sections": [
+            {
+                "section": "00020R",
+                "session": "047",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "185 of 200",
+                "instructor": "Ron Ben-Ari,Kevin Nash",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MED",
+        "course_num": "300",
+        "course_name": "Third Year Medicine",
+        "units": "(1.0-18.0 units, max 18)",
+        "description": "FOR REGISTRATION AND FEE PURPOSES ONLY.",
+        "sections": [
+            {
+                "section": "00030R",
+                "session": "080",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "184 of 225",
+                "instructor": "Ron Ben-Ari,David Diller",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MED",
+        "course_num": "400",
+        "course_name": "Fourth Year Medicine",
+        "units": "(1.0-18.0 units, max 18)",
+        "description": "FOR REGISTRATION AND FEE PURPOSES ONLY.",
+        "sections": [
+            {
+                "section": "00040R",
+                "session": "049",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "189 of 200",
+                "instructor": "Ron Ben-Ari,David Diller",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MED",
+        "course_num": "750",
+        "course_name": "Special Medicine",
+        "units": "(1.0-16.0 units, max 16)",
+        "description": "For registration and fee purposes only.",
+        "sections": [
+            {
+                "section": "00071R",
+                "session": "205",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "32 of 40",
+                "instructor": "Jeffrey Riddell",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

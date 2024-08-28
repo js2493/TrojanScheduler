@@ -1,0 +1,493 @@
+[
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "205",
+        "course_name": "Journalism Practicum",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Field experience in journalism, public relations, or related field.",
+        "sections": [
+            {
+                "section": "21004D",
+                "session": "207",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Lauren White",
+                "location": "ONLINE"
+            },
+            {
+                "section": "21005D",
+                "session": "226",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 15",
+                "instructor": "Lauren White",
+                "location": "ONLINE"
+            },
+            {
+                "section": "21009D",
+                "session": "420",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Lauren White",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "462",
+        "course_name": "Law of Mass Communication",
+        "units": "(4.0 units)",
+        "description": "Press law; government controls on the news media; legal responsibilities of the journalist.",
+        "sections": [
+            {
+                "section": "21060R",
+                "session": "138",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1230,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Adrienne Lawrence",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "21048D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21049D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "501",
+        "course_name": "On-Air Training",
+        "units": "(1.0 unit)",
+        "description": "Principles of on-camera presentation with an emphasis on performing journalism for television and online media.",
+        "sections": [
+            {
+                "section": "21189D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Lisa Pecot-Hebert",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "503",
+        "course_name": "Visual Literacy and Introduction to Documentary Storytelling",
+        "units": "(1.0 unit)",
+        "description": "An introduction to visual literacy and documentary storytelling. Explore the choices behind visual storytelling that can be applied to long form video journalism.",
+        "sections": [
+            {
+                "section": "21194D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Daniel Birman",
+                "location": "ANN210"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "505",
+        "course_name": "The Practice: Journalism's Evolution as a Profession",
+        "units": "(1.0 unit)",
+        "description": "Analyzes the history, ethics and evolution of journalism; Students will be introduced to key innovations and innovators in journalism history as well as multimedia platforms.",
+        "sections": [
+            {
+                "section": "21041D",
+                "session": "166",
+                "type": "Lecture",
+                "start_time": 1230,
+                "end_time": 1260,
+                "days": 96,
+                "registered": "20 of 25",
+                "instructor": "Lisa Pecot-Hebert",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "506",
+        "course_name": "Introduction to International Reporting",
+        "units": "(1.0 unit)",
+        "description": "Examines how globalization has changed the ways in which the world is reported, and the challenges and opportunities for journalists involved in international newsgathering.",
+        "sections": [
+            {
+                "section": "21045D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 16,
+                "registered": "9 of 10",
+                "instructor": "Afua Hirsch",
+                "location": "ANN305"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "511",
+        "course_name": "Introduction to Narrative Non-Fiction",
+        "units": "(1.0 unit)",
+        "description": "Summer intensive focusing on long-form, narrative non-fiction; read and critique exemplary long-form pieces; write short exercises that prepare for longer ones.",
+        "sections": [
+            {
+                "section": "21190D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 4,
+                "registered": "11 of 14",
+                "instructor": "Eric Pape",
+                "location": "ANN305"
+            },
+            {
+                "section": "21191D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "Sandy Tolan",
+                "location": "ANN210"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "515",
+        "course_name": "Introduction to Audio Storytelling",
+        "units": "(1.0 unit)",
+        "description": "Introduction to audio reporting and production skills: recording, interviewing, writing and editing for audio, and vocal delivery. Skills applicable for broadcast, podcasting or Web.",
+        "sections": [
+            {
+                "section": "21196D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Paddy Hirsch",
+                "location": "ANN305"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "528",
+        "course_name": "Summer Digital Journalism Immersion",
+        "units": "(3.0 units)",
+        "description": "A journalism immersion experience that orients and familiarizes students with the best practices and standards of cutting-edge multimedia, multi-platform fact gathering, reporting and storytelling.",
+        "sections": [
+            {
+                "section": "21050D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 62,
+                "registered": "9 of 10",
+                "instructor": "Gary Cohn,Allan Lopez",
+                "location": "ANN210"
+            },
+            {
+                "section": "21051D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 62,
+                "registered": "8 of 10",
+                "instructor": "Heather Fogarty,Graham Robertson",
+                "location": "ANN211"
+            },
+            {
+                "section": "21052D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 62,
+                "registered": "11 of 11",
+                "instructor": "Alan Mittelstaedt,Sandra Kazarian",
+                "location": "ANN405"
+            },
+            {
+                "section": "21053R",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 62,
+                "registered": "8 of 10",
+                "instructor": "Erin Osmon,Barbara Pierce",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "546",
+        "course_name": "News, Numbers and Introduction to Data Journalism",
+        "units": "(2.0 units)",
+        "description": "An overview of the basic quantitative analysis tools and techniques essential to give perspective to a journalistic story or to put it in context.",
+        "sections": [
+            {
+                "section": "21020D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1240,
+                "days": 4,
+                "registered": "8 of 10",
+                "instructor": "David Medzerian",
+                "location": "ANN309"
+            },
+            {
+                "section": "21022D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1240,
+                "days": 16,
+                "registered": "7 of 10",
+                "instructor": "Ben Poston",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "560",
+        "course_name": "Seminar in Mass Communication Law",
+        "units": "(2.0 units)",
+        "description": "Analysis of major elements of mass communication law, legal issues in contemporary mass communication, and the impact of legal trends on professional journalists.",
+        "sections": [
+            {
+                "section": "21035D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1000,
+                "days": 4,
+                "registered": "3 of 15",
+                "instructor": "Jonathan Kotler",
+                "location": "ASC331"
+            },
+            {
+                "section": "21036D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1000,
+                "days": 8,
+                "registered": "12 of 15",
+                "instructor": "Jonathan Kotler",
+                "location": "ASC331"
+            },
+            {
+                "section": "21037D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1000,
+                "days": 2,
+                "registered": "16 of 18",
+                "instructor": "Susan Gavigan",
+                "location": "ANN305"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "579",
+        "course_name": "Journalism Internship",
+        "units": "(1.0-2.0 units, max 2)",
+        "description": "Field experience in journalism, public relations, or related field.",
+        "sections": [
+            {
+                "section": "21133D",
+                "session": "226",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lisa Pecot-Hebert",
+                "location": "ONLINE"
+            },
+            {
+                "section": "21134D",
+                "session": "420",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Lisa Pecot-Hebert",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "21139D",
+                "session": "057",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Lisa Pecot-Hebert",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21140D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21141D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21142D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Oscar Garza",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21143D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Jeff Fellenzer",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21444D",
+                "session": "773",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "JOUR",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "21181D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Sandy Tolan",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

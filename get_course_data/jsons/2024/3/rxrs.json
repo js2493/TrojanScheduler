@@ -1,0 +1,297 @@
+[
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "200",
+        "course_name": "Approaches to Pharmacology and Drug Development",
+        "units": "(4.0 units)",
+        "description": "Pharmacology and Drug Development explored through the lens of Clinical Pharmacy, Translational and Bench Research, Regulatory Science and Global Policy and Economics.",
+        "sections": [
+            {
+                "section": "49262D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "72 of 80",
+                "instructor": "Tam Phan,Amanda Burkhardt,Daryl Davies",
+                "location": "GFS116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "201",
+        "course_name": "The History and Geography of Drugs",
+        "units": "(4.0 units)",
+        "description": "Global perspectives; discovery and use of drugs (legal/illegal); poisons. How they helped shape, modify or change history as described in classical literature through present day.",
+        "sections": [
+            {
+                "section": "49261R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "53 of 125",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "MRF340"
+            },
+            {
+                "section": "49265R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "61 of 94",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "WPHB27"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "202",
+        "course_name": "Comparative Neuropharmacology: A Kaleidoscope of Experiences",
+        "units": "(4.0 units)",
+        "description": "How drugs impact culture in individual, society and global communities",
+        "sections": [
+            {
+                "section": "49253R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "45 of 50",
+                "instructor": "Michael Jakowec,Daryl Davies",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "304",
+        "course_name": "Mysterious Deaths: From Poisons in History to Forensic Toxic",
+        "units": "(4.0 units)",
+        "description": "The story of poisons told through the prism of history, as a way to discover forensic toxicology.",
+        "sections": [
+            {
+                "section": "49248R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "14 of 25",
+                "instructor": "Martine Culty,Daryl Davies",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "402",
+        "course_name": "Human Pharmacology: Challenge of Therapeutics in Society",
+        "units": "(4.0 units)",
+        "description": "Principles of human pharmacology/toxicology related to prescription, over the counter medications; nutraceuticals; drug-drug interactions; polypharmacy; hot topics related to recently approved drugs.",
+        "sections": [
+            {
+                "section": "49232R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Daryl Davies,Tam Phan",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "405",
+        "course_name": "Breaking Brains: The Pharmacology of Addiction",
+        "units": "(4.0 units)",
+        "description": "Neurological basis of addiction to drugs of abuse including alcohol, marijuana, opioids and sugar, focusing on neuropharmacology and challenges of current and future therapies.",
+        "sections": [
+            {
+                "section": "49235R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Liana Asatryan,Michael Jakowec,Daryl Davies",
+                "location": "ZHS360"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "410",
+        "course_name": "Cancer Biology and Pharmacotherapy",
+        "units": "(4.0 units)",
+        "description": "Cancer and the complex molecular basis leading to tumor oncogenesis, invasion and metastasis; current therapeutic strategies and strategies on the horizon.",
+        "sections": [
+            {
+                "section": "49260R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "8 of 15",
+                "instructor": "Amanda Burkhardt,Daryl Davies",
+                "location": "GFS229"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "412",
+        "course_name": "Ethics, Drugs and Society",
+        "units": "(4.0 units)",
+        "description": "Ethical and moral issues have arisen from responsibilities within different fields of pharmaceutical practice. Exploration of the broad solutions those responsibilities have presented.",
+        "sections": [
+            {
+                "section": "49264R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Terry Church,Amanda Burkhardt,Daryl Davies",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "416",
+        "course_name": "Medical Products: From Idea to Market",
+        "units": "(4.0 units)",
+        "description": "Progress of medical product development through intellectual property, animal and clinical trials and commercialization. Emphasis on safety, quality systems and efficacy.",
+        "sections": [
+            {
+                "section": "49246R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "33 of 35",
+                "instructor": "Eunjoo Pacifici,Daryl Davies",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "417",
+        "course_name": "Food Safety: The Good, The Bad and The Deadly",
+        "units": "(4.0 units)",
+        "description": "Critical thinking, science translation, effective communications, personal health, and public policy development are at the interface of food safety, nutrition intervention and health controversies",
+        "sections": [
+            {
+                "section": "49247R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 20",
+                "instructor": "Daryl Davies",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research, reading, writing and project development.",
+        "sections": [
+            {
+                "section": "49225D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 28",
+                "instructor": "Daryl Davies,Terry Church,Eunjoo Pacifici",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49266D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Daryl Davies,Terry Church",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "493",
+        "course_name": "Senior Honors Seminar I",
+        "units": "(2.0 units)",
+        "description": "Exciting and challenging opportunity to marshal and deploy research, analysis, interpretation and writing skills students learned in their major.",
+        "sections": [
+            {
+                "section": "49267D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "494",
+        "course_name": "Senior Honors Seminar II",
+        "units": "(2.0 units)",
+        "description": "An independent study course for students undertaking the research and writing of an Honors thesis.",
+        "sections": [
+            {
+                "section": "49268D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

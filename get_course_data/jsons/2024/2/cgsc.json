@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "CGSC",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "52402D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Toby Mintz",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CGSC",
+        "course_number": "498",
+        "course_name": "Honors Thesis",
+        "units": "(4.0 units)",
+        "description": "Writing of the honors thesis.",
+        "sections": [
+            {
+                "section": "52403D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Toby Mintz",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

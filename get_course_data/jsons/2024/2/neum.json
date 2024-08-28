@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "NEUM",
+        "course_number": "790",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "42100D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Li Zhang",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

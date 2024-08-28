@@ -1,0 +1,2144 @@
+[
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "101",
+        "course_name": "Freshman Leadership Seminar",
+        "units": "(2.0 units)",
+        "description": "Colloquium of leading researchers, authors, and administrators in the Marshall School of Business and other schools at USC. Industry leaders will also be invited to talk about leadership challenges. Graded CR/NC. Open by invitation only to freshman business and accounting majors.",
+        "sections": [
+            {
+                "section": "14472D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "81 of 150",
+                "instructor": "Tyrone Callahan,Julia Plotts",
+                "location": "JFFLL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "111",
+        "course_name": "World Bachelor in Business Program Freshman Academy",
+        "units": "(2.0 units)",
+        "description": "Introduction to selected academic subject matter, development of intercultural communication skills, and access to business professionals. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14474D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "32 of 36",
+                "instructor": "Marion Philadelphia",
+                "location": "JFF328"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "112",
+        "course_name": "AI for Business Freshman Academy",
+        "units": "(2.0 units)",
+        "description": "Introduction to Artificial Intelligence for Business, both in curriculum and resources, and access to industry professionals. (Graded CR/NC)",
+        "sections": [
+            {
+                "section": "14476D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "39 of 50",
+                "instructor": "Kimon Drakopoulos",
+                "location": "JFF233"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "200",
+        "course_name": "Economic Foundations for Business",
+        "units": "(2.0 units)",
+        "description": "Examines fundamental concepts of both microeconomics and macroeconomics as they pertain to business and financial decisions. Not available for degree credit to business majors.",
+        "sections": [
+            {
+                "section": "14485R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "48 of 48",
+                "instructor": "Eric Briggs",
+                "location": "JFF316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "201",
+        "course_name": "Introduction to Business for Non-Majors",
+        "units": "(4.0 units)",
+        "description": "Introduction to the principles and practices of businesses, sequence of exercises developing the basic skills, and influence of the economy on business and individual decisions. Not available for credit for business or accounting majors.",
+        "sections": [
+            {
+                "section": "14490R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "40 of 40",
+                "instructor": "Marianne Szymanski",
+                "location": "JFF416"
+            },
+            {
+                "section": "14491R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "36 of 36",
+                "instructor": "Marianne Szymanski",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "252",
+        "course_name": "Choosing and Planning a Future Career in Business",
+        "units": "(2.0 units)",
+        "description": "Explore and plan for future career choices and options in business. Learn theoretical principles, best practices and strategies, and contemporary workplace issues/trends. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14591R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "42 of 42",
+                "instructor": "Andrew Ogilvie",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "280",
+        "course_name": "Introduction to Financial Accounting",
+        "units": "(3.0 units)",
+        "description": "Emphasis on understanding financial statements and the impact of business transactions on information presented to management and interested stakeholders. Duplicates credit in BUAD 305.",
+        "sections": [
+            {
+                "section": "14505R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "57 of 57",
+                "instructor": "Smrity Randhawa",
+                "location": "JFF233"
+            },
+            {
+                "section": "14506D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "31 of 30",
+                "instructor": "Andreas Simon",
+                "location": "ACC201"
+            },
+            {
+                "section": "14507R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "57 of 57",
+                "instructor": "Michael Paranal",
+                "location": "JFF233"
+            },
+            {
+                "section": "14508R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "57 of 57",
+                "instructor": "Smrity Randhawa",
+                "location": "JFF233"
+            },
+            {
+                "section": "14509R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "57 of 57",
+                "instructor": "Bobby Carnes",
+                "location": "JFF236"
+            },
+            {
+                "section": "14510R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "57 of 57",
+                "instructor": "Michael Paranal",
+                "location": "JFF233"
+            },
+            {
+                "section": "14511R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "57 of 57",
+                "instructor": "Zivia Wilson Sweeney",
+                "location": "JFF236"
+            },
+            {
+                "section": "14512R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "57 of 57",
+                "instructor": "Zivia Wilson Sweeney",
+                "location": "JFF236"
+            },
+            {
+                "section": "14514R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "57 of 57",
+                "instructor": "Bobby Carnes",
+                "location": "JFF236"
+            },
+            {
+                "section": "14515R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "57 of 57",
+                "instructor": "Bobby Carnes",
+                "location": "JFF236"
+            },
+            {
+                "section": "14513R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "57 of 57",
+                "instructor": "Zivia Wilson Sweeney",
+                "location": "JFF236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "281",
+        "course_name": "Introduction to Managerial Accounting",
+        "units": "(3.0 units)",
+        "description": "An emphasis on how accounting information, combined with a variety of techniques and best practices, supports enhanced management decision making. Duplicates credit in BUAD 305.",
+        "sections": [
+            {
+                "section": "14521R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "51 of 51",
+                "instructor": "George Braunegg",
+                "location": "ACC310"
+            },
+            {
+                "section": "14522R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "51 of 51",
+                "instructor": "George Braunegg",
+                "location": "ACC310"
+            },
+            {
+                "section": "14523R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "51 of 51",
+                "instructor": "George Braunegg",
+                "location": "ACC310"
+            },
+            {
+                "section": "14524R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Elizabeth Woo",
+                "location": "ACC310"
+            },
+            {
+                "section": "14525R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Elizabeth Woo",
+                "location": "ACC310"
+            },
+            {
+                "section": "14526R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "George Braunegg",
+                "location": "ACC310"
+            },
+            {
+                "section": "14528R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Francisco Roman",
+                "location": "ACC310"
+            },
+            {
+                "section": "14529R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Francisco Roman",
+                "location": "ACC310"
+            },
+            {
+                "section": "14530R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Francisco Roman",
+                "location": "ACC310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "301",
+        "course_name": "Technology Entrepreneurship",
+        "units": "(3.0 units)",
+        "description": "Starting and managing a technological business: developing a viable concept, market and financial planning, product development, organizing the venture, protecting intellectual property rights.",
+        "sections": [
+            {
+                "section": "14641R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "41 of 46",
+                "instructor": "ShiaoFong Yin",
+                "location": "JFF416"
+            },
+            {
+                "section": "14642R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "34 of 38",
+                "instructor": "ShiaoFong Yin",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "302",
+        "course_name": "Communication Strategy in Business",
+        "units": "(4.0 units)",
+        "description": "Theory, practices, and techniques of business communication strategy essential to external and organizational communication; group and interpersonal communication; development of skill in oral and written communication.",
+        "sections": [
+            {
+                "section": "14646R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Maria Colman",
+                "location": "JFF327"
+            },
+            {
+                "section": "14650R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "36 of 35",
+                "instructor": "Andrew Ogilvie",
+                "location": "JFF331"
+            },
+            {
+                "section": "14652R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "35 of 35",
+                "instructor": "Maria Colman",
+                "location": "JFF327"
+            },
+            {
+                "section": "14654R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "36 of 35",
+                "instructor": "Maria Colman",
+                "location": "JFF327"
+            },
+            {
+                "section": "14656R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "36 of 35",
+                "instructor": "Stacy Geck",
+                "location": "JFF331"
+            },
+            {
+                "section": "14660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "36 of 35",
+                "instructor": "Stacy Geck",
+                "location": "JFF331"
+            },
+            {
+                "section": "14664R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "35 of 35",
+                "instructor": "Stacy Geck",
+                "location": "JFF331"
+            },
+            {
+                "section": "14666R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Pavitra Kavya",
+                "location": "JFF331"
+            },
+            {
+                "section": "14668R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Trevor Wiseman",
+                "location": "JFF331"
+            },
+            {
+                "section": "14671R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Kevin Caporicci",
+                "location": "JFF327"
+            },
+            {
+                "section": "14673R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "36 of 36",
+                "instructor": "Trevor Wiseman",
+                "location": "JFF327"
+            },
+            {
+                "section": "14675R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Pavitra Kavya",
+                "location": "JFF331"
+            },
+            {
+                "section": "14677R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Madge Gaynor",
+                "location": "JFF327"
+            },
+            {
+                "section": "14679R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Madge Gaynor",
+                "location": "JFF327"
+            },
+            {
+                "section": "14683R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Jason Frenn",
+                "location": "JFF331"
+            },
+            {
+                "section": "14685R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Stephen Lind",
+                "location": "JFF327"
+            },
+            {
+                "section": "14687R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Stephen Lind",
+                "location": "JFF327"
+            },
+            {
+                "section": "14689R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "36 of 35",
+                "instructor": "Jason Frenn",
+                "location": "JFF331"
+            },
+            {
+                "section": "14691R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "36 of 36",
+                "instructor": "Cesar Armendariz",
+                "location": "JFF331"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "304",
+        "course_name": "Organizational Behavior and Leadership",
+        "units": "(4.0 units)",
+        "description": "The role of leadership in business organizations; concepts and skills for managing oneself and others.",
+        "sections": [
+            {
+                "section": "14721R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Lynn Robinson",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14722R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Johanna Tolan",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14723R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Marco Aponte-Moreno",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "14724R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Marco Aponte-Moreno",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14725R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Amy Bresnahan",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14726R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Arlene Williams",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "14727R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "48 of 47",
+                "instructor": "Nik Lewis",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "14728R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Agnes Andor",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14729R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Nik Lewis",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "14730R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Agnes Andor",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14731R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Agnes Andor",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14732R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Samantha Martinez,Eric Anicich",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14733R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Nik Lewis",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "14734R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Shannon Faris",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14735R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "48 of 47",
+                "instructor": "Yiran Wang,Eric Anicich",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14736R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "James Vasquez",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "14737R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Johanna Tolan",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14738R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Jason Frenn",
+                "location": "JFFLL101"
+            },
+            {
+                "section": "14739R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Gordon Ho",
+                "location": "JFFLL102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "305",
+        "course_name": "Abridged Core Concepts of Accounting Information",
+        "units": "(4.0 units)",
+        "description": "Uses of accounting information in decision-making; accounting issues concerning income and cash flows, economic resources and capital. Duplicates credit in BUAD 280 and BUAD 281. Open only to transfer business and accounting majors.",
+        "sections": [
+            {
+                "section": "14766D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Taylor Wiesen",
+                "location": "ACC201"
+            },
+            {
+                "section": "14770D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Ruben Davila",
+                "location": "ACC201"
+            },
+            {
+                "section": "14772D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "45 of 48",
+                "instructor": "Ruben Davila",
+                "location": "ACC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "306",
+        "course_name": "Business Finance",
+        "units": "(4.0 units)",
+        "description": "Financial problems of business enterprise; function of financial manager; sources of funds; instruments, institutions, and practices of finance; problems of financial management using case studies. Recommended preparation: foundational courses in microeconomics, financial accounting, and business statistics. Duplicates credit in the former BUAD 215x and BUAD 308.",
+        "sections": [
+            {
+                "section": "14781R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Engin Kose",
+                "location": "JFF417"
+            },
+            {
+                "section": "14782R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "73 of 73",
+                "instructor": "Steve Schurman",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14783R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "73 of 72",
+                "instructor": "Steve Schurman",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14784R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "73 of 72",
+                "instructor": "Ricardo De la O,Kristy Jansen",
+                "location": "HOH2"
+            },
+            {
+                "section": "14785R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "72 of 72",
+                "instructor": "Ricardo De la O,Kristy Jansen",
+                "location": "HOH1"
+            },
+            {
+                "section": "14786R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "William Grieser",
+                "location": "HOH1"
+            },
+            {
+                "section": "14787R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "William Grieser",
+                "location": "HOH2"
+            },
+            {
+                "section": "14788R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "72 of 72",
+                "instructor": "Ricardo De la O,Kristy Jansen",
+                "location": "HOH1"
+            },
+            {
+                "section": "14789R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "73 of 73",
+                "instructor": "William Grieser",
+                "location": "HOH1"
+            },
+            {
+                "section": "14790R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "46 of 46",
+                "instructor": "Sidd Mehta",
+                "location": "ACC303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "307",
+        "course_name": "Marketing Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Develop a managerial viewpoint in planning, executing, and evaluating marketing decisions of the firm, including decisions related to products, pricing, distribution channels and promotion.",
+        "sections": [
+            {
+                "section": "14849R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Lars Perner",
+                "location": "JFF236"
+            },
+            {
+                "section": "14850R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Stephan Carney",
+                "location": "JFF241"
+            },
+            {
+                "section": "14800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "141 of 141",
+                "instructor": "Giovanni Luca Cascio Rizzo",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14802R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "47 of 47",
+                "instructor": "Giovanni Luca Cascio Rizzo",
+                "location": "JFF322"
+            },
+            {
+                "section": "14804R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "47 of 47",
+                "instructor": "Giovanni Luca Cascio Rizzo",
+                "location": "JFF322"
+            },
+            {
+                "section": "14806R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "47 of 47",
+                "instructor": "Giovanni Luca Cascio Rizzo",
+                "location": "JFF322"
+            },
+            {
+                "section": "14812R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "141 of 141",
+                "instructor": "Hank Wasiak",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14814R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Hank Wasiak",
+                "location": "JFF316"
+            },
+            {
+                "section": "14816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Hank Wasiak",
+                "location": "JFF316"
+            },
+            {
+                "section": "14818R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Hank Wasiak",
+                "location": "JFF316"
+            },
+            {
+                "section": "14824R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "235 of 235",
+                "instructor": "Lars Perner",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14826R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "47 of 47",
+                "instructor": "Lars Perner",
+                "location": "JFF241"
+            },
+            {
+                "section": "14828R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "47 of 47",
+                "instructor": "Lars Perner",
+                "location": "JFF316"
+            },
+            {
+                "section": "14830R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Lars Perner",
+                "location": "JFF322"
+            },
+            {
+                "section": "14832R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Lars Perner",
+                "location": "JFF322"
+            },
+            {
+                "section": "14834R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "47 of 47",
+                "instructor": "Lars Perner",
+                "location": "JFF316"
+            },
+            {
+                "section": "14836R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "240 of 240",
+                "instructor": "Rex Kovacevich",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14838R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "48 of 48",
+                "instructor": "Rex Kovacevich",
+                "location": "JFF322"
+            },
+            {
+                "section": "14840R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "48 of 48",
+                "instructor": "Rex Kovacevich",
+                "location": "JFF322"
+            },
+            {
+                "section": "14842R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "48 of 48",
+                "instructor": "Rex Kovacevich",
+                "location": "JFF322"
+            },
+            {
+                "section": "14843R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "48 of 48",
+                "instructor": "Rex Kovacevich",
+                "location": "JFF322"
+            },
+            {
+                "section": "14844R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "48 of 48",
+                "instructor": "Rex Kovacevich",
+                "location": "JFF322"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "308",
+        "course_name": "Advanced Business Finance",
+        "units": "(4.0 units)",
+        "description": "Rigorous coverage of principles and practices of financial management; valuation of cash flows; capital budgeting; risk and return; cost of capital; corporate financial policy. Recommended preparation: foundational courses in microeconomics, financial accounting, and business statistics. Duplicates credit in the former BUAD 215x and BUAD 306.",
+        "sections": [
+            {
+                "section": "14860R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "73 of 73",
+                "instructor": "Tyrone Callahan",
+                "location": "HOH1"
+            },
+            {
+                "section": "14861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "73 of 73",
+                "instructor": "Tyrone Callahan",
+                "location": "HOH1"
+            },
+            {
+                "section": "14862R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "Rodney Ramcharan",
+                "location": "HOH1"
+            },
+            {
+                "section": "14863R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "Rodney Ramcharan",
+                "location": "HOH1"
+            },
+            {
+                "section": "14864R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Tyrone Callahan",
+                "location": "JFF322"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "310",
+        "course_name": "Applied Business Statistics",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for business analysis; data exploration and description; sampling distributions; estimation; hypothesis testing, simple and multiple regression; model building. Extensive computer applications. (Duplicates credit in BUAD 312 and the former ITP 251.)",
+        "sections": [
+            {
+                "section": "14882R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 550,
+                "days": 10,
+                "registered": "144 of 144",
+                "instructor": "Charlie Hannigan",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "14883R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 560,
+                "end_time": 630,
+                "days": 2,
+                "registered": "36 of 36",
+                "instructor": "Charlie Hannigan",
+                "location": "ACC205"
+            },
+            {
+                "section": "14884R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 640,
+                "end_time": 710,
+                "days": 2,
+                "registered": "36 of 36",
+                "instructor": "Charlie Hannigan",
+                "location": "ACC205"
+            },
+            {
+                "section": "14885R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 560,
+                "end_time": 630,
+                "days": 8,
+                "registered": "36 of 36",
+                "instructor": "Charlie Hannigan",
+                "location": "ACC205"
+            },
+            {
+                "section": "14886R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 640,
+                "end_time": 710,
+                "days": 8,
+                "registered": "36 of 36",
+                "instructor": "Charlie Hannigan",
+                "location": "ACC205"
+            },
+            {
+                "section": "14896R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 640,
+                "days": 20,
+                "registered": "144 of 144",
+                "instructor": "Keith Robinson",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "14892R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 790,
+                "days": 4,
+                "registered": "36 of 36",
+                "instructor": "Keith Robinson",
+                "location": "JFF328"
+            },
+            {
+                "section": "14893R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 800,
+                "end_time": 870,
+                "days": 4,
+                "registered": "36 of 36",
+                "instructor": "Keith Robinson",
+                "location": "JFF328"
+            },
+            {
+                "section": "14894R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 790,
+                "days": 16,
+                "registered": "36 of 36",
+                "instructor": "Keith Robinson",
+                "location": "JFF328"
+            },
+            {
+                "section": "14895R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 800,
+                "end_time": 870,
+                "days": 16,
+                "registered": "36 of 36",
+                "instructor": "Keith Robinson",
+                "location": "JFF328"
+            },
+            {
+                "section": "14912R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 910,
+                "days": 10,
+                "registered": "144 of 144",
+                "instructor": "Cosimo Arnesano",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "14897R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1030,
+                "days": 2,
+                "registered": "36 of 36",
+                "instructor": "Cosimo Arnesano",
+                "location": "ACC205"
+            },
+            {
+                "section": "14898R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1040,
+                "end_time": 1110,
+                "days": 2,
+                "registered": "36 of 36",
+                "instructor": "Cosimo Arnesano",
+                "location": "ACC205"
+            },
+            {
+                "section": "14899R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1030,
+                "days": 8,
+                "registered": "36 of 36",
+                "instructor": "Cosimo Arnesano",
+                "location": "ACC205"
+            },
+            {
+                "section": "14910R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1040,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "36 of 36",
+                "instructor": "Cosimo Arnesano",
+                "location": "ACC205"
+            },
+            {
+                "section": "14921R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1030,
+                "days": 20,
+                "registered": "144 of 144",
+                "instructor": "Waverly Wei",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "14922R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1040,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "36 of 36",
+                "instructor": "Waverly Wei",
+                "location": "JFF328"
+            },
+            {
+                "section": "14923R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1120,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "36 of 36",
+                "instructor": "Waverly Wei",
+                "location": "JFF328"
+            },
+            {
+                "section": "14924R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1040,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "36 of 36",
+                "instructor": "Waverly Wei",
+                "location": "JFF328"
+            },
+            {
+                "section": "14925R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1120,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "36 of 36",
+                "instructor": "Waverly Wei",
+                "location": "JFF328"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "311",
+        "course_name": "Operations Management",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of operations management. Skills needed to analyze, manage, and improve business processes. Topics include: process, capacity, service, and inventory management and optimization. (Duplicates credit in BUAD 313 and BUAD 315x.)",
+        "sections": [
+            {
+                "section": "14900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "73 of 73",
+                "instructor": "Somya Singhvi,Angela Zhou",
+                "location": "HOH2"
+            },
+            {
+                "section": "14901R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "73 of 73",
+                "instructor": "Somya Singhvi,Angela Zhou",
+                "location": "HOH2"
+            },
+            {
+                "section": "14902R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "72 of 72",
+                "instructor": "Somya Singhvi,Angela Zhou",
+                "location": "HOH2"
+            },
+            {
+                "section": "14903R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "Somya Singhvi,Angela Zhou",
+                "location": "HOH2"
+            },
+            {
+                "section": "14904R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "Adel Javanmard",
+                "location": "HOH2"
+            },
+            {
+                "section": "14905R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "73 of 72",
+                "instructor": "Somya Singhvi,Angela Zhou",
+                "location": "HOH2"
+            },
+            {
+                "section": "14906R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "73 of 72",
+                "instructor": "Adel Javanmard",
+                "location": "HOH2"
+            },
+            {
+                "section": "14908R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "73 of 72",
+                "instructor": "Kathy Takayama",
+                "location": "HOH2"
+            },
+            {
+                "section": "14909R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "Adel Javanmard",
+                "location": "HOH2"
+            },
+            {
+                "section": "14926R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "72 of 72",
+                "instructor": "Kathy Takayama",
+                "location": "HOH2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "312",
+        "course_name": "Statistics and Data Science for Business",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for exploration, visualization, and analysis of large business datasets; simulation; hypothesis testing, multiple regression modeling, and confidence intervals. Coding taught through data applications. (Faster-paced version of BUAD-310g. Duplicates credit in BUAD 310g and the former ITP 251.)",
+        "sections": [
+            {
+                "section": "14927D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "38 of 48",
+                "instructor": "Jacob Bien",
+                "location": "JFF239"
+            },
+            {
+                "section": "14928R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "46 of 46",
+                "instructor": "Jacob Bien",
+                "location": "JFF239"
+            },
+            {
+                "section": "14929R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "46 of 46",
+                "instructor": "Jacob Bien",
+                "location": "JFF239"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "313",
+        "course_name": "Advanced Operations Management and Analytics",
+        "units": "(4.0 units)",
+        "description": "Advanced operations management techniques to analyze and improve business processes. Decision making under uncertainty through case studies with real data, using state-of-the-art simulation and optimization. (Faster-paced version of BUAD 311. Duplicates credit in BUAD 311 and BUAD 315.)",
+        "sections": [
+            {
+                "section": "14930R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "46 of 46",
+                "instructor": "Andrew Daw",
+                "location": "JFF239"
+            },
+            {
+                "section": "14931R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "46 of 46",
+                "instructor": "Andrew Daw",
+                "location": "JFF239"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "315",
+        "course_name": "Basics of Project and Operations Management for Non-Majors",
+        "units": "(2.0 units)",
+        "description": "Introduction to tools and methods for the design, production, and delivery of goods and services. Techniques for planning, monitoring, and controlling complex projects. Not available for degree or major credit for business and accounting majors. Duplicates credit in BUAD 311 and BUAD 313.",
+        "sections": [
+            {
+                "section": "14978R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "41 of 41",
+                "instructor": "Vitaly Glozman",
+                "location": "JFFLL103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "425",
+        "course_name": "Introduction to Business Analytics",
+        "units": "(2.0 units)",
+        "description": "Leveraging large corporate datasets; slice and dice data; dash boards; data mining and statistical tools; neural network; multiple and logistic regression; decision tree; gain inference and decision making; clustering.",
+        "sections": [
+            {
+                "section": "15053R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "47 of 47",
+                "instructor": "Yanfei Zhou",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15054R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Lorena Martin",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "47 of 47",
+                "instructor": "Sang-Wook Lee",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15056R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "48 of 47",
+                "instructor": "Inga Maslova",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15057R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "48 of 47",
+                "instructor": "Inga Maslova",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15058R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "47 of 47",
+                "instructor": "Yanfei Zhou",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15060R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "48 of 47",
+                "instructor": "Sang-Wook Lee",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15063R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "47 of 47",
+                "instructor": "Inga Maslova",
+                "location": "JFFLL103"
+            },
+            {
+                "section": "15064R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "48 of 47",
+                "instructor": "Lorena Martin",
+                "location": "JFFLL103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings under the supervision of a faculty advisor. Application and proposal required. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "15105D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 18",
+                "instructor": "Gerald Giaquinta",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15103D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 18",
+                "instructor": "Marion Philadelphia",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15104D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Maureen Mchale",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "494",
+        "course_name": "Marshall Honors Research and Thesis",
+        "units": "(2.0 units, max 4)",
+        "description": "Experience in conducting research and writing a thesis under the supervision of a faculty adviser.",
+        "sections": [
+            {
+                "section": "15122R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "4 of 11",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15123R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "7 of 8",
+                "instructor": "Joseph Priester",
+                "location": "HOH506"
+            },
+            {
+                "section": "15124R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "Sriram Dasu",
+                "location": "ACC312"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "495",
+        "course_name": "Practicum in Business Issues (Internship)",
+        "units": "(1.0 units, max 12)",
+        "description": "Combined classroom discussion and structured, supervised field application of business theories and practices within a part-time employment context. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "15088D",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 35",
+                "instructor": "Hannah Neal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUAD",
+        "course_num": "497",
+        "course_name": "Strategic Management",
+        "units": "(4.0 units)",
+        "description": "Examination of managerial decision-making, planning, and policy under changing environments; readings, cases, exercises, simulations.",
+        "sections": [
+            {
+                "section": "15092R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Melody Chang",
+                "location": "JFF240"
+            },
+            {
+                "section": "15094R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Christian Busch",
+                "location": "JFF240"
+            },
+            {
+                "section": "15095R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "48 of 47",
+                "instructor": "Christian Busch",
+                "location": "JFF240"
+            },
+            {
+                "section": "15096R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Courtney Brunious",
+                "location": "JFF240"
+            },
+            {
+                "section": "15097R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Reza Bavafa",
+                "location": "JFF240"
+            },
+            {
+                "section": "15098R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Courtney Brunious",
+                "location": "JFF240"
+            },
+            {
+                "section": "15099R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "Melody Chang",
+                "location": "JFF240"
+            },
+            {
+                "section": "15100R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "John Eklund",
+                "location": "JFF240"
+            },
+            {
+                "section": "15102R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "John Eklund",
+                "location": "JFF240"
+            },
+            {
+                "section": "15108R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "46 of 48",
+                "instructor": "Mitch Feinman",
+                "location": "JFF240"
+            },
+            {
+                "section": "15109R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Marina Mesin Zagar",
+                "location": "JFF240"
+            },
+            {
+                "section": "15110R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Marina Mesin Zagar",
+                "location": "JFF240"
+            },
+            {
+                "section": "15112R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "44 of 47",
+                "instructor": "Reza Bavafa",
+                "location": "JFF239"
+            }
+        ]
+    }
+]

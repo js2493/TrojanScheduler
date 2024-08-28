@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "CTIN",
+        "course_number": "202",
+        "course_name": "Foundations of Game Development",
+        "units": "(2.0 units)",
+        "description": "Foundational concepts for game designers, including playcentric design and flexible skills and knowledge for collaboratively creating and discussing playable systems.",
+        "sections": [
+            {
+                "section": "18355D",
+                "session": "287",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 10,
+                "registered": "21 of 21",
+                "instructor": "Martzi Campos",
+                "location": "SCA356"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTIN",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research project leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18420D",
+                "session": "775",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 12",
+                "instructor": "Sam Roberts",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

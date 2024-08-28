@@ -1,0 +1,182 @@
+[
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "102A",
+        "course_name": "Weight Training",
+        "units": "(1.0 unit)",
+        "description": "Improvement of body shape, muscle endurance, and muscle strength; understanding of weight training and nutrition principles that can be utilized for future weight training development.",
+        "sections": [
+            {
+                "section": "49711R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 860,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Sarah McGill",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "104A",
+        "course_name": "Self-Defense",
+        "units": "(1.0 unit)",
+        "description": "Basic instruction of self-defense for beginners; strategies for standing and ground fighting situations with and without weapons.",
+        "sections": [
+            {
+                "section": "49720R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Carl Collins",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "110A",
+        "course_name": "Swimming",
+        "units": "(1.0 unit)",
+        "description": "a: Instruction and practice of basic strokes for beginners and intermediate swimmers; elementary springboard diving; water safety techniques; endurance training as a fitness program.",
+        "sections": [
+            {
+                "section": "49730R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "10 of 16",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            },
+            {
+                "section": "49731R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Ian Culbertson",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "119",
+        "course_name": "Introduction to Mindfulness",
+        "units": "(2.0 units)",
+        "description": "Introduction to the principles of mindfulness; application of learned techniques to enhance mind body awareness; cultivate strategies to improve physical and mental health.",
+        "sections": [
+            {
+                "section": "50025R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Martin Vitorino",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "120A",
+        "course_name": "Yoga",
+        "units": "(1.0 unit)",
+        "description": "Introduction to meditation, breathing techniques and postures as a means towards relaxation; increase muscle flexibility, understanding of basic anatomy and nutritional guidelines.",
+        "sections": [
+            {
+                "section": "49764R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 860,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Salena Collins",
+                "location": ""
+            },
+            {
+                "section": "49765R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 860,
+                "days": 10,
+                "registered": "7 of 16",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49766R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Isabelle Pilliere Mazumdar",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "140A",
+        "course_name": "Tennis",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of basic strokes for beginners and intermediate players; rules, scoring, court etiquette, strategies; singles and doubles; practice and match play.",
+        "sections": [
+            {
+                "section": "49801R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 945,
+                "end_time": 1025,
+                "days": 20,
+                "registered": "14 of 16",
+                "instructor": "Frank Gutierrez",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHED",
+        "course_number": "160",
+        "course_name": "Stress Management for Healthy Living",
+        "units": "(2.0 units)",
+        "description": "Instruction on the effects of stress as it relates to work, sport and academics; coping strategies are discussed and applied through physical conditioning interventions.",
+        "sections": [
+            {
+                "section": "49872D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Gudrun Floyd",
+                "location": ""
+            }
+        ]
+    }
+]

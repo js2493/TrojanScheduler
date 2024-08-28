@@ -1,0 +1,215 @@
+[
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "395A",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Education Program required. Graded IP or CR/NC. Degree credit by departmental approval.",
+        "sections": [
+            {
+                "section": "28545D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 95",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "395B",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Education Program is required. Graded IP or CR/NC. Degree credit by departmental approval.",
+        "sections": [
+            {
+                "section": "28536D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 30",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28538D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "395C",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Program is required. Graded IP or CR/NC. Degree credit by department approval.",
+        "sections": [
+            {
+                "section": "28540D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "395D",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Education Program is required. Graded IP or CR/NC. Degree credit by departmental approval.",
+        "sections": [
+            {
+                "section": "28544D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "596",
+        "course_name": "Internship in Engineering",
+        "units": "(1.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program. Graduate standing in engineering. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28564D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 100",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28565D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 100",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28566D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 100",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28569D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "123 of 200",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "597",
+        "course_name": "Internship in Engineering with Professional Writing and Communication",
+        "units": "(0.5 units)",
+        "description": "Practical work experience; professional communication and writing skills.",
+        "sections": [
+            {
+                "section": "28620D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "446 of 1500",
+                "instructor": "Candace Teixeira,Elizabeth Fife,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28622D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "58 of 500",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas,Elizabeth Fife",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGR",
+        "course_number": "598",
+        "course_name": "Professional Internship Experiences",
+        "units": "(0.0 units)",
+        "description": "Part-time or full-time practical work experience in a particular field of study. The internship must be located at an off-campus facility.",
+        "sections": [
+            {
+                "section": "28560D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 750",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28562D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 500",
+                "instructor": "Candace Teixeira,Patty Wiesbach-Leach,Lilian Barajas",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

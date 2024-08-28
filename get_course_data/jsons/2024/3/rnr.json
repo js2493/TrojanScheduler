@@ -1,0 +1,77 @@
+[
+    {
+        "term": "20243",
+        "department": "RNR",
+        "course_num": "050",
+        "course_name": "International Academy Holding Course",
+        "units": "(0.0 units)",
+        "description": "Course created per request from the International Academy to create a zero unit, zero charge course for the purpose of enabling services for the student population. Tuition is paid directly to the Academy.",
+        "sections": [
+            {
+                "section": "00941R",
+                "session": "808",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "194 of 350",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "00942R",
+                "session": "810",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "57 of 150",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "00943R",
+                "session": "617",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 150",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "00944R",
+                "session": "678",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 150",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RNR",
+        "course_num": "051",
+        "course_name": "International Academy Holding Course (Part II)",
+        "units": "(0.0 units)",
+        "description": "Course created per request from the International Academy to create a zero unit, zero charge course for the purpose of enabling services for the student population. This course serves the popuation that has successfully completed RNR-050. Tuition is paid directly to the Academy.",
+        "sections": [
+            {
+                "section": "00945R",
+                "session": "199",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 150",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

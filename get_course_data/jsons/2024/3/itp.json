@@ -1,0 +1,1696 @@
+[
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "101",
+        "course_name": "Introduction to Business Information Technologies",
+        "units": "(2.0 units)",
+        "description": "Business technologies. Operating systems. Networks. Application software.",
+        "sections": [
+            {
+                "section": "31801R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "30 of 30",
+                "instructor": "Gregg Ibbotson",
+                "location": "KDC241"
+            },
+            {
+                "section": "32001R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "22 of 35",
+                "instructor": "Gregg Ibbotson",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "104",
+        "course_name": "Introduction to Web Development",
+        "units": "(2.0 units)",
+        "description": "Web publishing using HTML, CSS and other Web technologies. Concepts and theory of Web site creation, page layout and production. Introduction to advanced topics.",
+        "sections": [
+            {
+                "section": "31803R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "20 of 60",
+                "instructor": "Hannah Nguyen",
+                "location": "SOSB46"
+            },
+            {
+                "section": "31806R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "29 of 60",
+                "instructor": "Kimberly Rubal",
+                "location": "SSL202"
+            },
+            {
+                "section": "32034R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "47 of 60",
+                "instructor": "Zune Nguyen",
+                "location": "LVL17"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "115",
+        "course_name": "Programming in Python",
+        "units": "(2.0 units)",
+        "description": "Introduction to Python; intended for students without prior programming experience.",
+        "sections": [
+            {
+                "section": "31814R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Barrett Koster",
+                "location": "THH114"
+            },
+            {
+                "section": "31828R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Trina Gregory",
+                "location": "KAP160"
+            },
+            {
+                "section": "31857R",
+                "session": "060",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Rob Parke",
+                "location": "ONLINE"
+            },
+            {
+                "section": "31865R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "59 of 60",
+                "instructor": "Trina Gregory",
+                "location": "KAP160"
+            },
+            {
+                "section": "31867R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "58 of 60",
+                "instructor": "Trina Gregory",
+                "location": "KAP160"
+            },
+            {
+                "section": "31868R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "57 of 60",
+                "instructor": "Trina Gregory",
+                "location": "KAP160"
+            },
+            {
+                "section": "31870R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "60 of 60",
+                "instructor": "Calvin Nguyen",
+                "location": "GFS118"
+            },
+            {
+                "section": "32089R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Kristof Aldenderfer",
+                "location": "THH114"
+            },
+            {
+                "section": "32090R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "38 of 60",
+                "instructor": "Emily Millard",
+                "location": "KAP160"
+            },
+            {
+                "section": "32099R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Barrett Koster",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "116",
+        "course_name": "Accelerated Programming in Python",
+        "units": "(2.0 units)",
+        "description": "Accelerated introduction to Python; intended for students with prior programming experience.",
+        "sections": [
+            {
+                "section": "31816R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 10,
+                "registered": "37 of 60",
+                "instructor": "Sinan Seymen",
+                "location": "DMC156"
+            },
+            {
+                "section": "32084R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32085R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "21 of 40",
+                "instructor": "Sinan Seymen",
+                "location": "DMC102"
+            },
+            {
+                "section": "32087R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Sinan Seymen",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "124",
+        "course_name": "How Not to Get Hacked -- Personal Cyber Security",
+        "units": "(2.0 units)",
+        "description": "Cyber security concepts for personal protection, protecting your devices and information, protecting yourself and your family online, using encryption safely.",
+        "sections": [
+            {
+                "section": "32011R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "6 of 30",
+                "instructor": "Gregg Ibbotson",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "125",
+        "course_name": "From Hackers to CEOs: Introduction to Information Security",
+        "units": "(2.0 units)",
+        "description": "Introductory course in computer security. Fundamentals of information security management. Threats to information integrity. Ethical hacking concerns and practice. Policies and Procedures.",
+        "sections": [
+            {
+                "section": "31813R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "21 of 24",
+                "instructor": "Pierson Clair",
+                "location": "DRB146"
+            },
+            {
+                "section": "31841R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Pierson Clair",
+                "location": "RRB101"
+            },
+            {
+                "section": "31838R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 2,
+                "registered": "23 of 24",
+                "instructor": "Joseph Greenfield",
+                "location": "RRB101"
+            },
+            {
+                "section": "31840R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 25",
+                "instructor": "Jonathan Holtmann",
+                "location": "DMC257"
+            },
+            {
+                "section": "31833R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "20 of 24",
+                "instructor": "Pierson Clair",
+                "location": "RRB101"
+            },
+            {
+                "section": "31836R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "24 of 24",
+                "instructor": "Joseph Greenfield",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "165",
+        "course_name": "Introduction to C++ Programming",
+        "units": "(2.0 units)",
+        "description": "Introduction to programming using C++, including variables, operators, conditionals, loops, arrays, vectors, strings, functions, files, structs, pointers, dynamic allocation and an introduction to classes.",
+        "sections": [
+            {
+                "section": "31882D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "30 of 33",
+                "instructor": "Barrett Koster",
+                "location": "THH116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "168",
+        "course_name": "Introduction to MATLAB",
+        "units": "(2.0 units)",
+        "description": "Fundamentals of MATLAB: a high-performance numeric computation and visualization environment. Overview of linear algebra and matrix manipulation; using 2-D and 3-D plotting routines; programming in MATLAB; basic numerical analysis.",
+        "sections": [
+            {
+                "section": "31821R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "17 of 35",
+                "instructor": "Reza Jafarkhani",
+                "location": "OHE540"
+            },
+            {
+                "section": "32058R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Reza Jafarkhani",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "180",
+        "course_name": "Video Game Production",
+        "units": "(2.0 units)",
+        "description": "The process of video game production. Video game history, genres, development process (concept, preproduction, production and post-production) and roles (producers, artists, programmers, etc.).",
+        "sections": [
+            {
+                "section": "31827D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "18 of 20",
+                "instructor": "Kyle Ackerman",
+                "location": "EGG108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "190",
+        "course_name": "Introduction to Adobe Photoshop",
+        "units": "(2.0 units)",
+        "description": "Digital tools for image creation, editing, composition, layout, web page development, professional page layout, and printing with color accuracy.",
+        "sections": [
+            {
+                "section": "31800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "8 of 28",
+                "instructor": "Chander Burgos",
+                "location": "SAL109"
+            },
+            {
+                "section": "31892R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1110,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "8 of 28",
+                "instructor": "Chander Burgos",
+                "location": "SAL109"
+            },
+            {
+                "section": "31885R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "7 of 34",
+                "instructor": "Chander Burgos",
+                "location": "SAL126"
+            },
+            {
+                "section": "31837R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "7 of 34",
+                "instructor": "Chander Burgos",
+                "location": "SAL126"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "215",
+        "course_name": "Introduction to 3D Modeling, Animation, and Visual Effects",
+        "units": "(2.0 units)",
+        "description": "An applied introduction to the techniques used for modeling, animating, texturing, lighting, rendering, and creating 3D content for games, cinematics, visual effects, animation, and visualizations.",
+        "sections": [
+            {
+                "section": "31869D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "33 of 33",
+                "instructor": "Scott Easley",
+                "location": "KAP107"
+            },
+            {
+                "section": "31879D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "32 of 33",
+                "instructor": "Scott Easley",
+                "location": "KAP107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "216",
+        "course_name": "Applied Python",
+        "units": "(2.0 units)",
+        "description": "Development of practical Python programming skills through project-based applications; \"Pythonic\" ways of solving problems in modern computational domains.",
+        "sections": [
+            {
+                "section": "32044R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Martin Prescher",
+                "location": ""
+            },
+            {
+                "section": "32046R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "28 of 34",
+                "instructor": "Martin Prescher",
+                "location": "KAP107"
+            },
+            {
+                "section": "32080R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "59 of 60",
+                "instructor": "Gregory Pohlner",
+                "location": "GFS101"
+            },
+            {
+                "section": "32081R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "60 of 60",
+                "instructor": "Gregory Pohlner",
+                "location": "KAP160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "228",
+        "course_name": "Computer-Aided Modeling for 3D Product Design",
+        "units": "(2.0 units)",
+        "description": "Think, plan, and create in three-dimensional space using 3D printing technology and 3D modeling techniques for prototyping.",
+        "sections": [
+            {
+                "section": "31815R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "25 of 35",
+                "instructor": "Kristof Aldenderfer",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "249",
+        "course_name": "Introduction to Data Analytics",
+        "units": "(4.0 units)",
+        "description": "Introduction to data analytics. Basics of databases, applied statistics, data visualization. Leverage data to make critical business decisions.",
+        "sections": [
+            {
+                "section": "31860R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "56 of 60",
+                "instructor": "Calvin Nguyen",
+                "location": "THH114"
+            },
+            {
+                "section": "31862R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Sinan Seymen",
+                "location": "LVL17"
+            },
+            {
+                "section": "32091R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Sinan Seymen",
+                "location": "SOSB46"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "256",
+        "course_name": "Blockchain",
+        "units": "(4.0 units)",
+        "description": "Explore blockchain technology, a secure and immutable way to record transactions. Learn the workings of cryptocurrencies and explore their impact on financial services, business and contracting.",
+        "sections": [
+            {
+                "section": "31824R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "23 of 60",
+                "instructor": "Chaz Hales",
+                "location": "KAP160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "259",
+        "course_name": "Basics of Artificial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Concepts and techniques in artificial intelligence; approaches in artificial narrow intelligence; applications of AI that are already changing society; ethical and social questions in AI.",
+        "sections": [
+            {
+                "section": "32002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Reza Jafarkhani",
+                "location": "KAP160"
+            },
+            {
+                "section": "32003R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "29 of 46",
+                "instructor": "Nitin Kale",
+                "location": "GFS118"
+            },
+            {
+                "section": "32005R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "14 of 33",
+                "instructor": "Nitin Kale",
+                "location": "OHE540"
+            },
+            {
+                "section": "32006R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "49 of 60",
+                "instructor": "Martin Prescher",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "265",
+        "course_name": "Object-Oriented Programming",
+        "units": "(4.0 units)",
+        "description": "Continuation of the fundamentals of programming; problem solving skills within the object-oriented programming paradigm.",
+        "sections": [
+            {
+                "section": "31848R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "33 of 45",
+                "instructor": "Kendra Walther",
+                "location": "RTH105"
+            },
+            {
+                "section": "31849R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "18 of 50",
+                "instructor": "Kendra Walther",
+                "location": "LVL17"
+            },
+            {
+                "section": "31852R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "51 of 100",
+                "instructor": "Kendra Walther",
+                "location": "SOSB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "301",
+        "course_name": "Front-End Web Development",
+        "units": "(4.0 units)",
+        "description": "Concepts and technologies used to create front-end for web applications. Introduction to programming and client-side web development. User-driven website manipulation and animation.",
+        "sections": [
+            {
+                "section": "32063R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "17 of 34",
+                "instructor": "Zune Nguyen",
+                "location": "KAP107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "303",
+        "course_name": "Full-Stack Web Development",
+        "units": "(4.0 units)",
+        "description": "Modern web development techniques and technologies used to create web applications from ground up. Topics include front-end, back-end, and web servers.",
+        "sections": [
+            {
+                "section": "31866R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 4,
+                "registered": "49 of 56",
+                "instructor": "Hannah Nguyen",
+                "location": "DMC150"
+            },
+            {
+                "section": "32079R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "21 of 60",
+                "instructor": "Hannah Nguyen",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "304",
+        "course_name": "Back-End Web Development",
+        "units": "(4.0 units)",
+        "description": "Concepts and technologies used to create database-driven websites. Database design and implementation. Server-side development to connect web applications to databases.",
+        "sections": [
+            {
+                "section": "31947R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "14 of 34",
+                "instructor": "Zune Nguyen",
+                "location": "KAP107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "310",
+        "course_name": "Design for User Experience",
+        "units": "(4.0 units)",
+        "description": "Fundamental concepts, techniques, practices, workflows, and tools associated with the practice of user experience and interaction design in web and mobile applications.",
+        "sections": [
+            {
+                "section": "32029R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 30",
+                "instructor": "Estevan Benson",
+                "location": "WPHB36"
+            },
+            {
+                "section": "32035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "35 of 35",
+                "instructor": "Mikaila Weaver",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "320",
+        "course_name": "Enterprise Information Systems",
+        "units": "(4.0 units)",
+        "description": "The role Information Systems play in an organization. Integration of Business Processes by using Enterprise Resource Planning Systems (ERP).",
+        "sections": [
+            {
+                "section": "31863R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "8 of 20",
+                "instructor": "Bhargav Oza",
+                "location": "OHE542"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "325",
+        "course_name": "Ethical Hacking",
+        "units": "(4.0 units)",
+        "description": "Ethical Hacking. Penetration Testing. Vulnerability Assessment. Red Teams. Hacker environments, infrastructure, and frameworks. Lateral movement and data exfiltration techniques. Evasion and Anti-Forensics.",
+        "sections": [
+            {
+                "section": "31820D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "32 of 32",
+                "instructor": "Stefan Mcgregor",
+                "location": "RRB101"
+            },
+            {
+                "section": "31850D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 4,
+                "registered": "32 of 32",
+                "instructor": "Stefan Mcgregor",
+                "location": "RRB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "342",
+        "course_name": "iOS App Development",
+        "units": "(4.0 units)",
+        "description": "Introduction to the Swift programming language, various frameworks, and design patterns needed to develop applications for iOS mobile devices such as iPhones and iPads.",
+        "sections": [
+            {
+                "section": "32022R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "34 of 60",
+                "instructor": "Bennett Lee",
+                "location": "THH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "348",
+        "course_name": "Making Smart Devices: Introduction to Electronics/Wearables",
+        "units": "(4.0 units)",
+        "description": "Design of electronic devices that interact with the physical world; electronic interfaces; development of software algorithms; micro-controller implementation.",
+        "sections": [
+            {
+                "section": "31843D",
+                "session": "060",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "24 of 25",
+                "instructor": "Rob Parke",
+                "location": "ONLINE"
+            },
+            {
+                "section": "31846D",
+                "session": "060",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Rob Parke",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "349",
+        "course_name": "Enterprise Data Analytics",
+        "units": "(4.0 units)",
+        "description": "Methodology to store, organize, cleanse, harmonize and stage enterprise data for analytics. Report, visualize, slice and dice, forecast and predict trends.",
+        "sections": [
+            {
+                "section": "31905R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "96 of 120",
+                "instructor": "Mike Lee",
+                "location": "SGM101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "351",
+        "course_name": "3D Character Modeling for Games",
+        "units": "(4.0 units)",
+        "description": "Character design principles, visual communication and planning for games; polygonal construction, use of image guides and edge flows for realistic deformation.",
+        "sections": [
+            {
+                "section": "31858R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "17 of 25",
+                "instructor": "Mayan Escalante",
+                "location": "KAP107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "356",
+        "course_name": "Blockchain: Decentralized Applications",
+        "units": "(4.0 units)",
+        "description": "Blockchain technology; transactions without the need for a trusted third-party; and decentralized applications on public blockchains.",
+        "sections": [
+            {
+                "section": "31851R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "9 of 46",
+                "instructor": "Patrick Alexander",
+                "location": "ZHS163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "357",
+        "course_name": "Enterprise Networks: Design and Architecture",
+        "units": "(4.0 units)",
+        "description": "Network technologies. Routers and managed switches. Integrated operating systems (IOS). Strategies for endpoint management. Subnets and securing subnetworks. Reliability with networks and network infrastructure.",
+        "sections": [
+            {
+                "section": "32051R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "23 of 28",
+                "instructor": "Pierson Clair",
+                "location": "KAP267"
+            },
+            {
+                "section": "31880R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "39 of 40",
+                "instructor": "Grant Derderian",
+                "location": "VPD106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "359",
+        "course_name": "Applied Neural Networks",
+        "units": "(4.0 units)",
+        "description": "Design, build, and train applied neural networks to solve real-world problems; implement neural networks for machine vision, image recognition, and object detection and tracking.",
+        "sections": [
+            {
+                "section": "31906R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "28 of 48",
+                "instructor": "Martin Prescher",
+                "location": "RTH109"
+            },
+            {
+                "section": "32004R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "40 of 60",
+                "instructor": "Nitin Kale",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "361",
+        "course_name": "Character Rigging for Games",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of character rigging for video game production and development; optimization of character design, skeleton and mass properties for effective rigging; virtual rigs.",
+        "sections": [
+            {
+                "section": "31888R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 25",
+                "instructor": "Scott Easley",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "365",
+        "course_name": "Managing Data in C++",
+        "units": "(4.0 units)",
+        "description": "Data structures in C++ including vectors, linked lists, stacks, queues, trees, hash tables, graphs, and parallelism.",
+        "sections": [
+            {
+                "section": "32041R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "26 of 36",
+                "instructor": "Gregory Pohlner",
+                "location": "DMC211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "368",
+        "course_name": "Cross-Platform App Development",
+        "units": "(4.0 units)",
+        "description": "Programming applications with dynamic graphical user interfaces. Topics include events, controls, resources, data bindings, styles and user experience.",
+        "sections": [
+            {
+                "section": "31807R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "50 of 60",
+                "instructor": "Allen Almasi",
+                "location": "GFS101"
+            },
+            {
+                "section": "32054R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "11 of 28",
+                "instructor": "Barrett Koster",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "370",
+        "course_name": "Cybersecurity Management and Operations",
+        "units": "(4.0 units)",
+        "description": "Cybersecurity project design. Incident response. Teambuilding, management and communications for cybersecurity. Scalable approaches for implementation of Information Security Management Systems.",
+        "sections": [
+            {
+                "section": "32097R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "21 of 29",
+                "instructor": "Gregg Ibbotson",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "371",
+        "course_name": "Technical Character Animation for Games",
+        "units": "(4.0 units)",
+        "description": "3D character animation with a video game focus; movement clarity versus game reaction speed, LOD visibility and automated export systems.",
+        "sections": [
+            {
+                "section": "31950R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "14 of 16",
+                "instructor": "Scott Easley",
+                "location": "OHE542"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "375",
+        "course_name": "Digital Forensics and Cybersecurity Investigations",
+        "units": "(4.0 units)",
+        "description": "Forensic science techniques. Digital evidence preservation. Processes and methodologies for digital examinations. Cyber crime investigations. Windows file system analysis. Real case scenario analysis and reporting",
+        "sections": [
+            {
+                "section": "31956R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "15 of 25",
+                "instructor": "Howard Williamson",
+                "location": "RRB101"
+            },
+            {
+                "section": "31957R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "26 of 29",
+                "instructor": "Pierson Clair",
+                "location": "RRB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "380",
+        "course_name": "Video Game Programming",
+        "units": "(4.0 units)",
+        "description": "Underlying concepts and principles required for programming video games (topics include vectors, transformations, 3-D math, geometric primitives, matrices). Prerequisite: CSCI-104 or ITP-365.",
+        "sections": [
+            {
+                "section": "32026R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "15 of 36",
+                "instructor": "Clark Kromenaker",
+                "location": "OHE540"
+            },
+            {
+                "section": "32083R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "36 of 37",
+                "instructor": "Sanjay Madhav",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "382",
+        "course_name": "Mobile Game Development",
+        "units": "(4.0 units)",
+        "description": "Application of techniques used to develop games for mobile devices. Sprites, mobile input, mobile graphics and monetization.",
+        "sections": [
+            {
+                "section": "32056R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 28",
+                "instructor": "Matthew Whiting",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "383",
+        "course_name": "Database Systems: Storage and Retrieval using SQL",
+        "units": "(4.0 units)",
+        "description": "Data models for industry applications. Modeling and designing robust databases. Implementing and querying databases with SQL. Innovations in database applications.",
+        "sections": [
+            {
+                "section": "31628D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 36",
+                "instructor": "Nitin Kale",
+                "location": "KAP145"
+            },
+            {
+                "section": "31629R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 40",
+                "instructor": "Nitin Kale",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "404",
+        "course_name": "Advanced Front-End Web Development",
+        "units": "(4.0 units)",
+        "description": "The technologies, techniques, conventions and best practices used in contemporary front-end web development.",
+        "sections": [
+            {
+                "section": "31835R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "23 of 25",
+                "instructor": "David Tang",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "425",
+        "course_name": "Web Application Security",
+        "units": "(4.0 units)",
+        "description": "Examine web applications from an offensive security standpoint. Topics include information gathering, vulnerability discovery and validation, exploitation and privilege escalation techniques.",
+        "sections": [
+            {
+                "section": "32052R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "13 of 28",
+                "instructor": "Andy Portillo",
+                "location": "RRB101"
+            },
+            {
+                "section": "32008R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "25 of 33",
+                "instructor": "Howard Williamson",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "435",
+        "course_name": "Professional C++",
+        "units": "(4.0 units)",
+        "description": "Applications of advanced concepts in C++ including lambda expressions, templates, secure coding, parallel programming, writing performant code, CMake and continuous integration.",
+        "sections": [
+            {
+                "section": "31994R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "70 of 70",
+                "instructor": "Sanjay Madhav",
+                "location": "THH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "438",
+        "course_name": "Advanced Gameplay Programming",
+        "units": "(4.0 units)",
+        "description": "Advanced gameplay programming techniques for both single player and networked multiplayer games using an industry-standard game engine.",
+        "sections": [
+            {
+                "section": "32021R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "28 of 36",
+                "instructor": "Sanjay Madhav",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "445",
+        "course_name": "Apple Forensics and Security (macOS and iOS)",
+        "units": "(4.0 units)",
+        "description": "Digital forensics, evidence collection and analysis of Apple devices including macOS and iOS. Mac, iPhone, iPad and other Apple device analysis.",
+        "sections": [
+            {
+                "section": "32025D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1050,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Pierson Clair",
+                "location": "OHE542"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "449",
+        "course_name": "Applications of Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Hands-on approach to the fundamental modeling techniques and machine learning algorithms that enable students to build robust predictive models of real-world data and test their validity.",
+        "sections": [
+            {
+                "section": "31822D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "59 of 60",
+                "instructor": "Reza Jafarkhani",
+                "location": "THH116"
+            },
+            {
+                "section": "31829R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "28 of 60",
+                "instructor": "Kristof Aldenderfer",
+                "location": "KAP160"
+            },
+            {
+                "section": "31874R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "31 of 60",
+                "instructor": "Kristof Aldenderfer",
+                "location": "KAP160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "450",
+        "course_name": "High Performance Computing in Applied Machine Learning",
+        "units": "(2.0 units)",
+        "description": "Theoretical and practical high performance computing approaches to various computational methods in applied machine learning.",
+        "sections": [
+            {
+                "section": "31881R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "16 of 20",
+                "instructor": "BD Kim,Hao Ji,Iman Rahbari",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "459",
+        "course_name": "Applied Machine Learning for Natural Language Processing",
+        "units": "(4.0 units)",
+        "description": "Applied topics in machine learning, including transfer learning, reinforcement learning, generative adversarial networks and natural language processing using neural networks.",
+        "sections": [
+            {
+                "section": "32077R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "26 of 60",
+                "instructor": "Allen Bolourchi",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "460",
+        "course_name": "Web Application Project",
+        "units": "(4.0 units)",
+        "description": "Skills to plan, analyze, build, and launch professional Web sites with actual clients. Includes project management, documentation, technology assessment, security, UI, Q/A, and various methodologies.",
+        "sections": [
+            {
+                "section": "31912R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "17 of 20",
+                "instructor": "Bo Wang",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "466",
+        "course_name": "Building the High Tech Startup",
+        "units": "(4.0 units)",
+        "description": "Teach students the basic technologies and processes involved in the building web and mobile startups. Students will be introduced to the different aspects of building a web startup including Online Business models, Product management, Agile development processes, Technology platforms and Operations, customer development and online marketing.",
+        "sections": [
+            {
+                "section": "32055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "29 of 40",
+                "instructor": "P.J. Leimgruber",
+                "location": "RTH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "470",
+        "course_name": "Information Technology Practicum",
+        "units": "(1.0-4.0 units)",
+        "description": "Independent technology project related to specific topics under the direction of a faculty member.",
+        "sections": [
+            {
+                "section": "32073D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Erik Johnson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "476",
+        "course_name": "Technologies for Interactive Marketing",
+        "units": "(4.0 units)",
+        "description": "Technologies, concepts and strategies in the emerging online advertising ecosystem. Strategies and tactics to drive traffic to a website and measure efficacy. Students will work with a real client and budget to craft and execute an online marketing plan.",
+        "sections": [
+            {
+                "section": "32072R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "17 of 40",
+                "instructor": "P.J. Leimgruber",
+                "location": "RTH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "479",
+        "course_name": "Cyber Law and Privacy",
+        "units": "(4.0 units)",
+        "description": "Cyber legal issues, search and seizure, 4th amendment and digital evidence, warrants, private searches, wiretaps, tracking devices, workplace privacy.",
+        "sections": [
+            {
+                "section": "32049R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1050,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "28 of 60",
+                "instructor": "Benny Forer",
+                "location": "KAP160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "480",
+        "course_name": "Information Technology Internship",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Practical experience in applying information technology skills in real-world settings. Supervised internship at companies and start-ups. Balancing academic rigor with corporate challenges and deadlines.",
+        "sections": [
+            {
+                "section": "32074D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Erik Johnson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "489",
+        "course_name": "In-Memory Data Modeling and Analytics",
+        "units": "(4.0 units)",
+        "description": "Examines the design, architecture, and capabilities of in-memory databases and their application to real-time analytics.",
+        "sections": [
+            {
+                "section": "31873R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "16 of 30",
+                "instructor": "Richard Vawter",
+                "location": "KAP160"
+            },
+            {
+                "section": "31877R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 28",
+                "instructor": "Richard Vawter",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ITP",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Recent developments in computers and data processing.",
+        "sections": [
+            {
+                "section": "31903R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Kristof Aldenderfer,Gregg Ibbotson",
+                "location": ""
+            }
+        ]
+    }
+]

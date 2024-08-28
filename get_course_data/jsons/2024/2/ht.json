@@ -1,0 +1,170 @@
+[
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "500",
+        "course_name": "Global Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "History, theories, trends and impacts relevant to global hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70300D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Hicham Jaddoud",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "505",
+        "course_name": "Managing Service Quality in Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Strategic management of service quality in hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70308D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "6 of 30",
+                "instructor": "Diana Beltran,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "510",
+        "course_name": "Marketing Strategies for Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Principles, strategies and techniques relevant to marketing in hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70316D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "15 of 30",
+                "instructor": "Andria Godfrey,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "515",
+        "course_name": "Financial Management in Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Financial analysis methods to support sound, evidence-based decision-making in hospitality and tourism organizations.",
+        "sections": [
+            {
+                "section": "70324D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "8 of 30",
+                "instructor": "Hicham Jaddoud,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "540",
+        "course_name": "Hospitality and Tourism Data Analytics",
+        "units": "(2.0 units)",
+        "description": "Analysis, interpretation and presentation of data to support evidence-based decision-making in hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70364D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "14 of 30",
+                "instructor": "Suzanne Szanyi,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "545",
+        "course_name": "Tourism Development",
+        "units": "(2.0 units)",
+        "description": "Strategies for planning and evaluating sustainable and responsible tourism development projects.",
+        "sections": [
+            {
+                "section": "70372D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "11 of 30",
+                "instructor": "Anna Abelson,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "550",
+        "course_name": "Hospitality and Tourism Events",
+        "units": "(2.0 units)",
+        "description": "Analysis, planning and evaluation of meetings and events in hospitality and tourism settings.",
+        "sections": [
+            {
+                "section": "70380D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "6 of 30",
+                "instructor": "Andrea Daniels,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HT",
+        "course_number": "555",
+        "course_name": "Hospitality and Tourism Capstone",
+        "units": "(2.0 units)",
+        "description": "Students synthesize knowledge and skills gained throughout the program in a culminating capstone project.",
+        "sections": [
+            {
+                "section": "70388D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "5 of 30",
+                "instructor": "Michael Mathis,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "term": "20242",
+        "department": "HCDA",
+        "course_number": "502",
+        "course_name": "Comparative International Healthcare Systems",
+        "units": "(3.0 units)",
+        "description": "Health coverage and funding across seven industrial countries, with examination of variances and similarities in stated policy and outcomes by region and population mix.",
+        "sections": [
+            {
+                "section": "49202D",
+                "session": "948",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 16",
+                "instructor": "Ken Wong",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HCDA",
+        "course_number": "550",
+        "course_name": "Healthcare Innovation: Creativity to Value",
+        "units": "(3.0 units)",
+        "description": "Systematically review creativity and innovation techniques across healthcare industry, examine breakthrough genomic and biopharmaceutical processes and thinking, evaluate novel therapeutic and economic measures transforming outcomes.",
+        "sections": [
+            {
+                "section": "49214D",
+                "session": "948",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 50",
+                "instructor": "John Stofko,Daniel Tomaszewski",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "54009D",
+                "session": "893",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 20",
+                "instructor": "John Stofko",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HCDA",
+        "course_number": "580",
+        "course_name": "Seminars in Healthcare Decision Analysis",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Weekly seminar and literature series, review and discuss policy, biopharmaceuticals, insurance, global healthcare access issues. Student lead discussions, expert guest speakers, group projects, critical thinking.",
+        "sections": [
+            {
+                "section": "54010D",
+                "session": "938",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 20",
+                "instructor": "Kristen Felthousen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HCDA",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one full academic year of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "49224D",
+                "session": "948",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Ken Wong",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HCDA",
+        "course_number": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Special topics in Healthcare Decision Analysis.",
+        "sections": [
+            {
+                "section": "49222D",
+                "session": "948",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 50",
+                "instructor": "Daniel Tomaszewski,Jason Shafrin",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

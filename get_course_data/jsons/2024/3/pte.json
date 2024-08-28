@@ -1,0 +1,531 @@
+[
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "411",
+        "course_name": "Introduction to Transport Processes in Porous Media",
+        "units": "(3.0 units)",
+        "description": "Properties of porous rocks; capillarity effect, single-phase and multiphase fluid flow through porous media; diffusion and dispersion, miscible displacement heat transfer. Lecture, 3 hours. Not available for credit to Petroleum Engineering majors.",
+        "sections": [
+            {
+                "section": "32200D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1090,
+                "days": 8,
+                "registered": "0 of 30",
+                "instructor": "Kristian Jessen",
+                "location": "RTH105"
+            },
+            {
+                "section": "32202D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1090,
+                "days": 8,
+                "registered": "0 of 20",
+                "instructor": "Kristian Jessen",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "461",
+        "course_name": "Formation Data Sensing with Well Logs",
+        "units": "(4.0 units)",
+        "description": "Measurement theory and petroleum/geothermal applications of electrical, radioactive, acoustic, and production logging tools. Estimation of rock porosity, water saturation, permeability, shale content, gas flow rate.",
+        "sections": [
+            {
+                "section": "32204D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 910,
+                "days": 10,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32206D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 910,
+                "days": 10,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "463",
+        "course_name": "Introduction to Transport Processes in Porous Media",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of flow and transport in porous materials including: Properties of porous rocks, capillarity effect, single- and multiphase flow, diffusion and dispersion in miscible displacements.",
+        "sections": [
+            {
+                "section": "32208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1090,
+                "days": 8,
+                "registered": "0 of 28",
+                "instructor": "Kristian Jessen",
+                "location": "RTH105"
+            },
+            {
+                "section": "32290R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "PCE313"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "465",
+        "course_name": "Drilling Technology and Subsurface Methods",
+        "units": "(3.0 units)",
+        "description": "Theory and practice in drilling technology; mechanical properties of reservoir rocks; well completion; acidizing and fracturing, oilproduction gechnology. Lecture, 3 hours; laboratory, 3 hours",
+        "sections": [
+            {
+                "section": "32212D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 620,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "Iraj Ershaghi",
+                "location": ""
+            },
+            {
+                "section": "32214R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 810,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "PCE313"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "32216D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Iraj Ershaghi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "502",
+        "course_name": "Applied Subsurface Characterization and Engineering",
+        "units": "(4.0 units)",
+        "description": "Characterization and modeling of subsurface reservoirs. Extraction of energy and minerals. Storage of energy and greenhouse gases.",
+        "sections": [
+            {
+                "section": "32295D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1060,
+                "days": 16,
+                "registered": "4 of 25",
+                "instructor": "Iraj Ershaghi",
+                "location": "RTH217"
+            },
+            {
+                "section": "32296D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1060,
+                "days": 16,
+                "registered": "1 of 25",
+                "instructor": "Iraj Ershaghi",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "507",
+        "course_name": "Engineering and Economic Evaluation of Subsurface Reservoirs",
+        "units": "(3.0 units)",
+        "description": "Volumetric reservoir performance; reservoirs under water influx and gas cap expansion; coning; gravity drainage; estimation of reserves and ultimate recovery. Prerequisite: 402L.",
+        "sections": [
+            {
+                "section": "32276D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "5 of 28",
+                "instructor": "Jincai Chang",
+                "location": "RTH326"
+            },
+            {
+                "section": "32278D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "1 of 20",
+                "instructor": "Jincai Chang",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "519",
+        "course_name": "Integrated Physical and Cyber Security for Oil and Gas Operations",
+        "units": "(3.0 units)",
+        "description": "Infrastructure Security, Resilience and Management of Digital Oil Fields, Process Control Networks in exploration and production, refining and chemical plants, Asset Integrity principles, case histories. Open only to graduate students.",
+        "sections": [
+            {
+                "section": "32292D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 8,
+                "registered": "5 of 28",
+                "instructor": "Donald Paul",
+                "location": "RTH217"
+            },
+            {
+                "section": "32294D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 8,
+                "registered": "3 of 15",
+                "instructor": "Donald Paul",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "520",
+        "course_name": "Mathematical Methods for Deep Learning",
+        "units": "(4.0 units)",
+        "description": "Understanding deep learning: for students in engineering, physical and life sciences and computer science with mathematical background.",
+        "sections": [
+            {
+                "section": "32127R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "15 of 24",
+                "instructor": "Rajiv Kalia",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "582",
+        "course_name": "Fluid Flow and Transport Processes in Porous Media",
+        "units": "(3.0 units)",
+        "description": "Principles of single and multiphase flow through porous media; mechanisms of immiscible and miscible displacement; momentum, heat and mass transport in porous media.",
+        "sections": [
+            {
+                "section": "32268D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "7 of 40",
+                "instructor": "Faruk Civan",
+                "location": "RTH326"
+            },
+            {
+                "section": "32270D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "1 of 18",
+                "instructor": "Faruk Civan",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32246D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Andrea Hodge,Iraj Ershaghi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "32248D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "32249D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "32252D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Course content will be selected each semester to reflect current trends and developments in the field of Petroleum Engineering.",
+        "sections": [
+            {
+                "section": "32230R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 760,
+                "days": 32,
+                "registered": "7 of 10",
+                "instructor": "Behnam Jafarpour",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32256D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Andrea Hodge,Iraj Ershaghi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32228D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32229D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32262D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32264D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PTE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32266D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

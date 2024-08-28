@@ -1,0 +1,269 @@
+[
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "421",
+        "course_name": "Neurobiology",
+        "units": "(4.0 units)",
+        "description": "Structure, function, and development of nervous systems; neural integration and mechanisms of behavior; organization and operation of brains.",
+        "sections": [
+            {
+                "section": "13033R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "199 of 200",
+                "instructor": "Emily Liman,Dion Dickman,Lauren McElvain",
+                "location": "SAL101"
+            },
+            {
+                "section": "13395R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC257"
+            },
+            {
+                "section": "13396R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP147"
+            },
+            {
+                "section": "13397R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "MRF229"
+            },
+            {
+                "section": "13398R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "13399R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "13400R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "ZHS360"
+            },
+            {
+                "section": "13401R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP147"
+            },
+            {
+                "section": "13402R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "HNB107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "422",
+        "course_name": "Neuropsychology",
+        "units": "(4.0 units)",
+        "description": "Effects of brain damage on human behavior and abilities, particularly language, memory, and emotion.",
+        "sections": [
+            {
+                "section": "52629R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Shirin Birjandi",
+                "location": "GFS221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "427",
+        "course_name": "Neuropsychopharmacology",
+        "units": "(4.0 units)",
+        "description": "Pharmo-chemical nature of the brain; diseases of the brain and drug treatments.",
+        "sections": [
+            {
+                "section": "52660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "Shirin Birjandi",
+                "location": "VHE214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "440",
+        "course_name": "Foundations of Cognitive Neuroscience",
+        "units": "(4.0 units)",
+        "description": "Introduction to the major components of cognition (perception, memory, intelligence) in terms of the neural coding characteristic of the relevant brain areas.",
+        "sections": [
+            {
+                "section": "52442R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Jason Zevin",
+                "location": "MRF340"
+            },
+            {
+                "section": "52459R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Jason Zevin",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "462",
+        "course_name": "Seminar in Neurobiology",
+        "units": "(2.0 units, max 4)",
+        "description": "Topical seminar in neurobiology.",
+        "sections": [
+            {
+                "section": "13040D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Judith Hirsch",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Departmental approval.",
+        "sections": [
+            {
+                "section": "47600D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "493",
+        "course_name": "Neuroscience Honors Seminar",
+        "units": "(1.0 units, max 4)",
+        "description": "Students attend lectures of distinguished neuroscientists visiting USC and give short, chalk-talk presentations summarizing the lecture. The presentations are critiqued by the students. Not available for graduate credit. Prerequisite: BISC-220L or BISC-221L. Recommended preparation: BISC 421.",
+        "sections": [
+            {
+                "section": "47643D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Sarah Bottjer,Payam Piray",
+                "location": "HNB120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NEUR",
+        "course_num": "494",
+        "course_name": "Honors Thesis",
+        "units": "(2.0 units)",
+        "description": "Not available for graduate credit. Programmatic approval.",
+        "sections": [
+            {
+                "section": "47644D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Sarah Bottjer,Payam Piray",
+                "location": "HNB120"
+            }
+        ]
+    }
+]

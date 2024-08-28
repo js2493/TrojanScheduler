@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "102",
+        "course_name": "World Music",
+        "units": "(4.0 units)",
+        "description": "Exploration of music and cultures of the world. Engagement with international musicians, global issues, field work and musical diasporas in Los Angeles.",
+        "sections": [
+            {
+                "section": "47203R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "21 of 50",
+                "instructor": "Scott Spencer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "THTR",
+        "course_number": "229",
+        "course_name": "Sports on Stage and Screen",
+        "units": "(4.0 units)",
+        "description": "The examination of the intersection between athletes and actors through the study of plays, musicals, feature films and TV series that depict athletic worlds.",
+        "sections": [
+            {
+                "section": "62955R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "Canceled",
+                "instructor": "Emily Roxworthy",
+                "location": ""
+            }
+        ]
+    }
+]

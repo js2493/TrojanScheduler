@@ -1,0 +1,487 @@
+[
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "125",
+        "course_name": "Calculus I",
+        "units": "(4.0 units)",
+        "description": "Limits; continuity, derivatives and applications; antiderivatives; the fundamental theorem of calculus; exponential and logarithmic functions.",
+        "sections": [
+            {
+                "section": "39412R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 62,
+                "registered": "7 of 30",
+                "instructor": "Nathaniel Emerson",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "225",
+        "course_name": "Linear Algebra and Linear Differential Equations",
+        "units": "(4.0 units)",
+        "description": "Matrices, systems of linear equations, vector spaces, linear transformations, eigenvalues, systems of linear differential equations.",
+        "sections": [
+            {
+                "section": "39425R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 630,
+                "end_time": 740,
+                "days": 62,
+                "registered": "12 of 30",
+                "instructor": "Ricardo Mancera",
+                "location": "KAP148"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "226",
+        "course_name": "Calculus III",
+        "units": "(4.0 units)",
+        "description": "Vectors, vector valued functions; differential and integral calculus of functions of several variables; Green's theorem, Divergence theorem, Stoke's theorem.",
+        "sections": [
+            {
+                "section": "39430R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 62,
+                "registered": "14 of 30",
+                "instructor": "Cymra Haskell",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "245",
+        "course_name": "Mathematics of Physics and Engineering I",
+        "units": "(4.0 units)",
+        "description": "First-order differential equations; second-order linear differential equations; determinants and matrices; systems of linear differential equations; Laplace transforms.",
+        "sections": [
+            {
+                "section": "39435R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 630,
+                "end_time": 740,
+                "days": 62,
+                "registered": "4 of 30",
+                "instructor": "Pranava Jayanti",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "39439D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Aaron Lauda",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "501",
+        "course_name": "Numerical Analysis and Computation",
+        "units": "(3.0 units)",
+        "description": "Linear equations and matrices, Gauss elimination, error estimates, iteration techniques; contractive mappings, Newton's method; matrix eigenvalue problems; least-squares approximation, Newton-Cotes and Gaussian quadratures; finite difference methods. Prerequisite: linear algebra and calculus.",
+        "sections": [
+            {
+                "section": "39440R",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 780,
+                "days": 42,
+                "registered": "13 of 30",
+                "instructor": "Gary Rosen",
+                "location": "KAP145"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "511A",
+        "course_name": "Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Major parametric and non-parametric statistical tools used in biomedical research, computer packages including SAS. Includes laboratory. Lecture, 2 hours; laboratory, 2 hours.",
+        "sections": [
+            {
+                "section": "41198D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 25",
+                "instructor": "Lu Zhang",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41194D",
+                "session": "407",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 25",
+                "instructor": "Lu Zhang",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "511B",
+        "course_name": "Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for analysis of categorical data including dichotomous, ordinal, multinomial and count data, using Stata package. Includes laboratory.",
+        "sections": [
+            {
+                "section": "41101D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 28",
+                "instructor": "Sue Ingles",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41102D",
+                "session": "407",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 28",
+                "instructor": "Sue Ingles",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39460D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Aaron Lauda",
+                "location": "OFFICE"
+            },
+            {
+                "section": "39461D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Jin Ma",
+                "location": "OFFICE"
+            },
+            {
+                "section": "39462R",
+                "session": "057",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 62,
+                "registered": "13 of 20",
+                "instructor": "Sami Assaf",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "39470D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "39475D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39480D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "39481D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Aaron Lauda",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "606",
+        "course_name": "Topics in Stochastic Processes",
+        "units": "(3.0 units, max 12)",
+        "description": "Theoretic and applied topics of current interest in discrete and continuous time stochastic processes and in stochastic differential equations. Recommended preparation: a graduate level course in probability theory or stochastic processes.",
+        "sections": [
+            {
+                "section": "39482R",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 750,
+                "days": 10,
+                "registered": "13 of 30",
+                "instructor": "Sergey Lototsky",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "610",
+        "course_name": "Topics in Algebra",
+        "units": "(3.0 units, max 12)",
+        "description": "",
+        "sections": [
+            {
+                "section": "39483R",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 20",
+                "instructor": "Anne Dranowski",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39500D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Aaron Lauda",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39502D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39504D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39506D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39508D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39510D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

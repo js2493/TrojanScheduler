@@ -1,0 +1,549 @@
+[
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "563",
+        "course_name": "History of Higher Education",
+        "units": "(3.0 units)",
+        "description": "Examination of roles and functions of higher education from historical and contemporary perspectives, with a focus on equity and urban education.",
+        "sections": [
+            {
+                "section": "26897D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "19 of 22",
+                "instructor": "David Glasgow",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27150D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "22 of 22",
+                "instructor": "Lynette Merriman",
+                "location": "WPHB28"
+            },
+            {
+                "section": "27151D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "Cory Buckner",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "27732D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "680",
+        "course_name": "Cultural Humility in Leadership and Practice",
+        "units": "(3.0 units)",
+        "description": "Facilitate culturally responsive interventions in mental health leadership. Address racial disparities; design, apply and assess diversity, equity and inclusion programming.",
+        "sections": [
+            {
+                "section": "26555D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 16,
+                "registered": "14 of 25",
+                "instructor": "Raven Barrow",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "681",
+        "course_name": "Organization Leadership: Theory and Practice",
+        "units": "(3.0 units)",
+        "description": "Apply organizational frameworks for mental health leadership. Introduce theory to enhance service delivery, prioritize client care and promote societal impact.",
+        "sections": [
+            {
+                "section": "26556D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "14 of 25",
+                "instructor": "Michelle Dexter",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "700",
+        "course_name": "Foundations in Urban Education",
+        "units": "(3.0 units)",
+        "description": "Explores urban P-20 education through social, historical, and political lenses and how research and policy shape professional practice in Los Angeles and the United States.",
+        "sections": [
+            {
+                "section": "26527D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "22 of 26",
+                "instructor": "Angela Hasan",
+                "location": "WPH403"
+            },
+            {
+                "section": "26528D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "Christina Kishimoto",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26529D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "21 of 25",
+                "instructor": "Briana Hinga",
+                "location": "WPH403"
+            },
+            {
+                "section": "26530D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "23 of 25",
+                "instructor": "Alan Green",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26531D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "24 of 26",
+                "instructor": "Briana Hinga",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "701",
+        "course_name": "Foundations in Leadership in Education",
+        "units": "(3.0 units)",
+        "description": "Provides foundational knowledge about leadership theory and practice to support students development as critically conscious leaders who take action to address inequities in urban contexts.",
+        "sections": [
+            {
+                "section": "26533D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 8,
+                "registered": "26 of 26",
+                "instructor": "Rudolph Crew",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26534D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "21 of 25",
+                "instructor": "Bernadette Lucas",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26536D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "21 of 25",
+                "instructor": "Gregory Franklin",
+                "location": "WPH403"
+            },
+            {
+                "section": "26538D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "David Cash",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26539D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "22 of 26",
+                "instructor": "Gregory Franklin",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "723",
+        "course_name": "Curriculum and Instructional Leadership",
+        "units": "(3.0 units)",
+        "description": "Social, political, economic and scholarly factors determining curriculum and instructional design and implementation and implications for formal and informal leaders in P-20 contexts are explored.",
+        "sections": [
+            {
+                "section": "26540D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "11 of 25",
+                "instructor": "John Pascarella",
+                "location": "WPH103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "725",
+        "course_name": "Inter-Disciplinary Curriculum, Instruction and Assessment P-20",
+        "units": "(3.0 units)",
+        "description": "Educational leaders utilize spatial data and technologies to study their leadership trajectories across urban P-20 settings and bring inter-disciplinary approaches to curriculum, instruction, and assessment.",
+        "sections": [
+            {
+                "section": "26543D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "9 of 12",
+                "instructor": "Julie Slayton",
+                "location": "WPH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "726",
+        "course_name": "Research Methods 1",
+        "units": "(3.0 units)",
+        "description": "Explores the historically complex relationship between education research, education (in)equity and personal practice, and will highlight the possibilities of research to foster justice in education through the examination of the utility of basic and applied quantitative, qualitative and mixed methods research.",
+        "sections": [
+            {
+                "section": "26544D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "20 of 25",
+                "instructor": "Artineh Samkian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26546D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "14 of 25",
+                "instructor": "Nicole Maccalla",
+                "location": "WPH206"
+            },
+            {
+                "section": "26548D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "21 of 26",
+                "instructor": "Artineh Samkian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26549D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "15 of 25",
+                "instructor": "",
+                "location": "WPH101"
+            },
+            {
+                "section": "26557D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "22 of 25",
+                "instructor": "Joelle Greene",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "780B",
+        "course_name": "Dissertation in Practice",
+        "units": "(2.0 units)",
+        "description": "Builds on EDUE 780a as students finalize their literature reviews, overview of methodology and other contextual writing for the dissertation in practice and qualifying exam.",
+        "sections": [
+            {
+                "section": "26563D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "784A",
+        "course_name": "Dissertation in Practice, Data Analysis",
+        "units": "(1.0-2.0 units)",
+        "description": "Builds students' knowledge and skills for analyzing quantitative and qualitative data and reporting results and findings for their Dissertations in Practice.",
+        "sections": [
+            {
+                "section": "26551D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 150",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26561D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26562D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26564D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "42 of 100",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "784B",
+        "course_name": "Dissertation in Practice, Data Analysis",
+        "units": "(1.0-2.0 units)",
+        "description": "Builds students' knowledge and skills for analyzing quantitative and qualitative data and reporting results and findings for their Dissertations in Practice.",
+        "sections": [
+            {
+                "section": "26508D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26537D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26547D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26552D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 125",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "784C",
+        "course_name": "Dissertation in Practice, Data Analysis",
+        "units": "(2.0-1.0 units)",
+        "description": "Builds students knowledge and skills for analyzing quantitative and qualitative data and reporting results and findings for their Dissertations in Practice.",
+        "sections": [
+            {
+                "section": "26565D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26566D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "18 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26569D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUE",
+        "course_num": "784D",
+        "course_name": "Dissertation in Practice, Data Analysis",
+        "units": "(2.0-1.0 units)",
+        "description": "Builds students knowledge and skills for analyzing quantitative and qualitative data and reporting results and findings for their Dissertations in Practice.",
+        "sections": [
+            {
+                "section": "26558D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26567D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Cathy Krop",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

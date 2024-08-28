@@ -1,0 +1,177 @@
+[
+    {
+        "term": "20243",
+        "department": "FSEM",
+        "course_num": "100",
+        "course_name": "Freshman Seminar",
+        "units": "(2.0 units, max 4)",
+        "description": "A seven-to-eleven week course offered for incoming freshmen; limited to 18 students. Graded CR/NC. A combined maximum of 4 units of FSEM 100 and FSEM 101 may be applied to the degree.",
+        "sections": [
+            {
+                "section": "34600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "18 of 18",
+                "instructor": "David Albertson",
+                "location": "MHP102"
+            },
+            {
+                "section": "34601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "5 of 18",
+                "instructor": "Zlatan Damnjanovic",
+                "location": "THH205"
+            },
+            {
+                "section": "34602R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "9 of 18",
+                "instructor": "Kenneth Phillips",
+                "location": "WPH104"
+            },
+            {
+                "section": "34603R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "3 of 18",
+                "instructor": "Najmedin Meshkati",
+                "location": "THH117"
+            },
+            {
+                "section": "34604R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "3 of 18",
+                "instructor": "Sarah Feakins",
+                "location": "ZHS130"
+            },
+            {
+                "section": "34605R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "3 of 18",
+                "instructor": "Myron Goodman",
+                "location": "KAP137"
+            },
+            {
+                "section": "34607R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "7 of 18",
+                "instructor": "Emily Hodgson Anderson",
+                "location": "WPH101"
+            },
+            {
+                "section": "34609R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "6 of 18",
+                "instructor": "Henry Koffman",
+                "location": "DMC204"
+            },
+            {
+                "section": "34610R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "7 of 18",
+                "instructor": "Dani Byrd",
+                "location": "GFS210"
+            },
+            {
+                "section": "34612R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "7 of 18",
+                "instructor": "Richard Fliegel",
+                "location": "WPH201"
+            },
+            {
+                "section": "34613R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "5 of 18",
+                "instructor": "Carol Wise",
+                "location": "SOSB52"
+            },
+            {
+                "section": "34615R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "3 of 18",
+                "instructor": "Marcos Briano",
+                "location": "VHE206"
+            },
+            {
+                "section": "34618R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "13 of 18",
+                "instructor": "Kurt Kwast",
+                "location": "WPH104"
+            },
+            {
+                "section": "34619R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "4 of 18",
+                "instructor": "Susan Harris",
+                "location": "DMC200"
+            },
+            {
+                "section": "34620R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "3 of 18",
+                "instructor": "Lori Meeks",
+                "location": "LVL3B"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1030 @@
+[
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "101",
+        "course_name": "Fundamentals of Procedural Media",
+        "units": "(2.0 units)",
+        "description": "Introduction to the procedural nature of interactive media and games, though the coding language Processing. Students will develop proficiency in reading and creating computational media.",
+        "sections": [
+            {
+                "section": "18351R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "42 of 42",
+                "instructor": "Mark Bolas",
+                "location": "SCI206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "180",
+        "course_name": "Video Game Production",
+        "units": "(2.0 units)",
+        "description": "The process of video game production. Video game history, genres, development process (concept, preproduction, production and post-production) and roles (producers, artists, programmers, etc.).",
+        "sections": [
+            {
+                "section": "31827D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "18 of 20",
+                "instructor": "Kyle Ackerman",
+                "location": "EGG108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "190",
+        "course_name": "Introduction to Interactive Entertainment",
+        "units": "(4.0 units)",
+        "description": "Critical vocabulary and historical perspectives on interactive entertainment; students articulate their own ideas, while wrestling with the larger conceptual issues at play within the field.",
+        "sections": [
+            {
+                "section": "18353R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "114 of 154",
+                "instructor": "TreaAndrea Russworm",
+                "location": "SCA108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "191",
+        "course_name": "Survey of Themed Entertainment",
+        "units": "(4.0 units)",
+        "description": "Introduction to the field of themed entertainment and education design, covering its history, and, especially, current practice.",
+        "sections": [
+            {
+                "section": "18431R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 8,
+                "registered": "19 of 42",
+                "instructor": "",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "289",
+        "course_name": "Game Development Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Covers core skills for creating in a digital game engine, the role of prototyping in the game development and the use of version control systems.",
+        "sections": [
+            {
+                "section": "18364R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 18,
+                "registered": "14 of 20",
+                "instructor": "Margaret Moser",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "290",
+        "course_name": "Digital Media Workshop",
+        "units": "(4.0 units)",
+        "description": "Exploration of a variety of moving image aesthetics and methodologies in order to highlight how the language of cinema shapes contemporary digital and interactive media practices.",
+        "sections": [
+            {
+                "section": "18432R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 920,
+                "days": 2,
+                "registered": "8 of 18",
+                "instructor": "Jesse Vigil",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "291",
+        "course_name": "Crew for Advanced Game Project",
+        "units": "(2.0 units, max 4)",
+        "description": "Hands-on creating experiences for students who want to work as crew on an advanced game project.",
+        "sections": [
+            {
+                "section": "18413R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "39 of 42",
+                "instructor": "Andrew Nealen,David White,Mason Lieberman,Timothy Lee",
+                "location": "EGG108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "389",
+        "course_name": "Game Development Principles",
+        "units": "(4.0 units)",
+        "description": "Concepts and projects relating to the implementation and presentation of digital games; core level design preproduction techniques.",
+        "sections": [
+            {
+                "section": "18433D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 18,
+                "registered": "19 of 20",
+                "instructor": "Margaret Moser",
+                "location": "SCIL113"
+            },
+            {
+                "section": "18434D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Sean Bouchard",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "395",
+        "course_name": "Miniature Golf Design",
+        "units": "(4.0 units)",
+        "description": "Workshop on the design of miniature golf holes, considering theming, experience, and build.",
+        "sections": [
+            {
+                "section": "18429R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 8,
+                "registered": "9 of 16",
+                "instructor": "Joseph Garlington",
+                "location": "SCIL114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "401",
+        "course_name": "Interface Design for Games",
+        "units": "(2.0 units)",
+        "description": "Introduction to the aesthetics, terminology and common trends of interface design for games. Topics include 2-D and 3-D spaces and user/camera perspectives.",
+        "sections": [
+            {
+                "section": "18441R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "22 of 22",
+                "instructor": "Chevon Hicks",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "409",
+        "course_name": "Producing Interactive Projects",
+        "units": "(2.0 units)",
+        "description": "An in-depth exploration of the development and production concepts woven into the USC Games curriculum and utilized in the professional games industry.",
+        "sections": [
+            {
+                "section": "18354R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "11 of 12",
+                "instructor": "Kathleen Bucklin",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "411",
+        "course_name": "Tabletop Game Mechanics Seminar",
+        "units": "(2.0 units)",
+        "description": "Seminar on the design patterns and mechanics of successful tabletop games. Includes guest speakers on the latest trends in gaming content, tools, business and culture.",
+        "sections": [
+            {
+                "section": "18380R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "22 of 48",
+                "instructor": "Kyle Ackerman",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "412",
+        "course_name": "Interactive Systems Design",
+        "units": "(2.0 units)",
+        "description": "An overview of systems thinking, complex systems, game economies and emergence with practical applications towards designing and balancing systems for games and interactivity.",
+        "sections": [
+            {
+                "section": "18435R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "44 of 60",
+                "instructor": "",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "444",
+        "course_name": "Audio Expression",
+        "units": "(2.0 units)",
+        "description": "Foundational aesthetic principles and creative technologies for game audio. Processing, mixing, and controlling sound for games for expressive effect.",
+        "sections": [
+            {
+                "section": "18442R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "23 of 24",
+                "instructor": "Jesse Vigil",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "452",
+        "course_name": "Themed Entertainment Design",
+        "units": "(4.0 units)",
+        "description": "The fundamentals of design, technology, operations and process for the creation of themed entertainment experiences and story-centric place-making.",
+        "sections": [
+            {
+                "section": "18356D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "18 of 29",
+                "instructor": "Martzi Campos",
+                "location": "SCIL114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "457",
+        "course_name": "Themed Entertainment Business Operations",
+        "units": "(2.0 units)",
+        "description": "The business of themed entertainment, focused on teaching literacy to communicate with business partners and understanding the basic needs of a themed entertainment project.",
+        "sections": [
+            {
+                "section": "18436R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "9 of 20",
+                "instructor": "Justin Brooks",
+                "location": "SCIL114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "458",
+        "course_name": "Business and Management of Games",
+        "units": "(2.0 units)",
+        "description": "Overview of current business models in games and interactive media, methods for pitching and getting products funded; copyright and intellectual property.",
+        "sections": [
+            {
+                "section": "18366R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "72 of 80",
+                "instructor": "Robert Nashak",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "463",
+        "course_name": "Anatomy of a Game",
+        "units": "(4.0 units)",
+        "description": "Examine two game products from concept to delivery; introduce students to each of the professional disciplines involved in making digital games. Recommended preparation: CTIN 488.",
+        "sections": [
+            {
+                "section": "18423R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1340,
+                "days": 8,
+                "registered": "79 of 80",
+                "instructor": "Gordon Bellamy,John Nee",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "464",
+        "course_name": "Game Studies Seminar",
+        "units": "(2.0 units, max 4)",
+        "description": "Rigorous examination of interactive entertainment: genres, history, aesthetics, cultural context, and social significance. Topics vary by semester.",
+        "sections": [
+            {
+                "section": "18446R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "8 of 20",
+                "instructor": "TreaAndrea Russworm",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "468",
+        "course_name": "Advanced Games Business",
+        "units": "(2.0 units)",
+        "description": "An advanced dive into the structure of the games industry with a focus on emerging trends and the future of games as business and entertainment.",
+        "sections": [
+            {
+                "section": "18402R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "Ed Zobrist",
+                "location": "SCI206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "487",
+        "course_name": "Streaming Explorations: Games and Entertainment for Communit",
+        "units": "(2.0 units)",
+        "description": "Best practices and strategies for streaming. Students build a personality and audience through the course, receiving advice and feedback from emerging leaders in the field.",
+        "sections": [
+            {
+                "section": "18428R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "8 of 45",
+                "instructor": "Gordon Bellamy",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "488",
+        "course_name": "Game Design Workshop",
+        "units": "(4.0 units)",
+        "description": "An introduction to making games. Students will explore the principles of game design through the entirely analog creation of card, board and tabletop games.",
+        "sections": [
+            {
+                "section": "18358R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "141 of 164",
+                "instructor": "Tracy Fullerton",
+                "location": "SCA108"
+            },
+            {
+                "section": "18355R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Martzi Campos",
+                "location": "SCI206"
+            },
+            {
+                "section": "18359R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "5 of 16",
+                "instructor": "Cynthia Woll",
+                "location": "SCI206"
+            },
+            {
+                "section": "18360R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Shing yin Khor",
+                "location": "SCI206"
+            },
+            {
+                "section": "18361R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Whitney Wade",
+                "location": "SCI206"
+            },
+            {
+                "section": "18393R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Robert Nashak",
+                "location": "SCI206"
+            },
+            {
+                "section": "18394R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "10 of 16",
+                "instructor": "Trey Alsup",
+                "location": "SCI206"
+            },
+            {
+                "section": "18401R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Andrew Goldstein",
+                "location": "SCI206"
+            },
+            {
+                "section": "18403R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Brian Upton",
+                "location": "SCI206"
+            },
+            {
+                "section": "18438R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "13 of 16",
+                "instructor": "Avimaan Syam",
+                "location": "SCI206"
+            },
+            {
+                "section": "18439R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "6 of 16",
+                "instructor": "Jared Yeager",
+                "location": "SCI206"
+            },
+            {
+                "section": "18443R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "12 of 16",
+                "instructor": "Jonathan Ogilvy",
+                "location": "SCI206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "489",
+        "course_name": "Intermediate Game Design and Production",
+        "units": "(4.0 units)",
+        "description": "A follow-up to the introductory game design class, this course will introduce more advanced concepts in game design and game theories, including ideation, digital prototyping and level design.",
+        "sections": [
+            {
+                "section": "18368R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "18 of 18",
+                "instructor": "David Warhol",
+                "location": "SCIL113"
+            },
+            {
+                "section": "18427R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 18,
+                "registered": "18 of 18",
+                "instructor": "Sean Bouchard",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "18407D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 16",
+                "instructor": "Margaret Moser",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "491",
+        "course_name": "Advanced Game Project I",
+        "units": "(4.0 units, max 8)",
+        "description": "Students work in teams on pre-production and production of a functional digital game suitable for showcases, festivals, and further development.",
+        "sections": [
+            {
+                "section": "18418D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "2 of 12",
+                "instructor": "Andrew Nealen",
+                "location": "EGG108"
+            },
+            {
+                "section": "18370D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "36 of 50",
+                "instructor": "Andrew Nealen,Danny Bilson,Jim Huntley,Duane Loose",
+                "location": "EGG108"
+            },
+            {
+                "section": "18422D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "2 of 12",
+                "instructor": "Andrew Nealen",
+                "location": "SCI209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "492",
+        "course_name": "Experimental Game Topics",
+        "units": "(4.0 units, max 8)",
+        "description": "Development of a game around a custom-made physical interface;various technologies and techniques involved in software/hardware integration; peripheral design.",
+        "sections": [
+            {
+                "section": "18369D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "3 of 18",
+                "instructor": "Mark Bolas",
+                "location": "SCI206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "495",
+        "course_name": "Advanced Themed Entertainment Design",
+        "units": "(4.0 units)",
+        "description": "Design and planning for themed attractions. Large scale multidisciplinary teams work together to develop themed entertainment experiences.",
+        "sections": [
+            {
+                "section": "18408R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "6 of 8",
+                "instructor": "Joseph Garlington",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Detailed investigation of new or emerging aspects of cinema, television, and/or interactive media; special subjects offered by visiting faculty; experimental subjects.",
+        "sections": [
+            {
+                "section": "18444R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "6 of 20",
+                "instructor": "Duane Loose",
+                "location": "SCIL113"
+            },
+            {
+                "section": "18448R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "17 of 20",
+                "instructor": "Joseph Garlington",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "529A",
+        "course_name": "Graduate Advanced Game Project",
+        "units": "(2.0 units)",
+        "description": "Capstone course for assigned Game Directors or Area Leads to start an innovative, large-scale game project.",
+        "sections": [
+            {
+                "section": "18447D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "3 of 16",
+                "instructor": "Andrew Nealen",
+                "location": "EGG108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "532",
+        "course_name": "Interactive Design and Production I",
+        "units": "(4.0 units)",
+        "description": "The development of interactive experiences with an emphasis on prototyping and development.",
+        "sections": [
+            {
+                "section": "18383D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 920,
+                "days": 34,
+                "registered": "16 of 16",
+                "instructor": "Richard Lemarchand",
+                "location": "SCIL114"
+            },
+            {
+                "section": "18395D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 18,
+                "registered": "20 of 20",
+                "instructor": "Jesse Vigil",
+                "location": "SCIL114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "534",
+        "course_name": "Experiments in Interactivity I",
+        "units": "(4.0 units)",
+        "description": "Experimental studio course to explore concepts of structure, aesthetics and content of interactive experience design.",
+        "sections": [
+            {
+                "section": "18396D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 990,
+                "end_time": 1130,
+                "days": 18,
+                "registered": "16 of 20",
+                "instructor": "Peter Brinson",
+                "location": "SCIL114"
+            },
+            {
+                "section": "18411D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 20,
+                "registered": "18 of 20",
+                "instructor": "Peter Brinson",
+                "location": "SCIL114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "541",
+        "course_name": "Design for Interactive Media",
+        "units": "(4.0 units)",
+        "description": "Practical exploration and practicum on the fundamental process and principles of interactive media design. Students develop design and prototyping skills while working in collaborative teams.",
+        "sections": [
+            {
+                "section": "18415D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 36,
+                "registered": "18 of 18",
+                "instructor": "Tracy Fullerton",
+                "location": "SCIL114"
+            },
+            {
+                "section": "18419D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 36,
+                "registered": "19 of 20",
+                "instructor": "Sean Bouchard",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "575",
+        "course_name": "Health and Interactive Entertainment Research Lab",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Emerging transdisciplinary research methods for conducting formative or summative evaluation of interactive entertainment-based interventions.",
+        "sections": [
+            {
+                "section": "18362D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 8",
+                "instructor": "Marientina Gotsis",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "583",
+        "course_name": "Game Development for Designers",
+        "units": "(2.0 units)",
+        "description": "The fundamentals of 3-D real time game engines, scripting for interactivity, and building games with digital tools.",
+        "sections": [
+            {
+                "section": "18416D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Deborah Yuen",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research project leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18388D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 24",
+                "instructor": "Peter Brinson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "591",
+        "course_name": "Crew for Graduate Advanced Game Project",
+        "units": "(2.0 units, max 4)",
+        "description": "Students from many disciplines work in large teams to create an innovative, large-scale interactive media or game project.",
+        "sections": [
+            {
+                "section": "18371D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "16 of 24",
+                "instructor": "Andrew Nealen,Jennifer McCormick,Chevon Hicks",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "593",
+        "course_name": "Integrative Project: Media-based Interventions in Healthcare",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "A project that showcases integrative mastery of prior and newly acquired knowledge, skills and interests. Permission of instructor required.",
+        "sections": [
+            {
+                "section": "18397D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 8",
+                "instructor": "Marientina Gotsis",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of theis. Graded IP/CR/NC. Open to M.F.A., Interactive Media majors only.",
+        "sections": [
+            {
+                "section": "18378D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "23 of 24",
+                "instructor": "Martzi Campos,Laird Malamed",
+                "location": "SCI306"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTIN",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of theis. Graded IP/CR/NC. Open to M.F.A., Interactive Media majors only.",
+        "sections": [
+            {
+                "section": "18421D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

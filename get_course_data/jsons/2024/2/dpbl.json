@@ -1,0 +1,342 @@
+[
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "501C",
+        "course_name": "Dental Problem Based Learning--Human Structure I",
+        "units": "(3.0 units)",
+        "description": "Problem based learning presentation of normal and abnormal structures including anatomy, cell biology, embryology, histology, pathology from cells, tissues and organs of the human body. All material discussed with direct relationship to a well-characterized human clinical case. Acceptance to DDS program required.",
+        "sections": [
+            {
+                "section": "23238D",
+                "session": "006",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "143 of 150",
+                "instructor": "Mahvash Navazesh,Malcolm Snead,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "502C",
+        "course_name": "Dental Problem Based Learning -- Human Function I",
+        "units": "(8.0 units)",
+        "description": "Problem based learning presentation of normal and abnormal function including biochemistry, endocrinology, genetics, immunology, microbiology, nutrition, pharmacology, physiology from cells, tissues and organs of the human body. All material discussed with direct relationship to a well-characterized human clinical case. Acceptance to DDS program required.",
+        "sections": [
+            {
+                "section": "23239D",
+                "session": "006",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "143 of 150",
+                "instructor": "Mahvash Navazesh,Casey Chen,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "503C",
+        "course_name": "Dental Problem Based Learning -- Human Behavior I",
+        "units": "(2.0 units)",
+        "description": "Problem based learning presentation of normal and abnormal behavior including communication, ethics, multiculturalism, patient management, phobias associated with the treatment of patients with and without special needs. All material discussed with direct relationship to a well-characterized human clinical case. Acceptance to DDS program required.",
+        "sections": [
+            {
+                "section": "23240D",
+                "session": "006",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "143 of 150",
+                "instructor": "Mahvash Navazesh,Piedad Suarez,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "504C",
+        "course_name": "Dental Problem Based Learning -- Human Clinical Dentistry I",
+        "units": "(4.0 units)",
+        "description": "Problem based learning approach to the delivery of dental health care. Didactic, preclinical and clinical principles of endodontics, geriatrics, oral diagnosis, oral pathology, oral radiology, oral surgery, orthodontics, pediatric dentistry, periodontics, prosthodontics and restorative dentistry will be presented with a direct relationship to a well-characterized human clinical case. Acceptance into DDS program required.",
+        "sections": [
+            {
+                "section": "23241D",
+                "session": "006",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "144 of 150",
+                "instructor": "Mahvash Navazesh,Casey Chen,Sillas Duarte,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "511C",
+        "course_name": "Dental Problem Based Learning -- Human Structure II",
+        "units": "(2.0 units)",
+        "description": "Problem based learning presentation of normal and abnormal structures including anatomy, cell biology, embryology, histology, pathology from cells, tissues and organs of the human body. All material discussed with direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23235D",
+                "session": "853",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Malcolm Snead,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23243D",
+                "session": "039",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "144 of 150",
+                "instructor": "Mahvash Navazesh,Malcolm Snead,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "512C",
+        "course_name": "Dental Problem Based Learning -- Human Function II",
+        "units": "(5.0 units)",
+        "description": "Problem based learning presentation of normal and abnormal function including biochemistry, endocrinology, genetics, immunology, microbiology, nutrition, pharmacology, physiology from cells, tissues and organs of the human body. All material discussed with direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23236D",
+                "session": "853",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Casey Chen,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23244D",
+                "session": "039",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "144 of 150",
+                "instructor": "Mahvash Navazesh,Casey Chen,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "513C",
+        "course_name": "Dental Problem Based Learning -- Human Behavior II",
+        "units": "(2.0 units)",
+        "description": "Problem based learning presentation of normal and abnormal behavior including communication, ethics, multiculturalism, patient management, phobias associated with the treatment of patients with and without special needs. All material discussed with direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23237D",
+                "session": "853",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Piedad Suarez,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23245D",
+                "session": "039",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "144 of 150",
+                "instructor": "Mahvash Navazesh,Piedad Suarez,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "514C",
+        "course_name": "Dental Problem Based Learning -- Human Clinical Dentistry II",
+        "units": "(8.0 units)",
+        "description": "Problem based learning approach to the delivery of dental health care. Didactic, preclinical and clinical principles of endodontics, geriatrics, oral diagnosis, oral pathology, oral radiology, oral surgery, orthodontics, pediatric dentistry, periodontics, prosthodontics and restorative dentistry will be presented with a direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23234D",
+                "session": "853",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Casey Chen,Sillas Duarte,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23242D",
+                "session": "039",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "143 of 150",
+                "instructor": "Mahvash Navazesh,Casey Chen,Sillas Duarte,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "521C",
+        "course_name": "Dental Problem Based Learning -- Human Structure III",
+        "units": "(1.0 unit)",
+        "description": "Problem based learning presentation of normal and abnormal structures including anatormy, cell biology, embryology, histology, pathology from cells, tissues and organs of the human body. All material discussed with direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23230D",
+                "session": "008",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Malcolm Snead,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23246D",
+                "session": "040",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "141 of 150",
+                "instructor": "Mahvash Navazesh,Malcolm Snead,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "522C",
+        "course_name": "Dental Problem Based Learning -- Human Function III",
+        "units": "(1.0 unit)",
+        "description": "Problem based learning presentation of normal and abnormal function including biochemistry, endocrinology, genetics, immunology, microbiology, nutrition, pharmacology, physiology from cells, tissues and organs of the human body. All material discussed with direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23231D",
+                "session": "008",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Mark Urata,Casey Chen",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23247D",
+                "session": "040",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "141 of 150",
+                "instructor": "Mahvash Navazesh,Casey Chen,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "523C",
+        "course_name": "Dental Problem Based Learning -- Human Behavior III",
+        "units": "(1.0 unit)",
+        "description": "Problem based learning presentation of normal and abnormal behavior including communication, ethics, multiculturalism, patient management, phobias associated with the treatment of patients with and without special needs. All material discussed with direct relationship to a well characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23232D",
+                "session": "008",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Piedad Suarez,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23248D",
+                "session": "040",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "141 of 150",
+                "instructor": "Mahvash Navazesh,Piedad Suarez,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DPBL",
+        "course_number": "524C",
+        "course_name": "Dental Problem Based Learning -- Human Clinical Dentistry III",
+        "units": "(14.0 units)",
+        "description": "Problem based learning approach to the delivery of dental health care. Didactic, preclinical and clinical principles of endodontics, geriatrics, oral diagnosis, oral pathology, oral radiology, oral surgery, orthodontics, pediatric dentistry, periodontics, prosthodontics and restorative dentistry will be presented with a direct relationship to a well-characterized human clinical case.",
+        "sections": [
+            {
+                "section": "23233D",
+                "session": "008",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Mahvash Navazesh,Casey Chen,Sillas Duarte,Mark Urata",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23249D",
+                "session": "040",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "141 of 150",
+                "instructor": "Mahvash Navazesh,Casey Chen,Sillas Duarte,Mark Urata",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

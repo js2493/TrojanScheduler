@@ -1,0 +1,317 @@
+[
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "500",
+        "course_name": "Critical Perspectives on Medicines, Health and Society",
+        "units": "(3.0 units)",
+        "description": "Introduces key features of pharmacoepidemiology and drug utilization research in the context of pharmaceutical policy that affect the development and provision of safe, effective and affordable medications to the public in the United States.",
+        "sections": [
+            {
+                "section": "49150D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "0 of 20",
+                "instructor": "Dima Qato",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "501",
+        "course_name": "Biomedical Data Sciences",
+        "units": "(4.0 units)",
+        "description": "Basics concept of code-based biomedical data analysis and visualization. Introduction to rigorous and reproducible analytical tools, including Python-based interactive notebooks. Appropriate use of statistical analysis.",
+        "sections": [
+            {
+                "section": "49151D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 40,
+                "registered": "14 of 20",
+                "instructor": "Serghei Mangul,Yu Ning Huang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "49162D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Master's thesis.",
+        "sections": [
+            {
+                "section": "49165D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 20",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of master's thesis.",
+        "sections": [
+            {
+                "section": "49166D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Masters thesis.",
+        "sections": [
+            {
+                "section": "49167D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "49163D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "609",
+        "course_name": "Preclinical Experimental Therapeutic Drug Development",
+        "units": "(4.0 units)",
+        "description": "Evolution of a chemical entity as it is transformed into a drug candidate. Open only to students in Clinical and Experimental Therapeutics and Management of Drug Development.",
+        "sections": [
+            {
+                "section": "49169D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "7 of 20",
+                "instructor": "Stan Louie",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "664",
+        "course_name": "Clinical Problem Solving",
+        "units": "(3.0 units)",
+        "description": "Experiential/case base course for graduate students who are enrolled in the Clinical Experimental Therapeutics (CXPT) MS or PHTS-PhD programs.",
+        "sections": [
+            {
+                "section": "49170D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 2,
+                "registered": "9 of 25",
+                "instructor": "Houda Alachkar",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research-based course for students enrolled in the CXPT PhD program who are preparing for their written and oral qualifying examination.",
+        "sections": [
+            {
+                "section": "49190D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 25",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Independent research course for students enrolled in the CXPT PhD program who have passed their written and oral qualifying examination and advanced to PhD candidacy.",
+        "sections": [
+            {
+                "section": "49194D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Independent research course for students enrolled in the CXPT PhD program who have passed their written and oral qualifying examination and advanced to PhD candidacy.",
+        "sections": [
+            {
+                "section": "49195D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Independent research course for students enrolled in the CXPT PhD program who have passed their written and oral qualifying examination and advanced to PhD candidacy.",
+        "sections": [
+            {
+                "section": "49196D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Independent research course for students enrolled in the CXPT PhD program who have passed their written and oral qualifying examination and advanced to PhD candidacy.",
+        "sections": [
+            {
+                "section": "49197D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CXPT",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Independent research course for students enrolled in the CXPT PhD program who have passed their written and oral qualifying examination and advanced to PhD candidacy.",
+        "sections": [
+            {
+                "section": "49198D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Tien Ng",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

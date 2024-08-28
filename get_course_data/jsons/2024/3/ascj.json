@@ -1,0 +1,187 @@
+[
+    {
+        "term": "20243",
+        "department": "ASCJ",
+        "course_num": "200",
+        "course_name": "Navigating Media and News in the Digital Age",
+        "units": "(4.0 units)",
+        "description": "Students will be engaged as discriminating media/news consumers and contributors. Emphasis on critical skills needed to understand, employ, enjoy and help shape our media landscape.",
+        "sections": [
+            {
+                "section": "21910R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "90 of 93",
+                "instructor": "Gordon Stables",
+                "location": "ASCG26"
+            },
+            {
+                "section": "21911R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "48 of 59",
+                "instructor": "Gordon Stables",
+                "location": "ASCG26"
+            },
+            {
+                "section": "21912R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Rogelio Lopez",
+                "location": "ANN408"
+            },
+            {
+                "section": "21913R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "17 of 19",
+                "instructor": "Rogelio Lopez",
+                "location": "ANN408"
+            },
+            {
+                "section": "21914R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "12 of 19",
+                "instructor": "Rogelio Lopez",
+                "location": "ANN408"
+            },
+            {
+                "section": "21915R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "18 of 19",
+                "instructor": "Bryant Lydell",
+                "location": "ANN308"
+            },
+            {
+                "section": "21916R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Bryant Lydell",
+                "location": "ANN305"
+            },
+            {
+                "section": "21917R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "18 of 19",
+                "instructor": "India Walton",
+                "location": "ANN405"
+            },
+            {
+                "section": "21919R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "17 of 19",
+                "instructor": "India Walton",
+                "location": "ANN405"
+            },
+            {
+                "section": "21926R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "18 of 19",
+                "instructor": "Bryant Lydell",
+                "location": "ANN308"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASCJ",
+        "course_num": "210",
+        "course_name": "Contours of Change in Media and Communication",
+        "units": "(4.0 units)",
+        "description": "Provides an introduction to cultivating a curious, critical, and proactive approach to the challenges of social change. Students will be encouraged to develop an expansive and critical definition and understanding of change as it relates to the role of media and communication in producing and responding to political and cultural transformations that shape our status as citizens and our ideas of citizenship.",
+        "sections": [
+            {
+                "section": "21920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "62 of 100",
+                "instructor": "Robert Scheer,Clare O'Connor",
+                "location": "ANNL105A"
+            },
+            {
+                "section": "21921R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Clare O'Connor",
+                "location": "ANN210"
+            },
+            {
+                "section": "21922R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "10 of 25",
+                "instructor": "Clare O'Connor",
+                "location": "ANN210"
+            },
+            {
+                "section": "21923R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "6 of 25",
+                "instructor": "Maximilian Brichta",
+                "location": "ANN405"
+            },
+            {
+                "section": "21924R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "22 of 25",
+                "instructor": "Maximilian Brichta",
+                "location": "ANN405"
+            }
+        ]
+    }
+]

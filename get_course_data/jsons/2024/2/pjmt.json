@@ -1,0 +1,419 @@
+[
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "500",
+        "course_name": "Principles of Project Management",
+        "units": "(2.0 units)",
+        "description": "Concepts including delivering project scope within cost, schedule, and resource constraints and the exploration of the traditional or waterfall project management methodology will be explored.",
+        "sections": [
+            {
+                "section": "13900D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Timothy Stanton,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13901D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "17 of 30",
+                "instructor": "Michael Fanning,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "505",
+        "course_name": "Requirements Elicitation and Business Analysis",
+        "units": "(2.0 units)",
+        "description": "Tasks, techniques, and perspectives on how to approach business analysis along with methods for developing requirement process tools and techniques and best practices.",
+        "sections": [
+            {
+                "section": "13904D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "17 of 30",
+                "instructor": "Craig Marek,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13905D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "22 of 30",
+                "instructor": "Cheryl Coleman,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "510",
+        "course_name": "Schedule Management",
+        "units": "(2.0 units)",
+        "description": "Structured approach to project schedule management, demonstrating how to be proactive and in control of projects by implementing effective schedule management.",
+        "sections": [
+            {
+                "section": "13908D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "14 of 30",
+                "instructor": "Marcus Butler,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13909D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "12 of 30",
+                "instructor": "Anil Sawhney,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13910D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "16 of 30",
+                "instructor": "Kaali Dass,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "515",
+        "course_name": "Cost Estimation and Forecasting",
+        "units": "(2.0 units)",
+        "description": "Approaches to project cost estimation and the tools and methodologies best suited for estimates and forecasts that need to be prepared.",
+        "sections": [
+            {
+                "section": "13912D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Bahadir Inozu,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13913D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "22 of 30",
+                "instructor": "Michael Faia,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "520",
+        "course_name": "Risk Management",
+        "units": "(2.0 units)",
+        "description": "Coursework will enable students to prepare a comprehensive risk management plan and discover different approaches to identify, assess, and quantify risks and their impacts.",
+        "sections": [
+            {
+                "section": "13916D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Victoria Beltran,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13917D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "27 of 30",
+                "instructor": "Erika Bobbitt,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "525",
+        "course_name": "Agile Project Management Methodologies",
+        "units": "(2.0 units)",
+        "description": "Agile project management concepts and a set of frameworks that covers the people, products, and techniques required to successfully implement projects.",
+        "sections": [
+            {
+                "section": "13920D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "Shawn Belling,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13921D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "18 of 30",
+                "instructor": "Dina Keswani,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13922D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "20 of 30",
+                "instructor": "Steve Kao,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "530",
+        "course_name": "Quality and Process Improvement",
+        "units": "(2.0 units)",
+        "description": "Quality and performance improvement projects and methodologies used to implement them with a focus on Six Sigma, Lean, and Total Quality Management.",
+        "sections": [
+            {
+                "section": "13924D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "24 of 30",
+                "instructor": "Bahadir Inozu,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13925D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "James Deiner",
+                "location": ""
+            },
+            {
+                "section": "13926D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Bria White,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "535",
+        "course_name": "Specialized Project Management",
+        "units": "(2.0 units)",
+        "description": "Explores several industries and entities and their developed project management methodologies to meet industry-specific needs through traditional approaches and partnerships in various sectors.",
+        "sections": [
+            {
+                "section": "13928D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "18 of 30",
+                "instructor": "Michael Fanning,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13929D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "John Jones,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "540",
+        "course_name": "Organizational Change Management and Business Relationships",
+        "units": "(2.0 units)",
+        "description": "Students learn to cultivate the necessary components for stakeholder management on nearly any change within an organization through change management and business relationship management.",
+        "sections": [
+            {
+                "section": "13932D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "18 of 30",
+                "instructor": "Zameer Baber,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13933D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "22 of 30",
+                "instructor": "Jennifer Baker,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "545",
+        "course_name": "Program Management",
+        "units": "(2.0 units)",
+        "description": "Managing and coordinating multiple organizational projects with a focus on project alignment, organizational goals, performance maximization, risk minimization, and program success.",
+        "sections": [
+            {
+                "section": "13936D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "9 of 30",
+                "instructor": "Crystal Smith,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13937D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "27 of 30",
+                "instructor": "Ralph Garcia,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "550",
+        "course_name": "Portfolio Management",
+        "units": "(2.0 units)",
+        "description": "Structured approach to design, build, and manage a project portfolio, focusing on strategic implementation and operational initiatives to create sustainable value.",
+        "sections": [
+            {
+                "section": "13940D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "23 of 30",
+                "instructor": "Michael Hannan,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13941D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "8 of 30",
+                "instructor": "Jennifer Baker,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PJMT",
+        "course_number": "555",
+        "course_name": "Project Management Capstone",
+        "units": "(2.0 units)",
+        "description": "Utilize skills gained throughout the program to demonstrate the ability to plan and implement a project from conception to conclusion.",
+        "sections": [
+            {
+                "section": "13944D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "10 of 30",
+                "instructor": "Laureen Pfizenmaier,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "13945D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Marcus Butler,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

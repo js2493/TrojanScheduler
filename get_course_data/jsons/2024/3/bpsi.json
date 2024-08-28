@@ -1,0 +1,181 @@
+[
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "402",
+        "course_name": "Biopharmaceutics I",
+        "units": "(4.0 units)",
+        "description": "Comprehensive overview of pharmaceutical sciences. Interdisciplinary areas of study that deal with the design, action, delivery, disposition and patient acceptance of drugs.",
+        "sections": [
+            {
+                "section": "54102R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "Hovhannes Gukasyan,Daryl Davies",
+                "location": "LVL16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "405",
+        "course_name": "Organ Systems Physiology, Drug Delivery and Drug Action",
+        "units": "(4.0 units)",
+        "description": "Principles of cellular and organ physiology systems. Interplay between the physiology of organ systems, drug delivery and drug action.",
+        "sections": [
+            {
+                "section": "54105R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Michael Jakowec,Hovhannes Gukasyan,Daryl Davies",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "407",
+        "course_name": "Pharmaceutical and Health Economics",
+        "units": "(4.0 units)",
+        "description": "Application of economics principles to pharmaceutical and health care issues; prescription drug pricing, access and innovation; topics related to pharmaceutical policy.",
+        "sections": [
+            {
+                "section": "54107R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "8 of 24",
+                "instructor": "Erin Trish,Daryl Davies",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "410",
+        "course_name": "Biopharmaceutical Product Development and Brand Planning",
+        "units": "(4.0 units)",
+        "description": "Introduces critical financial decisions and development milestones in biopharmaceutical drug product development and commercialization. Learn to align business strategies with decisions supporting a product lifecycle.",
+        "sections": [
+            {
+                "section": "54110R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "25 of 30",
+                "instructor": "Daryl Davies",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "412",
+        "course_name": "Targeted and Precision Medicines",
+        "units": "(4.0 units)",
+        "description": "Precision medicine utilizing data from basic science, clinical, personal, environmental and population settings; understanding biological processes and disease mechanisms; develop precise diagnostics, therapeutics and prevention.",
+        "sections": [
+            {
+                "section": "54112R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "11 of 25",
+                "instructor": "Serghei Mangul,Hovhannes Gukasyan,Daryl Davies",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research, reading, writing and project development.",
+        "sections": [
+            {
+                "section": "54123D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Daryl Davies,Terry Church",
+                "location": "OFFICE"
+            },
+            {
+                "section": "54124D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Daryl Davies,Terry Church",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "493",
+        "course_name": "Senior Honors Seminar I",
+        "units": "(2.0 units)",
+        "description": "Exciting and challenging opportunity to marshal and deploy research, analysis, interpretation and writing skills learned in their major.",
+        "sections": [
+            {
+                "section": "54121D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPSI",
+        "course_num": "494",
+        "course_name": "Senior Honors Seminar II",
+        "units": "(2.0 units)",
+        "description": "An independent study course for students undertaking the research and writing of an Honors thesis.",
+        "sections": [
+            {
+                "section": "54122D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

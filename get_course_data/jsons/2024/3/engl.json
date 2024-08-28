@@ -1,0 +1,1745 @@
+[
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "105",
+        "course_name": "Creative Writing for Non-Majors",
+        "units": "(4.0 units, max 8)",
+        "description": "Introductory workshop in writing poetry, short fiction and nonfiction for love of the written and spoken word. Not for English major credit. Not for English major or English (Creative Writing) major credit.",
+        "sections": [
+            {
+                "section": "32600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Ellen Wayland-Smith",
+                "location": "THH111"
+            },
+            {
+                "section": "32601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "James Ciano",
+                "location": "DMC104"
+            },
+            {
+                "section": "32602R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Marcus Clayton",
+                "location": "WPH400"
+            },
+            {
+                "section": "32603R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Thomas Renjilian",
+                "location": "THH111"
+            },
+            {
+                "section": "32604R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "9 of 12",
+                "instructor": "Alexandria Hall",
+                "location": "THH219"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "172",
+        "course_name": "The Art of Poetry",
+        "units": "(4.0 units)",
+        "description": "Introduction to the pleasures and power of poetry, exploring elements drawn from high-points of English poetry, and the lives and works of major poets. (Duplicates credit in ARLT 101g)",
+        "sections": [
+            {
+                "section": "32606R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "120 of 120",
+                "instructor": "Christopher Freeman",
+                "location": "THH102"
+            },
+            {
+                "section": "32607R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Mitchell Jacobs",
+                "location": "DMC107"
+            },
+            {
+                "section": "32608R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Mitchell Jacobs",
+                "location": "THH205"
+            },
+            {
+                "section": "32609R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Leah Tieger",
+                "location": "THH203"
+            },
+            {
+                "section": "32610R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Leah Tieger",
+                "location": "WPH203"
+            },
+            {
+                "section": "32611R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Lucas Iberico Lozada",
+                "location": "WPH203"
+            },
+            {
+                "section": "32612R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Lucas Iberico Lozada",
+                "location": "SOSB47"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "176",
+        "course_name": "Los Angeles: the City, the Novel, the Movie",
+        "units": "(4.0 units)",
+        "description": "An exploration of the culture, vibrance, heritage, mythology, variety, and pathology of a city that was born in hopes and captured the worlds imagination. Duplicates credit in ARLT 101g.",
+        "sections": [
+            {
+                "section": "32620R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Thomas Gustafson",
+                "location": "THH202"
+            },
+            {
+                "section": "32621R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Carrie Guss",
+                "location": "DMC200"
+            },
+            {
+                "section": "32622R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Carrie Guss",
+                "location": "DMC259"
+            },
+            {
+                "section": "32623R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Viriya Yoo",
+                "location": "DMC205"
+            },
+            {
+                "section": "32624R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Viriya Yoo",
+                "location": "THH106"
+            },
+            {
+                "section": "32625R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Theodor Hamstra",
+                "location": "DMC109"
+            },
+            {
+                "section": "32626R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Theodor Hamstra",
+                "location": "THH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "230",
+        "course_name": "Shakespeare and His Times",
+        "units": "(4.0 units)",
+        "description": "Close study of Shakespeare's plays and poems to introduce his language, stagecraft, literary \"genius,\" social and literary contexts, precursors and rivals, and legacy.",
+        "sections": [
+            {
+                "section": "32627R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "100 of 100",
+                "instructor": "Thea Tomaini",
+                "location": "THH202"
+            },
+            {
+                "section": "32628R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Amelia Cruz",
+                "location": "DMC160"
+            },
+            {
+                "section": "32629R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Isaias Uggetti Erazo",
+                "location": "THHB10"
+            },
+            {
+                "section": "32630R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Amelia Cruz",
+                "location": "DMC157"
+            },
+            {
+                "section": "32631R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Isaias Uggetti Erazo",
+                "location": "THH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "240",
+        "course_name": "Literary Arts",
+        "units": "(4.0 units)",
+        "description": "Introduction to theory and practice of literary study.",
+        "sections": [
+            {
+                "section": "32632D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "14 of 14",
+                "instructor": "David Roman",
+                "location": "THH105"
+            },
+            {
+                "section": "32633D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "14 of 14",
+                "instructor": "Erika Wright",
+                "location": "THH111"
+            },
+            {
+                "section": "32634D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "14 of 14",
+                "instructor": "Jane Hu",
+                "location": "THH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "261",
+        "course_name": "English Literature to 1800",
+        "units": "(4.0 units)",
+        "description": "Intensive reading of major writers to 1800.",
+        "sections": [
+            {
+                "section": "32635D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "16 of 19",
+                "instructor": "Thea Tomaini",
+                "location": "THH113"
+            },
+            {
+                "section": "32636D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Ian Smith",
+                "location": "THH119"
+            },
+            {
+                "section": "32637D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Steven Minas",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "262",
+        "course_name": "English Literature since 1800",
+        "units": "(4.0 units)",
+        "description": "Intensive reading of major writers, 18001950.",
+        "sections": [
+            {
+                "section": "32640D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ashley Cohen",
+                "location": "DMC207"
+            },
+            {
+                "section": "32641D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ben Levine",
+                "location": "THH209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "263",
+        "course_name": "American Literature",
+        "units": "(4.0 units)",
+        "description": "Intensive reading of representative writers.",
+        "sections": [
+            {
+                "section": "32645D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "14 of 18",
+                "instructor": "John Rowe",
+                "location": "DMC204"
+            },
+            {
+                "section": "32646D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Ben Levine",
+                "location": "THH117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "270",
+        "course_name": "Studying Narrative",
+        "units": "(4.0 units)",
+        "description": "Introduction to major forms, styles and theories of narrative, with attention to characterization, plot, genres, ethics, empathy, perspective, audience and social conditions.",
+        "sections": [
+            {
+                "section": "32650D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "18 of 19",
+                "instructor": "Beatrice Sanford Russell",
+                "location": "THH203"
+            },
+            {
+                "section": "32651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Sara Sligar",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "298",
+        "course_name": "Introduction to the Genre of Fiction",
+        "units": "(4.0 units)",
+        "description": "An introduction to the close reading of fiction and the understanding of the genre as an aesthetic and historical phenomenon.",
+        "sections": [
+            {
+                "section": "32663R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "120 of 120",
+                "instructor": "Christopher Freeman",
+                "location": "THH102"
+            },
+            {
+                "section": "32664R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Michael Deagler",
+                "location": "THH113"
+            },
+            {
+                "section": "32665R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Michael Deagler",
+                "location": "THH211"
+            },
+            {
+                "section": "32666R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Seth Fischer",
+                "location": "THH205"
+            },
+            {
+                "section": "32667R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Seth Fischer",
+                "location": "WPH203"
+            },
+            {
+                "section": "32668R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Stephanie Mullings",
+                "location": "DMC108"
+            },
+            {
+                "section": "32669R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Stephanie Mullings",
+                "location": "DMC108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "302",
+        "course_name": "Writing Narrative",
+        "units": "(4.0 units)",
+        "description": "Introduction to the techniques and practice of writing narrative in fiction and literary non-fiction",
+        "sections": [
+            {
+                "section": "32680D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Brighde Mullins",
+                "location": "THH109"
+            },
+            {
+                "section": "32681D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "10 of 12",
+                "instructor": "Kerry Ingram",
+                "location": "THH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "303",
+        "course_name": "Introduction to Fiction Writing",
+        "units": "(4.0 units)",
+        "description": "Introduction to the techniques and practice of writing prose fiction.",
+        "sections": [
+            {
+                "section": "32684D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "13 of 13",
+                "instructor": "Ellen Wayland-Smith",
+                "location": "WPH200"
+            },
+            {
+                "section": "32685D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "M G Lord",
+                "location": "THH219"
+            },
+            {
+                "section": "32686D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Marci Vogel",
+                "location": "DMC153"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "304",
+        "course_name": "Introduction to Poetry Writing",
+        "units": "(4.0 units)",
+        "description": "Introduction to the techniques and practice of writing poetry.",
+        "sections": [
+            {
+                "section": "32689D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "13 of 13",
+                "instructor": "Robin Lewis",
+                "location": "THH109"
+            },
+            {
+                "section": "32690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Molly Bendall",
+                "location": "THH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "305",
+        "course_name": "Introduction to Creative Nonfiction",
+        "units": "(4.0 units)",
+        "description": "Techniques and practice of creative nonfiction writing, including genres such as lyric essay, memoir, personal narrative and/or scientific, medical, nature, culinary and travel writing.",
+        "sections": [
+            {
+                "section": "32692D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "11 of 12",
+                "instructor": "David Ulin",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "310",
+        "course_name": "Editing for Writers",
+        "units": "(4.0 units)",
+        "description": "Practical course in relations between editing and the creative process in fiction, poetry, and exposition",
+        "sections": [
+            {
+                "section": "32697D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 19",
+                "instructor": "Kerry Ingram",
+                "location": "THH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "342",
+        "course_name": "Women in English and American Literature after 1800",
+        "units": "(4.0 units)",
+        "description": "Women as writers and as subjects, with special emphasis on feminist and liberationist traditions and on changing female images after 1800.",
+        "sections": [
+            {
+                "section": "32702D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Margaret Russett",
+                "location": "THH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "350",
+        "course_name": "Literature of California",
+        "units": "(4.0 units)",
+        "description": "Novels, stories, essays, poems, and plays written in and about California from the Gold Rush to the present.",
+        "sections": [
+            {
+                "section": "32705D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "",
+                "location": "GFS108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "361",
+        "course_name": "Contemporary Prose",
+        "units": "(4.0 units)",
+        "description": "Study of prose written in English since 1945, principally fiction of the past two decades.",
+        "sections": [
+            {
+                "section": "32711D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Steven Minas",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "362",
+        "course_name": "Contemporary Poetry",
+        "units": "(4.0 units)",
+        "description": "Study of poetry written in English since 1945, with special emphasis on the last two decades.",
+        "sections": [
+            {
+                "section": "32712D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Molly Bendall",
+                "location": "DMC261"
+            },
+            {
+                "section": "32713R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "32714R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Anna Journey",
+                "location": "THH209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "372",
+        "course_name": "Literature and Related Arts",
+        "units": "(4.0 units, max 8)",
+        "description": "An examination of how literature and related arts intersect in a particular cultural milieu. Selected topics.",
+        "sections": [
+            {
+                "section": "32716R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Enrique Martinez Celaya",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "405",
+        "course_name": "Fiction Writing",
+        "units": "(4.0 units, max 8)",
+        "description": "A practical course in composition of prose fiction.",
+        "sections": [
+            {
+                "section": "32729R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Percival Everett",
+                "location": "SOSB48"
+            },
+            {
+                "section": "32730R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "7 of 12",
+                "instructor": "Kerry Ingram",
+                "location": "THH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "406",
+        "course_name": "Poetry Writing",
+        "units": "(4.0 units, max 8)",
+        "description": "A practical course in poetry writing.",
+        "sections": [
+            {
+                "section": "32734R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "5 of 12",
+                "instructor": "Mark Irwin",
+                "location": "WPH204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "407",
+        "course_name": "Advanced Fiction Writing",
+        "units": "(4.0 units, max 8)",
+        "description": "Prerequisite: English 405 and/or consent of instructor.",
+        "sections": [
+            {
+                "section": "32733D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "7 of 12",
+                "instructor": "Aimee Bender",
+                "location": "WPH400"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "421",
+        "course_name": "English Literature of the 16th Century",
+        "units": "(4.0 units)",
+        "description": "Selected studies in the non-dramatic literature of Renaissance England, with emphasis on Sidney, Spencer, and Shakespeare.",
+        "sections": [
+            {
+                "section": "32735D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Thea Tomaini",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "430",
+        "course_name": "Shakespeare",
+        "units": "(4.0 units)",
+        "description": "Major history plays, comedies, and tragedies.",
+        "sections": [
+            {
+                "section": "32742R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Steven Minas",
+                "location": "DMC208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "440",
+        "course_name": "American Literature to 1865",
+        "units": "(4.0 units)",
+        "description": "American poetry and prose to the Civil War with special attention to Irving, Cooper, Poe, Hawthorne, Emerson, Thoreau, Melville, and Whitman.",
+        "sections": [
+            {
+                "section": "32743R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Thomas Gustafson",
+                "location": "THH214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "442",
+        "course_name": "American Literature, 1920 to the Present",
+        "units": "(4.0 units)",
+        "description": "American poetry, fiction, and drama since World War I with special attention to Eliot, Frost, Hemingway, Fitzgerald, O'Neill, Stevens, Faulkner, and Nabokov.",
+        "sections": [
+            {
+                "section": "32745R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "8 of 19",
+                "instructor": "Rick Berg",
+                "location": "THH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "448",
+        "course_name": "Chicano and Latino Literature",
+        "units": "(4.0 units)",
+        "description": "Development of the poetry, essay, short story and novel of the Chicano and Latino peoples of the United States, with particular emphasis on the differentiating characteristics between the multiple cultures that constitute the Latino populations.",
+        "sections": [
+            {
+                "section": "10437R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "14 of 19",
+                "instructor": "Elda Maria Roman",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "449",
+        "course_name": "Asian American Literature",
+        "units": "(4.0 units)",
+        "description": "Survey of Asian American literature from the earliest time to the present; development of prose, poetry, and novel.",
+        "sections": [
+            {
+                "section": "10438R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "5 of 19",
+                "instructor": "Jane Hu",
+                "location": "MRF206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "32758D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "491",
+        "course_name": "Senior Seminar in Literary Studies",
+        "units": "(4.0 units)",
+        "description": "Selected problems in literary history and criticism.",
+        "sections": [
+            {
+                "section": "32759D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "11 of 12",
+                "instructor": "David Treuer",
+                "location": "WPH204"
+            },
+            {
+                "section": "32760D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "David Roman",
+                "location": "THH109"
+            },
+            {
+                "section": "32762D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "7 of 12",
+                "instructor": "Anthony Kemp",
+                "location": "THH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "492",
+        "course_name": "Narrative Studies Capstone Seminar",
+        "units": "(4.0 units)",
+        "description": "Individual research, reading, writing and project development as a senior capstone experience in the study of narrative.",
+        "sections": [
+            {
+                "section": "32763D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Sara Sligar",
+                "location": "WPH104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Studies in the works of one or more authors, or in the development of a theme or genre.",
+        "sections": [
+            {
+                "section": "32771D",
+                "session": "185",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "501",
+        "course_name": "History of Literary and Cultural Theory",
+        "units": "(4.0 units)",
+        "description": "The assumptions and practices of major theorists and theoretical schools from Plato to literary modernism.",
+        "sections": [
+            {
+                "section": "32773D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Dana Johnson,William Handley",
+                "location": "THH117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "520",
+        "course_name": "Renaissance English Literatures and Cultures",
+        "units": "(4.0 units, max 12)",
+        "description": "Studies in poetry and patronage, the popular tradition in literature and drama, the social and sexual dynamics of comedy, historical and cultural uses of genres, among other topics.",
+        "sections": [
+            {
+                "section": "32770D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "3 of 19",
+                "instructor": "Heather James",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "563",
+        "course_name": "Poetry and Prose into Drama",
+        "units": "(4.0 units, max 12)",
+        "description": "Plays for the stage shall be written using public-domain poetry and prose as inspiration and source material, complemented with exploring poetry, prose, and varied dramas as context for the student writer. Students should be well-versed in literature, and have written in one or more genres.",
+        "sections": [
+            {
+                "section": "63173D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Heather James",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32790D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Ashley Cohen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching English and Narrative Studies",
+        "units": "(2.0 units, max 8)",
+        "description": "Practical principles for development of effective teaching within the disciplines of English, Creative Writing, and Narrative Studies. Intended for teaching assistants in English.",
+        "sections": [
+            {
+                "section": "32793D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "10 of 14",
+                "instructor": "Christopher Freeman",
+                "location": "THH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "595",
+        "course_name": "Literary Studies Across Cultures",
+        "units": "(4.0 units, max 12)",
+        "description": "Studies in Empire and Commonwealth literatures, post-colonialism, American hemispheric connections, African-American discourse, Asian American writers, dialects and the folk, and other topics.",
+        "sections": [
+            {
+                "section": "32794D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "18 of 20",
+                "instructor": "Viet Nguyen",
+                "location": "GFS109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "601",
+        "course_name": "Introduction to Literary Editing and Publishing",
+        "units": "(4.0 units)",
+        "description": "Comprehensive introduction to the MA degree and its range of study, focusing on elements of the craft of editing and the literary marketplace.",
+        "sections": [
+            {
+                "section": "32801D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "8 of 12",
+                "instructor": "Brighde Mullins",
+                "location": "WPH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "603",
+        "course_name": "The Editorial Experience: The Craft of Publication",
+        "units": "(4.0 units)",
+        "description": "An intensive workshop in applied English, coordinating literary analysis with editing and publication, including relationships with authors; academic and trade presses; journals; editing and design.",
+        "sections": [
+            {
+                "section": "32803D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "6 of 12",
+                "instructor": "Amy Meyerson",
+                "location": "WPH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "604",
+        "course_name": "The Nonfiction Experience: A Literary-Editorial Focus",
+        "units": "(4.0 units)",
+        "description": "Topics on literary and popular forms: profile portrait; science writing; food writing; place and travel; memoir; and personal essay; with venues for publication.",
+        "sections": [
+            {
+                "section": "32804D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "6 of 12",
+                "instructor": "M G Lord",
+                "location": "THH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "606A",
+        "course_name": "The Literary Landscape: Digital Toolkit",
+        "units": "(2.0 units)",
+        "description": "Introduction to skill sets needed to enter the profession; development of student interests as they fit in the literary landscape.",
+        "sections": [
+            {
+                "section": "32805D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "8 of 12",
+                "instructor": "Amy Meyerson",
+                "location": "WPH104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "609A",
+        "course_name": "Internship in Editing and Publishing: Eloquence and Ethics",
+        "units": "(2.0 units, max 4)",
+        "description": "Practical experience in the publishing world for acquiring skills and knowledge beyond the classroom.",
+        "sections": [
+            {
+                "section": "32809D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "6 of 12",
+                "instructor": "David Ulin",
+                "location": "DMC104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "620",
+        "course_name": "Literature and Interdisciplinary Studies",
+        "units": "(4.0 units, max 12)",
+        "description": "Issues and theory of studying literature in relation to history, science, politics, psychology, religion, sociology, media, the visual arts, and other disciplines.",
+        "sections": [
+            {
+                "section": "32812D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "10 of 12",
+                "instructor": "Devin Griffiths",
+                "location": "WPH204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "640",
+        "course_name": "Individual Writers",
+        "units": "(4.0 units, max 12)",
+        "description": "Studies of major and minor, canonic and non-canonic writers.",
+        "sections": [
+            {
+                "section": "32814D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "6 of 12",
+                "instructor": "David St. John",
+                "location": "THH411"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "650",
+        "course_name": "Multicultural Literary Studies",
+        "units": "(4.0 units, max 12)",
+        "description": "Theories of race and ethnicity, cultural imperialism, discourse of power and class, literatures of the Americas, and other topics.",
+        "sections": [
+            {
+                "section": "32815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "4 of 12",
+                "instructor": "Elda Maria Roman",
+                "location": "THH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "678",
+        "course_name": "Seminar in Film Theory and Medium Specificity",
+        "units": "(4.0 units, max 8)",
+        "description": "Explores the way film has been theorized in relationship to traditional media that preceded it and electronic media that followed.",
+        "sections": [
+            {
+                "section": "18191D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Thomas Pringle",
+                "location": "SCIL104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "693",
+        "course_name": "Graduate Nonfiction Form and Theory",
+        "units": "(4.0 units, max 16)",
+        "description": "Study of conventional and experimental works of creative nonfiction, from memoir to poetry, criticism and scholarship, focusing on issues of form, ethics, style and audience.",
+        "sections": [
+            {
+                "section": "32823D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "11 of 12",
+                "instructor": "Maggie Nelson",
+                "location": "WPH204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "695",
+        "course_name": "Graduate Fiction Form and Theory",
+        "units": "(4.0 units, max 16)",
+        "description": "Seminar. Studies in fiction form and function or critical theory.",
+        "sections": [
+            {
+                "section": "32825D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "6 of 12",
+                "instructor": "Percival Everett",
+                "location": "SOSB50"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "697",
+        "course_name": "Graduate Fiction Writing Workshop",
+        "units": "(4.0 units, max 16)",
+        "description": "Intensive practicum in advanced level fiction writing, intended to develop high level creative compositional ability. Open only to Creative Writing PhD degree candidates.",
+        "sections": [
+            {
+                "section": "32827D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Aimee Bender",
+                "location": "THH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "698",
+        "course_name": "Graduate Poetry Form and Theory",
+        "units": "(4.0 units, max 16)",
+        "description": "Seminar. Studies in poetry form and function or critical theory.",
+        "sections": [
+            {
+                "section": "32828D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "5 of 12",
+                "instructor": "Mark Irwin",
+                "location": "KAP150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "700",
+        "course_name": "Theories and Practices of Professional Development I",
+        "units": "(2.0 units)",
+        "description": "A structured environment in which to craft a research project, write a dissertation prospectus, and define areas of professional expertise. Graded CR/NC. Recommended preparation: passage of screening exam. Not available for degree credit.",
+        "sections": [
+            {
+                "section": "32830D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "Ashley Cohen",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "701",
+        "course_name": "Theories and Practices of Professional Development II",
+        "units": "(2.0 units)",
+        "description": "This two-credit course helps ABD students craft their professional identities and placement materials as they make the transition from graduate school to their academic position. Graded CR/NC. Not available for degree credit.",
+        "sections": [
+            {
+                "section": "32831D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 980,
+                "days": 32,
+                "registered": "1 of 12",
+                "instructor": "Elda Maria Roman",
+                "location": "THH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "703",
+        "course_name": "Academic Writing: Journal Articles and Dissertation Chapters",
+        "units": "(2.0 units)",
+        "description": "Academic writing workshop focused on producing dissertation chapters and revising seminar papers for publication.",
+        "sections": [
+            {
+                "section": "32840D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "7 of 12",
+                "instructor": "Ashley Cohen",
+                "location": "TBD"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32808D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Ashley Cohen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "32895D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. GRADED CR/NC.",
+        "sections": [
+            {
+                "section": "32896D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32897D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32898D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit upon acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32899D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 35",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

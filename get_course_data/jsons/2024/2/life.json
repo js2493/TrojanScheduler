@@ -1,0 +1,87 @@
+[
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "120",
+        "course_name": "General Biology: Organismal Biology and Evolution",
+        "units": "(4.0 units)",
+        "description": "In-depth survey of key topics related to advances in our knowledge of the diversity of life and evolution; origin of life; eukaryotes/prokaryotes; ecology.",
+        "sections": [
+            {
+                "section": "13004R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 30,
+                "registered": "8 of 40",
+                "instructor": "Raffaella Ghittoni,Trond Sigurdsen",
+                "location": "ZHS163"
+            },
+            {
+                "section": "13005R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Eliza Kirsch",
+                "location": "ZHS363"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "220",
+        "course_name": "General Biology: Cell Biology and Physiology",
+        "units": "(4.0 units)",
+        "description": "In-depth survey of key topics related to advances in our knowledge of cellular biology and physiology; cell composition/metabolism; gene action; organism structure and function. Recommended preparation: high school chemistry; BISC 120L or BISC 121L.",
+        "sections": [
+            {
+                "section": "13012R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 60,
+                "registered": "7 of 20",
+                "instructor": "Rita Barakat",
+                "location": "HNB100"
+            },
+            {
+                "section": "13141R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Elizabeth Beachem",
+                "location": "ZHS369"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "100",
+        "course_name": "Introduction to Psychology",
+        "units": "(4.0 units)",
+        "description": "Introduction to psychological science, including historical and contemporary approaches. Behavior examined from biological, cognitive, social, developmental, and personality perspectives. Disorders and treatments.",
+        "sections": [
+            {
+                "section": "52400R",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "Clayton Stephenson",
+                "location": "SGM226"
+            }
+        ]
+    }
+]

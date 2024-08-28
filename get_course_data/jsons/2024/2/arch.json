@@ -1,0 +1,192 @@
+[
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "102A",
+        "course_name": "Architectural Design I",
+        "units": "(4.0 units)",
+        "description": "Introduction to principles and processes; sequence of exercises emphasizing development of basic skills, ideas, and techniques used in the design of simplified architectural projects.",
+        "sections": [
+            {
+                "section": "11205D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 1070,
+                "days": 42,
+                "registered": "6 of 7",
+                "instructor": "Jia zhou Zhu",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "105",
+        "course_name": "Fundamentals of Design Communication",
+        "units": "(2.0 units)",
+        "description": "Visual communication techniques applicable to the design of the built environment; drawing, photography, modeling.",
+        "sections": [
+            {
+                "section": "11204D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "6 of 7",
+                "instructor": "Lee Olvera",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "402A",
+        "course_name": "Architectural Design IV",
+        "units": "(6.0 units)",
+        "description": "Selected areas of specialization; three projects chosen with advisement from a variety of studio offerings that concentrate on different areas of vital concern.",
+        "sections": [
+            {
+                "section": "11282D",
+                "session": "850",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 600,
+                "days": 62,
+                "registered": "1 of 1",
+                "instructor": "Julia Sulzer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "524",
+        "course_name": "Professional Practicum",
+        "units": "(1.0 units, max 2)",
+        "description": "Comparative studies of professional practice between U.S. firms and firms in other countries. Open to international upper-division undergraduate and graduate architecture students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "11258D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Douglas Noble",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11260D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 6",
+                "instructor": "Douglas Noble",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "549",
+        "course_name": "Fundamentals of Heritage Conservation",
+        "units": "(3.0 units)",
+        "description": "Concepts and strategies for conservation of significant elements of the built environment: buildings, sites and communities as revealed by readings, site visits, and case studies.",
+        "sections": [
+            {
+                "section": "11266R",
+                "session": "258",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "2 of 12",
+                "instructor": "Trudi Sandmeier",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "11249D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Ginger Nolan",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11250D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Trudi Sandmeier",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "642",
+        "course_name": "Landscape Architecture Design",
+        "units": "(6.0 units)",
+        "description": "Fully integrated landscape place design; reclamation sites at significant urban or natural locations.",
+        "sections": [
+            {
+                "section": "11281D",
+                "session": "850",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 62,
+                "registered": "1 of 1",
+                "instructor": "Julia Sulzer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCH",
+        "course_number": "705",
+        "course_name": "Advanced Graduate Architecture Design- Topics",
+        "units": "(6.0 units, max 12)",
+        "description": "Advanced topical investigations emphasizing diverse areas of specialization. Projects will be faculty-led research investigations that concentrate on diverse areas of vital concern. Prerequisite: ARCH 605bL or ARCH 702L. Open only to Architecture majors.",
+        "sections": [
+            {
+                "section": "11283D",
+                "session": "850",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 62,
+                "registered": "4 of 4",
+                "instructor": "Julia Sulzer",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

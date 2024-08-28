@@ -1,0 +1,2217 @@
+[
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "102A",
+        "course_name": "Architectural Design I",
+        "units": "(4.0 units)",
+        "description": "Introduction to principles and processes; sequence of exercises emphasizing development of basic skills, ideas, and techniques used in the design of simplified architectural projects.",
+        "sections": [
+            {
+                "section": "11200D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 18,
+                "registered": "103 of 107",
+                "instructor": "Teddy Slowik",
+                "location": "WAHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "104",
+        "course_name": "History and Theory of Architecture, Technology, Innovation",
+        "units": "(3.0 units)",
+        "description": "Introduction to and critical examination of history, theory and cultural significance of architecture, technology and innovation through lectures and readings.",
+        "sections": [
+            {
+                "section": "11211R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 22",
+                "instructor": "Jasmine Benyamin",
+                "location": "WPH201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "105A",
+        "course_name": "Fundamentals of Design Communication",
+        "units": "(2.0 units)",
+        "description": "Visual communication techniques applicable to the design of the built environment; drawing, photography, modeling.",
+        "sections": [
+            {
+                "section": "11401D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "103 of 107",
+                "instructor": "Teddy Slowik,Jia zhou Zhu",
+                "location": "WAHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "106",
+        "course_name": "Workshop in Architecture",
+        "units": "(2.0 units)",
+        "description": "Introduction to the ways architecture is created and understood, for minors and non-majors. Hands-on discussion and laboratory session with some drawing and model building. Not available for credit to architecture majors.",
+        "sections": [
+            {
+                "section": "11202R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Tobi Ashiru",
+                "location": "HAR115A"
+            },
+            {
+                "section": "11239R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 640,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Valery Augustin",
+                "location": "HAR115A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "114",
+        "course_name": "Architecture: Culture and Community",
+        "units": "(2.0 units)",
+        "description": "Introduction to the ways architecture represents aspirations of culture, satisfies practical and spiritual needs, shapes the social and urban environment, and helps preserve the planet.",
+        "sections": [
+            {
+                "section": "11203R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "108 of 150",
+                "instructor": "Geoffrey von Oeyen",
+                "location": "HAR101"
+            },
+            {
+                "section": "11208R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "107 of 150",
+                "instructor": "Geoffrey von Oeyen",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "202A",
+        "course_name": "Architectural Design II",
+        "units": "(6.0 units)",
+        "description": "Continuing development of principles and processes: sequence of projects selected to broaden awareness of design issues at various scales in the urban context. Prerequisite: 102abL.",
+        "sections": [
+            {
+                "section": "11204D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 42,
+                "registered": "92 of 92",
+                "instructor": "Rob Berry,Scott Uriu",
+                "location": "HAR215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "203",
+        "course_name": "Visualizing and Experiencing the Built Environment",
+        "units": "(4.0 units)",
+        "description": "Methods for direct observation and recording of the directly experienced built environment through drawing, diagramming, photographing, and writing. Course includes exercises and field experience.",
+        "sections": [
+            {
+                "section": "11230D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 32,
+                "registered": "9 of 16",
+                "instructor": "Lee Olvera",
+                "location": "HAR115A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "205A",
+        "course_name": "Building Science I",
+        "units": "(4.0 units)",
+        "description": "The process and communication of building design: physical building shell, systems for structure, enclosure, and space ordering. Prerequisite: CE 106L.",
+        "sections": [
+            {
+                "section": "11205D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 10,
+                "registered": "8 of 8",
+                "instructor": "Mina Chow",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "213A",
+        "course_name": "Building Structures and Seismic Design",
+        "units": "(3.0 units)",
+        "description": "Investigation and design of elements and systems for buildingstructures; applied mechanics, strength of materials, structuralinvestigation as a design tool. Recommended preparation: PHYS 125 and MATH 108",
+        "sections": [
+            {
+                "section": "11209D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "88 of 93",
+                "instructor": "Bhavna Sharma",
+                "location": "HAR101"
+            },
+            {
+                "section": "11210R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 16,
+                "registered": "84 of 93",
+                "instructor": "Bhavna Sharma",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "214B",
+        "course_name": "World History of Architecture",
+        "units": "(3.0 units)",
+        "description": "A worldwide perspective of architectural history as a product of social, cultural, religious, and political dimensions, b: 1500 CE to present.",
+        "sections": [
+            {
+                "section": "11214D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "95 of 100",
+                "instructor": "Erik Carver",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "215",
+        "course_name": "Design for the Thermal and Atmospheric Environment",
+        "units": "(3.0 units)",
+        "description": "Ideas, problems, and computations related to the design of buildings in response to the thermal and atmospheric environment; passive solar systems, mechanical control systems.",
+        "sections": [
+            {
+                "section": "11215D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "89 of 90",
+                "instructor": "Anthony Brower",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "219",
+        "course_name": "Design at the Scale of the Human Body Workshop",
+        "units": "(4.0 units)",
+        "description": "A design-based exploration of the scale of the human body and how it informs, interferes or interacts with furniture, goods, fixtures and furnishings.",
+        "sections": [
+            {
+                "section": "11391D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "9 of 12",
+                "instructor": "Lee Olvera",
+                "location": "WAH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "220",
+        "course_name": "The Architect's Sketchbook",
+        "units": "(2.0 units)",
+        "description": "The architect's sketchbook as a portable laboratory for perceivingand documenting space introduces the study of the builtenvironment. On-site sessions develop drawing, observation, and visualization skills.",
+        "sections": [
+            {
+                "section": "11302R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "7 of 10",
+                "instructor": "Miller Fong",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "228",
+        "course_name": "Social Environments",
+        "units": "(3.0 units)",
+        "description": "Exploration of the intersection between the urban form and the social life of cities, looking at systemic problems of urban societies and potential design solutions.",
+        "sections": [
+            {
+                "section": "11389D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 40,
+                "registered": "9 of 12",
+                "instructor": "Julia Sulzer",
+                "location": "THH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "302A",
+        "course_name": "Architectural Design III",
+        "units": "(6.0 units)",
+        "description": "Special integrative year including design issues relating to housing.",
+        "sections": [
+            {
+                "section": "11218D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 42,
+                "registered": "82 of 86",
+                "instructor": "Amy Murphy,Warren Techentin",
+                "location": "WAH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "304",
+        "course_name": "Intensive Survey: Prehistory to the Present",
+        "units": "(4.0 units)",
+        "description": "An intensive historical overview of architecture from prehistory to the present, emphasizing interrelationships of various global cultures and how social considerations were translated into form. Not available for credit to architecture majors.",
+        "sections": [
+            {
+                "section": "11219R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1220,
+                "days": 20,
+                "registered": "5 of 18",
+                "instructor": "Victoria Behner",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "305A",
+        "course_name": "Building Science II",
+        "units": "(4.0 units)",
+        "description": "The design of a building as a complex of interacting systems; relations of subsystems; influences of production and marketing on design.",
+        "sections": [
+            {
+                "section": "11220D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "7 of 9",
+                "instructor": "David Gerber",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "307",
+        "course_name": "Digital Tools for Architecture",
+        "units": "(3.0 units)",
+        "description": "Exploration of digital tools with an emphasis on building information modeling (BIM), parametric modeling, and interoperability including special topics in Architecture/Engineering/Construction (AEC) and sustainable design. Recommended preparation: basic computer skills.",
+        "sections": [
+            {
+                "section": "11305R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Karen Kensek",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "313",
+        "course_name": "Design of Building Structures",
+        "units": "(3.0 units)",
+        "description": "Problems and processes of design of building structures; structural investigation for design; codes and standards; design of elements and systems of wood, steel, masonry, and concrete for gravity and lateral loads.",
+        "sections": [
+            {
+                "section": "11224D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "87 of 90",
+                "instructor": "Jeff Guh",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "314",
+        "course_name": "History of Architecture: Contemporary Issues",
+        "units": "(3.0 units)",
+        "description": "Examination of the buildings, issues and images, the polemics and personalities that are animating current architectural discourse and practice.",
+        "sections": [
+            {
+                "section": "11225D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "87 of 90",
+                "instructor": "Ginger Nolan",
+                "location": "GFS106"
+            },
+            {
+                "section": "11221R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 90",
+                "instructor": "Carrie Gammell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11222R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11228R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 23",
+                "instructor": "Carrie Gammell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11231R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 23",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "316",
+        "course_name": "Place and Culture",
+        "units": "(3.0 units)",
+        "description": "(Study abroad programs only) Study of the relationships between places and culture through readings, lectures, discussion and weekly field trips.",
+        "sections": [
+            {
+                "section": "11379D",
+                "session": "861",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Gary Paige",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "370",
+        "course_name": "Architectural Studies- Expanding the Field",
+        "units": "(2.0 units)",
+        "description": "Survey of opportunities, specializations, and professions related to architecture provides a resource for professional growth for architecture majors, and introduction to the field for non-majors.",
+        "sections": [
+            {
+                "section": "11400R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 30",
+                "instructor": "Douglas Noble",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "402A",
+        "course_name": "Architectural Design IV",
+        "units": "(6.0 units)",
+        "description": "Selected areas of specialization; three projects chosen with advisement from a variety of studio offerings that concentrate on different areas of vital concern.",
+        "sections": [
+            {
+                "section": "11377D",
+                "session": "861",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Gary Paige",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11234D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "43 of 47",
+                "instructor": "Dora Chi",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "403",
+        "course_name": "Principles of Spatial Design II",
+        "units": "(4.0 units)",
+        "description": "Emphasis on developing advanced urban spatial design solutions set within contemporary urban conditions, with a particular emphasis on ecology, public space, neighborhoods and districts. Prerequisite: Arch 303.",
+        "sections": [
+            {
+                "section": "11403D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 4,
+                "registered": "12 of 14",
+                "instructor": "Olivier Touraine",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "405A",
+        "course_name": "Building Science III",
+        "units": "(4.0 units)",
+        "description": "Design of building systems as an experimental process. Prerequisite: 305abL.",
+        "sections": [
+            {
+                "section": "11241D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "9 of 9",
+                "instructor": "Tigran Ayrapetyan",
+                "location": "HAR115A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "406",
+        "course_name": "Global Studies: Topics in Architecture, Urbanism, History and Art",
+        "units": "(2.0 units, max 6)",
+        "description": "Offered for particular geographic areas of study. Required prerequisite for all full semester undergraduate global programs. Also intended for general interest in focused study on particular geographic area.",
+        "sections": [
+            {
+                "section": "11380D",
+                "session": "861",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Gary Paige,Eui-Sung Yi",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11430D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "20 of 21",
+                "instructor": "John Dutton,Sophia Gruzdys",
+                "location": "HAR115A"
+            },
+            {
+                "section": "11432D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "18 of 18",
+                "instructor": "Marcos Sanchez",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "409",
+        "course_name": "Design Foundation",
+        "units": "(2.0 units)",
+        "description": "Introduction to basic architectural design principles for problem solving scenarios; foundational architectural design course for systematic thinking.",
+        "sections": [
+            {
+                "section": "11409D",
+                "session": "727",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 890,
+                "days": 0,
+                "registered": "28 of 28",
+                "instructor": "Brian Deluna",
+                "location": "WAH209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "410",
+        "course_name": "Computer Transformations",
+        "units": "(2.0 units)",
+        "description": "To explore the potential of computer-integrated design software; to develop techniques for critical analysis of architectural precedents; to expand the ability to visualize options; to expand perception; and to learn the basics of computer-integrated design.",
+        "sections": [
+            {
+                "section": "11410D",
+                "session": "727",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 0,
+                "registered": "36 of 38",
+                "instructor": "Sarah Hammond",
+                "location": "HAR101"
+            },
+            {
+                "section": "11411D",
+                "session": "727",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1080,
+                "days": 0,
+                "registered": "21 of 21",
+                "instructor": "Matthew Conway",
+                "location": "HAR125"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "417",
+        "course_name": "Computer Programming in Architecture",
+        "units": "(3.0 units)",
+        "description": "Principles underlying computer programming, emphasizing algorithms, procedures, and program structures applicable to architecture.",
+        "sections": [
+            {
+                "section": "11243R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 32,
+                "registered": "6 of 20",
+                "instructor": "Sarah Hammond",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "420",
+        "course_name": "Visual Communication and Graphic Expression",
+        "units": "(3.0 units)",
+        "description": "An exploratory study of fundamental and innovative visual communication principles and graphic expression techniques to facilitate the design enquiry process for architects.",
+        "sections": [
+            {
+                "section": "11322R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 740,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Hadrian Predock",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "421",
+        "course_name": "Digital Architectural Photography",
+        "units": "(2.0 units)",
+        "description": "Perceiving and documenting the built environment through the perspective and frame of the digital camera. Mastering the basic principles of the digital image though an understanding of frame, light, exposure, color correction, and printing output.",
+        "sections": [
+            {
+                "section": "11244R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "WAHB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "422",
+        "course_name": "Architectural Photography- Film and Digital",
+        "units": "(3.0 units)",
+        "description": "See how light alters the visual impact of architectural forms; master high-resolution images both with film and digital; become a professional image developer/processor utilizing photographic software.",
+        "sections": [
+            {
+                "section": "11249R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "6 of 14",
+                "instructor": "",
+                "location": "WAHB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "424",
+        "course_name": "Field Studies in Architecture",
+        "units": "(2.0 units)",
+        "description": "Field studies using direct observation, site recordings/documentation, analysis and evaluation supplemented by discussions and readings in architecture. Departmental approval. Recommended preparation: core curriculum",
+        "sections": [
+            {
+                "section": "11381D",
+                "session": "861",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Gary Paige,Eui-Sung Yi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "425",
+        "course_name": "Field Studies in Urbanism",
+        "units": "(2.0 units)",
+        "description": "Field studies using direct observation, site recordings/documentation, analysis and evaluation supplemented by discussions and readings in urbanism. Departmental approval. Recommended preparation: core curriculum",
+        "sections": [
+            {
+                "section": "11382D",
+                "session": "861",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Takako Tajima,Eui-Sung Yi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "426",
+        "course_name": "Field Studies in Tectonics",
+        "units": "(2.0 units)",
+        "description": "Field studies using direct observation, site recordings/documentation, analysis and evaluation supplemented by discussions and readings in tectonics. Departmental approval. Recommended preparation: core curriculum",
+        "sections": [
+            {
+                "section": "11383D",
+                "session": "861",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Gary Paige",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "439",
+        "course_name": "Landscape Architecture Foundations Workshop",
+        "units": "(2.0 units)",
+        "description": "Introductory field studies and media workshop for new landscape architecture students. Topics include: regional ecology, field drawing, measured drawings, computer software (Adobe Creative Suite, Autocad, Rhinoceros, GIS).",
+        "sections": [
+            {
+                "section": "11439D",
+                "session": "722",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 870,
+                "days": 0,
+                "registered": "9 of 9",
+                "instructor": "Xun Liu",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "442",
+        "course_name": "Women's Spaces in History: 'Hussies,' 'Harems,' and 'Housewi",
+        "units": "(4.0 units)",
+        "description": "Methods for studying patterns of spatial differentiation of women throughout history from home to city, embodied in gender specific language and gendered spaces.",
+        "sections": [
+            {
+                "section": "11256D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "17 of 20",
+                "instructor": "Diane Ghirardo",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "444",
+        "course_name": "Great Houses of Los Angeles",
+        "units": "(4.0 units)",
+        "description": "An introduction to the architectural philosophies of seven influential California architects through reading and site visits to significant case studies.",
+        "sections": [
+            {
+                "section": "11255R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 16,
+                "registered": "18 of 18",
+                "instructor": "Jasmine Benyamin",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "470A",
+        "course_name": "Architectural Studies Capstone",
+        "units": "(1.0 unit)",
+        "description": "Introduction to methods of inquiry, research framework, and scholarly writing necessary to develop a comprehensive foundation for the Architectural Studies Capstone (ARCH 470b)",
+        "sections": [
+            {
+                "section": "11385D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "5 of 7",
+                "instructor": "Lee Olvera",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "480",
+        "course_name": "Conversations on the Expanded Role of the Architect",
+        "units": "(1.0 units, max 10)",
+        "description": "Modeled after Renaissance Salons, this \"flipped classroom\" course relies on lectures by luminaries and discussions as a means to interrogate the role of the architect.",
+        "sections": [
+            {
+                "section": "11268R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "15 of 40",
+                "instructor": "Erin Kasimow",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "481",
+        "course_name": "Furniture Design",
+        "units": "(3.0 units)",
+        "description": "An investigation into 20th century furniture design and its relationships to architecture, art and design.",
+        "sections": [
+            {
+                "section": "11351R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "R Mitchell",
+                "location": "WAH212"
+            },
+            {
+                "section": "11358R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "R Mitchell",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "11269D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Isaac Brown",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics in various specialty areas of architecture.",
+        "sections": [
+            {
+                "section": "11444R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Lauren Dandridge",
+                "location": "HAR125"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "500A",
+        "course_name": "Comprehensive Architectural Design",
+        "units": "(6.0 units)",
+        "description": "Selected areas of specialization; projects chosen from a variety of studio offerings, all with an emphasis on the comprehensive design of buildings. Prerequisite: 402abL. Corequisite: ARCH 501.",
+        "sections": [
+            {
+                "section": "11238D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 42,
+                "registered": "65 of 70",
+                "instructor": "Yo-Ichiro Hakomori",
+                "location": "HAR205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "501",
+        "course_name": "Critical Topics in Architecture",
+        "units": "(2.0 units)",
+        "description": "Seminar supporting the research, development, and writing of Degree Project Paper provides a comprehensive base of information for the final Bachelor of Architecture studio.",
+        "sections": [
+            {
+                "section": "11207D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "65 of 70",
+                "instructor": "Eric Haas",
+                "location": "WAHB1"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "505A",
+        "course_name": "Graduate Architecture Design I",
+        "units": "(6.0 units)",
+        "description": "A general introduction to architectural principles, intended to develop design and critical thinking skills and proficiency to communicate those ideas effectively. Open to graduate architecture majors only.",
+        "sections": [
+            {
+                "section": "11278D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 42,
+                "registered": "28 of 29",
+                "instructor": "Ryan Tyler Martinez",
+                "location": "WAH209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "509",
+        "course_name": "Digital Fabrication- Materials and Methods of Production",
+        "units": "(3.0 units)",
+        "description": "Overview of multiple fabrication, manufacturing, and construction techniques used in the production of architecture, furniture and industrial design.",
+        "sections": [
+            {
+                "section": "11573R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Robert Ley",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "511",
+        "course_name": "Building Systems: Materials and Construction",
+        "units": "(4.0 units)",
+        "description": "Studies of construction system development within the architectural design context; processes and issues of selection, evaluation, optimization, integration, design control, and innovation, Departmental approval.",
+        "sections": [
+            {
+                "section": "11309D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "37 of 50",
+                "instructor": "Bhavna Sharma,Wesley Jones",
+                "location": "WAHB1"
+            },
+            {
+                "section": "11283D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 920,
+                "days": 16,
+                "registered": "10 of 16",
+                "instructor": "Tigran Ayrapetyan",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "513",
+        "course_name": "Seminar: Advanced Structures",
+        "units": "(4.0 units)",
+        "description": "Issues and problems in the development of structural systems for buildings; design criteria, system choice, design development, optimization, subsystem integration. Prerequisite: Consent of instructor.",
+        "sections": [
+            {
+                "section": "11284D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 810,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "9 of 16",
+                "instructor": "Santosh Shahi",
+                "location": "HAR115A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "514A",
+        "course_name": "Global History of Architecture",
+        "units": "(3.0 units)",
+        "description": "A historical survey of global architecture, analyzed as a product of social, cultural, religious and political forces.a: 4500 BCE to 1500 CE; b: 1500 CE to present.",
+        "sections": [
+            {
+                "section": "11330D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "22 of 30",
+                "instructor": "Giulia Amoresano",
+                "location": "WAHB1"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "515",
+        "course_name": "Seminar: Advanced Environmental Systems",
+        "units": "(4.0 units)",
+        "description": "A compressed course in design criteria and calculation methods for mechanical and passive solar systems (loads, plant system, duct, and storage sizing) and lighting and acoustics (CIE and IES methods, dBA and NC systems). Prerequisite: Consent of instructor.",
+        "sections": [
+            {
+                "section": "11285D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1110,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "7 of 16",
+                "instructor": "Kyle Konis",
+                "location": "WAHB1"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "517",
+        "course_name": "Current Topics in Building Science",
+        "units": "(1.0 units, max 6)",
+        "description": "Critical studies in building science ranging from sustainability, lighting, acoustics, materials and methods, structures, energy issues, digital media, and fabrication. Students focus on minimum of two topics.",
+        "sections": [
+            {
+                "section": "11503R",
+                "session": "255",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "Brian Deluna",
+                "location": ""
+            },
+            {
+                "section": "11505R",
+                "session": "258",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "Vlanka Catalan",
+                "location": ""
+            },
+            {
+                "section": "11507R",
+                "session": "263",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "Teddy Slowik",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "523B",
+        "course_name": "Structural Design and Analysis",
+        "units": "(3.0 units)",
+        "description": "a. Introduction to behavior and analysis of building structures. Structural loading, materials, and element types will be explored to understand the basic building blocks of buildings. b. Investigation and design of building structural systems for gravity, wind and seismic loading. Comprehensive design exploration of framing type, materials, detailing, layout, form and integration. Recommended preparation: One-semester college-level course in physics or calculus.",
+        "sections": [
+            {
+                "section": "11523D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "28 of 28",
+                "instructor": "Soheil Mohammadi",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "524",
+        "course_name": "Professional Practicum",
+        "units": "(1.0 units, max 2)",
+        "description": "Comparative studies of professional practice between U.S. firms and firms in other countries. Open to international upper-division undergraduate and graduate architecture students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "11286D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Charles Lagreco",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "526",
+        "course_name": "Professional Practice: Legal and Economic Context, Project Documentation",
+        "units": "(3.0 units)",
+        "description": "Design methodology, typology programming, site analysis, budget formulation and pro-forma procedures. Office management, emphasizing professional service and professional ethics as well as project management focusing on the architect's responsibilities during construction. Prerequisites: ARCH-500a or ARCH-605b.",
+        "sections": [
+            {
+                "section": "11412D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "56 of 59",
+                "instructor": "Karen Kensek,",
+                "location": "THH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "528",
+        "course_name": "Urban Housing: Types and Typologies",
+        "units": "(2.0 units)",
+        "description": "Applications and precedents for the architect interested in designing multi-family housing. Review of the sources of modern housing types, the impact of building codes and technology on the form and construction of housing, and study of housing densities, comparative analysis of multi-family residential patterns. Major emphasis on critical knowledge of historic housing typologies as they are applied to site conditions and groupings, building form, section, organization, and the design of individual dwellings. Recommended preparation: two years of undergraduate architectural studies.",
+        "sections": [
+            {
+                "section": "11528D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "20 of 21",
+                "instructor": "Frances Anderton",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "537",
+        "course_name": "Plant Ecology + Identification",
+        "units": "(3.0 units)",
+        "description": "Principles and concepts of plant ecology and regional plant identification; introduction to California native plant species and communities with field trips and case studies.",
+        "sections": [
+            {
+                "section": "11467R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "18 of 18",
+                "instructor": "Isaac Brown",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "538",
+        "course_name": "Planting Design",
+        "units": "(2.0 units)",
+        "description": "Principles of planting design for landscape architecture focusing on form/space and sustainable performance. Planting design strategies for improved planetary health and resilience.",
+        "sections": [
+            {
+                "section": "11469D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "6 of 16",
+                "instructor": "Sally Reynolds",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "539",
+        "course_name": "Media for Landscape Architecture",
+        "units": "(3.0 units)",
+        "description": "Development of methods and skills for the study of landscape architecture design and for project presentation, including natural resource and urban mapping.",
+        "sections": [
+            {
+                "section": "11227D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "8 of 12",
+                "instructor": "Aroussiak Gabrielian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "540",
+        "course_name": "Topics in Media for Landscape Architecture",
+        "units": "(2.0 units, max 6)",
+        "description": "Exploration of emerging techniques for landscape architecture study, presentation and documentation; topics may vary each semester; may be repeated for credit when subject matter is different.",
+        "sections": [
+            {
+                "section": "11470D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "9 of 12",
+                "instructor": "Aroussiak Gabrielian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "541A",
+        "course_name": "Landscape Architecture Design",
+        "units": "(6.0 units)",
+        "description": "Projects on urban sites with emphasis on cultural and ecological purpose and on urban place and form; use of traditional and digital media.",
+        "sections": [
+            {
+                "section": "11223D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "8 of 12",
+                "instructor": "Sarah Swanseen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "542A",
+        "course_name": "Landscape Architecture Design",
+        "units": "(6.0 units)",
+        "description": "Project strategies for urban infrastructure repair and intervention, phasing, and design of initial catalytic projects.",
+        "sections": [
+            {
+                "section": "11291D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "5 of 8",
+                "instructor": "Jessica Henson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "544",
+        "course_name": "Landscape as Urbanism: Case Studies",
+        "units": "(3.0 units)",
+        "description": "Cities predominantly in the Global South are studied in relationship to landscape systems. Focus on historic and future urbanization at the interface of natural systems and climate dynamics.",
+        "sections": [
+            {
+                "section": "11323D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 16,
+                "registered": "5 of 17",
+                "instructor": "Peter Ekman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "546",
+        "course_name": "Topics in Landscape Architecture: Issues and Practices",
+        "units": "(2.0 units, max 6)",
+        "description": "A broad range of developing urban landscape conditions and issues, both domestic and global, are given focused attention.",
+        "sections": [
+            {
+                "section": "11233R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "4 of 12",
+                "instructor": "Alexander Robinson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "549",
+        "course_name": "Fundamentals of Heritage Conservation",
+        "units": "(3.0 units)",
+        "description": "Concepts and strategies for conservation of significant elements of the built environment: buildings, sites and communities as revealed by readings, site visits, and case studies.",
+        "sections": [
+            {
+                "section": "11295R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "9 of 24",
+                "instructor": "Jay Platt",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "552",
+        "course_name": "Introduction to Historic Site Documentation",
+        "units": "(2.0 units)",
+        "description": "Survey of basic guidelines and standards for documentation in historic preservation, including cultural resource surveys, historic structures reports and Historic American Building Survey and Historic American Engineering Record recordation.",
+        "sections": [
+            {
+                "section": "11310R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "9 of 12",
+                "instructor": "Kathryn Horak",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "553",
+        "course_name": "History of American Architecture and Urbanism",
+        "units": "(3.0 units)",
+        "description": "History of American architecture and urbanism from prehistory to World War II examined in relation to European influences and indigenous developments.",
+        "sections": [
+            {
+                "section": "11312R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "9 of 13",
+                "instructor": "Erik Carver",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "556",
+        "course_name": "Readings in Heritage Conservation Theory",
+        "units": "(2.0 units)",
+        "description": "Trans-disciplinary intensive reading and discussion course related to issues in contemporary heritage conservation.",
+        "sections": [
+            {
+                "section": "11369D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "8 of 12",
+                "instructor": "Trudi Sandmeier",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "557",
+        "course_name": "Sustainable Conservation of the Historic Built Environment",
+        "units": "(2.0 units)",
+        "description": "Analysis of the intersection between green building and historic resources with an emphasis on stewardship and sustainability.",
+        "sections": [
+            {
+                "section": "11363R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "John Lesak",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "558",
+        "course_name": "Fundamentals of Placekeeping",
+        "units": "(2.0 units)",
+        "description": "Concepts and strategies for urban design and placekeeping for heritage conservation as revealed by exercises, site visits and case studies.",
+        "sections": [
+            {
+                "section": "11368D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "8 of 14",
+                "instructor": "Vinayak Bharne",
+                "location": "HAR115A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "560",
+        "course_name": "A History of Architectural Theory: 1400-1914",
+        "units": "(2.0 units)",
+        "description": "A seminar on architectural history from Alberti to Scott, reviewing primary texts and subsequent criticisms.",
+        "sections": [
+            {
+                "section": "11560R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 680,
+                "days": 4,
+                "registered": "17 of 24",
+                "instructor": "Diane Ghirardo",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "562",
+        "course_name": "Architecture Themes and Case Studies",
+        "units": "(2.0 units)",
+        "description": "Architectural themes and case studies focusing on the design and development of architecture, from the industrial city to today.",
+        "sections": [
+            {
+                "section": "11480D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 730,
+                "days": 4,
+                "registered": "35 of 40",
+                "instructor": "Faiza Moatasim",
+                "location": "WAHB1"
+            },
+            {
+                "section": "11477R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 740,
+                "end_time": 780,
+                "days": 4,
+                "registered": "18 of 20",
+                "instructor": "Faiza Moatasim",
+                "location": "HAR115A"
+            },
+            {
+                "section": "11478R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 740,
+                "end_time": 780,
+                "days": 4,
+                "registered": "17 of 20",
+                "instructor": "",
+                "location": "WAHB1"
+            },
+            {
+                "section": "11479R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 790,
+                "end_time": 830,
+                "days": 4,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "WAHB1"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "564",
+        "course_name": "Descriptive and Computational Architectural Geometry",
+        "units": "(2.0 units)",
+        "description": "Introduction to the history, methods, and cases of descriptive and computational geometry impacting representational, modeling, and historically significant paradigms of architectural design. Introduces a range of geometric first principles, technologies and techniques through contemporary design tools.",
+        "sections": [
+            {
+                "section": "11481D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "62 of 75",
+                "instructor": "Soomeen Hahm",
+                "location": "ZHS252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "565",
+        "course_name": "Global History of Designed Landscapes",
+        "units": "(3.0 units)",
+        "description": "Understanding of the global history of landscape design in relation to social, political, religious, environmental and aesthetic principles; current design theory, projects and their historical references are critically reviewed and analyzed.",
+        "sections": [
+            {
+                "section": "11260D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "18 of 20",
+                "instructor": "Peter Ekman",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "566",
+        "course_name": "Cross Cultural Topics in Landscape Architecture History",
+        "units": "(3.0 units, max 6)",
+        "description": "Comparative analysis and appreciation of landscape architecture as a manifestation of nature, society, and design. Topics and world regions vary from year to year; may be repeated for credit when subject matter is different.",
+        "sections": [
+            {
+                "section": "11371R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "8 of 20",
+                "instructor": "Vinayak Bharne",
+                "location": "WAHB1"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "571",
+        "course_name": "Community-Based Design, Conservation and Planning",
+        "units": "(2.0 units)",
+        "description": "Introduces methods of designing with communities rather than for them. It focuses on public history, cultural asset mapping and participatory design.",
+        "sections": [
+            {
+                "section": "11372R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "24 of 24",
+                "instructor": "Melissa Guerrero",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "572",
+        "course_name": "Advanced Building Skins: Designing High-Performance Facade S",
+        "units": "(3.0 units)",
+        "description": "Fundamental technical skillset applicable to the design and delivery of high-performance facade systems. The predominant focus will be the design of contemporary glazed curtainwalls and rainscreen systems in their many forms.",
+        "sections": [
+            {
+                "section": "11359R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "32 of 40",
+                "instructor": "Sanjeev Tankha,Mic Patterson",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "575A",
+        "course_name": "Systems",
+        "units": "(3.0 units)",
+        "description": "Application of the scientific principles governing the thermal environment and human physiology to contemporary issues of environmentally responsive building energy concepts and systems. Recommended preparation ARCH 505aL.",
+        "sections": [
+            {
+                "section": "11574D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "27 of 32",
+                "instructor": "Russell Fortmeyer",
+                "location": "WAHB1"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "577",
+        "course_name": "Lighting Design",
+        "units": "(4.0 units)",
+        "description": "The physics, technical knowledge, professional knowledge, design, and documentation processes used in architectural lighting design, including first principles, manual calculations and computer simulations..",
+        "sections": [
+            {
+                "section": "11360R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "581",
+        "course_name": "Techniques in Digital Fabrication",
+        "units": "(3.0 units)",
+        "description": "A practical introduction to digital fabrication. Covered topics include 3D surface milling, thermoforming, materials, casting and shop technology as applied to repeatable surfaces in architecture.",
+        "sections": [
+            {
+                "section": "11352D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "R Mitchell",
+                "location": "HAR115A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "582",
+        "course_name": "AI in Sustainable Architecture Practice",
+        "units": "(3.0 units)",
+        "description": "Provides a comprehensive understanding of how artificial intelligence (AI) algorithms can be integrated with various aspects of sustainable architecture.",
+        "sections": [
+            {
+                "section": "11355R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "17 of 20",
+                "instructor": "Joon-Ho Choi",
+                "location": "WAH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "11297D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Andy Ku",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11298D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "11299D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "596",
+        "course_name": "Building Science Thesis Preparation",
+        "units": "(1.0 unit)",
+        "description": "Exploration of topics leading to development of a thesis prospectus. Topics may be in the areas of building structures, seismic design, environmental control, passive and active energy, or other relevant topics. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "11326D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "7 of 11",
+                "instructor": "Karen Kensek",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "605A",
+        "course_name": "Graduate Architecture Design II",
+        "units": "(6.0 units)",
+        "description": "a: Principles of structural (seismic/wind and gravity), HVAC, building envelope, access/egress, building service systems; and sustainable strategies critically integrated through tectonic performative goals. . Prerequisite: ARCH-505b. Open only to Architecture majors.",
+        "sections": [
+            {
+                "section": "11328D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 42,
+                "registered": "55 of 57",
+                "instructor": "Hadrian Predock",
+                "location": "WAH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "639",
+        "course_name": "Media for Landscape Architecture: Dynamic Systems",
+        "units": "(3.0 units)",
+        "description": "Computational capacities of parametric software, including flow dynamics, procedural media, and geospatial analysis, to analyze and generate both existing and emergent systems at the landscape scale.",
+        "sections": [
+            {
+                "section": "11254D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "5 of 6",
+                "instructor": "Xun Liu",
+                "location": "THH221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "642",
+        "course_name": "Landscape Architecture Design",
+        "units": "(6.0 units)",
+        "description": "Fully integrated landscape place design; reclamation sites at significant urban or natural locations.",
+        "sections": [
+            {
+                "section": "11304D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "7 of 12",
+                "instructor": "Alexander Robinson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "691B",
+        "course_name": "Heritage Conservation Thesis Preparation and Thesis",
+        "units": "(4.0 units)",
+        "description": "Introduction to, and exploration of, topics leading to the development of a thesis prospectus and directed research towards the completion of the master's thesis in heritage conservation.",
+        "sections": [
+            {
+                "section": "11334D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 810,
+                "days": 16,
+                "registered": "5 of 7",
+                "instructor": "Cindy Olnick",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "691Z",
+        "course_name": "Heritage Conservation Thesis Preparation and Thesis",
+        "units": "(0.0 units)",
+        "description": "Introduction to, and exploration of, topics leading to the development of a thesis prospectus and directed research towards the completion of the master's thesis in heritage conservation. Credit on acceptance of thesis. Registration restricted to Master of Heritage Conservation and Historic Preservation students who have satisfactorily completed 12 hours of graduate course work and have permission of the Program Director. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "11335D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 7",
+                "instructor": "Cindy Olnick",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "692A",
+        "course_name": "Building Science Thesis",
+        "units": "(6.0 units)",
+        "description": "Research and thesis for the Master of Building Science degree. Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "11336D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 40,
+                "registered": "8 of 10",
+                "instructor": "Douglas Noble",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "692B",
+        "course_name": "Building Science Thesis",
+        "units": "(6.0 units)",
+        "description": "Research and thesis for the Master of Building Science degree.",
+        "sections": [
+            {
+                "section": "11337D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 40,
+                "registered": "1 of 1",
+                "instructor": "Douglas Noble",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "692Z",
+        "course_name": "Building Science Thesis",
+        "units": "(0.0 units)",
+        "description": "Research and thesis for the Master of Building Science degree. Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "11338D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "698A",
+        "course_name": "Advanced Design-Research",
+        "units": "(3.0 units)",
+        "description": "Directed research option for the MLArch degree.",
+        "sections": [
+            {
+                "section": "11306D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "7 of 16",
+                "instructor": "Esther Margulies",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "702",
+        "course_name": "Advanced Graduate Architecture Design- Themes",
+        "units": "(6.0 units)",
+        "description": "Advanced thematic topical investigations emphasizing diverse areas of specialization. Projects will be faculty-led research investigations that concentrate on diverse areas of vital concern.",
+        "sections": [
+            {
+                "section": "11455D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "3 of 7",
+                "instructor": "Dora Chi",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "705",
+        "course_name": "Advanced Graduate Architecture Design- Topics",
+        "units": "(6.0 units, max 12)",
+        "description": "Advanced topical investigations emphasizing diverse areas of specialization. Projects will be faculty-led research investigations that concentrate on diverse areas of vital concern. Prerequisite: ARCH 605bL or ARCH 702L. Open only to Architecture majors.",
+        "sections": [
+            {
+                "section": "11329D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 34,
+                "registered": "56 of 64",
+                "instructor": "Dora Chi",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCH",
+        "course_num": "793A",
+        "course_name": "Architecture Directed Design Research Option I",
+        "units": "(2.0 units)",
+        "description": "Directed Design Research option for graduate level architecture degree. Credit on acceptance of research project. Prerequisite: ARCH 605bL or ARCH 702L. Open only to Architecture majors. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "11327D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "58 of 63",
+                "instructor": "Ryan Tyler Martinez",
+                "location": "WAHB1"
+            }
+        ]
+    }
+]

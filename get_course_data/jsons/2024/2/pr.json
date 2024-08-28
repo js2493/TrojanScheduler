@@ -1,0 +1,193 @@
+[
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "250",
+        "course_name": "Strategic Public Relations and Advertising: An Introduction",
+        "units": "(4.0 units)",
+        "description": "Strategies/practices in the growing field of public relations and advertising, including landmark cases, campaign planning; special emphasis on historical roots, current and future practice.",
+        "sections": [
+            {
+                "section": "21030R",
+                "session": "138",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Clarissa Beyah",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "21046D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21047D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "525",
+        "course_name": "Multimedia Content Creation for Brand Storytelling II",
+        "units": "(3.0 units)",
+        "description": "Conceptualization and creation of strategic, research-based, primarily image and video multimedia content for use by organizations of all types.",
+        "sections": [
+            {
+                "section": "21059R",
+                "session": "057",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1305,
+                "days": 8,
+                "registered": "8 of 18",
+                "instructor": "Matthew Le Veque,Annelise Bamberg",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "536",
+        "course_name": "Digital, Social and Mass Media Public Relations Strategies",
+        "units": "(3.0 units)",
+        "description": "Analysis of shifting media environment; development and execution of multi-platform campaigns based on organizational goals and audience characteristics.",
+        "sections": [
+            {
+                "section": "21062R",
+                "session": "057",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1305,
+                "days": 2,
+                "registered": "7 of 20",
+                "instructor": "Matthew Le Veque",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "562",
+        "course_name": "Foundations of Effective PR Writing",
+        "units": "(4.0 units)",
+        "description": "Specialized writing for persuasive and strategic communication contexts. Intensive focus on public relations writing for print, online, broadcast, and social media.",
+        "sections": [
+            {
+                "section": "21193D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "14 of 80",
+                "instructor": "Lisa Tush",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "21145D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Fred Cook",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21146D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21147D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21148D",
+                "session": "057",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PR",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "21175D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Jennifer Floto",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

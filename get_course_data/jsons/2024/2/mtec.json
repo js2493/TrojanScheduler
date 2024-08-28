@@ -1,0 +1,152 @@
+[
+    {
+        "term": "20242",
+        "department": "MTEC",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Duplicates credit in former MUEA 490x.",
+        "sections": [
+            {
+                "section": "43473D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            },
+            {
+                "section": "43474D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            },
+            {
+                "section": "43475D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MTEC",
+        "course_number": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Intermediate and advanced instruction in the applications of technology to the creation and performance of music. Recommended preparation: Experience with audio recording and synthesizers.",
+        "sections": [
+            {
+                "section": "43486D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MTEC",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. Duplicates credit in former MUEA 590.",
+        "sections": [
+            {
+                "section": "43492D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            },
+            {
+                "section": "43493D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            },
+            {
+                "section": "43494D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MTEC",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. Duplicates credit in former MUEA 790.",
+        "sections": [
+            {
+                "section": "43497D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            },
+            {
+                "section": "43498D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            },
+            {
+                "section": "43499D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Rick Schmunk",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

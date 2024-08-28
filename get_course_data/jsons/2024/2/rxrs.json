@@ -1,0 +1,34 @@
+[
+    {
+        "term": "20242",
+        "department": "RXRS",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research, reading, writing and project development.",
+        "sections": [
+            {
+                "section": "49225D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Daryl Davies,Terry Church,Eunjoo Pacifici",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49226D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Daryl Davies,Terry Church,Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

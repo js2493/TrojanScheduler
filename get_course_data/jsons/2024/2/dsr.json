@@ -1,0 +1,149 @@
+[
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "542",
+        "course_name": "Principles of Developmental and Stem Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Introduction to developmental and stem cell biology. Lectures and lab component prepare students for a career in developmental and stem cell biology and regenerative medicine.",
+        "sections": [
+            {
+                "section": "40133D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 960,
+                "days": 30,
+                "registered": "15 of 30",
+                "instructor": "Gage Crump,Francesca Mariani,Qilong Ying,Ksenia Gnedeva",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40140D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "51 of 100",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40145D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40146D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40147D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40148D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSR",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40149D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

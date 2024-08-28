@@ -1,0 +1,427 @@
+[
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "510",
+        "course_name": "Accounting Concepts and Financial Reporting",
+        "units": "(1.5-3.0 units)",
+        "description": "Information systems for public reporting and for management decision-making; theory of asset and income measurement; interpretation and uses of accounting data and financial statements; analysis of cases.",
+        "sections": [
+            {
+                "section": "15593D",
+                "session": "197",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "39 of 40",
+                "instructor": "Mark DeFond",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "519B",
+        "course_name": "Strategic Formulation for Competitive Advantage",
+        "units": "(1.5 units)",
+        "description": "Analyses of environments and competition, the bases of competitive strategy, strategy models, and the achievement of sustainable competitive advantage. Duplicates credit in GSBA 540 and GSBA 529.",
+        "sections": [
+            {
+                "section": "15645D",
+                "session": "864",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "64 of 65",
+                "instructor": "Carl Voigt",
+                "location": "JKP210"
+            },
+            {
+                "section": "15646D",
+                "session": "582",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 960,
+                "days": 64,
+                "registered": "46 of 50",
+                "instructor": "Arvind Ramakrishnan",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "523",
+        "course_name": "Communication for Management",
+        "units": "(2.0-3.0 units)",
+        "description": "Internal and external communication, research methods; reports for decision making; oral presentations and briefings; strategies to assure communication; field studies. Duplicates credit in GSBA-502, GSBA-542, and the former GSBA-502ab.",
+        "sections": [
+            {
+                "section": "15684D",
+                "session": "641",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 980,
+                "days": 32,
+                "registered": "54 of 57",
+                "instructor": "Gregory Patton",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "524",
+        "course_name": "Data Science for Business",
+        "units": "(2.0-3.0 units)",
+        "description": "Principles of probability theory and classical statistics applied to business decision problems; survey analysis, estimation and prediction methods, evaluation, and control techniques. Duplicates credit in GSBA 506ab, GSBA 516, GSBA 545.",
+        "sections": [
+            {
+                "section": "15708D",
+                "session": "641",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 20,
+                "registered": "50 of 57",
+                "instructor": "Arif Ansari",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "528",
+        "course_name": "Marketing Management",
+        "units": "(3.0 units)",
+        "description": "Marketing is treated as a managerial decision-making process. Emphasis is given to understanding the concepts, tools, and techniques that comprise a comprehensive marketing strategy. Duplicates credit in GSBA 509, the former GSBA 509ab, and GSBA 546.",
+        "sections": [
+            {
+                "section": "15725D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "82 of 85",
+                "instructor": "Diane Badame",
+                "location": "JFFLL125"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "529",
+        "course_name": "Strategic Formulation for Competitive Advantage",
+        "units": "(3.0 units)",
+        "description": "Analyses of environments and competition, the bases of competitive strategy, strategy models, and the achievement of sustainable competitive advantage. Duplicates Credit in GSBA 519a, GSBA 519b and GSBA 540.",
+        "sections": [
+            {
+                "section": "15730D",
+                "session": "641",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 10,
+                "registered": "54 of 57",
+                "instructor": "Arvind Bhambri",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "534",
+        "course_name": "Operations Management",
+        "units": "(2.0-3.0 units)",
+        "description": "Formulation, modeling, analysis, and optimization of business decision problems; survey of concepts and techniques necessary to manage the operations function of the firm. Recommended preparation: GSBA 506b or GSBA 524 or GSBA 516 and GSBA 545. (Duplicates credit in GSBA-504ab)",
+        "sections": [
+            {
+                "section": "15762D",
+                "session": "581",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 64,
+                "registered": "47 of 50",
+                "instructor": "Murat Bayiz",
+                "location": "JKP210"
+            },
+            {
+                "section": "15763D",
+                "session": "778",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "64 of 65",
+                "instructor": "Murat Bayiz",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "535",
+        "course_name": "Opportunity Recognition and Implementation",
+        "units": "(9.5 units)",
+        "description": "Thematic exploration of entrepreneurship and key aspects of new venture development. Contract law, analytics, negotiations, and communication.",
+        "sections": [
+            {
+                "section": "15764D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 10,
+                "registered": "76 of 78",
+                "instructor": "Kerry Fields,Peter Kim,Steven Mednick,Kirk Snyder",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "537",
+        "course_name": "Managing Inside the Firm",
+        "units": "(9.5 units)",
+        "description": "Thematic exploration of managerial accounting, employment law, operations management and organizational behavior. Application of analytics and communication to optimize internal operations.",
+        "sections": [
+            {
+                "section": "15536D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 20,
+                "registered": "52 of 60",
+                "instructor": "Arif Ansari,Kerry Fields,Charlie Hannigan,Cecil Jackson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15653D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 20,
+                "registered": "54 of 60",
+                "instructor": "Arif Ansari,Kerry Fields,Charlie Hannigan,Cecil Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "539",
+        "course_name": "Business Environment and Leadership",
+        "units": "(9.5 units)",
+        "description": "Thematic exploration of finance, macroeconomics, international business, corporate strategy, and marketing strategy.",
+        "sections": [
+            {
+                "section": "15788D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 20,
+                "registered": "47 of 55",
+                "instructor": "Arif Ansari,Scott Joslin,Carl Voigt,Ayse Imrohoroglu",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "542",
+        "course_name": "Communication for Management",
+        "units": "(1.5 units)",
+        "description": "Internal and external communication, research methods, reports for decision-making, oral presentations and briefing, strategies to assure communication; field studies. Duplicates credit in GSBA 502, GSBA 523, GSBA-523T, and the former GSBA-502ab.",
+        "sections": [
+            {
+                "section": "15808D",
+                "session": "574",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "45 of 45",
+                "instructor": "Marion Philadelphia",
+                "location": "JKP104"
+            },
+            {
+                "section": "15809D",
+                "session": "574",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 980,
+                "days": 4,
+                "registered": "46 of 46",
+                "instructor": "Marion Philadelphia",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "543",
+        "course_name": "Managerial Perspectives",
+        "units": "(3.0 units)",
+        "description": "Managerial careers, development of critical executive and managerial abilities, and the dynamics of organizational environment and systems as they impact managerial progression and growth. Duplicates credit in GSBA 507, GSBA 522ab, GSBA 532, GSBA 533.",
+        "sections": [
+            {
+                "section": "15814D",
+                "session": "641",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 10,
+                "registered": "54 of 57",
+                "instructor": "Carl Voigt",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "548",
+        "course_name": "Corporate Finance",
+        "units": "(2.0-3.0 units)",
+        "description": "Modern theory of corporate investment and financing decisions. (Duplicates credit in GSBA 521a and GSBA 521b.)",
+        "sections": [
+            {
+                "section": "15844D",
+                "session": "156",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "35 of 40",
+                "instructor": "Duke Bristow",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "581",
+        "course_name": "Technology Innovation and Management",
+        "units": "(1.5 units)",
+        "description": "The synergistic use of technology innovation and management to improve organizational performance, enhance competitiveness, and create leadership opportunities. Duplicates credit in former GSBA 581ab.",
+        "sections": [
+            {
+                "section": "16009D",
+                "session": "813",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "64 of 65",
+                "instructor": "Richard Selby",
+                "location": "JKP210"
+            },
+            {
+                "section": "16010D",
+                "session": "580",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 960,
+                "days": 64,
+                "registered": "47 of 50",
+                "instructor": "Richard Selby",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GSBA",
+        "course_number": "595",
+        "course_name": "Internship in Business",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest. (Curricular Practical Training) Graduate business students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16090D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16095D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "32 of 40",
+                "instructor": "Scott Abrams,Matteo Sesia,Elissa Grossman",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16096D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16097D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "18 of 20",
+                "instructor": "Scott Abrams,Kristy Jansen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16098D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 20",
+                "instructor": "Scott Abrams",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16099D",
+                "session": "745",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Scott Abrams",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

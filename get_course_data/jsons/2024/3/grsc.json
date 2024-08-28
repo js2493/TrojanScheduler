@@ -1,0 +1,128 @@
+[
+    {
+        "term": "20243",
+        "department": "GRSC",
+        "course_num": "800A",
+        "course_name": "Studies for the Qualifying Examination",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Students may enroll in GRSC 800, once they have completed all other degree requirements, to prepare for their Qualifying Examination.",
+        "sections": [
+            {
+                "section": "36601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "95 of 350",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GRSC",
+        "course_num": "800B",
+        "course_name": "Studies for the Qualifying Examination",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Students may enroll in GRSC 800, once they have completed all other degree requirements, to prepare for their Qualifying Examination.",
+        "sections": [
+            {
+                "section": "36602R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "19 of 350",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GRSC",
+        "course_num": "800Z",
+        "course_name": "Studies for the Qualifying Examination",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Students may enroll in GRSC 800, once they have completed all other degree requirements, to prepare for their Qualifying Examination.",
+        "sections": [
+            {
+                "section": "36604D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GRSC",
+        "course_num": "803",
+        "course_name": "Enrollment for PhD Students on an Approved Health Leave",
+        "units": "(1.0 unit)",
+        "description": "This course is administratively created to ensure continuing PhD students have access to health insurance and other support while on an approved health leave.",
+        "sections": [
+            {
+                "section": "36655D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GRSC",
+        "course_num": "804",
+        "course_name": "Enrollment for PhD students on an Approved Parental Leave",
+        "units": "(1.0 unit)",
+        "description": "This course is administratively created to ensure continuing PhD students have access to health insurance and other support while on an approved parental leave.",
+        "sections": [
+            {
+                "section": "36600D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GRSC",
+        "course_num": "810",
+        "course_name": "Studies for Master's Examination",
+        "units": "(0.0 units)",
+        "description": "Completion of all course work for the master's degree and permission of the Graduate School. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36603R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

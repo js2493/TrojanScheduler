@@ -1,0 +1,97 @@
+[
+    {
+        "term": "20242",
+        "department": "SAE",
+        "course_number": "541",
+        "course_name": "Systems Engineering Theory and Practice",
+        "units": "(3.0 units)",
+        "description": "Integration of engineering problem solving methodologies based on systems concepts. Application to complex, large scale technical systems and problems faced by engineering managers. Case studies.",
+        "sections": [
+            {
+                "section": "32341D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "39 of 40",
+                "instructor": "Michael Sievers",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SAE",
+        "course_number": "542",
+        "course_name": "Advanced Topics in Systems Engineering",
+        "units": "(3.0 units)",
+        "description": "Probability theory in systems engineering: test design and performance, reliability and maintainability, quantitative decision models. Constraint theory to manage and de-conflict complex requirements. Complexity theory.",
+        "sections": [
+            {
+                "section": "32312D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1270,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Phan Phan",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SAE",
+        "course_number": "549",
+        "course_name": "Systems Architecting",
+        "units": "(3.0 units)",
+        "description": "Introduction to systems architecture in aerospace, electrical, computer, and manufacturing systems emphasizing the conceptual and acceptance phases and using heuristics.",
+        "sections": [
+            {
+                "section": "32332D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "42 of 45",
+                "instructor": "Edwin Ordoukhanian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32349R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "1 of 10",
+                "instructor": "Edwin Ordoukhanian",
+                "location": "OHE100B"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SAE",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32320R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

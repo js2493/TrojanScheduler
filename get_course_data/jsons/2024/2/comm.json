@@ -1,0 +1,503 @@
+[
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "200",
+        "course_name": "Communication and Social Science",
+        "units": "(4.0 units)",
+        "description": "Social scientific inquiry into human communication; core theories of message production and reception in interpersonal, group and organizational contexts.",
+        "sections": [
+            {
+                "section": "20327R",
+                "session": "050",
+                "type": "Lecture-Discussion",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 42,
+                "registered": "7 of 19",
+                "instructor": "Yuanfeixue Nan",
+                "location": "ANN305"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "205",
+        "course_name": "Communication Practicum",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Students address communication issues in a field setting. They will evaluate communication practices using appropriate methodology. Projects are jointly evaluated by internship supervisor and professor. Sophomore standing. Graded: CR/NC. Not for major credit for Communication majors.",
+        "sections": [
+            {
+                "section": "20384D",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "Kathryn Kelly",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20385D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Kathryn Kelly",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20386D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Kathryn Kelly",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20387D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Kathryn Kelly",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "209",
+        "course_name": "Communication and Media Economics",
+        "units": "(4.0 units)",
+        "description": "Economic and political economic principles for the analysis of communication and media industries including broadcasting, newspapers, motion pictures, music, video games, advertising and public relations.",
+        "sections": [
+            {
+                "section": "20402R",
+                "session": "051",
+                "type": "Lecture-Discussion",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 42,
+                "registered": "9 of 19",
+                "instructor": "Essence Wilson",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "301",
+        "course_name": "Empirical Research in Communication",
+        "units": "(4.0 units)",
+        "description": "Experimental and survey methods for communication study; basic statistical concepts, procedures, and tests.",
+        "sections": [
+            {
+                "section": "20458R",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 42,
+                "registered": "9 of 19",
+                "instructor": "Katrin Fischer",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "395",
+        "course_name": "Gender, Media and Communication",
+        "units": "(4.0 units)",
+        "description": "Issues of gender in communication, including: mediarepresentations of femininity and masculinity; and gender's rolein communication at the interpersonal, public, and cultural levels.",
+        "sections": [
+            {
+                "section": "20603D",
+                "session": "050",
+                "type": "Lecture-Discussion",
+                "start_time": 570,
+                "end_time": 820,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "489",
+        "course_name": "Campaign Communication",
+        "units": "(4.0 units)",
+        "description": "Problems in political communication: creating an informed electorate, use of mass media, factors in voter persuasion. Guest experts in political analysis, opinion polling, communication evaluation.",
+        "sections": [
+            {
+                "section": "20702R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 42,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduatecredit. Available to juniors and seniors only.",
+        "sections": [
+            {
+                "section": "20705D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20707D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "494",
+        "course_name": "Research Practicum",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Students gain research experience in the design, implementation, analysis, and reporting of communication research. Students serve as research assistants to faculty members. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "20738D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the school. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20864D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20866D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "675",
+        "course_name": "Independent Study",
+        "units": "(1.0-4.0 units)",
+        "description": "A supervised course tailored to specific student interests. The professor and student develop a syllabus that permits exploration of advanced or specialized topics. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20960D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Cristina Visperas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20965D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Lindsay Young",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20966D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Robin Stevens",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20969D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Lindsay Young",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20970D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Mike Ananny",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20971D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Henry Jenkins",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20972D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Christina Dunbar-Hester",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20978D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20979D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20980D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20981D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20982D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20983D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20984D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20985D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20986D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20987D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20242",
+        "department": "BUCO",
+        "course_number": "552",
+        "course_name": "Defining and Communicating Your Professional Value",
+        "units": "(1.5 units)",
+        "description": "Understand how to define and communicate your individual professional identity and value to employers across diverse professional fields using specialized applied tools.",
+        "sections": [
+            {
+                "section": "15155R",
+                "session": "419",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "21 of 21",
+                "instructor": "Kirk Snyder",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUCO",
+        "course_number": "593",
+        "course_name": "Independent Research in Management Communication",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "15164D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Kirk Snyder",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUCO",
+        "course_number": "637",
+        "course_name": "Communication for Doctoral Students: Succeeding as a Teacher",
+        "units": "(1.0 unit)",
+        "description": "Theories of teaching and learning; strategies for developing course materials; practical advice for managing common challenges; lecturing, leading discussion, creating in-class activities.",
+        "sections": [
+            {
+                "section": "15159D",
+                "session": "570",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 900,
+                "days": 24,
+                "registered": "15 of 20",
+                "instructor": "Lee Cerling",
+                "location": "JFF328"
+            }
+        ]
+    }
+]

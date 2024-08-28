@@ -1,0 +1,118 @@
+[
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_num": "263",
+        "course_name": "Exploring Culture through Film",
+        "units": "(4.0 units)",
+        "description": "Concepts of social anthropology, using filmic representations of societies throughout the world. Gateway course for the Anthropology major.",
+        "sections": [
+            {
+                "section": "10608D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 28,
+                "registered": "26 of 27",
+                "instructor": "Lanita Jacobs,Nicole Oveisi",
+                "location": "ONLINE"
+            },
+            {
+                "section": "10609R",
+                "session": "076",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "26 of 27",
+                "instructor": "Nicole Oveisi,Lanita Jacobs",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_num": "338",
+        "course_name": "Food in Culture and Society",
+        "units": "(4.0 units)",
+        "description": "An introduction to the field of food studies, as a historical and cross-disciplinary study of the place of food in culture and society.",
+        "sections": [
+            {
+                "section": "10628D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 665,
+                "days": 30,
+                "registered": "23 of 24",
+                "instructor": "Xochitl Ruiz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_num": "450",
+        "course_name": "Field Research in Maya Archaeology",
+        "units": "(4.0 units)",
+        "description": "Hands on research experience at a Maya ruin, including archaeological survey and excavation in the jungle.",
+        "sections": [
+            {
+                "section": "10617R",
+                "session": "349",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 11",
+                "instructor": "Eric Heller",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_num": "595",
+        "course_name": "Ethnographic Postproduction",
+        "units": "(4.0 units)",
+        "description": "Provides supervision in developing a visual media thesis project and understanding the requirements - scholarly and technical - for producing a publication-ready work of scholarly media.",
+        "sections": [
+            {
+                "section": "10690R",
+                "session": "045",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "3 of 4",
+                "instructor": "Jennifer Cool",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "10750D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 4",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

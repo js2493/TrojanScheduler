@@ -1,0 +1,2305 @@
+[
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "200",
+        "course_name": "Communication and Social Science",
+        "units": "(4.0 units)",
+        "description": "Social scientific inquiry into human communication; core theories of message production and reception in interpersonal, group and organizational contexts.",
+        "sections": [
+            {
+                "section": "20327R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "74 of 85",
+                "instructor": "Jillian Pierson",
+                "location": "ANNL105A"
+            },
+            {
+                "section": "20328R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "12 of 25",
+                "instructor": "Pamela Perrimon",
+                "location": "ANN405"
+            },
+            {
+                "section": "20329R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "19 of 25",
+                "instructor": "William Orr",
+                "location": "ANN405"
+            },
+            {
+                "section": "20330R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "19 of 25",
+                "instructor": "Dominique Thomas",
+                "location": "ANNL101"
+            },
+            {
+                "section": "20331R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Dominique Thomas",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "204",
+        "course_name": "Public Speaking",
+        "units": "(4.0 units)",
+        "description": "Principles and practices of effective oral communication; analysis of the speaking-listening process; selection and organization of speech materials; use of new presentation technologies.",
+        "sections": [
+            {
+                "section": "20374R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "15 of 17",
+                "instructor": "Rook Campbell",
+                "location": "ANNL116"
+            },
+            {
+                "section": "20375R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 17",
+                "instructor": "Adam Navarro",
+                "location": "ANN309"
+            },
+            {
+                "section": "20376R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "17 of 17",
+                "instructor": "Julianna Kirschner",
+                "location": "ANNL115"
+            },
+            {
+                "section": "20377R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "17 of 17",
+                "instructor": "Adam Navarro",
+                "location": "ANN309"
+            },
+            {
+                "section": "20378R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "17 of 17",
+                "instructor": "Michael Wissot",
+                "location": "ANN406"
+            },
+            {
+                "section": "20379R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "11 of 17",
+                "instructor": "Hamsini Sridharan",
+                "location": "ASC331"
+            },
+            {
+                "section": "20380R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "10 of 17",
+                "instructor": "Adam Navarro",
+                "location": "ANN309"
+            },
+            {
+                "section": "20381R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 17",
+                "instructor": "Julianna Kirschner",
+                "location": "ANNL115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "205",
+        "course_name": "Communication Practicum",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Students address communication issues in a field setting. They will evaluate communication practices using appropriate methodology. Projects are jointly evaluated by internship supervisor and professor. Sophomore standing. Graded: CR/NC. Not for major credit for Communication majors.",
+        "sections": [
+            {
+                "section": "20385D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Suzanne Alcantara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "206",
+        "course_name": "Communication and Culture",
+        "units": "(4.0 units)",
+        "description": "Examines cultural institutions, ideologies, artifacts, and productions; role of culture in everyday life; cultural studies as methodology; culture and power.",
+        "sections": [
+            {
+                "section": "20388R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "57 of 80",
+                "instructor": "Taj Frazier",
+                "location": "ASCG26"
+            },
+            {
+                "section": "20389R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "15 of 25",
+                "instructor": "Josh Widera",
+                "location": "ASCG34"
+            },
+            {
+                "section": "20390R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 4,
+                "registered": "9 of 25",
+                "instructor": "Glenn King",
+                "location": "ASCG34"
+            },
+            {
+                "section": "20391R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "9 of 25",
+                "instructor": "Alfonso Hegde",
+                "location": "ASC231"
+            },
+            {
+                "section": "20392R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Maria Fernanda Soria Cruz",
+                "location": "ASC231"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "209",
+        "course_name": "Communication and Media Economics",
+        "units": "(4.0 units)",
+        "description": "Economic and political economic principles for the analysis of communication and media industries including broadcasting, newspapers, motion pictures, music, video games, advertising and public relations.",
+        "sections": [
+            {
+                "section": "20402R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "51 of 60",
+                "instructor": "Hernan Galperin",
+                "location": "ANNL105A"
+            },
+            {
+                "section": "20403R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "22 of 25",
+                "instructor": "Tugba Sen",
+                "location": "ANNL101"
+            },
+            {
+                "section": "20404R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "18 of 25",
+                "instructor": "Tugba Sen",
+                "location": "ANN309"
+            },
+            {
+                "section": "20405R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "11 of 25",
+                "instructor": "Alejandro Alvarado Rojas",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "301",
+        "course_name": "Empirical Research in Communication",
+        "units": "(4.0 units)",
+        "description": "Experimental and survey methods for communication study; basic statistical concepts, procedures, and tests.",
+        "sections": [
+            {
+                "section": "20458R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "98 of 100",
+                "instructor": "Carmen Lee",
+                "location": "ANNL105A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "304",
+        "course_name": "Interpersonal Communication",
+        "units": "(4.0 units)",
+        "description": "Analysis of face-to-face interaction; role of communication in the development, maintenance and destruction of relationships; communication processes in managing interpersonal conflict.",
+        "sections": [
+            {
+                "section": "20475R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "7 of 25",
+                "instructor": "Jillian Pierson",
+                "location": "ANN210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "305",
+        "course_name": "Understanding Social Science Research",
+        "units": "(4.0 units)",
+        "description": "Students learn to be consumers rather than creators of social science research. Examines the challenges and opportunities of communicating research through mass media.",
+        "sections": [
+            {
+                "section": "20477R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "68 of 70",
+                "instructor": "Marlon Twyman",
+                "location": "ANNL105A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "306",
+        "course_name": "Innovation, Entertainment, and the Arts",
+        "units": "(4.0 units)",
+        "description": "Explorations of innovation in the entertainment business. The effects of digital mobile media on TV, movies, music, advertising, social networks and art.",
+        "sections": [
+            {
+                "section": "20478R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Robert Mejia",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "309",
+        "course_name": "Communication and Technology",
+        "units": "(4.0 units)",
+        "description": "Cultural, social, political, and economic dynamics of communication technologies, including internet architecture, social media, participatory cultures, privacy, surveillance, networked journalism, big data, algorithms, online activism.",
+        "sections": [
+            {
+                "section": "20491R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "88 of 95",
+                "instructor": "Dmitri Williams",
+                "location": "ANNL105A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "311",
+        "course_name": "Communication and Publics",
+        "units": "(4.0 units)",
+        "description": "Forms of civic life; opportunities and obstacles in forming, participating in, and disrupting community; issues of knowledge, power, identity; theories/methods of rhetorical analysis and production.",
+        "sections": [
+            {
+                "section": "20499R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "52 of 60",
+                "instructor": "Jennifer Petersen",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "312",
+        "course_name": "The Business and Culture of Celebrity",
+        "units": "(4.0 units)",
+        "description": "Employs the concept of \"celebrity\" as an optic through which to view and assess some of the key aspects of the communication revolution.",
+        "sections": [
+            {
+                "section": "20505R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Nazli Offringa",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "313",
+        "course_name": "Communication and Mass Media",
+        "units": "(4.0 units)",
+        "description": "Survey of mass communication research; history, content, effects, theories, and policy implications of various media.",
+        "sections": [
+            {
+                "section": "20506R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "48 of 65",
+                "instructor": "Carmen Lee",
+                "location": "ANNL105A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "314",
+        "course_name": "The Evolution of K-Pop",
+        "units": "(4.0 units)",
+        "description": "Examines the various stages of K-pop's transformations and related issues in the process of its rise as a global popular culture.",
+        "sections": [
+            {
+                "section": "20507R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "12 of 25",
+                "instructor": "Hye Jin Lee",
+                "location": "ASCG34"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "315",
+        "course_name": "Health Communication",
+        "units": "(4.0 units)",
+        "description": "Behavioral approaches to health communication; communication competencies in health care settings, theories of risky behaviors and behavioral change programs.",
+        "sections": [
+            {
+                "section": "20508R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 25",
+                "instructor": "Robin Stevens",
+                "location": "ASC228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "320",
+        "course_name": "Small Group and Team Communication",
+        "units": "(4.0 units)",
+        "description": "Group process theories relevant to communicative behavior in small group/team settings, including information exchange, decision making, leadership, and meetings; student team projects testing theoretic propositions.",
+        "sections": [
+            {
+                "section": "20509R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "Andrea Hollingshead",
+                "location": "ANN409ABC"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "321",
+        "course_name": "Communication and Social Media",
+        "units": "(4.0 units)",
+        "description": "Social media within the broader social, political, and historical contexts; key themes include labor, Web 2.0, self-branding, celebrity, participation, privacy, online shaming, and activism.",
+        "sections": [
+            {
+                "section": "20510R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "17 of 25",
+                "instructor": "Hye Jin Lee",
+                "location": "ASCG34"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "322",
+        "course_name": "Argumentation and Advocacy",
+        "units": "(4.0 units)",
+        "description": "Basic argumentation theory including analysis. Research and evidence, case construction, refutation; discursive and visual argument; diverse fields of advocacy including law, politics, organizations, interpersonal relations.",
+        "sections": [
+            {
+                "section": "20512R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Carlos Godoy",
+                "location": "ASC331"
+            },
+            {
+                "section": "20513R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "11 of 16",
+                "instructor": "Teresa Delfin",
+                "location": "ANNL116"
+            },
+            {
+                "section": "20514R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "11 of 16",
+                "instructor": "Kiran Dhillon",
+                "location": "ASC331"
+            },
+            {
+                "section": "20515R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Kiran Dhillon",
+                "location": "ASC331"
+            },
+            {
+                "section": "20516R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "5 of 16",
+                "instructor": "Shadee Ashtari",
+                "location": "ASC228"
+            },
+            {
+                "section": "20517R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Kiran Dhillon",
+                "location": "ASC331"
+            },
+            {
+                "section": "20518R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Carlos Godoy",
+                "location": "ASC331"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "324",
+        "course_name": "Intercultural Communication",
+        "units": "(4.0 units)",
+        "description": "Cultural variables and social psychological processes that influence intercultural interaction; relationship between communication and culture in diverse settings including business, medicine, and education.",
+        "sections": [
+            {
+                "section": "20520R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "74 of 75",
+                "instructor": "Jillian Pierson",
+                "location": "ASC204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "326",
+        "course_name": "Latinx Media Studies",
+        "units": "(4.0 units)",
+        "description": "Introduces students to critical analyses of media texts, industries and technologies that shape the lives of Latinx communities in the United States.",
+        "sections": [
+            {
+                "section": "20522R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "14 of 25",
+                "instructor": "Teresa Delfin",
+                "location": "ANNL116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "330",
+        "course_name": "Rhetoric in Classical Culture",
+        "units": "(4.0 units)",
+        "description": "Theories of communication and persuasion in ancient Greece and Rome; cultural and social contexts of classical rhetorical theory; major historical figures and concepts.",
+        "sections": [
+            {
+                "section": "20531R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "7 of 25",
+                "instructor": "Daniel Durbin",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "339",
+        "course_name": "Communication Technology and Culture",
+        "units": "(4.0 units)",
+        "description": "This course examines philosophies and popular representations of technology from the origins of western culture to the present and identifies the complex attitudes toward technology.",
+        "sections": [
+            {
+                "section": "20540R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Morten Bay",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "345",
+        "course_name": "Social and Economic Implications of Communication Technologies",
+        "units": "(4.0 units)",
+        "description": "Social and economic impacts of information and communication technologies; social factors that shape technological change; issues include access, privacy, freedom of expression, productivity, democratic control.",
+        "sections": [
+            {
+                "section": "20546R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "8 of 25",
+                "instructor": "Rohan Grover",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "355",
+        "course_name": "Advertising and Communication",
+        "units": "(4.0 units)",
+        "description": "Advertising as a mode of communication; US advertising history and institutions; economic and policy contexts (domestic and global); critical analysis of advertising texts",
+        "sections": [
+            {
+                "section": "20556R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "5 of 25",
+                "instructor": "Rook Campbell",
+                "location": "ANNL116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "360",
+        "course_name": "Los Angeles: Communication and Culture",
+        "units": "(4.0 units)",
+        "description": "Representations of Los Angeles communicated in diverse media; the city as a rhetorical text; analysis of cultural identities, art, architecture and representations in popular culture.",
+        "sections": [
+            {
+                "section": "20561R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Perry Johnson",
+                "location": "ASC231"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "364",
+        "course_name": "Comparative Media: United States and the United Kingdom",
+        "units": "(4.0 units)",
+        "description": "Cross-national approaches to the study of US and UK media; focuses on news and entertainment media products; examines content, industries, technologies and audiences.",
+        "sections": [
+            {
+                "section": "20990D",
+                "session": "141",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 8",
+                "instructor": "Georgia Stahl",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "365",
+        "course_name": "The Rhetoric of London",
+        "units": "(4.0 units)",
+        "description": "Examination of the modern city as a communicative text with London as the case study.",
+        "sections": [
+            {
+                "section": "20991D",
+                "session": "141",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 8",
+                "instructor": "Georgia Stahl",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "367",
+        "course_name": "Community Engagement and Service Learning",
+        "units": "(4.0 units)",
+        "description": "Students engage with a community partner, bridging classroom learning with \"real world\" experiences by working within the diverse community surrounding USC.",
+        "sections": [
+            {
+                "section": "20568R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Alison Trope",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "375",
+        "course_name": "Business and Professional Communication",
+        "units": "(4.0 units)",
+        "description": "Oral and written communication skills demanded in the workplace including informative and persuasive speeches; interviewing; team communication; and training material preparation. Recommended preparation: COMM 204",
+        "sections": [
+            {
+                "section": "20577R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Karen North",
+                "location": "ANN209"
+            },
+            {
+                "section": "20578R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 18",
+                "instructor": "Michael Wissot",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "380",
+        "course_name": "Forensics Laboratory",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Directed individual research studies of contemporary problems. Supervised laboratory experience. Open only to members of the University debate squad.",
+        "sections": [
+            {
+                "section": "20580D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 32,
+                "registered": "0 of 10",
+                "instructor": "Hector Amaya",
+                "location": "ASC204"
+            },
+            {
+                "section": "20581D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 32,
+                "registered": "0 of 10",
+                "instructor": "Hector Amaya",
+                "location": "ASC204"
+            },
+            {
+                "section": "20583D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 20,
+                "registered": "0 of 10",
+                "instructor": "Hector Amaya",
+                "location": "ASC236"
+            },
+            {
+                "section": "20585D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 20,
+                "registered": "0 of 10",
+                "instructor": "Hector Amaya",
+                "location": "ASC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "381",
+        "course_name": "Issues in Contemporary Sport",
+        "units": "(4.0 units)",
+        "description": "Explores social, political and ethical issues in elite sports and how issues are addressed through popular media; examination includes the relationship between sports and politics.",
+        "sections": [
+            {
+                "section": "20586R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "13 of 25",
+                "instructor": "Rook Campbell",
+                "location": "ANNL116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "382",
+        "course_name": "Sports, Business and Media in Today's Society",
+        "units": "(4.0 units)",
+        "description": "An inside look at the important stories, topical issues, trends and historical developments related to the growing influence of business and media on college and professional sports; identifying the key components and meeting the influencers in class that help shape the business side of sports, while recognizing the role the media plays in providing daily coverage across multiple platforms.",
+        "sections": [
+            {
+                "section": "21203R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "75 of 85",
+                "instructor": "Jeff Fellenzer",
+                "location": "ANNL105A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "383",
+        "course_name": "Sports, Communication and Culture",
+        "units": "(4.0 units)",
+        "description": "Rhetorical and critical approaches to sports and public discourse; application to sports organizations, the news and popular media; representations of gender and race in sports.",
+        "sections": [
+            {
+                "section": "20587R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Daniel Durbin",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "384",
+        "course_name": "Interpreting Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Popular culture as an indicator of cultural values, a producer and reflection of cultural meaning, and a means of communication; theory and case studies.",
+        "sections": [
+            {
+                "section": "20589R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Perry Johnson",
+                "location": "ASC331"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "385",
+        "course_name": "Organizational Communication",
+        "units": "(4.0 units)",
+        "description": "How communication processes both create organizations and are constrained by them. Theory and research into topics such as culture, technology, power, leadership and decision-making in a variety of organizational contexts.",
+        "sections": [
+            {
+                "section": "20590R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "12 of 25",
+                "instructor": "Marlon Twyman",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "387",
+        "course_name": "Sports and Social Change",
+        "units": "(4.0 units)",
+        "description": "Application of critical, sociological and rhetorical theories to sports events and sport media; examination of the role of sports in enacting social change.",
+        "sections": [
+            {
+                "section": "20592R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "67 of 75",
+                "instructor": "Julianna Kirschner",
+                "location": "ASCG26"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "388",
+        "course_name": "Ethics in Human Communication",
+        "units": "(4.0 units)",
+        "description": "Value perspectives on communication in varied settings: interpersonal, organizational, and public. Issues of truth and responsibility in family and social interactions, advertising, and governmental communication.",
+        "sections": [
+            {
+                "section": "20593R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "11 of 25",
+                "instructor": "Gerald Goodnight",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "395",
+        "course_name": "Gender, Media and Communication",
+        "units": "(4.0 units)",
+        "description": "Issues of gender in communication, including: mediarepresentations of femininity and masculinity; and gender's rolein communication at the interpersonal, public, and cultural levels.",
+        "sections": [
+            {
+                "section": "20600R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "23 of 25",
+                "instructor": "Daniela Baroffio",
+                "location": "ASC328"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "396",
+        "course_name": "Fashion, Media and Culture",
+        "units": "(4.0 units)",
+        "description": "Fashion as a form of communication and culture; fashion's role in identity, body politics, art, nationhood, celebrity and Hollywood culture, youth cultures and subversive practices.",
+        "sections": [
+            {
+                "section": "20601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "90 of 90",
+                "instructor": "Alison Trope",
+                "location": "ANNL105A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "400",
+        "course_name": "Seminar in Communication",
+        "units": "(4.0 units)",
+        "description": "Advanced readings in communication theory and research (broadly defined); specialized interest areas of individual faculty on the frontiers of knowledge; seminar topics change each semester.",
+        "sections": [
+            {
+                "section": "20609D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "403",
+        "course_name": "Canceled, Shamed, Accused: Contemporary Crisis Communication",
+        "units": "(4.0 units)",
+        "description": "Explores the theory, strategy and practice of assessing and responding to risks and crises, corporate and personal leadership, and follow-up reputation management.",
+        "sections": [
+            {
+                "section": "20619R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "22 of 19",
+                "instructor": "Karen North",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "412",
+        "course_name": "Communication and Social Movements",
+        "units": "(4.0 units)",
+        "description": "Social and political movements as rhetorical phenomena; ideology, organization, and influence of such movements as civil rights, \"New Left,\" feminism, \"New Right,\" environmentalism.",
+        "sections": [
+            {
+                "section": "20628R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "11 of 19",
+                "instructor": "Daniel Durbin",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "419",
+        "course_name": "Public Diplomacy in Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Examines how the City of Los Angeles and other local actors use public diplomacy tools to strengthen ties between themselves and foreign audiences.",
+        "sections": [
+            {
+                "section": "52809R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "10 of 24",
+                "instructor": "Jay Wang",
+                "location": "ANNL116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "422",
+        "course_name": "Legal Issues and New Media",
+        "units": "(4.0 units)",
+        "description": "Examines laws and regulatory policies shaping new media, especially the Internet; impact of regulation on development and use of communication technology.",
+        "sections": [
+            {
+                "section": "20634R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Carlos Godoy",
+                "location": "ASC331"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "426",
+        "course_name": "Religion, Media and Hollywood: Faith in TV",
+        "units": "(4.0 units)",
+        "description": "How religion, ethics and spirituality are embedded, embodied and emplotted in television drama; how secular texts represent \"lived religion\" to increasingly diverse audiences.",
+        "sections": [
+            {
+                "section": "20638R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "13 of 19",
+                "instructor": "Diane Winston",
+                "location": "ANN211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "430",
+        "course_name": "Global Entertainment",
+        "units": "(4.0 units)",
+        "description": "Survey of economic, political, and cultural dimensions of the global entertainment marketplace; focuses on the international production and distribution of media products and services.",
+        "sections": [
+            {
+                "section": "20642R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "19 of 19",
+                "instructor": "Paolo Sigismondi",
+                "location": "ANN210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "440",
+        "course_name": "Music as Communication",
+        "units": "(4.0 units)",
+        "description": "Examines music's unique characteristics as a communicative form and the cultural, economic, political and social influences in music interpretation and production.",
+        "sections": [
+            {
+                "section": "20654R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "19 of 19",
+                "instructor": "Josh Kun",
+                "location": "ANN405"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "443",
+        "course_name": "Communicating Better Health: What Works and Why",
+        "units": "(4.0 units)",
+        "description": "How communication -- interpersonal, mass media, information technologies -- shapes health behavior. Topics: doctor-patient consults; marketing campaigns; health in entertainment, news; internet; social media; mobile devices.",
+        "sections": [
+            {
+                "section": "20657R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Nazli Offringa",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "451",
+        "course_name": "Visual Communication and Social Change",
+        "units": "(4.0 units)",
+        "description": "Analysis of photography's evolution; new strategies for the photographic image, photo documentary work and global social issues; analysis of images on blogs and Websites.",
+        "sections": [
+            {
+                "section": "20665R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "11 of 19",
+                "instructor": "Cristina Visperas",
+                "location": "ASC331"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "456",
+        "course_name": "Entertainment, Marketing and Culture",
+        "units": "(4.0 units)",
+        "description": "Explores blurring of entertainment, marketing and culture in advanced information economies; intersections of culture and media and their social ramifications.",
+        "sections": [
+            {
+                "section": "20671R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Karen North",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "457",
+        "course_name": "Youth and Media",
+        "units": "(4.0 units)",
+        "description": "Exploration of youth media and culture, including television, movies, video games, toys, magazines, music, social media. Examines representations of youth and youth as audience.",
+        "sections": [
+            {
+                "section": "20672R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "8 of 19",
+                "instructor": "Hye Jin Lee",
+                "location": "ASCG34"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "465",
+        "course_name": "Gender in Media Industries and Products",
+        "units": "(4.0 units)",
+        "description": "Examination of the effect of gender stratification in media industries upon the cultural products they create, especially gender and gender/race role portrayals.",
+        "sections": [
+            {
+                "section": "20680R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "14 of 19",
+                "instructor": "Alison Trope",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "467",
+        "course_name": "Gender and the News Media",
+        "units": "(4.0 units)",
+        "description": "Gender and news media evolving images of women and men in print and electronic media. Impact of gender in content and style of news, television and cinema. Open to non-majors.",
+        "sections": [
+            {
+                "section": "21379D",
+                "session": "141",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 16",
+                "instructor": "Georgia Stahl",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "475",
+        "course_name": "Environmental Communication",
+        "units": "(4.0 units)",
+        "description": "Communication about environmental controversies in the public sphere: history of environmentalism; forms of citizen participation; media coverage; advocacy campaigns and movements; scientific and industrial discourses.",
+        "sections": [
+            {
+                "section": "20690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "489",
+        "course_name": "Campaign Communication",
+        "units": "(4.0 units)",
+        "description": "Problems in political communication: creating an informed electorate, use of mass media, factors in voter persuasion. Guest experts in political analysis, opinion polling, communication evaluation.",
+        "sections": [
+            {
+                "section": "20704R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "1 of 19",
+                "instructor": "Tom Hollihan",
+                "location": "ANN305"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduatecredit. Available to juniors and seniors only.",
+        "sections": [
+            {
+                "section": "20716D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20717D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20718D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20719D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "494",
+        "course_name": "Research Practicum",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Students gain research experience in the design, implementation, analysis, and reporting of communication research. Students serve as research assistants to faculty members. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "20741D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "15 of 25",
+                "instructor": "Ariana Case",
+                "location": "ASCG34"
+            },
+            {
+                "section": "20742D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20743D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20744D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "495",
+        "course_name": "Honors Seminar",
+        "units": "(4.0 units, max 8)",
+        "description": "Advanced study of issues in communication; recent developments in communication and rhetorical theories. Open only to students in COMM honors program; recommended for seniors. Recommended preparation: COMM 301L.",
+        "sections": [
+            {
+                "section": "20763D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 16,
+                "registered": "7 of 10",
+                "instructor": "Mike Ananny",
+                "location": "ANN211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "498",
+        "course_name": "Ethical Issues in Entertainment and Communication",
+        "units": "(4.0 units)",
+        "description": "Examines social and political controversies over conflicting ethical standards for communication in a variety of media: mass-media, communication technology and entertainment.",
+        "sections": [
+            {
+                "section": "20771R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "13 of 19",
+                "instructor": "Robert Scheer",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics in communication.",
+        "sections": [
+            {
+                "section": "20773R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "502",
+        "course_name": "Theoretical Approaches to Multidisciplinary Design Projects",
+        "units": "(4.0 units)",
+        "description": "Focuses on theories and research in communication and social sciences to bridge disciplines to produce a proposal, business plan, publication, or a research project.",
+        "sections": [
+            {
+                "section": "20779D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "21 of 28",
+                "instructor": "Colin Doty",
+                "location": "ANN406"
+            },
+            {
+                "section": "20780D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "23 of 28",
+                "instructor": "Morten Bay",
+                "location": "ASCG38"
+            },
+            {
+                "section": "20781D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "26 of 28",
+                "instructor": "Morten Bay",
+                "location": "ANNL116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "520",
+        "course_name": "The Rhetoric of the Presidential Campaign Trail",
+        "units": "(4.0 units)",
+        "description": "Students follow the ongoing presidential campaign and consider topics such as gender, race, new media, polling, religion, and advertising on election outcomes.",
+        "sections": [
+            {
+                "section": "20798D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "1 of 12",
+                "instructor": "Tom Hollihan",
+                "location": "ASC228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "525",
+        "course_name": "Humanistic and Social Scientific Approaches to Human Communication I",
+        "units": "(4.0 units)",
+        "description": "Overview of humanistic and social scientific approaches to the study of communication; emphasis on rhetorical/critical and macro social scientific perspectives. Not open to M.A. in Communication Management majors.",
+        "sections": [
+            {
+                "section": "20803D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "11 of 14",
+                "instructor": "Ben Carrington",
+                "location": "ASC228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "552",
+        "course_name": "Qualitative Research Methods in Communication",
+        "units": "(4.0 units)",
+        "description": "Developing expertise in qualitative methods, including participant-observation, ethnography, discourse analysis and historiography in communication research.",
+        "sections": [
+            {
+                "section": "20830D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 8,
+                "registered": "11 of 14",
+                "instructor": "Patricia Riley",
+                "location": "ASC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "557",
+        "course_name": "Data Science for Communication and Social Networks",
+        "units": "(4.0 units)",
+        "description": "Learn to harness the power of data science and computational techniques to study social and communication networks and extract value, knowledge and insights from big data.",
+        "sections": [
+            {
+                "section": "20835D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "47 of 55",
+                "instructor": "Luca Luceri",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "559",
+        "course_name": "Globalization, Communication and Society",
+        "units": "(4.0 units)",
+        "description": "Comparative analysis of social, cultural and political impacts of communication technology and media; emphasis given to communication's influence in the social dimensions of globalization.",
+        "sections": [
+            {
+                "section": "20837D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "8 of 12",
+                "instructor": "Manuel Castells",
+                "location": "ASC228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the school. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20864D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20865D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20866D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20867D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "20881D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "11 of 25",
+                "instructor": "Joshua Clark",
+                "location": "ASC331"
+            },
+            {
+                "section": "20882D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "20883D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "5 of 12",
+                "instructor": "Randy Lake",
+                "location": "ANN309"
+            },
+            {
+                "section": "20884D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "616",
+        "course_name": "Meta-Analysis in Health Communication",
+        "units": "(4.0 units)",
+        "description": "Learning how to conduct (and write up) a meta-analysis using comprehensive meta-analysis software tools to enter and analyze data for meta-analysis.",
+        "sections": [
+            {
+                "section": "20904D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "5 of 12",
+                "instructor": "Lynn Miller",
+                "location": "ASC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "620",
+        "course_name": "Studies in Communication Theory",
+        "units": "(4.0 units, max 12)",
+        "description": "Current problems in communication theory and research; advanced, specialized interest areas of individual faculty on the frontiers of knowledge.",
+        "sections": [
+            {
+                "section": "20909D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "7 of 10",
+                "instructor": "Dmitri Williams,Aimei Yang",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "647",
+        "course_name": "Network Society",
+        "units": "(4.0 units)",
+        "description": "Advanced research seminar examining the interaction between communication technology, society, economy, politics, and culture from interdisciplinary and cross-cultural perspectives. Not available for degree credit for M.A. in Communication Management students. Not available for Communication Management M.A. students.",
+        "sections": [
+            {
+                "section": "20940D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "5 of 12",
+                "instructor": "Manuel Castells",
+                "location": "ASC228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "649",
+        "course_name": "Methodologies in Cultural Studies",
+        "units": "(4.0 units)",
+        "description": "An exploration of theoretical, technical, and political implications of cross-disciplinary scholarship rooted in cultural studies.",
+        "sections": [
+            {
+                "section": "20942D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Cristina Visperas",
+                "location": "ASC230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "650",
+        "course_name": "Survey Construction and Validation",
+        "units": "(4.0 units)",
+        "description": "Principles of survey construction and validation; format selection, sampling, question wording, adaptation for international audiences, response option formats, order, and avoiding acquiesence bias and breakoffs.",
+        "sections": [
+            {
+                "section": "20943D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 8,
+                "registered": "14 of 15",
+                "instructor": "Sheila Murphy",
+                "location": "ASC230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "652",
+        "course_name": "Ethnographic Field Research in Communication",
+        "units": "(4.0 units)",
+        "description": "Explores ethnography as research mode including theory and practice of ethnographic research; epistemological and political underpinnings of ethnographic research.",
+        "sections": [
+            {
+                "section": "20945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "656",
+        "course_name": "Theorizing Race, Culture, Cross-Cultural Exchange",
+        "units": "(4.0 units)",
+        "description": "Intersection of communication and culture; focus on race, ethnicity, interracial and intraracial relations in shaping political, social dynamics of U.S. in late 20th and early 21st centuries.",
+        "sections": [
+            {
+                "section": "20949D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "9 of 12",
+                "instructor": "Taj Frazier",
+                "location": "ANN209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "658",
+        "course_name": "Science Fiction as Media Theory",
+        "units": "(4.0 units)",
+        "description": "Considers science fiction as a genre that has consistently reflected on communication technologies and their consequences and the ways science fiction metaphors have shaped media and cultural theory.",
+        "sections": [
+            {
+                "section": "20951D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "10 of 12",
+                "instructor": "Henry Jenkins",
+                "location": "ASC228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "675",
+        "course_name": "Independent Study",
+        "units": "(1.0-4.0 units)",
+        "description": "A supervised course tailored to specific student interests. The professor and student develop a syllabus that permits exploration of advanced or specialized topics. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20962D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Mike Ananny",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20963D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Christina Dunbar-Hester",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20964D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Jennifer Petersen",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20965D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "694",
+        "course_name": "Preliminary Research Paper",
+        "units": "(2.0 units)",
+        "description": "Independent research designed to demonstrate the student's ability to conceptualize, conduct, and present scholarly research. Parallel to COMM 794. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20969D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20970D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "20971D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Christina Dunbar-Hester",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20972D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20973D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "20974D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20978D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 25",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20980D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 25",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20982D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20984D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 25",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "20986D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 25",
+                "instructor": "Hector Amaya",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "CTAN",
+        "course_number": "330",
+        "course_name": "Animation Fundamentals",
+        "units": "(2.0 units)",
+        "description": "An introduction to the fundamentals of animation, covering such topics as timing, anticipation, reaction, overlapping action, and metamorphosis.",
+        "sections": [
+            {
+                "section": "17990D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "13 of 18",
+                "instructor": "Leon Cruz",
+                "location": "SCB102"
+            }
+        ]
+    }
+]

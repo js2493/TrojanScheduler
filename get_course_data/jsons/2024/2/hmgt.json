@@ -1,0 +1,151 @@
+[
+    {
+        "term": "20242",
+        "department": "HMGT",
+        "course_number": "512",
+        "course_name": "Information Technology and Patient Engagement",
+        "units": "(2.0 units)",
+        "description": "Strategic management and utilization of healthcare information technology in the delivery of healthcare; patient engagement and the use of technology to facilitate participation in their own care. Open only to Executive Master of Health Administration students.",
+        "sections": [
+            {
+                "section": "51710D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "16 of 24",
+                "instructor": "Sean Johnson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51711D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "19 of 22",
+                "instructor": "Sean Johnson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HMGT",
+        "course_number": "565",
+        "course_name": "Managing the Organization's Financial Health",
+        "units": "(4.0 units)",
+        "description": "Executives confront and solve problems requiring use of accounting, finance, and management control principles; provides core financial skills for non-finance professionals. Open to MHM students only.",
+        "sections": [
+            {
+                "section": "51713D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 2,
+                "registered": "12 of 14",
+                "instructor": "Lisa Ozaeta",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51714D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "5 of 10",
+                "instructor": "Lisa Ozaeta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HMGT",
+        "course_number": "570",
+        "course_name": "Strategic Management",
+        "units": "(4.0 units)",
+        "description": "Provides skill development and application in the integrative discipline of strategic management including assessment, strategy formulation implementation and control. Open to MHM students only.",
+        "sections": [
+            {
+                "section": "51715D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Gregory Chesley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HMGT",
+        "course_number": "601",
+        "course_name": "Operations Management for Accountability",
+        "units": "(4.0 units)",
+        "description": "Hospital operations in the inpatient/outpatient setting; special emphasis on the growing requirement to more effectively manage across the continuum of care while assuming greater accountability in the delivery of care. Open only to EMHA students.",
+        "sections": [
+            {
+                "section": "51716D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "16 of 17",
+                "instructor": "Michael Harris",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51717D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Michael Harris",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HMGT",
+        "course_number": "603",
+        "course_name": "Developing & Monitoring of Quality & Patient Safety Outcomes",
+        "units": "(2.0 units)",
+        "description": "Overview of contemporary methods used to develop and monitor patient quality and safety outcomes; develop skill in data collection and analysis of clinical care outcomes; focus on operationalizing outcomes that matter to payers, organizations, and clinicians. Open only to EMHA students.",
+        "sections": [
+            {
+                "section": "51718D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "17 of 22",
+                "instructor": "Gary Blackard",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51719D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 2,
+                "registered": "7 of 10",
+                "instructor": "Gary Blackard",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

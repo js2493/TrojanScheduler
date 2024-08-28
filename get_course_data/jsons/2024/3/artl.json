@@ -1,0 +1,170 @@
+[
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "500",
+        "course_name": "Arts Leadership and Arts Entrepreneurship",
+        "units": "(2.0 units)",
+        "description": "Introduction to key issues involved in both managing an arts organization and creating sustainable enterprise. For students in music, arts, public policy, and related fields.",
+        "sections": [
+            {
+                "section": "42420D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "17 of 30",
+                "instructor": "Helane Anderson",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "501",
+        "course_name": "Executive Leadership in the Arts",
+        "units": "(2.0 units)",
+        "description": "Investigation into a variety of leadership approaches within an arts organization, with a focus on the development of the students own leadership capacity.",
+        "sections": [
+            {
+                "section": "42425D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "10 of 20",
+                "instructor": "Tara Aesquivel",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "503",
+        "course_name": "Arts Organizations: Innovation and New Models",
+        "units": "(2.0 units)",
+        "description": "Designed for current and future arts leaders interested in looking critically at organizational practice and bringing innovative solutions to old problems in a contemporary context.",
+        "sections": [
+            {
+                "section": "42435D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "16 of 20",
+                "instructor": "Kenneth Foster",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "510",
+        "course_name": "Arts Leadership Practicum",
+        "units": "(2.0 units, max 4)",
+        "description": "Year-long practicum which puts ideas and concepts into practice. Each student will conceptualize, develop, and complete an arts project of his/her own choosing.",
+        "sections": [
+            {
+                "section": "42445D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "8 of 10",
+                "instructor": "Kenneth Foster",
+                "location": "THH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "520",
+        "course_name": "Arts Leadership Intensive",
+        "units": "(1.0 unit)",
+        "description": "Five-day, intensive course that serves as a deep-dive introduction to the field for all Arts Leadership students.",
+        "sections": [
+            {
+                "section": "42450D",
+                "session": "734",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 25",
+                "instructor": "Kenneth Foster",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which maybe applied to the degree to be determined by the department.Graded CR/NC.",
+        "sections": [
+            {
+                "section": "42460D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Kenneth Foster",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "598",
+        "course_name": "Internship for Arts Leadership",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty.",
+        "sections": [
+            {
+                "section": "42465D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Kenneth Foster",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARTL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "42485D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Kenneth Foster",
+                "location": "MUS314"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20243",
+        "department": "BMDD",
+        "course_num": "588B",
+        "course_name": "Digital Technology Applied to Dentistry",
+        "units": "(3.0 units)",
+        "description": "Weekly seminar devoted to critically review, analyze, and discuss digital technologies applied to dentistry.",
+        "sections": [
+            {
+                "section": "24613D",
+                "session": "975",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Alena Knezevic",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BMDD",
+        "course_num": "594Z",
+        "course_name": "Masters Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "24614D",
+                "session": "975",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

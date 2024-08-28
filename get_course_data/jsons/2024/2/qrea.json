@@ -1,0 +1,118 @@
+[
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "310",
+        "course_name": "Applied Business Statistics",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for business analysis; data exploration and description; sampling distributions; estimation; hypothesis testing, simple and multiple regression; model building. Extensive computer applications. (Duplicates credit in BUAD 312 and the former ITP 251.)",
+        "sections": [
+            {
+                "section": "14884R",
+                "session": "378",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 750,
+                "days": 10,
+                "registered": "56 of 63",
+                "instructor": "Cosimo Arnesano",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COMM",
+        "course_number": "301",
+        "course_name": "Empirical Research in Communication",
+        "units": "(4.0 units)",
+        "description": "Experimental and survey methods for communication study; basic statistical concepts, procedures, and tests.",
+        "sections": [
+            {
+                "section": "20458R",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 42,
+                "registered": "9 of 19",
+                "instructor": "Katrin Fischer",
+                "location": "ANN309"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "125",
+        "course_name": "Calculus I",
+        "units": "(4.0 units)",
+        "description": "Limits; continuity, derivatives and applications; antiderivatives; the fundamental theorem of calculus; exponential and logarithmic functions.",
+        "sections": [
+            {
+                "section": "39412R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 62,
+                "registered": "7 of 30",
+                "instructor": "Nathaniel Emerson",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "226",
+        "course_name": "Calculus III",
+        "units": "(4.0 units)",
+        "description": "Vectors, vector valued functions; differential and integral calculus of functions of several variables; Green's theorem, Divergence theorem, Stoke's theorem.",
+        "sections": [
+            {
+                "section": "39430R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 62,
+                "registered": "14 of 30",
+                "instructor": "Cymra Haskell",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "274",
+        "course_name": "Statistics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the use of statistics in psychology: basic ideas in measurement; frequency distributions; descriptive statistics; concepts and procedures in statistical inference.",
+        "sections": [
+            {
+                "section": "52452R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Bryan Shilowich",
+                "location": "SGM601"
+            },
+            {
+                "section": "52451R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 860,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Bryan Shilowich",
+                "location": "SGM631"
+            }
+        ]
+    }
+]

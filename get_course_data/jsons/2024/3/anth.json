@@ -1,0 +1,1122 @@
+[
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "101",
+        "course_name": "Body, Mind and Healing: Introduction to Medical Anthropology",
+        "units": "(4.0 units)",
+        "description": "The body, illness and healing from a cultural perspective, including comparative studies of folk healing systems, curing rituals and Western biomedical practices.",
+        "sections": [
+            {
+                "section": "10600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "140",
+        "course_name": "Mesoamerican Cosmovision and Culture",
+        "units": "(4.0 units)",
+        "description": "An exploration of the nature and contributions of pre-Columbian high civilizations (Maya, Aztecs, etc.) and their descendants as they resist and assimilate to the modern world.",
+        "sections": [
+            {
+                "section": "10601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Eric Heller",
+                "location": "THH102"
+            },
+            {
+                "section": "10602R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "THH112"
+            },
+            {
+                "section": "10603R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "THH112"
+            },
+            {
+                "section": "10604R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "GFS104"
+            },
+            {
+                "section": "10605R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "200",
+        "course_name": "The Human Animal",
+        "units": "(4.0 units)",
+        "description": "Foundations of the human species. Examination of scientific evidence from Darwinian theory, primate behavior, fossils, and the behavior of modern people. Laboratory. Duplicates credit in former ANTH 200Lg.",
+        "sections": [
+            {
+                "section": "38511R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "144 of 144",
+                "instructor": "Craig Stanford",
+                "location": "MRF340"
+            },
+            {
+                "section": "38513R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38515R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38516R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38517R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38518R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38522R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38528R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38537R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38538R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "201",
+        "course_name": "Introduction to Sociocultural Anthropology",
+        "units": "(4.0 units)",
+        "description": "Introduction to sociocultural anthropology, emphasizing the study of human values and social structures across diverse examples. Readings in ethnography and social analysis. Gateway course for the Anthropology Major.",
+        "sections": [
+            {
+                "section": "10610R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "96 of 100",
+                "instructor": "Emily Zeamer,Joel Ferrall,Sook Lin Toh",
+                "location": "MRF340"
+            },
+            {
+                "section": "10611R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "23 of 25",
+                "instructor": "Joel Ferrall",
+                "location": "KAP159"
+            },
+            {
+                "section": "10612R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Joel Ferrall",
+                "location": "KAP159"
+            },
+            {
+                "section": "10613R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Sook Lin Toh",
+                "location": "KAP167"
+            },
+            {
+                "section": "10614R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Sook Lin Toh",
+                "location": "SOSB52"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "202",
+        "course_name": "Archaeology: Our Human Past",
+        "units": "(4.0 units)",
+        "description": "Archaeology as the means of investigating our shared human past, from the origins of humanity to the foundations of current civilization.",
+        "sections": [
+            {
+                "section": "10615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "88 of 88",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS106"
+            },
+            {
+                "section": "10616R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "6 of 28",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10617R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10718R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10719R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "203",
+        "course_name": "Global Media",
+        "units": "(4.0 units)",
+        "description": "An anthropological approach to examine social and cultural practices of media production, circulation and consumption, engaging with a variety of multimedia.",
+        "sections": [
+            {
+                "section": "10902D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "Jennifer Cool",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "205",
+        "course_name": "Introduction to Global Studies and Cross-cultural Research",
+        "units": "(4.0 units)",
+        "description": "The effects of globalization on social life in diverse communities, approaching related issues from an ethnographic perspective. Gateway course for the Global Studies Major.",
+        "sections": [
+            {
+                "section": "10618R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 40,
+                "registered": "25 of 25",
+                "instructor": "Hrag Papazian",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "220",
+        "course_name": "Anthropology of the Environment",
+        "units": "(4.0 units)",
+        "description": "Introduces students to anthropological inquiry into human relationships with the environment and provides foundational training in qualitative research methods to investigate environmental issues.",
+        "sections": [
+            {
+                "section": "10769R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "22 of 22",
+                "instructor": "Luisa Reis Castro",
+                "location": "GFS222"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "263",
+        "course_name": "Exploring Culture through Film",
+        "units": "(4.0 units)",
+        "description": "Concepts of social anthropology, using filmic representations of societies throughout the world. Gateway course for the Anthropology major.",
+        "sections": [
+            {
+                "section": "10660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "97 of 97",
+                "instructor": "Xochitl Ruiz,Brodie Quinn,Shaoyu Tang",
+                "location": "GFS106"
+            },
+            {
+                "section": "10661R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Brodie Quinn",
+                "location": "KAP167"
+            },
+            {
+                "section": "10662R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Brodie Quinn",
+                "location": "KAP166"
+            },
+            {
+                "section": "10663R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Shaoyu Tang",
+                "location": "KAP164"
+            },
+            {
+                "section": "10664R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Shaoyu Tang",
+                "location": "KAP164"
+            },
+            {
+                "section": "10665R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "97 of 98",
+                "instructor": "Jennifer Cool,Grace Simbulan,Guanyizhuo Yao",
+                "location": "WPHB27"
+            },
+            {
+                "section": "10666R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Grace Simbulan",
+                "location": "GFS108"
+            },
+            {
+                "section": "10667D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "20 of 21",
+                "instructor": "Guanyizhuo Yao",
+                "location": "THH207"
+            },
+            {
+                "section": "10668R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "32 of 32",
+                "instructor": "Guanyizhuo Yao",
+                "location": "WPH107"
+            },
+            {
+                "section": "10669R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Grace Simbulan",
+                "location": "THH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "272",
+        "course_name": "Mindfulness and Culture",
+        "units": "(4.0 units)",
+        "description": "Examine the concept of mindfulness as a cultural practice in various spiritual traditions and contemporary social settings. Mindfulness, or attentive awareness of the present moment.",
+        "sections": [
+            {
+                "section": "10777R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "20 of 20",
+                "instructor": "Thomas Ward",
+                "location": "THH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "300",
+        "course_name": "Evolution, Ecology, and Culture",
+        "units": "(4.0 units)",
+        "description": "The roles of biology, culture, and the environment in shaping human society, integrating evolutionary biology and cultural theory. Duplicates credit in former ANTH 300.",
+        "sections": [
+            {
+                "section": "38529R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "35 of 35",
+                "instructor": "Trond Sigurdsen",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "308",
+        "course_name": "Origins and Evolution of Human Behavior",
+        "units": "(4.0 units)",
+        "description": "Examination of the evidence for and against evolutionary bases of a range of human behaviors. Topics include sex differences, human reproductive strategies, race, IQ, human ecology. Duplicates credit in former ANTH 308.",
+        "sections": [
+            {
+                "section": "38530R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "27 of 27",
+                "instructor": "Chrisandra Kufeldt",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "316",
+        "course_name": "Native Americans in American Public Life",
+        "units": "(4.0 units)",
+        "description": "Role of Native Americans in American public life from colonial times to the present; Native American societies and governments and their relations to the U.S.",
+        "sections": [
+            {
+                "section": "10680R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "79 of 100",
+                "instructor": "Tok Thompson",
+                "location": "THH102"
+            },
+            {
+                "section": "10681R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH110"
+            },
+            {
+                "section": "10682R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH112"
+            },
+            {
+                "section": "10683R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            },
+            {
+                "section": "10684R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "5 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "324",
+        "course_name": "Contemporary China: Cultural Politics and Social Realities",
+        "units": "(4.0 units)",
+        "description": "Everyday life, politics, social transformations, and cultural practices in the People's Republic of China, from cultural studies and social science perspectives.",
+        "sections": [
+            {
+                "section": "10762R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 40,
+                "registered": "30 of 30",
+                "instructor": "Jenny Chio",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "332",
+        "course_name": "Anthropology and Narrative Medicine",
+        "units": "(4.0 units)",
+        "description": "Exploration of illness, disability, and healing narratives, how narratives are culturally shaped, and their significance for western biomedical practices.",
+        "sections": [
+            {
+                "section": "10628D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "22 of 23",
+                "instructor": "Kristiana Willsey",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "336",
+        "course_name": "Health, Gender and Ethnicity",
+        "units": "(4.0 units)",
+        "description": "Cross-cultural notions of the body, health, and healing; historic and cultural variability of ideas of reproduction, birth, sexuality, mental illness and disability.",
+        "sections": [
+            {
+                "section": "34927R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "9 of 25",
+                "instructor": "Atia Sattar",
+                "location": "DMC158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "338",
+        "course_name": "Food in Culture and Society",
+        "units": "(4.0 units)",
+        "description": "An introduction to the field of food studies, as a historical and cross-disciplinary study of the place of food in culture and society.",
+        "sections": [
+            {
+                "section": "10687D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "23 of 23",
+                "instructor": "Xochitl Ruiz",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "345",
+        "course_name": "Politics, Social Organization and Law",
+        "units": "(4.0 units)",
+        "description": "Legal systems are embedded in political, social and historical contexts: comparative study of legal systems throughout history and around the world.",
+        "sections": [
+            {
+                "section": "10744R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP134"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "365",
+        "course_name": "Life History in Anthropological Perspective",
+        "units": "(4.0 units)",
+        "description": "Examination of one's life within its sociocultural context; study of family history, autobiography, diary, journal, and film; research and writing of a life history.",
+        "sections": [
+            {
+                "section": "10731D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "5 of 25",
+                "instructor": "Dorinne Kondo",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "372",
+        "course_name": "Interpretation of Myth and Narrative",
+        "units": "(4.0 units)",
+        "description": "Oral narratives from non-Western cultures; communications about deeply-held moral beliefs, psychological tensions, social problems, and the structure of the mind.",
+        "sections": [
+            {
+                "section": "10632R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "Tok Thompson",
+                "location": "KAP148"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "395",
+        "course_name": "African American Humor and Culture",
+        "units": "(4.0 units)",
+        "description": "Examination of one of several traditions of African American humor for insights into shifting notions of race, culture, language, and identity in and beyond Black America.",
+        "sections": [
+            {
+                "section": "10434D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "31 of 29",
+                "instructor": "Lanita Jacobs",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "410",
+        "course_name": "Ethnographic Research Methods",
+        "units": "(4.0 units)",
+        "description": "Survey of methods for acquiring and analyzing qualitative research data, emphasizing ethnographic methods for field research in Anthropology.",
+        "sections": [
+            {
+                "section": "10833R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "18 of 20",
+                "instructor": "Joanne Nucho",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "415",
+        "course_name": "Global Issues Seminar",
+        "units": "(4.0 units)",
+        "description": "Advanced seminar on a key theme or topic in Global Studies selected by the instructor, with specific focus subject to change with each offering.",
+        "sections": [
+            {
+                "section": "10634R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "9 of 19",
+                "instructor": "Peter Redfield",
+                "location": "KAP113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "440",
+        "course_name": "History of Anthropological Theory",
+        "units": "(4.0 units)",
+        "description": "Ideas about man, culture, and society which have formed the field of anthropology as a research discipline; present trends and problems.",
+        "sections": [
+            {
+                "section": "10635R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Xochitl Ruiz",
+                "location": "KAP158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "441",
+        "course_name": "Cities of the Middle East",
+        "units": "(4.0 units)",
+        "description": "An examination of the economic, political and cultural forces operating in a number of Middle Eastern cities.",
+        "sections": [
+            {
+                "section": "41501R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Bandar Alsaeed",
+                "location": "GFS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "472",
+        "course_name": "Photo-ethnography",
+        "units": "(4.0 units)",
+        "description": "A practice-based course that explores Anthropology's historical and contemporary engagements with photography, emphasizing the relationships between photography and the practice of ethnography.",
+        "sections": [
+            {
+                "section": "10643R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "John Alexander",
+                "location": "DMC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "10640D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "491",
+        "course_name": "Directed Research for Honors",
+        "units": "(4.0 units)",
+        "description": "Individually guided research and readings culminating in the production of an honors thesis. prerequisite: 3.0 gpa; 201g plus 8 units of upper division ANTH courses.",
+        "sections": [
+            {
+                "section": "10641D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "501",
+        "course_name": "History and Foundations of Anthropology",
+        "units": "(4.0 units)",
+        "description": "A brief critical introduction to the history of anthropological thought over the course of the discipline's long twentieth century, from the 1880s to the present.",
+        "sections": [
+            {
+                "section": "10901R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "7 of 15",
+                "instructor": "Nancy Lutkehaus",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "570",
+        "course_name": "Topics in Ethnographic Media Arts",
+        "units": "(2.0-6.0 units, max 12)",
+        "description": "A hands-on approach to contemporary topics in ethnographic media arts and creative nonfiction cinema.",
+        "sections": [
+            {
+                "section": "37473R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Stephanie Spray",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded C/NC.",
+        "sections": [
+            {
+                "section": "10651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            },
+            {
+                "section": "10653D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 3",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "593",
+        "course_name": "Practicum for Teaching in Anthropology",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within the discipline of Anthropology. Intended for teaching assistants in Anthropology.",
+        "sections": [
+            {
+                "section": "10903R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "3 of 15",
+                "instructor": "Emily Zeamer",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "10750D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "608",
+        "course_name": "Feminist Science and Technology Studies (STS)",
+        "units": "(4.0 units)",
+        "description": "Offers an overview of the field of Feminist Science and Technology Studies combining historical and transnational approaches with future directions.",
+        "sections": [
+            {
+                "section": "10770D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "11 of 11",
+                "instructor": "Andrea Ballestero",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum number of units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "10700D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Peter Redfield",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

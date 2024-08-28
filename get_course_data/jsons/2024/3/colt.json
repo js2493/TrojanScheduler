@@ -1,0 +1,405 @@
+[
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "101",
+        "course_name": "Masterpieces and Masterminds: Literature and Thought",
+        "units": "(4.0 units)",
+        "description": "A broad introduction to the great works of Western culture from antiquity to 1800.",
+        "sections": [
+            {
+                "section": "22000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Adam Spanos",
+                "location": "SOSB2"
+            },
+            {
+                "section": "22001R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "WPH205"
+            },
+            {
+                "section": "22002R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC203"
+            },
+            {
+                "section": "22003R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "WPH205"
+            },
+            {
+                "section": "22004R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "251",
+        "course_name": "Literature and Thought of the West Since 1800",
+        "units": "(4.0 units)",
+        "description": "Survey of literary and other cultural texts from the 19th to the 21st centuries, with emphasis on the individual and social change.",
+        "sections": [
+            {
+                "section": "22018R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Roberto Diaz",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "302",
+        "course_name": "Introduction to Literary Theory",
+        "units": "(4.0 units)",
+        "description": "Introduction to general forms of reflection on literary discourse.",
+        "sections": [
+            {
+                "section": "22008R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "14 of 19",
+                "instructor": "Natania Meeker",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "360",
+        "course_name": "Fictions of Africa",
+        "units": "(4.0 units)",
+        "description": "Introduction to African cultural history by way of a comparative study of major literary works and intellectual thought from representative regions and countries in Africa.",
+        "sections": [
+            {
+                "section": "22030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Mlondolozi Zondi",
+                "location": "WPH207"
+            },
+            {
+                "section": "22006R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jayson Lantz",
+                "location": "WPH106"
+            },
+            {
+                "section": "22007R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jayson Lantz",
+                "location": "WPH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "365",
+        "course_name": "Literature and Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Study of mass-reproduced verbal and visual art forms, such as graphic novels, comics, animation, popular music, video, graffiti, advertising.",
+        "sections": [
+            {
+                "section": "22032D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Kun Huang",
+                "location": "SOSB48"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "373",
+        "course_name": "Literature and Film",
+        "units": "(4.0 units)",
+        "description": "Examines literature and film as distinct modes of representation, narration, and structuring of time, language, memory, and visuality.",
+        "sections": [
+            {
+                "section": "22035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Akira Mizuta Lippit",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "382",
+        "course_name": "Zen and Daoism in Asian Literature",
+        "units": "(4.0 units)",
+        "description": "Studies of the presence and influence of Zen Buddhism and Daoism in Asian literature, with a focus on China and Japan.",
+        "sections": [
+            {
+                "section": "22050D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 49",
+                "instructor": "Jason Webb",
+                "location": "THH210"
+            },
+            {
+                "section": "22051R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jason Webb",
+                "location": "THH121"
+            },
+            {
+                "section": "22052R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jason Webb",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "393",
+        "course_name": "Seminar in French Thought and Theory",
+        "units": "(4.0 units, max 8)",
+        "description": "Introduction to important trends in recent French philosophy, political and social theory, psychoanalysis, ethnology, semiotics, and media studies. Emphasis to be determined by department. Conducted in English.",
+        "sections": [
+            {
+                "section": "34291D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Antonia Szabari",
+                "location": "THH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "420",
+        "course_name": "The Fantastic",
+        "units": "(4.0 units)",
+        "description": "Representative works from the \"fantastic\" and related currents within the European, U.S., and Spanish American traditions; reading of texts by authors such as Borges, Cortazar, Kafka, and Poe. Discussion of relevant theoretical concepts and critical works.",
+        "sections": [
+            {
+                "section": "22048R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Mia Du Plessis",
+                "location": "THH215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "448",
+        "course_name": "Multilingual Encounters",
+        "units": "(4.0 units)",
+        "description": "Exploration of multilingual encounters in literary works, films, and theoretical texts. Topics may include immigrant languages, dialects, jargons, imaginary or hybrid languages, theories of translation.",
+        "sections": [
+            {
+                "section": "22055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "8 of 18",
+                "instructor": "Adam Spanos",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "449",
+        "course_name": "Dante",
+        "units": "(4.0 units)",
+        "description": "Analysis of the Divina Commedia and other works. Conducted in English. (Duplicates credit in former ITAL 450)",
+        "sections": [
+            {
+                "section": "34446R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Ruggero Sciuto",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "22070D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "495",
+        "course_name": "Senior Honors Thesis",
+        "units": "(4.0 units)",
+        "description": "Writing of an honors thesis under individual faculty supervision.",
+        "sections": [
+            {
+                "section": "22071D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "593",
+        "course_name": "Teaching Practicum for Graduate Students",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within College disciplines. Intended for teaching assistants in Dornsife college.",
+        "sections": [
+            {
+                "section": "22086D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 8",
+                "instructor": "Jason Webb",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "620",
+        "course_name": "Seminar in Literature, Culture and Thought",
+        "units": "(4.0 units, max 12)",
+        "description": "Varying focus on social and political thought, psychoanalysis, and philosophy in relation to literary and cultural analysis.",
+        "sections": [
+            {
+                "section": "22090D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "4 of 12",
+                "instructor": "Neetu Khanna",
+                "location": "THH109"
+            }
+        ]
+    }
+]

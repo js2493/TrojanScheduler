@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "MTAL",
+        "course_number": "505",
+        "course_name": "Teaching and Learning Music",
+        "units": "(2.0 units)",
+        "description": "Studies of the latest resources concerning the teaching and learning of music so that musicians can function more effectively as both teachers and performers.",
+        "sections": [
+            {
+                "section": "43570D",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 935,
+                "days": 20,
+                "registered": "6 of 12",
+                "instructor": "William Coppola",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MTAL",
+        "course_number": "576",
+        "course_name": "Using Technology in the Classroom",
+        "units": "(2.0 units)",
+        "description": "Study of the tools and knowledge necessary to the music educator to facilitate the application of computers and electronic music in music education.",
+        "sections": [
+            {
+                "section": "43597D",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 665,
+                "days": 10,
+                "registered": "7 of 15",
+                "instructor": "Candice Mattio",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

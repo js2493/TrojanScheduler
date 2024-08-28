@@ -1,0 +1,3414 @@
+[
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "105",
+        "course_name": "Introduction to Electrical Engineering",
+        "units": "(4.0 units)",
+        "description": "Electrical engineering overview: communications, computers, circuits, components, signals, electromagnetics, microelectronics; data encoding and compression, USPS and UPC product codes, DVDs, semiconductor devices, and integrated circuits.",
+        "sections": [
+            {
+                "section": "30884D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "40 of 50",
+                "instructor": "Rehan Kapadia,Yasser Khan",
+                "location": "OHE230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "109",
+        "course_name": "Introduction to Embedded Systems",
+        "units": "(4.0 units)",
+        "description": "Information representations, embedded programming, digital and serial I/O, analog-to-digital conversion, and interrupt mechanisms. Elementary analog, logic and state-machine design.",
+        "sections": [
+            {
+                "section": "30777D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "29 of 30",
+                "instructor": "Gandhi Puvvada",
+                "location": "VHE210"
+            },
+            {
+                "section": "31009D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "39 of 40",
+                "instructor": "Mark Redekopp",
+                "location": "WPH207"
+            },
+            {
+                "section": "31291D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "55 of 62",
+                "instructor": "Allan Weber",
+                "location": "THH212"
+            },
+            {
+                "section": "31395D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "36 of 40",
+                "instructor": "Allan Weber",
+                "location": "VPD106"
+            },
+            {
+                "section": "30997R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "151 of 165",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30744R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 32,
+                "registered": "34 of 36",
+                "instructor": "",
+                "location": "VHE205"
+            },
+            {
+                "section": "30745R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 8,
+                "registered": "35 of 37",
+                "instructor": "",
+                "location": "VHE205"
+            },
+            {
+                "section": "30746R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 32,
+                "registered": "20 of 36",
+                "instructor": "",
+                "location": "VHE205"
+            },
+            {
+                "section": "31292R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "37 of 37",
+                "instructor": "",
+                "location": "VHE205"
+            },
+            {
+                "section": "31396R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "33 of 37",
+                "instructor": "",
+                "location": "VHE205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "141",
+        "course_name": "Applied Linear Algebra for Engineering",
+        "units": "(4.0 units)",
+        "description": "Introduction to linear algebra with engineering applications. Weekly laboratory exercises using MATLAB.",
+        "sections": [
+            {
+                "section": "30418D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "76 of 76",
+                "instructor": "Antonio Ortega",
+                "location": "ZHS252"
+            },
+            {
+                "section": "31225R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "76 of 76",
+                "instructor": "Antonio Ortega",
+                "location": "MRF340"
+            },
+            {
+                "section": "30755R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "30756R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "GFS223"
+            },
+            {
+                "section": "30822R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "155",
+        "course_name": "Introduction to Computer Programming for Electrical Engineers",
+        "units": "(4.0 units)",
+        "description": "Introduction to solving engineering problems using computational methods. Survey of various programming languages and their strengths and weaknesses. Program structure, input/output, conditionals, loops, functions, arrays.",
+        "sections": [
+            {
+                "section": "30898R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "73 of 78",
+                "instructor": "Sandeep Gupta,Ajitesh Srivastava",
+                "location": "THH301"
+            },
+            {
+                "section": "30899R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "29 of 45",
+                "instructor": "",
+                "location": "GFS106"
+            },
+            {
+                "section": "30811R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "44 of 44",
+                "instructor": "",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "202",
+        "course_name": "Linear Circuits",
+        "units": "(4.0 units)",
+        "description": "Lumped circuit elements; network equations; zero-input and zerostate responses; sinusoidal steady-state analysis; impedance; resonance; network functions; power concepts; transformers; Laplace transforms.",
+        "sections": [
+            {
+                "section": "30432R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "21 of 40",
+                "instructor": "Susan Schober",
+                "location": "OHE230"
+            },
+            {
+                "section": "30433D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "41 of 40",
+                "instructor": "Susan Schober",
+                "location": "OHE230"
+            },
+            {
+                "section": "30436R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "62 of 80",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30434R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "38 of 40",
+                "instructor": "",
+                "location": "OHE230"
+            },
+            {
+                "section": "30435R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "24 of 40",
+                "instructor": "",
+                "location": "OHE230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "250",
+        "course_name": "Distributed Systems for the Internet of Things",
+        "units": "(4.0 units)",
+        "description": "Introduction to hardware, operating systems, signal processing and control, network protocols, mobile applications, databases, cloud computing, machine learning and security for the Internet of Things.",
+        "sections": [
+            {
+                "section": "30402D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "74 of 74",
+                "instructor": "Mark Redekopp",
+                "location": "ZHS252"
+            },
+            {
+                "section": "30403R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "38 of 38",
+                "instructor": "",
+                "location": "VHE205"
+            },
+            {
+                "section": "30420R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "36 of 38",
+                "instructor": "",
+                "location": "VHE205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "301",
+        "course_name": "Linear Systems",
+        "units": "(4.0 units)",
+        "description": "Representation and analysis of linear time-invariant systems primarily for the continuous time case. Convolution, Fourier series and transform, Laplace transform, controls and communications applications.",
+        "sections": [
+            {
+                "section": "30444D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "41 of 41",
+                "instructor": "Chris Kyriakakis",
+                "location": "WPH102"
+            },
+            {
+                "section": "30459R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "41 of 41",
+                "instructor": "Chris Kyriakakis",
+                "location": "GFS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "338",
+        "course_name": "Physical Electronics",
+        "units": "(4.0 units)",
+        "description": "Semiconductor device characteristics and applications. Physical models of electronic conduction in solids, p-n junctions, bipolar and field effect transistors and other solid-state devices.",
+        "sections": [
+            {
+                "section": "30467R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "23 of 35",
+                "instructor": "Stephen Cronin",
+                "location": "DMC158"
+            },
+            {
+                "section": "30469R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "23 of 35",
+                "instructor": "Stephen Cronin",
+                "location": "DMC210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "348",
+        "course_name": "Electronic Circuits",
+        "units": "(4.0 units)",
+        "description": "Basic analog and digital circuit design using Bipolar Junction Transistors, Field Effect Transistors, and integrated circuits.",
+        "sections": [
+            {
+                "section": "30470R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 42,
+                "registered": "32 of 45",
+                "instructor": "Susan Schober",
+                "location": "OHE230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "354",
+        "course_name": "Introduction to Digital Circuits",
+        "units": "(4.0 units)",
+        "description": "Digital system design and implementation; synchronous design of datapath and control; schematic/Verilog-based design, simulation, and implementation in Field Programmable Gate Arrays; timing analysis; semester-end project.",
+        "sections": [
+            {
+                "section": "31307R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "47 of 54",
+                "instructor": "Gandhi Puvvada",
+                "location": "GFS118"
+            },
+            {
+                "section": "30855R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "18 of 18",
+                "instructor": "",
+                "location": "OHE336"
+            },
+            {
+                "section": "31309R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "13 of 18",
+                "instructor": "",
+                "location": "OHE336"
+            },
+            {
+                "section": "31111R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 32,
+                "registered": "47 of 54",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31308R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "16 of 18",
+                "instructor": "",
+                "location": "OHE336"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "364",
+        "course_name": "Introduction to Probability and Statistics for Electrical Engineering and Computer Science",
+        "units": "(4.0 units)",
+        "description": "Introduction to concepts of randomness and uncertainty: probability, random variables, statistics. Applications to digital communications, signal processing, automatic control, computer engineering and computer science.",
+        "sections": [
+            {
+                "section": "30480R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Salman Avestimehr",
+                "location": "GFS101"
+            },
+            {
+                "section": "30481R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "30 of 30",
+                "instructor": "Salman Avestimehr",
+                "location": "SSL202"
+            },
+            {
+                "section": "30778R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "31 of 35",
+                "instructor": "Leana Golubchik",
+                "location": "VPD106"
+            },
+            {
+                "section": "30779R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "31 of 35",
+                "instructor": "Leana Golubchik",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "370",
+        "course_name": "Electromagnetics for Engineering Systems",
+        "units": "(4.0 units)",
+        "description": "Electromagnetic plane-wave propagation and interactions with simple media, transmission/reception of wireless signals in complex environments. Optimization design methods for system applications.",
+        "sections": [
+            {
+                "section": "31010R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "31 of 32",
+                "instructor": "Aluizio Prata",
+                "location": "VHE210"
+            },
+            {
+                "section": "31015D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "34 of 31",
+                "instructor": "Gianluca Lazzi",
+                "location": "VHE217"
+            },
+            {
+                "section": "31012R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "34 of 31",
+                "instructor": "Gianluca Lazzi",
+                "location": "OHE230"
+            },
+            {
+                "section": "31011R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "31 of 32",
+                "instructor": "Aluizio Prata",
+                "location": "OHE230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "443",
+        "course_name": "Introduction to Power Systems",
+        "units": "(4.0 units)",
+        "description": "Components of power systems; analysis techniques in electrical power generation transmission and utilization; and environmental and economic considerations in system operations and planning.",
+        "sections": [
+            {
+                "section": "30496R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "9 of 80",
+                "instructor": "Mohammed Beshir",
+                "location": "OHE132"
+            },
+            {
+                "section": "30497D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "5 of 20",
+                "instructor": "Mohammed Beshir",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "444",
+        "course_name": "Power Systems Technology",
+        "units": "(4.0 units)",
+        "description": "Comprehensive assessment of the technical, environmental, and regulatory challenges that affect the future delivery and utilization of electric power. Case-study analysis.",
+        "sections": [
+            {
+                "section": "30964R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "17 of 50",
+                "instructor": "Mohammed Beshir",
+                "location": "OHE132"
+            },
+            {
+                "section": "31282D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "3 of 20",
+                "instructor": "Mohammed Beshir",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30962R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 32,
+                "registered": "15 of 50",
+                "instructor": "",
+                "location": "OHE136"
+            },
+            {
+                "section": "30963D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 32,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "445",
+        "course_name": "Introduction to Robotics",
+        "units": "(4.0 units)",
+        "description": "Designing, building and programming mobile robots; sensors, effectors, basic control theory, control architectures, some advanced topics, illustrations of state-of-the-art. Teamwork; final project tested in a robot contest. Junior standing or higher. Prerequisites: CSCI 103.",
+        "sections": [
+            {
+                "section": "30386R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "22 of 30",
+                "instructor": "Heather Culbertson",
+                "location": "WPH102"
+            },
+            {
+                "section": "29956R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "",
+                "location": "RTH419"
+            },
+            {
+                "section": "29958R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "8 of 15",
+                "instructor": "",
+                "location": "RTH419"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "450",
+        "course_name": "Introduction to Computer Networks",
+        "units": "(4.0 units)",
+        "description": "Network architectures; layered protocols, network service interface; local, wide area, wireless networks; Internet protocols; link protocols; addressing; routing; flow control; software defined network; multimedia networks.",
+        "sections": [
+            {
+                "section": "30623R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "34 of 40",
+                "instructor": "Corey Baker",
+                "location": "SOSB46"
+            },
+            {
+                "section": "30505R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "34 of 40",
+                "instructor": "Corey Baker",
+                "location": "GFS116"
+            },
+            {
+                "section": "30456R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 40",
+                "instructor": "Corey Baker",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30502R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "16 of 40",
+                "instructor": "Cauligi Raghavendra",
+                "location": "KAP146"
+            },
+            {
+                "section": "30783R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "16 of 40",
+                "instructor": "Cauligi Raghavendra",
+                "location": "KAP144"
+            },
+            {
+                "section": "30785R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 40",
+                "instructor": "Cauligi Raghavendra",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30454R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "28 of 40",
+                "instructor": "Ali Zahid",
+                "location": "WPHB28"
+            },
+            {
+                "section": "30500R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 560,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Ali Zahid",
+                "location": "OHE122"
+            },
+            {
+                "section": "30545D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 560,
+                "days": 20,
+                "registered": "19 of 30",
+                "instructor": "Ali Zahid",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30503R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "28 of 40",
+                "instructor": "Ali Zahid",
+                "location": "SGM601"
+            },
+            {
+                "section": "30504R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "30 of 30",
+                "instructor": "Ali Zahid",
+                "location": "OHE122"
+            },
+            {
+                "section": "30546D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 30",
+                "instructor": "Ali Zahid",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30535R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 40",
+                "instructor": "Ali Zahid",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30684R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1275,
+                "days": 32,
+                "registered": "37 of 40",
+                "instructor": "Ali Zahid",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31186D",
+                "session": "014",
+                "type": "Quiz",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "18 of 30",
+                "instructor": "Ali Zahid",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "451",
+        "course_name": "Parallel and Distributed Computation",
+        "units": "(4.0 units)",
+        "description": "Introduction to parallel programming techniques, models and optimization strategies; Application mapping to multi-core, accelerator, GPU and cloud platforms; High Performance Computing and Data Science applications.",
+        "sections": [
+            {
+                "section": "30408R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "38 of 60",
+                "instructor": "Viktor Prasanna",
+                "location": "ZHS252"
+            },
+            {
+                "section": "30409R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 32,
+                "registered": "38 of 60",
+                "instructor": "Viktor Prasanna",
+                "location": "SOSB46"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "454",
+        "course_name": "Introduction to System-on-Chip",
+        "units": "(4.0 units)",
+        "description": "Design flow, tools, and issues related to System/Network-on-Chip (S/Noc) design for real-time embedded systems with applications in mobile, cloud, aerospace, and medical electronics. Prerequisite: EE 354.",
+        "sections": [
+            {
+                "section": "30911D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "37 of 45",
+                "instructor": "Shahin Nazarian",
+                "location": "KAP156"
+            },
+            {
+                "section": "30559R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "37 of 45",
+                "instructor": "Shahin Nazarian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "455",
+        "course_name": "Introduction to Programming Systems Design",
+        "units": "(4.0 units)",
+        "description": "Intensive introduction to programming principles, discrete mathematics for computing, software design and software engineering concepts. Not available for credit to computer sciencemajors, graduate or undergraduate.",
+        "sections": [
+            {
+                "section": "30100R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "59 of 100",
+                "instructor": "Claire Bono",
+                "location": "OHE122"
+            },
+            {
+                "section": "29950R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "22 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30192R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30205R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30262R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "DMC150"
+            },
+            {
+                "section": "29963D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "22 of 30",
+                "instructor": "Claire Bono",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29964R",
+                "session": "014",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "457",
+        "course_name": "Computer Systems Organization",
+        "units": "(4.0 units)",
+        "description": "Register Transfer level machine organization; performance; arithmetic; pipelined processors; exceptions, out-of-order and speculative execution, cache, virtual memory, multi-core multi-threaded processors, cache coherence.",
+        "sections": [
+            {
+                "section": "30567R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Gandhi Puvvada",
+                "location": "KAP144"
+            },
+            {
+                "section": "31284D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "52 of 57",
+                "instructor": "Gandhi Puvvada",
+                "location": "GFS101"
+            },
+            {
+                "section": "31305D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Gandhi Puvvada",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31338R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "54 of 50",
+                "instructor": "Gandhi Puvvada",
+                "location": "OHE100D"
+            },
+            {
+                "section": "30569R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "74 of 80",
+                "instructor": "",
+                "location": "OHE132"
+            },
+            {
+                "section": "30605R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "80 of 80",
+                "instructor": "",
+                "location": "SLH200"
+            },
+            {
+                "section": "31285D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31336D",
+                "session": "014",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31337R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "154 of 180",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "471",
+        "course_name": "Applied Quantum Mechanics for Engineers",
+        "units": "(4.0 units)",
+        "description": "Introductory quantum mechanics and applications. Schrodinger equation, atomic and molecular processes, time-dependent perturbation theory. Applications to lasers, solid-state demos and gaseous devices.",
+        "sections": [
+            {
+                "section": "30554R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "9 of 25",
+                "instructor": "Stephen Cronin",
+                "location": "DMC211"
+            },
+            {
+                "section": "30556R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "9 of 25",
+                "instructor": "",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "477",
+        "course_name": "MOS VLSI Circuit Design",
+        "units": "(4.0 units)",
+        "description": "Analysis and design of digital MOS VLSI circuits including area, delay and power minimization. Laboratory assignments including design, layout, extraction, simulation and automatic synthesis.",
+        "sections": [
+            {
+                "section": "30523R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "72 of 72",
+                "instructor": "Shahin Nazarian",
+                "location": "THH208"
+            },
+            {
+                "section": "30593D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "45 of 45",
+                "instructor": "Shahin Nazarian",
+                "location": "OHE100C"
+            },
+            {
+                "section": "30599D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "10 of 20",
+                "instructor": "Shahin Nazarian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30449R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 2,
+                "registered": "104 of 125",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30595R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "45 of 45",
+                "instructor": "",
+                "location": "OHE136"
+            },
+            {
+                "section": "30577D",
+                "session": "014",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "10 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30598R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "45 of 45",
+                "instructor": "",
+                "location": "KAP144"
+            },
+            {
+                "section": "30991R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 32,
+                "registered": "27 of 45",
+                "instructor": "",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "482",
+        "course_name": "Linear Control Systems",
+        "units": "(4.0 units)",
+        "description": "Analysis of linear time-invariant (LTI) control systems; stability of LTI systems; frequency response, proportional-integral-differential (PID) and root-locus compensation techniques.",
+        "sections": [
+            {
+                "section": "30603R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "5 of 20",
+                "instructor": "Richard Chiang",
+                "location": "THH115"
+            },
+            {
+                "section": "30607R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "EEBB18"
+            },
+            {
+                "section": "30871R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "5 of 10",
+                "instructor": "",
+                "location": "EEBB18"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "483",
+        "course_name": "Introduction to Digital Signal Processing",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of digital signal processing covering: discrete time linear systems, quantization, sampling, Z-transforms, Fourier transforms, FFTs and filter design.",
+        "sections": [
+            {
+                "section": "30609R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "31 of 75",
+                "instructor": "Justin Haldar",
+                "location": "OHE136"
+            },
+            {
+                "section": "30613D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "0 of 20",
+                "instructor": "Justin Haldar",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30561D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30612R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "31 of 75",
+                "instructor": "",
+                "location": "OHE136"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "30611D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Bhaskar Krishnamachari,Michelle Povinelli",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "494A",
+        "course_name": "Undergraduate Thesis",
+        "units": "(2.0 units)",
+        "description": "For the undergraduate degree. Credit on acceptance of thesis. IP (EE 494a) or letter grade (EE 494b).",
+        "sections": [
+            {
+                "section": "31188D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Bhaskar Krishnamachari,Michelle Povinelli",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "494B",
+        "course_name": "Undergraduate Thesis",
+        "units": "(2.0 units)",
+        "description": "For the undergraduate degree. Credit on acceptance of thesis. IP (EE 494a) or letter grade (EE 494b).",
+        "sections": [
+            {
+                "section": "31187R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Bhaskar Krishnamachari,Michelle Povinelli",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "503",
+        "course_name": "Probability for Electrical and Computer Engineers",
+        "units": "(4.0 units)",
+        "description": "Rigorous coverage of probability, discrete and continuous random variables, functions of multiple random variables, covariance, correlation, random sequences, Markov chains, estimation, and introduction to statistics. Duplicates credit in former EE 464 and EE 465.",
+        "sections": [
+            {
+                "section": "30774R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "56 of 70",
+                "instructor": "Brandon Franzke",
+                "location": "LVL17"
+            },
+            {
+                "section": "31113R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "56 of 70",
+                "instructor": "Brandon Franzke",
+                "location": "THH212"
+            },
+            {
+                "section": "30587R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1130,
+                "days": 32,
+                "registered": "45 of 45",
+                "instructor": "Bart Kosko",
+                "location": "ZHS252"
+            },
+            {
+                "section": "30588R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "45 of 45",
+                "instructor": "Bart Kosko",
+                "location": "KAP156"
+            },
+            {
+                "section": "30689D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "66 of 66",
+                "instructor": "Ashutosh Nayyar",
+                "location": "OHE122"
+            },
+            {
+                "section": "30789D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Ashutosh Nayyar",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30699R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "66 of 66",
+                "instructor": "Ashutosh Nayyar",
+                "location": "OHE122"
+            },
+            {
+                "section": "31399D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "4 of 20",
+                "instructor": "Ashutosh Nayyar",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "507",
+        "course_name": "Micro- and Nano-Fabrication Technology",
+        "units": "(4.0 units)",
+        "description": "Physical basis of technologies for the fabrication of micro- and nano-scale devices. Thin-film deposition, etching, and material modification processes; pattern transfer methods.",
+        "sections": [
+            {
+                "section": "30773R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "40 of 40",
+                "instructor": "Wei Wu",
+                "location": "THH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "510",
+        "course_name": "Linear Algebra for Engineering",
+        "units": "(4.0 units)",
+        "description": "Introduction to linear algebra and matrix theory and their underlying concepts; applications to engineering problems; mathematically rigorous and foundational to other classes in communication, control, and signal processing.",
+        "sections": [
+            {
+                "section": "30475R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "51 of 60",
+                "instructor": "Olaoluwa Adigun",
+                "location": "GFS118"
+            },
+            {
+                "section": "30477R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "80 of 80",
+                "instructor": "Olaoluwa Adigun",
+                "location": "OHE122"
+            },
+            {
+                "section": "30479D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "6 of 10",
+                "instructor": "Olaoluwa Adigun",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30478R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "80 of 80",
+                "instructor": "",
+                "location": "OHE122"
+            },
+            {
+                "section": "30483D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "6 of 10",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30476R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "51 of 60",
+                "instructor": "",
+                "location": "SSL202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "511",
+        "course_name": "Machine Learning Hardware Accelerators",
+        "units": "(4.0 units)",
+        "description": "Machine-learning accelerator architecture design; network architecture optimization, quantization, pruning; hardware/software codesign and cross layer optimizations for machine-learning models",
+        "sections": [
+            {
+                "section": "30572R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "35 of 36",
+                "instructor": "Massoud Pedram,Mehdi Kamal",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "30573R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "35 of 36",
+                "instructor": "Massoud Pedram",
+                "location": "DMC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "512",
+        "course_name": "Stochastic Processes for Financial Engineering",
+        "units": "(4.0 units)",
+        "description": "Theory and applications of stochastic processes relevant to financial engineering. Stochastic processes, Brownian motion, martingales, stochastic calculus, Monte Carlo Simulations with financial application examples.",
+        "sections": [
+            {
+                "section": "31190R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "24 of 45",
+                "instructor": "George Papavassilopoulos",
+                "location": "OHE100C"
+            },
+            {
+                "section": "31298D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "3 of 10",
+                "instructor": "George Papavassilopoulos",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31193R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 45",
+                "instructor": "",
+                "location": "OHE100C"
+            },
+            {
+                "section": "31299D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "514",
+        "course_name": "Quantum Error Correction",
+        "units": "(4.0 units)",
+        "description": "A comprehensive introduction to quantum error correction and decoherence control, from the basics to the cutting edge, enabling students to delve into current research topics.",
+        "sections": [
+            {
+                "section": "30888R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "11 of 38",
+                "instructor": "Daniel Lidar",
+                "location": "VPD106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "515",
+        "course_name": "Quantum Sensing: Machine Learning, Inference and Information",
+        "units": "(4.0 units)",
+        "description": "Basics of quantum mechanics, quantum sensing, quantum theory of inference, information and machine learning.",
+        "sections": [
+            {
+                "section": "30565R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "12 of 25",
+                "instructor": "Quntao Zhuang",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "516",
+        "course_name": "High-Voltage DC Transmission Systems",
+        "units": "(4.0 units)",
+        "description": "AC/DC conversion processes, converter technologies, and design; harmonics, controls, and protection; AC/DC interactions and system performance; modeling, application, and installation; current-source versus voltage-source converters.",
+        "sections": [
+            {
+                "section": "31322D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "9 of 20",
+                "instructor": "Mohammed Beshir",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31398R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "10 of 40",
+                "instructor": "Mohammed Beshir",
+                "location": "RTH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "518",
+        "course_name": "Mathematics and Tools for Financial Engineering",
+        "units": "(4.0 units)",
+        "description": "Students will build a mathematical background for studying Financial Engineering. Emphasis is on analysis, proofs and examples. Mathworks Financial toolbox will be introduced.",
+        "sections": [
+            {
+                "section": "31301D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "40 of 80",
+                "instructor": "Petros Ioannou",
+                "location": "OHE132"
+            },
+            {
+                "section": "31303D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "2 of 20",
+                "instructor": "Petros Ioannou",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31302R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 32,
+                "registered": "40 of 80",
+                "instructor": "",
+                "location": "OHE122"
+            },
+            {
+                "section": "31304D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 32,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "520",
+        "course_name": "Introduction to Quantum Information Processing",
+        "units": "(4.0 units)",
+        "description": "Basics of quantum computation and information: quantum bits and registers, unitary gates, algorithms, error correction and cryptography. Experimental realizations and near-term quantum technology.",
+        "sections": [
+            {
+                "section": "30812D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "22 of 35",
+                "instructor": "Todd Brun",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "525",
+        "course_name": "Power System Protection",
+        "units": "(4.0 units)",
+        "description": "Theory of system and equipment protection, characteristics of relays, relay coordination, and system considerations.",
+        "sections": [
+            {
+                "section": "30624R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "10 of 25",
+                "instructor": "Backer Abu-Jaradeh",
+                "location": "OHE136"
+            },
+            {
+                "section": "30625D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "6 of 10",
+                "instructor": "Backer Abu-Jaradeh",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "528",
+        "course_name": "Power Electronics",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of switched-mode power converters operating under steadystate and transient conditions. Feedback control systems. Magnetic circuit design.",
+        "sections": [
+            {
+                "section": "30771R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "2 of 20",
+                "instructor": "Jason Sanders",
+                "location": "OHE100C"
+            },
+            {
+                "section": "30887D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "2 of 20",
+                "instructor": "Jason Sanders",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "530",
+        "course_name": "Optical Materials, Instruments and Devices",
+        "units": "(4.0 units)",
+        "description": "Optical materials and devices; design and theory of selected optical instruments and components; properties of modulators; optical sources and detectors; emerging technologies relevant to system design.",
+        "sections": [
+            {
+                "section": "30681R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "14 of 20",
+                "instructor": "Demetri Christodoulides",
+                "location": "KAP134"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "534",
+        "course_name": "Materials Characterization",
+        "units": "(4.0 units)",
+        "description": "Characterization of solid structure by X-ray diffraction, electron microscopy, atomic force and tunneling microscopy and elemental analysis by photoemission, X-ray fluorescence, Auger, energy loss spectroscopies.",
+        "sections": [
+            {
+                "section": "32177R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "14 of 40",
+                "instructor": "Yu-Tsun Shao",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "536A",
+        "course_name": "Analog Integrated Circuits",
+        "units": "(4.0 units)",
+        "description": "MOSFET operation and models; elementary amplifier configurations; biasing and references; frequency response; noise; feedback; operational amplifiers; frequency compensation; non-linearity and mismatch; passive and active filters.",
+        "sections": [
+            {
+                "section": "30695D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "6 of 25",
+                "instructor": "Hossein Hashemi",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30696R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "52 of 76",
+                "instructor": "Hossein Hashemi",
+                "location": "OHE136"
+            },
+            {
+                "section": "30697D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "6 of 25",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30698R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "52 of 76",
+                "instructor": "",
+                "location": "OHE136"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "536B",
+        "course_name": "Analog Integrated Circuits",
+        "units": "(4.0 units)",
+        "description": "Advanced topics in analog integrated circuits: Advanced feedback concepts; active filters; ultra-low-power and ultra-low-voltage subthreshold design; analog signal processing for machine learning and artificial intelligence.",
+        "sections": [
+            {
+                "section": "30852R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "3 of 30",
+                "instructor": "Mike Shuo-Wei Chen",
+                "location": "GFS222"
+            },
+            {
+                "section": "30767R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "3 of 30",
+                "instructor": "",
+                "location": "ZHS360"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "538",
+        "course_name": "Computing Principles for Electrical Engineers",
+        "units": "(2.0 units)",
+        "description": "Survey of computing principles and practice of software design: object-oriented and non object-oriented, testing, template libraries, time-space complexity, data structures, algorithms, and dynamic programming.",
+        "sections": [
+            {
+                "section": "30753D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 980,
+                "days": 32,
+                "registered": "5 of 50",
+                "instructor": "Arash Saifhashemi",
+                "location": "GFS101"
+            },
+            {
+                "section": "30759D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1100,
+                "days": 32,
+                "registered": "11 of 50",
+                "instructor": "Arash Saifhashemi",
+                "location": "GFS101"
+            },
+            {
+                "section": "30757R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "2 of 65",
+                "instructor": "",
+                "location": "ZHS352"
+            },
+            {
+                "section": "30761R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "14 of 35",
+                "instructor": "",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "539",
+        "course_name": "Engineering Quantum Mechanics",
+        "units": "(4.0 units)",
+        "description": "Quantum mechanics for engineering majors who work with solid-state devices, quantum electronics, and photonics. Schroedinger equation, perturbation theory, electronic and optical processes.",
+        "sections": [
+            {
+                "section": "30702R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 40",
+                "instructor": "Tony Levi",
+                "location": "VPD110"
+            },
+            {
+                "section": "30733R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "13 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "540",
+        "course_name": "Introduction to Quantum Electronics",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of light amplification; laser amplifiers and oscillators; atomic pumping; maser and laser systems; definitions of coherence; measurements in quantum electronics.",
+        "sections": [
+            {
+                "section": "30700R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Mercedeh Khajavikhan",
+                "location": "KAP145"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "541",
+        "course_name": "A Computational Introduction to Deep Learning",
+        "units": "(2.0 units)",
+        "description": "Deep learning frameworks for training multilayer perceptrons, convolutional and recurrent neural networks; Python, virtual environments, linux and shell scripting, cloud computing, including GPUs and datasets.",
+        "sections": [
+            {
+                "section": "30799D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "34 of 60",
+                "instructor": "Brandon Franzke",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "542",
+        "course_name": "Internet and Cloud Computing",
+        "units": "(4.0 units)",
+        "description": "The theory, architecture, hardware/software, and programming of the Internet and its protocols, cloud computing, networks for cloud computing, how they interact with Internet of Things.",
+        "sections": [
+            {
+                "section": "31119R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "53 of 60",
+                "instructor": "Young Cho",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "545",
+        "course_name": "Robotics",
+        "units": "(4.0 units)",
+        "description": "Fundamental skills for modeling and controlling of dynamic systems for robotic applications and graphics animations; control theory; kinematics; dynamics; sensor processing; real-time operating systems; robot labs. Recommended preparation: Basic knowledge in linear algebra (matrices and vectors), calculus, programming in C/C++ or any another language or permission of the instructor.",
+        "sections": [
+            {
+                "section": "29975D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "78 of 90",
+                "instructor": "Stefanos Nikolaidis",
+                "location": "WPHB27"
+            },
+            {
+                "section": "30226R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "78 of 90",
+                "instructor": "",
+                "location": "RTH419"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "547",
+        "course_name": "Applied and Cloud Computing for Electrical Engineers",
+        "units": "(2.0 units)",
+        "description": "Introduction to cloud applications; software development and deployment within cloud platforms; interactive user-facing interfaces; API development; databases, virtualization, asynchronous execution, testing and scalability.",
+        "sections": [
+            {
+                "section": "30897R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "26 of 90",
+                "instructor": "Brandon Franzke",
+                "location": "WPHB27"
+            },
+            {
+                "section": "30979R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "26 of 90",
+                "instructor": "Brandon Franzke",
+                "location": "ZHS159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "551",
+        "course_name": "Principles of Radar",
+        "units": "(3.0 units)",
+        "description": "Signal propagation, reflections from targets; radar equation; detection of scintillating targets; resolution; ambiguity functions; clutter rejection; tracking radars.",
+        "sections": [
+            {
+                "section": "30626R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "6 of 10",
+                "instructor": "Mahta Moghaddam",
+                "location": "HED103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "554",
+        "course_name": "Cyber-Physical Systems: A Computing Perspective",
+        "units": "(4.0 units)",
+        "description": "Cyber-physical systems; models of computation; programming models; compiler analysis; automatic parallelization; heterogeneous computing and memory systems; multicores; interconnect; mapping; scheduling; real-time operating systems; reliability; fault-tolerance.",
+        "sections": [
+            {
+                "section": "30411R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "27 of 50",
+                "instructor": "Paul Bogdan",
+                "location": "ZHS352"
+            },
+            {
+                "section": "30413R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 50",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30412R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "27 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "557",
+        "course_name": "Computer Systems Architecture",
+        "units": "(4.0 units)",
+        "description": "Computer architecture from a design perspective: Pipelined processors, speculative execution, VLIW, vector processors, GPU/GPGPU, memory technology and systems, interconnection networks, shared-memory and message-passing multiprocessors, chip multiprocessors.",
+        "sections": [
+            {
+                "section": "30628D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Murali Annavaram",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30630R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "41 of 80",
+                "instructor": "Murali Annavaram",
+                "location": "OHE132"
+            },
+            {
+                "section": "30564R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "13 of 40",
+                "instructor": "",
+                "location": "KAP163"
+            },
+            {
+                "section": "30629D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "4 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30631R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "28 of 40",
+                "instructor": "",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "561",
+        "course_name": "Foundations of Artificial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Foundations of symbolic intelligent systems, search, logic, knowledge representation, planning, learning.",
+        "sections": [
+            {
+                "section": "30202D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "136 of 240",
+                "instructor": "Wei-Min Shen",
+                "location": "SGM124"
+            },
+            {
+                "section": "30295R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "136 of 240",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "29981R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "136 of 240",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30079D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "15 of 30",
+                "instructor": "Wei-Min Shen",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30305R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "15 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29982R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "565",
+        "course_name": "Information Theory and Its Application to (Big) Data Science",
+        "units": "(4.0 units)",
+        "description": "Entropy and mutual information. Variable and fixed-length, lossless and lossy compression. Universal compression. Text and multimedia compression. Channel capacity. Error-correcting codes. Erasure and Gaussian channels.",
+        "sections": [
+            {
+                "section": "30453R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "8 of 20",
+                "instructor": "Urbashi Mitra",
+                "location": "OHE120"
+            },
+            {
+                "section": "30455D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "0 of 10",
+                "instructor": "Urbashi Mitra",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30447R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30457R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "566",
+        "course_name": "Optical Information Processing",
+        "units": "(4.0 units)",
+        "description": "Coherent and incoherent optical transforming; diffraction and imaging; space-time duality; temporal- and spatial-frequency response and filtering; optical modulation, nonlinear and ultrafast techniques; holography; emerging directions.",
+        "sections": [
+            {
+                "section": "31323R",
+                "session": "048",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "8 of 40",
+                "instructor": "Mengjie Yu",
+                "location": "LVL16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "572",
+        "course_name": "Electromagnetic Wave Engineering",
+        "units": "(4.0 units)",
+        "description": "Application of Maxwell's equations to electromagnetic waves and electrical engineering devices.",
+        "sections": [
+            {
+                "section": "30465R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "0 of 15",
+                "instructor": "Aluizio Prata",
+                "location": "GFS212"
+            },
+            {
+                "section": "30466R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "Aluizio Prata",
+                "location": "OHE336"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "577A",
+        "course_name": "VLSI System Design",
+        "units": "(4.0 units)",
+        "description": "MOS logic; system design; memory design; datapath subsystem design; circuit simulation; basic device physics; simple device layout: structured chip design; timing; project chip; silicon compilers.",
+        "sections": [
+            {
+                "section": "30654R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "43 of 53",
+                "instructor": "Sandeep Gupta,",
+                "location": "OHE100D"
+            },
+            {
+                "section": "30655D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "4 of 20",
+                "instructor": "Sandeep Gupta,",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30657D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "4 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30446R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "47 of 60",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30445R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "43 of 53",
+                "instructor": "",
+                "location": "OHE132"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "577B",
+        "course_name": "VLSI System Design",
+        "units": "(4.0 units)",
+        "description": "Semi-custom ASIC VLSI design flow; RTL coding, logic synthesis, automatic placement & routing, memory and interface design, signal integrity solutions, hardware acceleration and approximation",
+        "sections": [
+            {
+                "section": "30653D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 64,
+                "registered": "2 of 5",
+                "instructor": "Moe Tabar",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30487D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "2 of 5",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30656D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 64,
+                "registered": "52 of 55",
+                "instructor": "Moe Tabar",
+                "location": "OHE132"
+            },
+            {
+                "section": "30846R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "52 of 55",
+                "instructor": "Moe Tabar",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "585",
+        "course_name": "Linear System Theory",
+        "units": "(4.0 units)",
+        "description": "Analysis of linear dynamical systems by state-space and input-output techniques; stability, controllability, observability; observer-based controller; linear quadratic regulator.",
+        "sections": [
+            {
+                "section": "30987R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "8 of 35",
+                "instructor": "Mihailo Jovanovic",
+                "location": "OHE100B"
+            },
+            {
+                "section": "31044D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "2 of 10",
+                "instructor": "Mihailo Jovanovic",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "588",
+        "course_name": "Optimization for the Information and Data Sciences",
+        "units": "(4.0 units)",
+        "description": "Convex sets, functions, and optimization problems. Basic convex analysis and theory of convex programming. Novel, efficient first-order algorithms. Applications in the information and data sciences.",
+        "sections": [
+            {
+                "section": "30999R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "41 of 60",
+                "instructor": "Michael Neely",
+                "location": "THH102"
+            },
+            {
+                "section": "31002R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "37 of 60",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30663D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "19 of 200",
+                "instructor": "Richard Leahy",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30665D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Michelle Povinelli",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "For the Master's Degree. Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30666R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Michelle Povinelli",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "For the Master's Degree. Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30667R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "598",
+        "course_name": "Electrical Engineering Research Seminar",
+        "units": "(1.0 units, max 2)",
+        "description": "Introduction to research in electrical engineering. Topics vary by semester. May be repeated for up to one unit of credit for MS students, two units of credit for PhD students. Open only to Master\u00e2\u20ac\u2122s and Doctoral Students.",
+        "sections": [
+            {
+                "section": "31176D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 8,
+                "registered": "2 of 50",
+                "instructor": "Feifei Qian,Stephen Tu",
+                "location": "EEB132"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 9)",
+        "description": "The course content will be selected each semester to reflect current trends and developments in the field of electrical engineering.",
+        "sections": [
+            {
+                "section": "30539D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "21 of 35",
+                "instructor": "Keith Jenkins",
+                "location": "WPHB36"
+            },
+            {
+                "section": "30543R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "11 of 30",
+                "instructor": "Feifei Qian",
+                "location": "EEBB18"
+            },
+            {
+                "section": "30563R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "30 of 40",
+                "instructor": "Paul Bogdan",
+                "location": "KAP158"
+            },
+            {
+                "section": "30766D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 35",
+                "instructor": "Christopher Torng",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "608",
+        "course_name": "Wearable Technology",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of wearable technology; sensing, signal processing, RF communication, power sources, power management, energy harvesting, flexible substrates and electronics, and wearable algorithms.",
+        "sections": [
+            {
+                "section": "30406R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 35",
+                "instructor": "Eun Kim",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "613",
+        "course_name": "Quantum Optimization Algorithms",
+        "units": "(4.0 units)",
+        "description": "Introduction to quantum computing; analysis of quantum algorithms; matrix manipulation, gradient computation and optimization.",
+        "sections": [
+            {
+                "section": "31787D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Giacomo Nannicini",
+                "location": "GER206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "635",
+        "course_name": "Advanced Wireless Communications: Towards 6G",
+        "units": "(4.0 units)",
+        "description": "Transmission techniques for 6G systems, including massive MIMO, cell-free (distributed) systems, new modulation and multiple-access methods, stochastic geometry, mmWave and THz transmission techniques, precision localization.",
+        "sections": [
+            {
+                "section": "30659R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "7 of 30",
+                "instructor": "Andreas Molisch",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "641",
+        "course_name": "Deep Learning Systems",
+        "units": "(2.0 units)",
+        "description": "Neural networks for nonlinear regression, classification, reinforcement learning; back-propagation learning for multilayer perceptrons, convolutional and recurrent networks; applications in audio processing vision and autonomy.",
+        "sections": [
+            {
+                "section": "30404R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "22 of 40",
+                "instructor": "Brandon Franzke",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "653",
+        "course_name": "Advanced Topics in Microarchitecture",
+        "units": "(3.0 units)",
+        "description": "Current research topics related to microprocessor architecture. Dynamically/statically scheduled processors, multithreading, chip multiprocessors, systems on a chip. Power, performance, complexity, dependability issues. Impact of technology.",
+        "sections": [
+            {
+                "section": "30544D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "33 of 45",
+                "instructor": "Murali Annavaram",
+                "location": "ZHS163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "658",
+        "course_name": "Diagnosis and Design of Reliable Digital Systems",
+        "units": "(4.0 units)",
+        "description": "Fault models; test generation; fault simulation; self-checking and self-testing circuits; design for testability; fault tolerant design techniques; case studies; search techniques; memory testing.",
+        "sections": [
+            {
+                "section": "30787D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 890,
+                "days": 64,
+                "registered": "40 of 50",
+                "instructor": "Moe Tabar",
+                "location": "GFS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "660",
+        "course_name": "Machine Learning II: Mathematical Foundations and Methods",
+        "units": "(4.0 units)",
+        "description": "Supervised, semi-supervised, and unsupervised machine learning; domain adaptation and transfer learning; human interpretability. Feasibility of learning, model complexity, and performance (error) on unseen data.",
+        "sections": [
+            {
+                "section": "30460R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "43 of 76",
+                "instructor": "Stephen Tu",
+                "location": "OHE132"
+            },
+            {
+                "section": "30889D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Stephen Tu",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31100R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "43 of 76",
+                "instructor": "",
+                "location": "OHE136"
+            },
+            {
+                "section": "31101D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "4 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "669",
+        "course_name": "Multimedia Data Compression",
+        "units": "(4.0 units)",
+        "description": "Lossless compression, vector quantization, audio/speech coding, JPEG and JPEG-2000, MPEG and H.26x video compression standards, image/video quality assessment and emerging multimedia compression techniques and applications.",
+        "sections": [
+            {
+                "section": "31324R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "14 of 28",
+                "instructor": "Jay Kuo",
+                "location": "KAP166"
+            },
+            {
+                "section": "31326R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "14 of 28",
+                "instructor": "Jay Kuo",
+                "location": "GFS107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "675",
+        "course_name": "Data Analysis and Control Techniques for Neurotechnology Des",
+        "units": "(4.0 units)",
+        "description": "Data analysis, machine learning and control-theoretic mathematical tools used in studying the brain and designing neurotechnologies such as brain-machine interfaces.",
+        "sections": [
+            {
+                "section": "31328R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "7 of 30",
+                "instructor": "Maryam Shanechi",
+                "location": "DMC157"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "676",
+        "course_name": "Advanced Computer Vision",
+        "units": "(4.0 units)",
+        "description": "Fundamental issues in computer vision: theory, algorithms and applications. Image formation, image segmentation, inference and measurement of 3-D, motion analysis, object and activity recognition.",
+        "sections": [
+            {
+                "section": "30228R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Ramakant Nevatia",
+                "location": "OHE136"
+            },
+            {
+                "section": "30229D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Ramakant Nevatia",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "689",
+        "course_name": "Computational Intelligence and Neural Learning",
+        "units": "(4.0 units)",
+        "description": "Computational intelligence techniques that include neural systems, deep learning, adaptive pattern classification, fuzzy function approximation, simulated annealing and evolutionary computing, and hybrid systems.",
+        "sections": [
+            {
+                "section": "30414D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "10 of 25",
+                "instructor": "Bart Kosko",
+                "location": "ZHS252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "690",
+        "course_name": "Directed Research",
+        "units": "(1.0-4.0 units)",
+        "description": "Laboratory study of specific problems by candidates for the degree Engineer in Electrical Engineering. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30674D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "698",
+        "course_name": "Doctoral Seminar Series",
+        "units": "(1.0 unit)",
+        "description": "A weekly seminar series led by ECE faculty and guest lecturers about current and emerging areas of electrical and computer engineering research.",
+        "sections": [
+            {
+                "section": "30602R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "39 of 80",
+                "instructor": "Richard Leahy",
+                "location": "EEB132"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30675D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "99 of 200",
+                "instructor": "Richard Leahy",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30676D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30677R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30678R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30679R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30680R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

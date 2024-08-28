@@ -1,0 +1,88 @@
+[
+    {
+        "term": "20242",
+        "department": "CRIT",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. (Duplicates credit in former PAS 590)",
+        "sections": [
+            {
+                "section": "33329D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Jenny Lin",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33330D",
+                "session": "126",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33332D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Andrew Campbell",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CRIT",
+        "course_number": "591",
+        "course_name": "Field Internship Experience",
+        "units": "(1.0 units, max 2)",
+        "description": "Supervised internship in an art institution or an art agency, or with an independent curator or artist, on projects and research specific to public space. Recommended preparation: Completion of first year of courses. Graded CR/NC. (Duplicates credit in former PAS 591)",
+        "sections": [
+            {
+                "section": "33325D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Jenny Lin,Antonio Bartolome",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33326D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Jenny Lin,Antonio Bartolome",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33327D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Jenny Lin,Antonio Bartolome",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

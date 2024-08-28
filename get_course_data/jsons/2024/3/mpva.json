@@ -1,0 +1,636 @@
+[
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "141",
+        "course_name": "Class Voice",
+        "units": "(2.0 units, max 4)",
+        "description": "Introduction to the fundamental principles of singing: breath control, tone production, diction, and the use of appropriate song material.",
+        "sections": [
+            {
+                "section": "46320R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Lynn Helding",
+                "location": "MUS208"
+            },
+            {
+                "section": "46321R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "11 of 12",
+                "instructor": "Lynn Helding",
+                "location": "MUS208"
+            },
+            {
+                "section": "46322R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "8 of 12",
+                "instructor": "Lynn Helding",
+                "location": "MUS208"
+            },
+            {
+                "section": "46323R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "8 of 12",
+                "instructor": "Lynn Helding",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "153",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction and vocal performance forum.",
+        "sections": [
+            {
+                "section": "46330D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "4 of 25",
+                "instructor": "Lisa Sylvester",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "203A",
+        "course_name": "Acting for Singers",
+        "units": "(2.0 units)",
+        "description": "Use of dramatic techniques in the interpretation and performance of music; basic acting techniques for the operatic and recital stages; sensory exercises, movement, improvisation, relaxation and make-up. Recommended preparation: MPVA 153",
+        "sections": [
+            {
+                "section": "46340D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "4 of 20",
+                "instructor": "Ken Cazan",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "253",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction and vocal performance forum.",
+        "sections": [
+            {
+                "section": "46360D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "12 of 25",
+                "instructor": "Lisa Sylvester",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "262",
+        "course_name": "German Language and Diction",
+        "units": "(4.0 units)",
+        "description": "Developing competence in listening, vocal pronunciation, speaking, singing, International Phonetic Alphabet (IPA), reading, and writing German. Emphasizes musical texts including German song and operatic arias.",
+        "sections": [
+            {
+                "section": "46365D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 0,
+                "registered": "16 of 19",
+                "instructor": "Lisa Sylvester,",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors.",
+        "sections": [
+            {
+                "section": "46378D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 65",
+                "instructor": "Lynn Helding",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction: secondary emphasis for music majors, principal emphasis for music minors and all B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "46385D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            },
+            {
+                "section": "46388D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "Lynn Helding",
+                "location": "RHM104"
+            },
+            {
+                "section": "46391D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            },
+            {
+                "section": "46394D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "Karen Parks",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "353",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction and vocal performance forum.",
+        "sections": [
+            {
+                "section": "46400D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "4 of 25",
+                "instructor": "Lisa Sylvester",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "402",
+        "course_name": "Musical Theatre Workshop I",
+        "units": "(3.0 units)",
+        "description": "Study of the acting, musical and movement elements involved in the performance of the Broadway musical repertoire.",
+        "sections": [
+            {
+                "section": "46420D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 770,
+                "days": 20,
+                "registered": "8 of 15",
+                "instructor": "Daniel Lincoln",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "403",
+        "course_name": "Acting for Singers II",
+        "units": "(2.0 units, max 8)",
+        "description": "Continuation of MPVA 203ab. Acting of operatic roles in different periods and styles; specific recital and audition techniques. Recommended preparation: MPVA 203ab",
+        "sections": [
+            {
+                "section": "46423D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 680,
+                "days": 20,
+                "registered": "6 of 15",
+                "instructor": "Ken Cazan",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "404",
+        "course_name": "Word and Music in Opera",
+        "units": "(2.0 units, max 8)",
+        "description": "Performance class for singers and pianists; analysis of recitatives, arias, and ensembles of various operatic styles; study of the technique of effective musical delivery. By audition only.",
+        "sections": [
+            {
+                "section": "46426D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "4 of 12",
+                "instructor": "Brent McMunn",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "405",
+        "course_name": "USC Opera",
+        "units": "(2.0 units, max 12)",
+        "description": "Preparation, rehearsal, and performance of operatic works and excerpts; study of different operatic styles; public appearances. By audition only.",
+        "sections": [
+            {
+                "section": "46429D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1370,
+                "days": 42,
+                "registered": "0 of 40",
+                "instructor": "Brent McMunn,",
+                "location": "MUS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "407",
+        "course_name": "Directing for the Operatic Stage",
+        "units": "(2.0 units, max 8)",
+        "description": "Various approaches to operatic style; basic blocking; stage management. Student direction of scenes produced in USC Opera.",
+        "sections": [
+            {
+                "section": "46435D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "1 of 10",
+                "instructor": "Ken Cazan",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "438",
+        "course_name": "Foundations of Vocology",
+        "units": "(2.0 units)",
+        "description": "Voice physiology, voice hygiene, voice acoustics, and the cognitive substrates of Motor Learning.",
+        "sections": [
+            {
+                "section": "46447D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "10 of 20",
+                "instructor": "Melissa Treinkman",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "443",
+        "course_name": "Cantata and Oratorio",
+        "units": "(2.0 units)",
+        "description": "Historical survey of literature, style and performance practice; emphasis on performing solo and small ensemble sections of larger works.",
+        "sections": [
+            {
+                "section": "46460D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "6 of 12",
+                "instructor": "Tram Sparks",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "453",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction and vocal performance forum.",
+        "sections": [
+            {
+                "section": "46467D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "5 of 25",
+                "instructor": "Lisa Sylvester",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "479",
+        "course_name": "Song Literature",
+        "units": "(2.0 units, max 4)",
+        "description": "Song literature of Italy, France, Germany, Russia, Norway, Sweden, England, America; comparative analysis of various composers and their influence on song literature.",
+        "sections": [
+            {
+                "section": "46480D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "4 of 12",
+                "instructor": "Lisa Sylvester",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "46486D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "46495D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Lisa Sylvester,Jeremy Frank",
+                "location": "RHM104"
+            },
+            {
+                "section": "46498D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Lynn Helding",
+                "location": "RHM104"
+            },
+            {
+                "section": "46501D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "541",
+        "course_name": "Advanced Vocology",
+        "units": "(2.0 units)",
+        "description": "Voice physiology, both classical and non-classical vocal techniques, voice hygiene, advanced voice acoustics, survey of literature from expertise studies, and the cognitive substrates of motor learning.",
+        "sections": [
+            {
+                "section": "46513D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Lynn Helding",
+                "location": "MUS303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction and vocal performance forum.",
+        "sections": [
+            {
+                "section": "46521D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 40",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "554",
+        "course_name": "Graduate Certificate Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Graduate Certificate students.",
+        "sections": [
+            {
+                "section": "46531D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "560",
+        "course_name": "Graduate Italian Diction",
+        "units": "(2.0 units)",
+        "description": "A review of the rules of pronunciation, International Phonetic Alphabet (IPA) and grammatical structure of the Italian language through the texts of select repertoire in both Italian song and operatic arias.",
+        "sections": [
+            {
+                "section": "46537D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "8 of 9",
+                "instructor": "Jeremy Frank",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "46548D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for DMA Performance majors",
+        "sections": [
+            {
+                "section": "46570D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 20",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPVA",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "46595D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    }
+]

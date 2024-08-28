@@ -1,0 +1,161 @@
+[
+    {
+        "term": "20242",
+        "department": "BAEP",
+        "course_number": "551",
+        "course_name": "Introduction to New Ventures",
+        "units": "(3.0 units)",
+        "description": "Study and development of analytical and conceptual skills in the management of new enterprises and new ventures within large organizations. Duplicates credit in BAEP 549, BAEP 550, GSBA 535, and GSBA 550ab.",
+        "sections": [
+            {
+                "section": "14449R",
+                "session": "780",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "29 of 32",
+                "instructor": "Elissa Grossman,Dan Wadhwani",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BAEP",
+        "course_number": "553",
+        "course_name": "Cases in New Venture Management",
+        "units": "(1.5-3.0 units)",
+        "description": "Cases and readings expose students to the challenges of developing long-range strategies for entrepreneurial ventures. Case work emphasizes developing new industries, growth through strategic alliances, and issues involved in the long-term strategic positioning of emerging companies.",
+        "sections": [
+            {
+                "section": "14410R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "53 of 60",
+                "instructor": "Steven Mednick",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BAEP",
+        "course_number": "589",
+        "course_name": "Social Entrepreneurship",
+        "units": "(2.0 units)",
+        "description": "Lead and manage with entrepreneurial methodology for charities, non-government organizations, social oriented enterprises and not for profit organizations. Duplicates credit in BAEP 591. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14409D",
+                "session": "284",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 1020,
+                "days": 64,
+                "registered": "40 of 40",
+                "instructor": "Stefano Rumi",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BAEP",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14413D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BAEP",
+        "course_number": "593",
+        "course_name": "Independent Research in Business Entrepreneurship",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required.",
+        "sections": [
+            {
+                "section": "14414D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BAEP",
+        "course_number": "595",
+        "course_name": "Internship in Business Entrepreneurship",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest. (Curricular Practical Training.) Recommended preparation: completion of required MBA, MAcc, MBT, MKT, MSEI, or MSSE coursework.",
+        "sections": [
+            {
+                "section": "14415D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Steven Mednick",
+                "location": "OFFICE"
+            },
+            {
+                "section": "14416D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Steven Mednick",
+                "location": "OFFICE"
+            },
+            {
+                "section": "14417D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "14418D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

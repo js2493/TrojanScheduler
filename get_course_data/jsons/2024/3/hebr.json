@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20243",
+        "department": "HEBR",
+        "course_num": "120",
+        "course_name": "Hebrew I",
+        "units": "(4.0 units)",
+        "description": "Focuses on the acquisition of proficiency and communicative skills in speaking, reading, writing, and comprehension as well as cultural literacy.",
+        "sections": [
+            {
+                "section": "36700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "11 of 24",
+                "instructor": "Hagit Arieli-Chai,Leah Hochman",
+                "location": "DMC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HEBR",
+        "course_num": "121",
+        "course_name": "Hebrew for Business",
+        "units": "(2.0 units)",
+        "description": "Effective communication in Hebrew, exploration of Israels economy in the context of globalization, improving language skills for use in the global job market.",
+        "sections": [
+            {
+                "section": "36703R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 2,
+                "registered": "8 of 15",
+                "instructor": "Hagit Arieli-Chai,Leah Hochman",
+                "location": "DMC108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HEBR",
+        "course_num": "220",
+        "course_name": "Hebrew III",
+        "units": "(4.0 units)",
+        "description": "Continuation of Hebrew II; stress on grammar, composition, and conversation. Prerequisite: HEBR 150.",
+        "sections": [
+            {
+                "section": "36702D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "13 of 25",
+                "instructor": "Hagit Arieli-Chai,Leah Hochman",
+                "location": "DMC205"
+            }
+        ]
+    }
+]

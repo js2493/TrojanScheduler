@@ -1,0 +1,86 @@
+[
+    {
+        "term": "20242",
+        "department": "IR",
+        "course_number": "304",
+        "course_name": "National Intelligence and the Shaping of Policy",
+        "units": "(4.0 units)",
+        "description": "The focus is intelligence to improve the making of policy, with attention to collection; overt and covert, operations; domestic intelligence; and oversight in democracies.",
+        "sections": [
+            {
+                "section": "37765R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 28,
+                "registered": "21 of 25",
+                "instructor": "Derek Grossman",
+                "location": "DMC211 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IR",
+        "course_number": "374",
+        "course_name": "Model Europe: Comparative Public Policy in France and the Eu",
+        "units": "(4.0 units)",
+        "description": "IR Analysis of contemporary challenges to the European Union policy-making in the areas of governance and citizenship, the environment, energy, economics and security.",
+        "sections": [
+            {
+                "section": "37965D",
+                "session": "298",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 10",
+                "instructor": "Sally Pratt,Akeya Harmon",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IR",
+        "course_number": "391",
+        "course_name": "Directed International Relations Field Study",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Intensive internship experience in international relations professional areas with academic research component (may be repeated for credit different semesters)",
+        "sections": [
+            {
+                "section": "38080D",
+                "session": "474",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Sally Pratt,Akeya Harmon",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IR",
+        "course_number": "466",
+        "course_name": "Contemporary Issues in Latin American Politics",
+        "units": "(4.0 units)",
+        "description": "Focus on current politics in Latin America. Address a range of themes: electoral democracy, citizenship, political inclusion, human rights, corruption, economic inequality.",
+        "sections": [
+            {
+                "section": "37954R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 20,
+                "registered": "0 of 19",
+                "instructor": "Monica Unda Gutierrez",
+                "location": "DMC259"
+            }
+        ]
+    }
+]

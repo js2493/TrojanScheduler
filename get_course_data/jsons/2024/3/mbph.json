@@ -1,0 +1,149 @@
+[
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "70005D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "70017D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70006D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ansgar Siemer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70007D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ansgar Siemer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "794C",
+        "course_name": "Doctoral dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70008D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Ansgar Siemer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70009D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ansgar Siemer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MBPH",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70010D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 30",
+                "instructor": "Ansgar Siemer",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

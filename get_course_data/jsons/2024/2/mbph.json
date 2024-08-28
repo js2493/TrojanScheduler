@@ -1,0 +1,128 @@
+[
+    {
+        "term": "20242",
+        "department": "MBPH",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "70017D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "Ralf Langen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MBPH",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70018D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ralf Langen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MBPH",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70019D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ralf Langen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MBPH",
+        "course_number": "794C",
+        "course_name": "Doctoral dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70020D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ralf Langen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MBPH",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70021D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ralf Langen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MBPH",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "70022D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Ralf Langen",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

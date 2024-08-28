@@ -1,0 +1,2724 @@
+[
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "050",
+        "course_name": "General Chemistry Tutorial",
+        "units": "(2.0 units)",
+        "description": "Weekly tutorial for selected students in CHEM 105aL. Strong emphasis on chemical mathematics and key concepts in general chemistry. Topics parallel lectures in CHEM 105aL. Not available for degree credit. Graded CR/NC. Discussion, 2 hours.",
+        "sections": [
+            {
+                "section": "17201D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 2,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "102",
+        "course_name": "The Molecular World",
+        "units": "(4.0 units)",
+        "description": "Basic chemistry and its impact on the contemporary world. Topics include: structures and reactions of molecules, stoichiometry, nomenclature, gases, solutions.",
+        "sections": [
+            {
+                "section": "17204D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "84 of 84",
+                "instructor": "Andrey Vilesov",
+                "location": "SAL101"
+            },
+            {
+                "section": "17206R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "84 of 84",
+                "instructor": "",
+                "location": "SOSB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "103",
+        "course_name": "General Chemistry for the Environment and Life",
+        "units": "(4.0 units)",
+        "description": "Chemistry for environmental studies, neuroscience and other life sciences: organic and inorganic structures, nomenclature, stoichiometry, solutions, gases, non-covalent interactions, equilibria, acid-base and redox reactions. Not for major credit in chemistry.",
+        "sections": [
+            {
+                "section": "17208R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "69 of 72",
+                "instructor": "Thomas Bertolini",
+                "location": "GFS116"
+            },
+            {
+                "section": "17211R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17212R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 16,
+                "registered": "10 of 12",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17213R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "10 of 11",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17214R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17215R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17216R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM133C"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "105A",
+        "course_name": "General Chemistry",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles and laws of chemistry; laboratory work emphasizes quantitative procedures. Prerequisite to all more advanced courses in chemistry. Lecture, 3 hours; laboratory and discussion, 4 hours. Quiz, 1 hour.",
+        "sections": [
+            {
+                "section": "17218R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "128 of 130",
+                "instructor": "Thomas Bertolini",
+                "location": "SGM123"
+            },
+            {
+                "section": "17219R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "128 of 130",
+                "instructor": "",
+                "location": "SLH200"
+            },
+            {
+                "section": "17220D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "214 of 215",
+                "instructor": "Jessica Parr",
+                "location": "SGM123"
+            },
+            {
+                "section": "17221D",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "214 of 215",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "17222D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "208 of 215",
+                "instructor": "Jessica Parr",
+                "location": "SGM124"
+            },
+            {
+                "section": "17224D",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "208 of 215",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17226D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17228D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17230D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17236D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17238D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17240D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17242D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17244D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17246D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17248D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17250D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17252D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17254D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17256D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17258D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17260D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17262D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17263D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "8 of 8",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17264D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17266D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17267D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "8 of 8",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17268D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17270D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17272D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17274D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17276D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17278D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17280D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17282D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17284D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17286D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17288D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17290D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17292D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17293D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "8 of 8",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17294D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17296D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17297D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "8 of 8",
+                "instructor": "",
+                "location": "SGM136A/B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "105B",
+        "course_name": "General Chemistry",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles and laws of chemistry; laboratory work emphasizes quantitative procedures.",
+        "sections": [
+            {
+                "section": "17300R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "236 of 239",
+                "instructor": "Stuart Moon",
+                "location": "SGM123"
+            },
+            {
+                "section": "17302R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "236 of 239",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "17304D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17306D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17308D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17310D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17312D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17314D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17316D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17318D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17320D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17322D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17324D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17326D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17328D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM136C/D"
+            },
+            {
+                "section": "17330D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17331D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133A/B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "107",
+        "course_name": "General Chemistry for Chemistry Majors",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles and laws of chemistry emphasizing contemporary chemistry; laboratory work focuses on quantitative procedures. Open only to Chemistry majors. (Duplicates credit in CHEM 105a and CHEM 115a)",
+        "sections": [
+            {
+                "section": "17332D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "56 of 90",
+                "instructor": "Alexander Benderskii",
+                "location": "SLH102"
+            },
+            {
+                "section": "17333R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "56 of 90",
+                "instructor": "",
+                "location": "WPHB27"
+            },
+            {
+                "section": "17335R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "12 of 15",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17337R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17338R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "",
+                "location": "SGM133A/B"
+            },
+            {
+                "section": "17339D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM133A/B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "115A",
+        "course_name": "Advanced General Chemistry",
+        "units": "(4.0 units)",
+        "description": "Equivalent to 105agL-bL, but taught at a higher level forexceptionally well-prepared students. Admission to course bydepartmental approval only. Lecture, 3 hours; lab and discussion,4 hours; quiz, 1 hour. Prereq: 1 year high school chemistry andmathematics through pre-calculus.",
+        "sections": [
+            {
+                "section": "17340D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "59 of 64",
+                "instructor": "Jessica Parr",
+                "location": "SGM101"
+            },
+            {
+                "section": "17341R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "59 of 64",
+                "instructor": "",
+                "location": "SGM101"
+            },
+            {
+                "section": "17342R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17343R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17344R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 8,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "SGM133C"
+            },
+            {
+                "section": "17346R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "SGM133C"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "205",
+        "course_name": "Chemical Forensics: The Science, and Its Impact",
+        "units": "(4.0 units)",
+        "description": "Scientific principles underlying forensic approaches to the investigation of crimes and its societal impact on law, culture and media. Not available for major credit.",
+        "sections": [
+            {
+                "section": "17356R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "90 of 90",
+                "instructor": "Thomas Bertolini,Rebecca Broyer",
+                "location": "SLH102"
+            },
+            {
+                "section": "17358R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17360R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17362R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17364R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17366R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17368R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "250",
+        "course_name": "Organic Chemistry Tutorial A",
+        "units": "(2.0 units)",
+        "description": "Major principles of organic chemistry and its relevance. Topics covered parallel to those of CHEM 322A. Prerequisite: CHEM 105bL. Corequisite: CHEM 322aL. Graded CR/NC. Not available for degree credit.",
+        "sections": [
+            {
+                "section": "17371R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 2,
+                "registered": "9 of 20",
+                "instructor": "Rebecca Broyer",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "290A",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution. Prereq: Consent of department head.",
+        "sections": [
+            {
+                "section": "17372D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 5",
+                "instructor": "Barry Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "290B",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "17374D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Barry Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "290C",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "17376D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Barry Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "290D",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "17378D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "292",
+        "course_name": "Supervised Research",
+        "units": "(2.0 units, max 4)",
+        "description": "Supervised undergraduate research experience.",
+        "sections": [
+            {
+                "section": "17380D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "294",
+        "course_name": "Undergraduate Research Seminar",
+        "units": "(1.0 units, max 4)",
+        "description": "Seminars in current research in the chemical and molecular sciences.",
+        "sections": [
+            {
+                "section": "17382R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "55 of 75",
+                "instructor": "Susumu Takahashi",
+                "location": "ZHS352"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "300",
+        "course_name": "Analytical Chemistry",
+        "units": "(4.0 units)",
+        "description": "Theory and practice in chemical analysis, emphasizing instrumental techniques; error analysis, fractional distillation, extraction; chromatograhpy; visible, ultraviolet, and infrared spectroscopy; introductions to electrochemistry and nuclear magnetic resonance spectroscopy.",
+        "sections": [
+            {
+                "section": "17385D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "50 of 60",
+                "instructor": "Brent Melot",
+                "location": "GFS101"
+            },
+            {
+                "section": "17386D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "SGM142"
+            },
+            {
+                "section": "17388D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM142"
+            },
+            {
+                "section": "17390R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "10 of 13",
+                "instructor": "",
+                "location": "SGM142"
+            },
+            {
+                "section": "17392R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM142"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "322A",
+        "course_name": "Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Chemistry of the carbon compounds of the aliphatic and aromatic series; laboratory preparation of typical compounds of both series.",
+        "sections": [
+            {
+                "section": "17394R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "159 of 200",
+                "instructor": "Stuart Moon",
+                "location": "SGM124"
+            },
+            {
+                "section": "17396R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "200 of 200",
+                "instructor": "Kyung Jung",
+                "location": "SGM124"
+            },
+            {
+                "section": "17398R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "161 of 200",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17400R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "198 of 200",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17401R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "359 of 450",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "17408D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 16,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17410D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 16,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17412R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17414R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17416R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17418R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17420R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17422R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17424R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17426R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17428R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17430R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17433D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17434D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17435D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17436D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17437D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "12 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17438D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17439D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17440R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17442R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17444R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17446R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17448R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "8 of 10",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17450R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "9 of 10",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17455D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17456D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "",
+                "location": "SGM204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "322B",
+        "course_name": "Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Chemistry of the carbon compounds of the aliphatic and aromatic series; laboratory preparation of typical compounds of both series.",
+        "sections": [
+            {
+                "section": "17460R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "151 of 200",
+                "instructor": "Rebecca Broyer",
+                "location": "SGM124"
+            },
+            {
+                "section": "17462R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "64 of 150",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17464R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "87 of 150",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17466R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "151 of 200",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17468R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17470R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17472D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17474R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM204"
+            },
+            {
+                "section": "17476R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "10 of 13",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17478R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17480R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17482R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "10 of 12",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17486R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17488R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17490R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "13 of 13",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17492R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17494R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "SGM209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "325A",
+        "course_name": "Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Required of majors in chemistry.",
+        "sections": [
+            {
+                "section": "17500D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "42 of 80",
+                "instructor": "Travis Williams",
+                "location": "WPHB27"
+            },
+            {
+                "section": "17504R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "16 of 40",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17506R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "26 of 40",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "17502R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "42 of 80",
+                "instructor": "",
+                "location": "ZHS159"
+            },
+            {
+                "section": "17514R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "12 of 15",
+                "instructor": "",
+                "location": "SGM209"
+            },
+            {
+                "section": "17518R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SGM209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "330",
+        "course_name": "Biochemistry",
+        "units": "(4.0 units)",
+        "description": "Basic biochemical principles; classes of molecules - structure and function; cellular energetics.",
+        "sections": [
+            {
+                "section": "13330R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "57 of 66",
+                "instructor": "Christa Bancroft,Grayson Jaggers",
+                "location": "ZHS252"
+            },
+            {
+                "section": "13337R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "19 of 20",
+                "instructor": "",
+                "location": "SGM301"
+            },
+            {
+                "section": "13338R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "17 of 22",
+                "instructor": "",
+                "location": "SGM301"
+            },
+            {
+                "section": "13339R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "21 of 22",
+                "instructor": "",
+                "location": "SGM301"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "350",
+        "course_name": "Molecular Principles of Biochemistry",
+        "units": "(4.0 units)",
+        "description": "Biomolecular structures, protein and nucleic acid chemistry and functions, carbohydrates, lipids, membranes, enzyme catalysis and kinetics, coenzymes, biochemical signaling, major metabolic pathways, control of gene expression, replication, transcription, and translation.",
+        "sections": [
+            {
+                "section": "17520R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "90 of 92",
+                "instructor": "Chiho Mak",
+                "location": "SGM101"
+            },
+            {
+                "section": "17521R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "21 of 23",
+                "instructor": "",
+                "location": "DMC257"
+            },
+            {
+                "section": "17522R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "17523R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "17524R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "426",
+        "course_name": "Advanced Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Advanced treatment of organic chemistry from a mechanistic point of view according to the following topics: polar and isopolar reactions, intermediates. Lecture, 3 hours; discussion, 1 hour.",
+        "sections": [
+            {
+                "section": "17526R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "16 of 20",
+                "instructor": "Chao Zhang",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "430",
+        "course_name": "Physical Chemistry: Thermodynamics and Kinetics",
+        "units": "(4.0 units)",
+        "description": "Kinetic theory; equations of state; thermodynamics; phase equilibria; chemical equilibrium; statistical thermodynamics; kinetics; electrochemistry; surface and colloid chemistry; polymers.",
+        "sections": [
+            {
+                "section": "17530R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "46 of 60",
+                "instructor": "Jahan Dawlaty",
+                "location": "WPHB27"
+            },
+            {
+                "section": "17532R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "KAP141"
+            },
+            {
+                "section": "17534R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS360"
+            },
+            {
+                "section": "17536R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "GFS202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "467",
+        "course_name": "Advanced Chemical Biology Laboratory",
+        "units": "(2.0 units)",
+        "description": "Principles, methods and protocols of chemical biology through experimentation focusing on the interactions of small molecules with biomacromolecules such as proteins and DNA.",
+        "sections": [
+            {
+                "section": "17548R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "4 of 12",
+                "instructor": "Peter Qin",
+                "location": "SGM301"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "17552D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "Barry Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "494",
+        "course_name": "Advanced Research Experience",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Directed undergraduate research supervised by faculty, with advanced capstone research experience. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "17554D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17555D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Barry Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "515",
+        "course_name": "Structure and Bonding in Inorganic and Organometallic Chemis",
+        "units": "(4.0 units)",
+        "description": "An integrated core course of structure and bonding in inorganic, coordination, and organometallic chemistry within an oxidation state framework; symmetry, electronic properties.",
+        "sections": [
+            {
+                "section": "17558D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "2 of 25",
+                "instructor": "Richard Brutchey",
+                "location": "SGM226"
+            },
+            {
+                "section": "17560R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "2 of 25",
+                "instructor": "",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "516",
+        "course_name": "Synthesis, Reactivity and Mechanism in Inorganic and Organometallic Chemistry",
+        "units": "(4.0 units)",
+        "description": "A reactivity framework for inorganic and organometallic chemistry; synthesis, reaction mechanisms, and energetics; homogeneous catalysis.",
+        "sections": [
+            {
+                "section": "17561R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "13 of 25",
+                "instructor": "Megan Fieser",
+                "location": "SGM307"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "521",
+        "course_name": "Basic Principles of Physical Methods in Biochemistry",
+        "units": "(2.0 units)",
+        "description": "Principles underlying physical analytical methods commonly utilized in research in biochemistry and molecular biology.",
+        "sections": [
+            {
+                "section": "17563R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 16,
+                "registered": "7 of 15",
+                "instructor": "Peter Qin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "526",
+        "course_name": "Structure and Mechanism in Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Review of modern structural theory of organic chemistry; and relation to the mechanisms of organic chemical reactions.",
+        "sections": [
+            {
+                "section": "17564R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "14 of 35",
+                "instructor": "Elias Picazo",
+                "location": "SGM601"
+            },
+            {
+                "section": "17566R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "11 of 35",
+                "instructor": "",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "532",
+        "course_name": "Molecular Photochemistry and Photophysics",
+        "units": "(2.0 units)",
+        "description": "Molecular electronic structure; description of the excited state; radiative/nonradiative decay and electron/energy transfer.",
+        "sections": [
+            {
+                "section": "17568R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "7 of 15",
+                "instructor": "Mark Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "538",
+        "course_name": "Mathematical Techniques of Physical Chemistry",
+        "units": "(4.0 units)",
+        "description": "Fundamentals and techniques of mathematics and physics. Linear algebra, differential equations, mechanics, electricity and magnetism. Applications to physical chemistry/chemical physics.",
+        "sections": [
+            {
+                "section": "17570R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "5 of 20",
+                "instructor": "Andrey Vilesov",
+                "location": "SSC604"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "544",
+        "course_name": "Introduction to Quantum Chemistry",
+        "units": "(4.0 units)",
+        "description": "Basic principles of quantum mechanics and their application to Chemistry. Electronic structure of atoms and molecules.",
+        "sections": [
+            {
+                "section": "17572R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Susumu Takahashi",
+                "location": "SSC604"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "545",
+        "course_name": "Theory and Practice of Molecular Electronic Structure",
+        "units": "(4.0 units)",
+        "description": "Provide working knowledge and hands-on experience in current quantum chemical methods for chemists who would like to employ these techniques in their own research.",
+        "sections": [
+            {
+                "section": "17573R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "11 of 20",
+                "instructor": "Anna Krylov",
+                "location": "SSC604"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "550",
+        "course_name": "Special Topics in Chemical Physics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Study of selected areas of chemical physics. Critical evaluation of recent advances in the field. Prerequisite: consent of instructor.",
+        "sections": [
+            {
+                "section": "17574R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "2 of 15",
+                "instructor": "Curt Wittig",
+                "location": "SSC604"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "570",
+        "course_name": "Seminar in Chemical Biology",
+        "units": "(2.0 units, max 4)",
+        "description": "Introduce students to emerging research areas in chemical biology through a thorough discussion of seminal research articles and presentations of current research topics. Recommended preparation: some research experience and familiarity with literature search",
+        "sections": [
+            {
+                "section": "17575R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 800,
+                "days": 16,
+                "registered": "6 of 30",
+                "instructor": "Matthew Pratt",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "580",
+        "course_name": "Current Topics in Inorganic Chemistry and Nanoscience",
+        "units": "(2.0 units, max 4)",
+        "description": "Introduction to emerging research areas in Inorganic Chemistry & Nanoscience through a discussion of seminal research articles and presentations of current research topics.",
+        "sections": [
+            {
+                "section": "17576R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 800,
+                "days": 4,
+                "registered": "3 of 25",
+                "instructor": "Michael Inkpen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17578D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching Chemistry",
+        "units": "(2.0 units)",
+        "description": "Practical principles for effective teaching in the laboratory. Intended for teaching assistants in Chemistry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17580R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "8 of 53",
+                "instructor": "Barry Thompson",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17581D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17582D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17583D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "17586D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units)",
+        "description": "Special topics in chemistry.",
+        "sections": [
+            {
+                "section": "17588R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "11 of 15",
+                "instructor": "Valery Fokin",
+                "location": ""
+            },
+            {
+                "section": "17592R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "10 of 15",
+                "instructor": "Kate White",
+                "location": "SGM307"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17593D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "49 of 150",
+                "instructor": "Barry Thompson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "17594D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 75",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17595D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 75",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17596D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 75",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17597D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 75",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17598D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "41 of 75",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

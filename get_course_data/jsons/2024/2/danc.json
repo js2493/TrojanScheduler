@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "DANC",
+        "course_number": "495",
+        "course_name": "Dance Internship",
+        "units": "(1.0-18.0 units, max 36)",
+        "description": "Practical experience linked with information and learned skills. Providing supervised field application of dance theories and practices within an employment context in dance.",
+        "sections": [
+            {
+                "section": "22549D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Alison D'Amato",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

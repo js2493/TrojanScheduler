@@ -1,0 +1,566 @@
+[
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "301",
+        "course_name": "PPD Practices: Internship Seminar",
+        "units": "(2.0 units)",
+        "description": "Policy, planning, and development skills for practice; internship seminar; leadership, group dynamics and presentation skills; application of management; organizational diversity; reflection on experiences.",
+        "sections": [
+            {
+                "section": "51393D",
+                "session": "524",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 25",
+                "instructor": "Julia Toothacre",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Departmental approval.",
+        "sections": [
+            {
+                "section": "51100D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51101D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51107D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "503",
+        "course_name": "Economics for Public Policy",
+        "units": "(4.0 units)",
+        "description": "Economic theory as applied to public policy. Concepts of efficiency and equity, analysis of market failure and policy interventions.",
+        "sections": [
+            {
+                "section": "51396R",
+                "session": "597",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1175,
+                "days": 20,
+                "registered": "21 of 32",
+                "instructor": "T.J. Mccarthy",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51460D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "33 of 40",
+                "instructor": "Joshua Russell-Fritch",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "504",
+        "course_name": "Essential Statistics for Public Management",
+        "units": "(2.0 units)",
+        "description": "Essential statistics for public managers and administrators; application of statistical methods in addressing public policy and management questions.",
+        "sections": [
+            {
+                "section": "51394D",
+                "session": "523",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1230,
+                "days": 2,
+                "registered": "34 of 41",
+                "instructor": "Emma Aguila Vega",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51463D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 25",
+                "instructor": "John Calanni",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "511",
+        "course_name": "Health Information Systems",
+        "units": "(2.0 units)",
+        "description": "Conceptual framework for data base development; relational data management; use of health statistics; health indicators; confidentiality, security, privacy.",
+        "sections": [
+            {
+                "section": "51775D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Samuel King",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "517",
+        "course_name": "Concepts and Practices in Managing Health Care Organizations",
+        "units": "(2.0 units)",
+        "description": "Application of principles of health administration. Role of managers; managing people and programs; human resource management concepts and applications; working with professionals; governance; public relations.",
+        "sections": [
+            {
+                "section": "51307D",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 27",
+                "instructor": "Philip Dalton",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "51308D",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 29",
+                "instructor": "Philip Dalton",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "518",
+        "course_name": "Quality of Care Concepts",
+        "units": "(2.0 units)",
+        "description": "Quality issues and complexities affecting healthcare; fundamentals of quality improvement programs; examination of quality issues and improvement programs in various health care venues; strategies",
+        "sections": [
+            {
+                "section": "51305D",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 27",
+                "instructor": "Amy Howell",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "51306D",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 28",
+                "instructor": "Denny Hooten",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "540",
+        "course_name": "Fundamentals of Public Administration",
+        "units": "(4.0 units)",
+        "description": "Administrative concepts, institutions, legal systems, and practices; values; facilitation of responsibilities and rights; professional applications for personal, private sector and public achievement.",
+        "sections": [
+            {
+                "section": "51473D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 25",
+                "instructor": "Paul Bentley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "541",
+        "course_name": "Public Financial Management and Budgeting",
+        "units": "(4.0 units)",
+        "description": "Financial management applied to public and nonprofit organizations; financial valuation, financial markets, budgeting, tax administration, debt financing, cost-benefit analysis and financial analysis. Duplicates credit in PPDE 645.",
+        "sections": [
+            {
+                "section": "51466D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 25",
+                "instructor": "Juliet Musso",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "542",
+        "course_name": "Policy and Program Evaluation",
+        "units": "(4.0 units)",
+        "description": "Methods and models for policy and program evaluation; methods of collecting and analyzing evaluation data; processes for linking evaluation to policy formulation and program management.",
+        "sections": [
+            {
+                "section": "51301R",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Howard Greenwald",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "546",
+        "course_name": "Capstone in Public Administration",
+        "units": "(4.0 units)",
+        "description": "Constitutionally accountable and ethical practice, individually and organizationally; applications of core competencies; practical inquiry, analysis, systems; comparative frameworks; citizenship and public service. Prerequisite: PPD 540 and PPD 545 and PPD 542 or PPD 557. Open only to master and doctoral students.",
+        "sections": [
+            {
+                "section": "51302D",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 25",
+                "instructor": "William Leach",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "51470D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 25",
+                "instructor": "John Calanni",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "554",
+        "course_name": "Foundations of Policy Analysis",
+        "units": "(4.0 units)",
+        "description": "Introduction to public policy analysis; issue diagnosis and policy design; analytic reasoning and argumentation; the role of the public policy professional; ethical issues in policy analysis.",
+        "sections": [
+            {
+                "section": "51400D",
+                "session": "530",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 25",
+                "instructor": "Grace Bahng",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "51204D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51209D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51213D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51214D",
+                "session": "055",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51402D",
+                "session": "530",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "51212D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Valerie Savior",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Selected topics in Public Policy, Management and Planning.",
+        "sections": [
+            {
+                "section": "51310R",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 32",
+                "instructor": "Michael Thom",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "667",
+        "course_name": "Public Ethics",
+        "units": "(4.0 units)",
+        "description": "Following an introduction to the study of ethics, relationships among administrative, political, and policy ethics are examined, emphasizing the ethics of the administrative role.",
+        "sections": [
+            {
+                "section": "51309R",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 25",
+                "instructor": "Deborah Natoli",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "672",
+        "course_name": "Collaborative Governance",
+        "units": "(4.0 units)",
+        "description": "Theory and practice of collaborative policy and planning processes involving stakeholders from public, private, and nonprofit sectors. Leadership skills in the design and facilitation of multi-party negotiations and consensus-building.",
+        "sections": [
+            {
+                "section": "51401D",
+                "session": "530",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 20",
+                "instructor": "Kelly Rawlings",
+                "location": "SACRAMENTO & ONLINE"
+            },
+            {
+                "section": "51464D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "32 of 33",
+                "instructor": "Logan O'Shaughnessy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "673",
+        "course_name": "Strategic Planning in the Public Sector",
+        "units": "(4.0 units)",
+        "description": "Analysis/field application of action research models for strategic planning in public agencies; design of effective public systems; citizens/administrators' roles in strategic decision-making.",
+        "sections": [
+            {
+                "section": "51303R",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 25",
+                "instructor": "Rick Culley",
+                "location": "TBA"
+            },
+            {
+                "section": "51465D",
+                "session": "593",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 25",
+                "instructor": "Tara Blanc",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPD",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units, max 18)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "51297D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51298R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            },
+            {
+                "section": "51299D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

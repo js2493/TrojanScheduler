@@ -1,0 +1,304 @@
+[
+    {
+        "term": "20243",
+        "department": "DSM",
+        "course_num": "510",
+        "course_name": "Introduction to Digital Social Media",
+        "units": "(4.0 units)",
+        "description": "Explores the sector of digital social media and online communities, with a focus on user experience, social impact, strategic content creation and models for success.",
+        "sections": [
+            {
+                "section": "21850D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "29 of 45",
+                "instructor": "Misha Kouzeh",
+                "location": "ASC231"
+            },
+            {
+                "section": "21851D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "34 of 45",
+                "instructor": "Freddy Nager",
+                "location": "ASC204"
+            },
+            {
+                "section": "21852D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "30 of 45",
+                "instructor": "Misha Kouzeh",
+                "location": "ASC231"
+            },
+            {
+                "section": "21853D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "31 of 45",
+                "instructor": "Freddy Nager",
+                "location": "ASC204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSM",
+        "course_num": "520",
+        "course_name": "Managing Technologies for Digital Media",
+        "units": "(4.0 units)",
+        "description": "Strategies and decision-making for development and management of online sites, mobile apps and social platforms, including search optimization, monetization, product development and user experience testing.",
+        "sections": [
+            {
+                "section": "21865D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "32 of 45",
+                "instructor": "Emily Kosko",
+                "location": "ASCG26"
+            },
+            {
+                "section": "21866D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "5 of 45",
+                "instructor": "Jeffrey Thompson",
+                "location": "ANNL105A"
+            },
+            {
+                "section": "21867D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "45 of 45",
+                "instructor": "Emily Kosko",
+                "location": "ANNL101"
+            },
+            {
+                "section": "21868D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "44 of 45",
+                "instructor": "Jeffrey Thompson",
+                "location": "ASC204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSM",
+        "course_num": "525",
+        "course_name": "Website Strategies for Organizations",
+        "units": "(4.0 units)",
+        "description": "Assess organizations' online needs, to examine the use of the Internet in terms of electronic commerce and global pressures, and design Web page strategies.",
+        "sections": [
+            {
+                "section": "21871D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "13 of 25",
+                "instructor": "Sarah Dzida",
+                "location": "ANN305"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSM",
+        "course_num": "591",
+        "course_name": "Communication Internship",
+        "units": "(1.0-2.0 units, max 3)",
+        "description": "Field experience in applying communication principles to settings in organizations, campaigns, or other contexts; analysis and assessment of issues and problems.",
+        "sections": [
+            {
+                "section": "21821D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Ben Lee",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21822D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Brad Shipley",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21823D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 25",
+                "instructor": "Daniela Baroffio",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21824D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "David Craig",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21825D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21826D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21827D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21828D",
+                "session": "166",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Ben Lee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSM",
+        "course_num": "596",
+        "course_name": "Final Project Capstone",
+        "units": "(4.0 units)",
+        "description": "Students produce a working site, app or embedded social platform project with digital/multimedia elements. Development includes pitching, conceptualization and launching of the final project.",
+        "sections": [
+            {
+                "section": "21890D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "11 of 20",
+                "instructor": "Marcela Amiune",
+                "location": "ANNL115"
+            },
+            {
+                "section": "21891D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "Jeffrey Hirsch",
+                "location": "ANNL115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSM",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Special Topics in Digital Social Media.",
+        "sections": [
+            {
+                "section": "21897D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "19 of 25",
+                "instructor": "Jeffrey Hirsch",
+                "location": "DMC210"
+            },
+            {
+                "section": "21898D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "9 of 25",
+                "instructor": "Shub A",
+                "location": "ANN409ABC"
+            },
+            {
+                "section": "21899D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "10 of 25",
+                "instructor": "Rafael Bracero",
+                "location": "ANN209"
+            }
+        ]
+    }
+]

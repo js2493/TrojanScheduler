@@ -1,0 +1,67 @@
+[
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "176",
+        "course_name": "Los Angeles: the City, the Novel, the Movie",
+        "units": "(4.0 units)",
+        "description": "An exploration of the culture, vibrance, heritage, mythology, variety, and pathology of a city that was born in hopes and captured the worlds imagination. Duplicates credit in ARLT 101g.",
+        "sections": [
+            {
+                "section": "32750R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 80",
+                "instructor": "Thomas Gustafson",
+                "location": "SOSB2"
+            },
+            {
+                "section": "32751R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "14 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32752R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32753R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32754R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    }
+]

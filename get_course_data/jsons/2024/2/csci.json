@@ -1,0 +1,882 @@
+[
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "170",
+        "course_name": "Discrete Methods in Computer Science",
+        "units": "(4.0 units)",
+        "description": "Sets, functions, series. Big-O notation and algorithm analysis. Propositional and first-order logic. Counting and discrete probability. Graphs and basic graph algorithms. Basic number theory.",
+        "sections": [
+            {
+                "section": "29960R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 975,
+                "days": 10,
+                "registered": "11 of 50",
+                "instructor": "Shaddin Dughmi",
+                "location": "GFS101"
+            },
+            {
+                "section": "29961R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 16,
+                "registered": "11 of 50",
+                "instructor": "",
+                "location": "SSL202"
+            },
+            {
+                "section": "29962R",
+                "session": "051",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "201",
+        "course_name": "Principles of Software Development",
+        "units": "(4.0 units)",
+        "description": "Object-oriented paradigm for programming-in-the-large in Java; writing sophisticated concurrent applications with animation and graphic user interfaces; using professional tools on team project. Prerequisite: CSCI 104L.",
+        "sections": [
+            {
+                "section": "29955R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 785,
+                "days": 30,
+                "registered": "12 of 50",
+                "instructor": "Victor Adamchik",
+                "location": "SSL202"
+            },
+            {
+                "section": "29957R",
+                "session": "050",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29956R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "402",
+        "course_name": "Operating Systems",
+        "units": "(4.0 units)",
+        "description": "Concurrency, deadlock control, synchronization, process and thread scheduling, memory management, file systems, security and access control, communication and networking, distributed file systems, data management. Duplicates credit in CSCI 350.",
+        "sections": [
+            {
+                "section": "29908R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 690,
+                "days": 20,
+                "registered": "15 of 40",
+                "instructor": "William Cheng",
+                "location": "OHE122"
+            },
+            {
+                "section": "29909R",
+                "session": "058",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 670,
+                "days": 32,
+                "registered": "15 of 40",
+                "instructor": "",
+                "location": "OHE122"
+            },
+            {
+                "section": "29910D",
+                "session": "270",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 690,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "William Cheng",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29911R",
+                "session": "270",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 670,
+                "days": 32,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "450",
+        "course_name": "Introduction to Computer Networks",
+        "units": "(4.0 units)",
+        "description": "Network architectures; layered protocols, network service interface; local, wide area, wireless networks; Internet protocols; link protocols; addressing; routing; flow control; software defined network; multimedia networks.",
+        "sections": [
+            {
+                "section": "30502R",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 995,
+                "days": 10,
+                "registered": "16 of 30",
+                "instructor": "Shahin Nazarian",
+                "location": "OHE100B"
+            },
+            {
+                "section": "30506D",
+                "session": "900",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 995,
+                "days": 10,
+                "registered": "10 of 15",
+                "instructor": "Shahin Nazarian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30504R",
+                "session": "054",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "17 of 30",
+                "instructor": "",
+                "location": "OHE100B"
+            },
+            {
+                "section": "30508D",
+                "session": "900",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "9 of 15",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30470R",
+                "session": "054",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "17 of 30",
+                "instructor": "",
+                "location": "GFS207"
+            },
+            {
+                "section": "30473D",
+                "session": "900",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "29937D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "William Halfond",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29938D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "William Halfond",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29982D",
+                "session": "636",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "William Halfond",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "495",
+        "course_name": "Senior Project",
+        "units": "(2.0 units)",
+        "description": "An original project will be constructed applying computer technology (in either hardware or software) to produce a result useful in the physics classroom or laboratory.",
+        "sections": [
+            {
+                "section": "50526D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "501",
+        "course_name": "Numerical Analysis and Computation",
+        "units": "(3.0 units)",
+        "description": "Linear equations and matrices, Gauss elimination, error estimates, iteration techniques; contractive mappings, Newton's method; matrix eigenvalue problems; least-squares approximation, Newton-Cotes and Gaussian quadratures; finite difference methods. Prerequisite: linear algebra and calculus.",
+        "sections": [
+            {
+                "section": "39440R",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 780,
+                "days": 42,
+                "registered": "13 of 30",
+                "instructor": "Gary Rosen",
+                "location": "KAP145"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "526",
+        "course_name": "Advanced Mobile Devices and Game Consoles",
+        "units": "(4.0 units)",
+        "description": "Explore the complex engineering process required to design and build a real-time graphics engine to support physical realism on mobile devices. Recommended preparation: CSCI 420 or CSCI 580 or an equivalent course in graphics.",
+        "sections": [
+            {
+                "section": "29934R",
+                "session": "906",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 20,
+                "registered": "23 of 70",
+                "instructor": "Scott Easley",
+                "location": "GFS116"
+            },
+            {
+                "section": "29980D",
+                "session": "674",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 20,
+                "registered": "0 of 1",
+                "instructor": "Scott Easley",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "559",
+        "course_name": "Machine Learning I: Supervised Methods",
+        "units": "(4.0 units)",
+        "description": "Distribution-free and probabilistic methods for supervised classification and regression; learning algorithms; optimization techniques; feature-space transformations; parametric and nonparametric methods; Bayes decision theory; artificial neural networks.",
+        "sections": [
+            {
+                "section": "30585R",
+                "session": "906",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 28,
+                "registered": "5 of 30",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "OHE120"
+            },
+            {
+                "section": "30589D",
+                "session": "911",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 28,
+                "registered": "2 of 20",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30587R",
+                "session": "906",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "5 of 30",
+                "instructor": "",
+                "location": "OHE120"
+            },
+            {
+                "section": "30590R",
+                "session": "911",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "567",
+        "course_name": "Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for building intelligent and adaptive systems that improve performance from experiences; Focus on theoretical understanding of these methods and their computational implications. Recommended preparation: Undergraduate level training or coursework in linear algebra, multivariate calculus, basic probability and statistics; an undergraduate level course in Artificial Intelligence may be helpful but is not required.",
+        "sections": [
+            {
+                "section": "29922R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 980,
+                "days": 28,
+                "registered": "30 of 40",
+                "instructor": "Victor Adamchik",
+                "location": "RTH109"
+            },
+            {
+                "section": "29923R",
+                "session": "901",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29924R",
+                "session": "901",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29925D",
+                "session": "909",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 980,
+                "days": 28,
+                "registered": "8 of 30",
+                "instructor": "Victor Adamchik",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29926R",
+                "session": "909",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29927R",
+                "session": "909",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "570",
+        "course_name": "Analysis of Algorithms",
+        "units": "(4.0 units)",
+        "description": "Explores fundamental techniques such as recursion, Fourier transform ordering, dynamic programming for efficient algorithm construction. Examples include arithmetic, algebraic, graph, pattern matching, sorting, searching algorithms.",
+        "sections": [
+            {
+                "section": "29928R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 26,
+                "registered": "96 of 120",
+                "instructor": "Shahriar Shamsian",
+                "location": "OHE122"
+            },
+            {
+                "section": "29929R",
+                "session": "902",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "96 of 120",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29930R",
+                "session": "902",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "96 of 120",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29931D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 26,
+                "registered": "31 of 40",
+                "instructor": "Shahriar Shamsian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29932R",
+                "session": "910",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 40",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29933R",
+                "session": "910",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 40",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29970R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 26,
+                "registered": "17 of 100",
+                "instructor": "Shahriar Shamsian",
+                "location": "SLH200"
+            },
+            {
+                "section": "29971R",
+                "session": "902",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29972R",
+                "session": "902",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "585",
+        "course_name": "Database Systems",
+        "units": "(4.0 units)",
+        "description": "Database system architecture; conceptual database models; semantic, object-oriented, logic-based, and relational databases; user and program interfaces; database system implementation; integrity, security, concurrency and recovery. Recommended preparation: Knowledge of relational databases, SQL, relational algebra and physical database design is required. Open only to graduate students.",
+        "sections": [
+            {
+                "section": "29916R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 935,
+                "days": 30,
+                "registered": "49 of 70",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "OHE122"
+            },
+            {
+                "section": "29917R",
+                "session": "901",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "49 of 70",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29918R",
+                "session": "901",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "49 of 70",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29919D",
+                "session": "909",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 935,
+                "days": 30,
+                "registered": "34 of 35",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29920R",
+                "session": "909",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 35",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29921R",
+                "session": "909",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 35",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29939D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Stefanos Nikolaidis",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29940D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "Stefanos Nikolaidis",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29941D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29942D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29943D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29944D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 35",
+                "instructor": "Emilio Ferrara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29945D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 30",
+                "instructor": "Emilio Ferrara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29946D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29947R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29948R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29949R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CSCI",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29950R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

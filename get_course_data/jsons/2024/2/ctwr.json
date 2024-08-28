@@ -1,0 +1,98 @@
+[
+    {
+        "term": "20242",
+        "department": "CTWR",
+        "course_number": "212",
+        "course_name": "Fundamental Topics of Writing for Film and TV",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Introductory course focusing on varying topics of fundamentals for feature writing and television writing.",
+        "sections": [
+            {
+                "section": "19155D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 800,
+                "days": 10,
+                "registered": "7 of 16",
+                "instructor": "Deborah Seibel",
+                "location": "SCA342"
+            },
+            {
+                "section": "19322D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "5 of 16",
+                "instructor": "Avi Glick",
+                "location": "SCA363"
+            },
+            {
+                "section": "19305D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "6 of 12",
+                "instructor": "Beverly Neufeld",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTWR",
+        "course_number": "401",
+        "course_name": "Writing the First Draft Feature Screenplay",
+        "units": "(4.0 units, max 8)",
+        "description": "Writing an outline and the first draft of a feature-length screenplay. Emphasis on character interrelationships, conflict, and three-act structure.",
+        "sections": [
+            {
+                "section": "19154D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 42,
+                "registered": "5 of 8",
+                "instructor": "Beverly Neufeld",
+                "location": "SCA362"
+            },
+            {
+                "section": "19209D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "7 of 8",
+                "instructor": "Siavash Farahani",
+                "location": "SCB304"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTWR",
+        "course_number": "422",
+        "course_name": "Creating the Dramatic Television Series",
+        "units": "(2.0 units, max 4)",
+        "description": "Examination and creation of the world, characters, and concept for an original hour-long dramatic series. Writing an outline for an original dramatic pilot.",
+        "sections": [
+            {
+                "section": "19230D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "11 of 12",
+                "instructor": "Deborah Seibel",
+                "location": "SCA342"
+            }
+        ]
+    }
+]

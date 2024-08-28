@@ -1,0 +1,86 @@
+[
+    {
+        "term": "20242",
+        "department": "PCPA",
+        "course_number": "561",
+        "course_name": "Clinical Assignment I",
+        "units": "(3.5 units)",
+        "description": "One discrete consecutive six-week long, five-day-a-week intensive field placement under a program approved supervising preceptor in a program-approved clinical setting. Requires departmental approval. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41266R",
+                "session": "189",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "Janice Tramel,Mitzi D'Aquila,Chloe Powell,Darryl Mayo,Alberto Vallejo,Naomie Novelo",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PCPA",
+        "course_number": "564A",
+        "course_name": "Clinical Assignment IV",
+        "units": "(3.5 units)",
+        "description": "One discrete consecutive six-week long, five-day-a-week intensive field placement under a program approved supervising preceptor in a program-approved clinical setting. Requires departmental approval. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41277R",
+                "session": "189",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Janice Tramel,Naomie Novelo,Chloe Powell,Darryl Mayo,Mitzi D'Aquila,Alberto Vallejo",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PCPA",
+        "course_number": "564B",
+        "course_name": "Clinical Assignment IV",
+        "units": "(0.0 units)",
+        "description": "One discrete consecutive six-week long, five-day-a-week intensive field placement under a program approved supervising preceptor in a program-approved clinical setting. Requires departmental approval. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41278R",
+                "session": "189",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "59 of 60",
+                "instructor": "Mitzi D'Aquila,Janice Tramel,Alberto Vallejo,Chloe Powell,Darryl Mayo,Naomie Novelo,David Erceg",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PCPA",
+        "course_number": "565B",
+        "course_name": "Clinical Assignment V",
+        "units": "(0.0 units)",
+        "description": "One discrete consecutive six-week long, five-day-a-week intensive field placement under a program approved supervising preceptor in a program-approved clinical setting. Requires departmental approval. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41285R",
+                "session": "189",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "59 of 60",
+                "instructor": "Mitzi D'Aquila,Janice Tramel,Alberto Vallejo,Chloe Powell,Darryl Mayo,Naomie Novelo,David Erceg",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

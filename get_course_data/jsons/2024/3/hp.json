@@ -1,0 +1,455 @@
+[
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "200",
+        "course_name": "Introduction to Health Promotion and Disease Prevention",
+        "units": "(4.0 units)",
+        "description": "Introduction to strategies for promoting health and wellness. Includes self monitoring of health risk behavior, goal setting, and behavior changes.",
+        "sections": [
+            {
+                "section": "40551R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "73 of 73",
+                "instructor": "Daniel Soto",
+                "location": "ZHS352"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "230",
+        "course_name": "Nutrition and Health",
+        "units": "(4.0 units)",
+        "description": "Nutrition as it relates to health promotion across the lifespan and disease prevention. Discussion of nutrients, factors affecting food choices, food safety and global nutrition issues.",
+        "sections": [
+            {
+                "section": "40552R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "20 of 40",
+                "instructor": "Pari Mokhtari",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "270",
+        "course_name": "Introduction to Global Health",
+        "units": "(4.0 units)",
+        "description": "Introduction to concepts of global health and disease control. Issues of globalization, global governance, emerging diseases, infectious disease treatment, and outbreak challenges.",
+        "sections": [
+            {
+                "section": "40572R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "40 of 40",
+                "instructor": "Laura Ferguson",
+                "location": "WPH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "290",
+        "course_name": "Introduction to Research Apprenticeship",
+        "units": "(2.0 units, max 8)",
+        "description": "Individual research apprenticeship in health related fields under supervision of a departmental faculty member. Graded CR/NC. Departmental approval.",
+        "sections": [
+            {
+                "section": "40557D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "0 of 25",
+                "instructor": "Roksana Karim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "300",
+        "course_name": "Principles of Human Behavior",
+        "units": "(4.0 units)",
+        "description": "Overview and analysis of human behavior and the influences of behavior on health and disease.",
+        "sections": [
+            {
+                "section": "40558R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "42 of 44",
+                "instructor": "David Black",
+                "location": "GFS207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "320",
+        "course_name": "Biological and Behavioral Basis of Disease",
+        "units": "(4.0 units)",
+        "description": "Examination of the major systems of the human body; disease processes and behavioral risk factors.",
+        "sections": [
+            {
+                "section": "40560R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "28 of 45",
+                "instructor": "Ashley Bennett",
+                "location": "THH118"
+            },
+            {
+                "section": "40564R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "39 of 45",
+                "instructor": "Ashley Bennett",
+                "location": "KAP156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "340",
+        "course_name": "Health Behavior Statistical Methods",
+        "units": "(4.0 units)",
+        "description": "Intermediate statistics for health behavior studies; topics include descriptive statistics, hypothesis testing, correlation and regression, and use of computer software in data analysis.",
+        "sections": [
+            {
+                "section": "40567R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Sue Ingles",
+                "location": "WPHB28"
+            },
+            {
+                "section": "40574R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "45 of 45",
+                "instructor": "Dayoung Bae",
+                "location": "THH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "350",
+        "course_name": "Health Behavior Research Methods",
+        "units": "(4.0 units)",
+        "description": "Introduction to the design, conduct and evaluation of health behavior research studies; quantitative and qualitative approaches to research and analysis. Recommended preparation: HP 340L",
+        "sections": [
+            {
+                "section": "40556R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "29 of 35",
+                "instructor": "Artur Galimov",
+                "location": "WPH103"
+            },
+            {
+                "section": "40569R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "30 of 30",
+                "instructor": "Armine Lulejian",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "365",
+        "course_name": "Culture, Lifestyle, and Health",
+        "units": "(4.0 units)",
+        "description": "Comparison of national and international differences in health status as influenced by cultural practices and lifestyles within geographic, economic, and political environments.",
+        "sections": [
+            {
+                "section": "40594D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "42 of 43",
+                "instructor": "Heather Wipfli",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "370",
+        "course_name": "Introduction to Epidemiology: Methods and Applications",
+        "units": "(4.0 units)",
+        "description": "Examines the primary goals and methods of epidemiology, the study of factors that influence health and disease in individuals and populations.",
+        "sections": [
+            {
+                "section": "40566R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Mariana Stern",
+                "location": "SOSB46"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "408",
+        "course_name": "Environmental Health in the Community",
+        "units": "(4.0 units)",
+        "description": "Survey of occupational and environmental health. Introduction to epidemiology, exposure assessment, toxicology, policy development, risk assessment, and effects of urban development on health.",
+        "sections": [
+            {
+                "section": "40570R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "12 of 48",
+                "instructor": "Khandaker Islam",
+                "location": "DMC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "420",
+        "course_name": "Gender and Minority Health Issues",
+        "units": "(4.0 units)",
+        "description": "Examines the nature and roots of health disparities among women,men, and different ethnic and age groups; methods for reducing such disparities; strategies for prevention services.",
+        "sections": [
+            {
+                "section": "40571R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "28 of 37",
+                "instructor": "Claradina Soto",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "421",
+        "course_name": "Violence as a Public Health Issue",
+        "units": "(4.0 units)",
+        "description": "Patterns and prevalence of violence; psychosoical, environmental, and biological influences on violent behavior; youth gangs; drugs and violence; family violence; and prevention and intervention strategies.",
+        "sections": [
+            {
+                "section": "40573R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "40 of 50",
+                "instructor": "Panayiota Courelli",
+                "location": "GFS116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "430",
+        "course_name": "Obesity and Health",
+        "units": "(4.0 units)",
+        "description": "Examination of causes and consequences of obesity, with emphasis on health risks of type II diabetes and cardiovascular disease. Recommended preparation: HP 230.",
+        "sections": [
+            {
+                "section": "40576R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "16 of 32",
+                "instructor": "Shana Adise",
+                "location": "THH215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "442",
+        "course_name": "Chronic Disease Epidemiology",
+        "units": "(4.0 units)",
+        "description": "Overview of causative factors and demographic distributions of the major chronic diseases in the western world; edpidemiologic concepts and research designs. Recommended preparation: HP 320",
+        "sections": [
+            {
+                "section": "40578R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "24 of 35",
+                "instructor": "Ph.D. Hartiala",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "443",
+        "course_name": "Communicating Better Health: What Works and Why",
+        "units": "(4.0 units)",
+        "description": "How communication -- interpersonal, mass media, information technologies -- shapes health behavior. Topics: doctor-patient consults; marketing campaigns; health in entertainment, news; internet; social media; mobile devices.",
+        "sections": [
+            {
+                "section": "20657R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Nazli Offringa",
+                "location": "ANNL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "450",
+        "course_name": "Traditional Eastern Medicine and Modern Health",
+        "units": "(4.0 units)",
+        "description": "Overview of traditional Eastern approaches toward health and disease; relevance to modern health issues, emphasizing a comparison between traditional Chinese and modern Western medicine. Recommended preparation: Fundamentals of Medicine",
+        "sections": [
+            {
+                "section": "40584R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "16 of 35",
+                "instructor": "S. Prasad Vinjamury,Jenny Yu",
+                "location": "THH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "460",
+        "course_name": "Adolescent Health",
+        "units": "(4.0 units)",
+        "description": "Survey of the development of healthy and the prevention of health-risk behaviors during adolescence. Prevention and promotion techniques will be explored emphasizing cultural differences.",
+        "sections": [
+            {
+                "section": "40586R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "36 of 55",
+                "instructor": "Panayiota Courelli",
+                "location": "SOSB44"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "483",
+        "course_name": "Global Health and Aging",
+        "units": "(4.0 units)",
+        "description": "Examines global health in developed and developing countries in the context of population aging, including HIV/AIDS, malaria, obesity, inequality, global institutions, healthcare systems and drugs/pharmaceuticals.",
+        "sections": [
+            {
+                "section": "36257R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 820,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Aaron Hagedorn",
+                "location": "GER230"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Open to HP majors only. Recommended preparation: HP 350L",
+        "sections": [
+            {
+                "section": "40585D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "12 of 85",
+                "instructor": "Roksana Karim",
+                "location": "THH202"
+            }
+        ]
+    }
+]

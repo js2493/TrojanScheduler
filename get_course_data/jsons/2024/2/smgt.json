@@ -1,0 +1,170 @@
+[
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "500",
+        "course_name": "Introduction to Sustainability",
+        "units": "(2.0 units)",
+        "description": "History and evolution of sustainability, including definitions, models and policies relevant to current global sustainability and advocacy.",
+        "sections": [
+            {
+                "section": "70800D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "10 of 30",
+                "instructor": "Victoria Petryshyn",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "505",
+        "course_name": "Sustainability Fundamentals",
+        "units": "(2.0 units)",
+        "description": "Evolution of business sustainability; environmental, social and governance (ESG) performance; and the United Nations Sustainable Development Goals (SDGs).",
+        "sections": [
+            {
+                "section": "70808D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "10 of 30",
+                "instructor": "Duncan Jepson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "510",
+        "course_name": "Business Strategy for a Sustainable World",
+        "units": "(2.0 units)",
+        "description": "Business strategies, practices, and performance metrics that champion sustainability as part of organizational purpose.",
+        "sections": [
+            {
+                "section": "70816D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "14 of 30",
+                "instructor": "Aditi Joshi",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "515",
+        "course_name": "Leading Organizational Transformation for Sustainability",
+        "units": "(2.0 units)",
+        "description": "Organizational transformation through integration of sustainability into values, culture, leadership, talent, workflow and strategy.",
+        "sections": [
+            {
+                "section": "70824D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "14 of 30",
+                "instructor": "Danika Tynes",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "520",
+        "course_name": "Sustainable Supply and Global Value Chains",
+        "units": "(2.0 units)",
+        "description": "Sustainable management of supply chains and global value chains to increase benefits to business, the environment and society.",
+        "sections": [
+            {
+                "section": "70832D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "9 of 30",
+                "instructor": "Duncan Jepson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "525",
+        "course_name": "The Circular Economy and Sustainable Design",
+        "units": "(2.0 units)",
+        "description": "Interrelationship of circular economy and sustainable design strategies to reduce waste and negative social and environmental impacts.",
+        "sections": [
+            {
+                "section": "70840D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "9 of 30",
+                "instructor": "Monalisa Chatterjee",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "530",
+        "course_name": "Sustainable Finance and Capital Markets",
+        "units": "(2.0 units)",
+        "description": "Sustainable investment and finance strategies for both investors and companies.",
+        "sections": [
+            {
+                "section": "70848D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "9 of 30",
+                "instructor": "Leonard Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SMGT",
+        "course_number": "535",
+        "course_name": "Business Strategies for Addressing Climate Change",
+        "units": "(2.0 units)",
+        "description": "Principles of climate science and the role of business in mitigating the effects of a changing climate.",
+        "sections": [
+            {
+                "section": "70856D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "9 of 30",
+                "instructor": "Aditi Joshi",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "593B",
+        "course_name": "Capstone Project",
+        "units": "(2.0 units)",
+        "description": "Independent study to prepare an oral defense of the Capstone project.",
+        "sections": [
+            {
+                "section": "24678D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Mina Habibian,Rebecca Ortiz Bodensteiner,Kristine Parungao,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "704",
+        "course_name": "Environmental Health Sciences",
+        "units": "(3.0 units)",
+        "description": "Environmental factors affecting community health and evidence-based approaches to control or reduce the risks of these health problems.",
+        "sections": [
+            {
+                "section": "24660D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Mina Habibian,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24675D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Mina Habibian,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "711",
+        "course_name": "Practicum 1",
+        "units": "(1.0 unit)",
+        "description": "Provides the opportunity to apply acquired competencies to real world settings to improve health promotion and disease prevention.",
+        "sections": [
+            {
+                "section": "24677D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 6",
+                "instructor": "Mina Habibian,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "712",
+        "course_name": "Practicum 2",
+        "units": "(1.0 unit)",
+        "description": "Incorporates a service learning approach involving a partnership between the student, community organization and designated faculty or research team members.",
+        "sections": [
+            {
+                "section": "24682D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 5",
+                "instructor": "Mina Habibian,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "715",
+        "course_name": "Community Health Practice Standards",
+        "units": "(2.0 units)",
+        "description": "Standards of practice, regulations, policies and ethical principles that affect healthcare providers, payers and other stakeholders in community healthcare settings.",
+        "sections": [
+            {
+                "section": "24679D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24683D",
+                "session": "366",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Rebecca Ortiz Bodensteiner,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "716",
+        "course_name": "Healthcare Communication Technology",
+        "units": "(2.0 units)",
+        "description": "Emerging technology for patient and professional health-related education and applications for patient access to care.",
+        "sections": [
+            {
+                "section": "24680D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 12",
+                "instructor": "Mariela Padilla,Mina Habibian,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24684D",
+                "session": "366",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Mariela Padilla,Mina Habibian,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "COH",
+        "course_number": "717",
+        "course_name": "Practicum 3",
+        "units": "(1.0 unit)",
+        "description": "Participation in a multidisciplinary team; collection of community health data to build a plan for sustainability and maintenance.",
+        "sections": [
+            {
+                "section": "24681D",
+                "session": "848",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Mina Habibian,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

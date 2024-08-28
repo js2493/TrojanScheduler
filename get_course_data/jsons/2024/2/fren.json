@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "FREN",
+        "course_number": "020",
+        "course_name": "Course in Reading French I",
+        "units": "(2.0 units)",
+        "description": "For graduate students who wish help in meeting the French reading requirement for the Ph.D. degree. Synoptic presentation of French grammar. Emphasis on development of reading skills. Not available for degree credit. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "34205D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 10,
+                "registered": "12 of 12",
+                "instructor": "Guilan Siassi",
+                "location": "DMC208 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "FREN",
+        "course_number": "220",
+        "course_name": "French III",
+        "units": "(4.0 units)",
+        "description": "Continuation of FREN 150. Review of structural patterns of French; selected cultural and literary readings; conversation and composition.",
+        "sections": [
+            {
+                "section": "34352R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "8 of 16",
+                "instructor": "Rania Ben Amor",
+                "location": "DMC208 & ONLINE"
+            }
+        ]
+    }
+]

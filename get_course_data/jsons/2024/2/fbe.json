@@ -1,0 +1,118 @@
+[
+    {
+        "term": "20242",
+        "department": "FBE",
+        "course_number": "527",
+        "course_name": "Entrepreneurial Finance: Financial Management for Developing Firms",
+        "units": "(3.0 units)",
+        "description": "Internal financial management of developing firms. Cash flow analysis; capital budgeting; sources of financing; risk analysis; measurement of profits; and mergers and acquisitions.",
+        "sections": [
+            {
+                "section": "15395R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "27 of 35",
+                "instructor": "Duke Bristow",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "FBE",
+        "course_number": "540",
+        "course_name": "Hedge Funds",
+        "units": "(3.0 units)",
+        "description": "Introduction to the investment strategies used by hedge funds, the quantitative tools and business plans used to implement them. Prerequisites: GSBA 521b or GSBA 548. Recommended preparation: Statistics and Calculus.",
+        "sections": [
+            {
+                "section": "15413R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "45 of 60",
+                "instructor": "Mick Swartz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "FBE",
+        "course_number": "588",
+        "course_name": "Real Estate Law and Transactions",
+        "units": "(3.0 units)",
+        "description": "Introduction to legal aspects of real estate. Real property rights; co-ownership; acquiring, financing, and restructuring; leasing; insuring land use and taxation issues; and construction law. Duplicates credit in RED 562.",
+        "sections": [
+            {
+                "section": "15470R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "20 of 35",
+                "instructor": "Kerry Fields",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "FBE",
+        "course_number": "593",
+        "course_name": "Independent Research in Finance or Business Economics",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "15478D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "FBE",
+        "course_number": "595",
+        "course_name": "Internship in Finance or Business Economics",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest. (Curricular Practical Training.) Graded CR/NC.",
+        "sections": [
+            {
+                "section": "15481D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "25 of 26",
+                "instructor": "Rahsan Akbulut,Shane Shepherd,Julia Plotts",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15482D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 40",
+                "instructor": "Rahsan Akbulut,Shane Shepherd,Julia Plotts",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

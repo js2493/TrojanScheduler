@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20243",
+        "department": "OFP",
+        "course_num": "706",
+        "course_name": "TMD, Orthopedics, Rheumatology, and Physical Therapy",
+        "units": "(2.0 units)",
+        "description": "Prevalence, differential diagnosis, prevention and management for the common and uncommon temporomandibular, arthrogenous, motor, mobility and growth disorders occurring in the oral region.",
+        "sections": [
+            {
+                "section": "24557D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 20",
+                "instructor": "Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OFP",
+        "course_num": "707",
+        "course_name": "Pharmacology Series",
+        "units": "(2.0 units)",
+        "description": "Educate dental graduate students about the general pharmacologic principles and appropriate use of specific pharmaco-therapeutic classes of drugs.",
+        "sections": [
+            {
+                "section": "24556D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OFP",
+        "course_num": "730A",
+        "course_name": "Case Portfolio Preparation",
+        "units": "(0.5 units)",
+        "description": "Case portfolio preparation with weekly online presentations and discussions of de-identified patient cases.",
+        "sections": [
+            {
+                "section": "24558D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OFP",
+        "course_num": "730B",
+        "course_name": "Case Portfolio Preparation",
+        "units": "(0.5 units)",
+        "description": "Case portfolio preparation with weekly online presentations and discussions of de-identified patient cases.",
+        "sections": [
+            {
+                "section": "24559D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OFP",
+        "course_num": "730C",
+        "course_name": "Case Portfolio Preparation",
+        "units": "(0.5 units)",
+        "description": "Case portfolio preparation with weekly online presentations and discussions of de-identified patient cases.",
+        "sections": [
+            {
+                "section": "24560D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 6",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

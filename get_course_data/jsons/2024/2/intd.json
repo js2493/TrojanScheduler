@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20242",
+        "department": "INTD",
+        "course_number": "500",
+        "course_name": "Ethics and Accountability in Biomedical Research",
+        "units": "(1.0 unit)",
+        "description": "The purpose of this course is to engage current (and potential) research trainees in discussions about the responsible conduct of science. The course is designed as an option for meeting current federal regulations which require that all predoctoral and postdoctoral fellows paid from federal contracts and grants have a component of ethical training. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40681D",
+                "session": "465",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 62,
+                "registered": "67 of 70",
+                "instructor": "Carol Lin,Axel Schonthal",
+                "location": "MCH149"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "INTD",
+        "course_number": "620",
+        "course_name": "Medical Students Elective Program",
+        "units": "(0.0 units)",
+        "description": "Opportunities for Medical students as preceptors, in research laboratories or in field medical services under guidance of sponsors approved by faculty committees. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40650R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 30",
+                "instructor": "Brian Lee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "INTD",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40675D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ite Offringa",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

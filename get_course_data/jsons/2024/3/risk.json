@@ -1,0 +1,97 @@
+[
+    {
+        "term": "20243",
+        "department": "RISK",
+        "course_num": "380",
+        "course_name": "Introduction to Enterprise Risk Management",
+        "units": "(4.0 units)",
+        "description": "Understand the concept of risk, risk assessment, and management frameworks. Learn to identify, analyze, manage and mitigate, and communicate this risk to stakeholders. Duplicates credit in the former ACCT 380.",
+        "sections": [
+            {
+                "section": "16850R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "21 of 36",
+                "instructor": "Kristen Jaconi",
+                "location": "ACC236"
+            },
+            {
+                "section": "16851R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "31 of 36",
+                "instructor": "Kristen Jaconi",
+                "location": "ACC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RISK",
+        "course_num": "385",
+        "course_name": "Introduction to Risk Management and Insurance",
+        "units": "(4.0 units)",
+        "description": "Understand the underlying economics, structure, and business models of an organization (often an insurance carrier) willing to accept risk for diverse situations: property, life, healthcare. Duplicates credit in the former ACCT 385.",
+        "sections": [
+            {
+                "section": "16855R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "32 of 36",
+                "instructor": "Ward Ching",
+                "location": "ACC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RISK",
+        "course_num": "387",
+        "course_name": "Risk Management in Entertainment, Sports and the Arts",
+        "units": "(4.0 units)",
+        "description": "Knowledge and skills needed to identify, analyze, control, finance and report on the risks particular to entertainment, sports and the arts. Duplicates credit in the former ACCT 387.",
+        "sections": [
+            {
+                "section": "16857R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 36",
+                "instructor": "Gordon Ho",
+                "location": "ACC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RISK",
+        "course_num": "580",
+        "course_name": "Advanced Enterprise Risk Management",
+        "units": "(3.0 units)",
+        "description": "The practical application of enterprise risk management across a broad spectrum of business settings and industry types, from start-up to multinational organizations.",
+        "sections": [
+            {
+                "section": "16880R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "23 of 34",
+                "instructor": "Kiko Harvey",
+                "location": "ACC201"
+            }
+        ]
+    }
+]

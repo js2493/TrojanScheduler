@@ -1,0 +1,149 @@
+[
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "511",
+        "course_name": "Introduction to Medical Product Regulation",
+        "units": "(3.0 units)",
+        "description": "Introduction to regulatory environments surrounding medical product development, manufacturing and marketing; operation of federal, state and international regulatory bodies. Recommended preparation: undergraduate degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience.",
+        "sections": [
+            {
+                "section": "48811D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "512",
+        "course_name": "Regulation of Pharmaceutical and Biological Products",
+        "units": "(3.0 units)",
+        "description": "Ensuring safety and effectiveness of new drugs and biologics; marketing and monitoring approved pharmaceutical/biological products; management of genetically engineering products. Recommended preparation: undergraduate degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience.",
+        "sections": [
+            {
+                "section": "48820D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 50",
+                "instructor": "Nancy Pire-Smerkanich,Eunjoo Pacifici,Tony Succar",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "513",
+        "course_name": "Regulation of Medical Devices and Diagnostics",
+        "units": "(3.0 units)",
+        "description": "Development and testing of new medical products according to U.S. and international regulatory requirements. Recommended preparation: undergraduate degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience; enrollment in M.S., Regulatory Science or departmental approval.",
+        "sections": [
+            {
+                "section": "48813D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 50",
+                "instructor": "Susan Bain,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "514",
+        "course_name": "Regulation of Food and Dietary Supplements",
+        "units": "(3.0 units)",
+        "description": "Regulation and testing of foods, food additives and dietary supplements in the U.S. and abroad. Recommended preparation: undergraduate degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience.",
+        "sections": [
+            {
+                "section": "48814D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 50",
+                "instructor": "Roger Clemens,Eunjoo Pacifici,Tony Succar",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "515",
+        "course_name": "Quality Systems and Standards",
+        "units": "(3.0 units)",
+        "description": "Principles of quality assurance and quality control for medical-product development and manufacture. Recommended preparation: undergraduate degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience.",
+        "sections": [
+            {
+                "section": "48815D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 50",
+                "instructor": "Susan Bain,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "517",
+        "course_name": "Structure and Management of Clinical Trials",
+        "units": "(4.0 units)",
+        "description": "Development and execution of clinical trials: bioethical principles, good clinical practices, project management and documentation.",
+        "sections": [
+            {
+                "section": "48817D",
+                "session": "679",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 50",
+                "instructor": "Nancy Pire-Smerkanich,Terry Church,Eunjoo Pacifici,Tony Succar",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPTX",
+        "course_number": "630",
+        "course_name": "Directed Field-Research Project",
+        "units": "(6.0 units)",
+        "description": "Research/policy analysis conducted under preceptor supervision in an industrial or governmental setting. Open to students who have completed the majority of course credits in the Regulatory Science program. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "48830D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Eunjoo Pacifici,Nancy Pire-Smerkanich,Susan Bain",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

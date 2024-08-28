@@ -1,0 +1,1059 @@
+[
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "222",
+        "course_name": "Trojan Marching Band",
+        "units": "(1.0 unit)",
+        "description": "Rehearsal and participation in performances for athletic andother university functions. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 0,
+                "registered": "27 of 80",
+                "instructor": "Jacob Vogel",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "305",
+        "course_name": "Vocal Jazz Ensemble",
+        "units": "(1.0 unit)",
+        "description": "Study and performance of vocal ensemble literature from the Jazz idiom, with emphasis on improvisational techniques. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43705D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "0 of 20",
+                "instructor": "Katie Thiroux",
+                "location": "TMCG128"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "307",
+        "course_name": "University Chorus",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and performance of choral literature from all periods of music history. Open to all students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "17 of 60",
+                "instructor": "Tram Sparks",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "308",
+        "course_name": "USC Apollo Chorus",
+        "units": "(1.0 units, max 8)",
+        "description": "The USC Apollo Chorus, a choir open to all students, faculty, and staff of any gender, performs tenor/bass repertoire.",
+        "sections": [
+            {
+                "section": "43715R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "5 of 60",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "310",
+        "course_name": "University Concert Choir",
+        "units": "(1.0 units, max 8)",
+        "description": "Performance of choral works of all styles and periods. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43725D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 0,
+                "registered": "0 of 60",
+                "instructor": "Cristian Grases",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "311",
+        "course_name": "USC Oriana Choir",
+        "units": "(1.0 units, max 8)",
+        "description": "The USC Oriana Choir, a choir open to all students, faculty, and staff of any gender, performs treble repertoire.",
+        "sections": [
+            {
+                "section": "43730R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "1 of 60",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "312",
+        "course_name": "Chamber Singers",
+        "units": "(1.0 units, max 8)",
+        "description": "Performance of choral music and choral masterworks from the 16th century to the present.",
+        "sections": [
+            {
+                "section": "43735D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 42,
+                "registered": "0 of 25",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "314",
+        "course_name": "Opera Chorus",
+        "units": "(1.0 units, max 8)",
+        "description": "Study and performance of operatic choruses and extended ensembles of all styles and periods. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43740D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "0 of 20",
+                "instructor": "Brent McMunn,Ken Cazan",
+                "location": "MUS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "320",
+        "course_name": "USC Symphony",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and performance of orchestra repertoire. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43745D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "17 of 60",
+                "instructor": "Sharon Lavery",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "322",
+        "course_name": "Trojan Marching Band",
+        "units": "(1.0 units, max 4)",
+        "description": "Continuation of MUEN 222. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43755R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 0,
+                "registered": "7 of 80",
+                "instructor": "Jacob Vogel",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "323",
+        "course_name": "University Wind Ensemble",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and participation in concert programs. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43760D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "30 of 70",
+                "instructor": "Sharon Lavery",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "325",
+        "course_name": "Wind and Percussion Chamber Music",
+        "units": "(1.0 units, max 8)",
+        "description": "Performance of chamber music for wind and percussion instruements. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43770D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 70",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            },
+            {
+                "section": "43771D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 70",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "326",
+        "course_name": "Guitar Ensemble",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and performance of literature composed, transcribed and arranged for small guitar ensembles, including literature for small ensembles of guitar and other instruments, as well as voice. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43774D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "11 of 20",
+                "instructor": "William Kanengiser,Scott Tennant",
+                "location": "BMH100"
+            },
+            {
+                "section": "43776D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 30",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "327",
+        "course_name": "String Chamber Music",
+        "units": "(1.0 units, max 8)",
+        "description": "Preparation and performance of small ensemble literature for strings. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43800D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 30",
+                "instructor": "Seth Woods",
+                "location": "RHM104"
+            },
+            {
+                "section": "43801D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "328",
+        "course_name": "Keyboard Collaboration",
+        "units": "(1.0 units, max 4)",
+        "description": "Preparation and performance of literature for piano with voice and string, woodwind, brass and percussion instruments. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43804D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "329",
+        "course_name": "Jazz Ensemble",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and performance of literature written for large jazz ensemble.",
+        "sections": [
+            {
+                "section": "43812D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 30",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG128"
+            },
+            {
+                "section": "43815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "0 of 30",
+                "instructor": "Jason Goldman",
+                "location": "TMCG128"
+            },
+            {
+                "section": "43818D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "0 of 30",
+                "instructor": "Jon Hatamiya",
+                "location": "TMCG128"
+            },
+            {
+                "section": "43821D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 8",
+                "instructor": "Jon Hatamiya",
+                "location": "TMCG131"
+            },
+            {
+                "section": "43824D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "330",
+        "course_name": "Contemporary Music Ensemble",
+        "units": "(1.0 units, max 8)",
+        "description": "Performance of 20th-century music; readings of student and faculty compositions; experimental music; guest conductors, composers, performers; annual concert series. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43830D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "0 of 20",
+                "instructor": "Donald Crockett",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "331",
+        "course_name": "Guitar Big Band",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and preparation of big band literature adapted for large guitar ensemble. Guitarists perform in place of the traditional trumpet, trombone and sax sections. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43832D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "332",
+        "course_name": "Jazz Chamber Music",
+        "units": "(1.0 units, max 8)",
+        "description": "Preparation and performance of literature for jazz chamber groups. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43835D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 70",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "344",
+        "course_name": "Vocal Chamber Music",
+        "units": "(1.0 units, max 8)",
+        "description": "Study of solo ensemble vocal literature such as duets, trios, quartets, madrigals, etc. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43845D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 16",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "350",
+        "course_name": "Early Music Ensemble",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and performance of vocal and instrumental ensemble music of the Renaissance and Baroque, with emphasis on chamber music for solo voices and bowed and plucked strings. Instrumentalists are required to perform on either their own or the School's historical instruments. Open to all students by audition. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43855D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 10",
+                "instructor": "Rotem Gilbert",
+                "location": "UGW120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "505",
+        "course_name": "Vocal Jazz Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Study and performance of vocal ensemble literature from the Jazz idiom, with emphasis on improvisational techniques. Open to all graduate students by audition. (Duplicates credit in MUEN 405.)",
+        "sections": [
+            {
+                "section": "43870D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "0 of 20",
+                "instructor": "Katie Thiroux",
+                "location": "TMCG128"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "507",
+        "course_name": "University Chorus",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and performance of choral literature from all periods of music history. Open to all graduate students.",
+        "sections": [
+            {
+                "section": "43875R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "1 of 60",
+                "instructor": "Tram Sparks",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "508",
+        "course_name": "USC Apollo Chorus",
+        "units": "(1.0 units, max 4)",
+        "description": "The USC Apollo Chorus, a choir open to all students, faculty, and staff of any gender, performs tenor/bass repertoire.",
+        "sections": [
+            {
+                "section": "43880R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "0 of 60",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "510",
+        "course_name": "University Concert Choir",
+        "units": "(1.0 units, max 4)",
+        "description": "Performance of choral works of all styles and periods. Open to all graduate students by audition. (Duplicates credit in MUEN 410.)",
+        "sections": [
+            {
+                "section": "43886D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 0,
+                "registered": "0 of 60",
+                "instructor": "Cristian Grases",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "511",
+        "course_name": "USC Oriana Choir",
+        "units": "(1.0 units, max 4)",
+        "description": "The USC Oriana Choir, a choir open to all students, faculty, and staff of any gender, performs treble repertoire.",
+        "sections": [
+            {
+                "section": "43890R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "0 of 60",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "512",
+        "course_name": "Chamber Singers",
+        "units": "(1.0 units, max 4)",
+        "description": "Performance of Choral Music and choral masterworks from the 16th century to the present.",
+        "sections": [
+            {
+                "section": "43896D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 42,
+                "registered": "0 of 25",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "514",
+        "course_name": "Opera Chorus",
+        "units": "(1.0 units, max 4)",
+        "description": "Study and performance of operatic choruses and extended ensembles of all styles and periods. Open to all graduate students by audition. (Duplicates credit in MUEN 414.)",
+        "sections": [
+            {
+                "section": "43899D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "0 of 20",
+                "instructor": "Brent McMunn,Ken Cazan",
+                "location": "MUS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "520",
+        "course_name": "USC Symphony",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and performance of orchestra repertoire. Open to all graduate students by audition. (Duplicates credit in MUEN 420.)",
+        "sections": [
+            {
+                "section": "43902D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "18 of 100",
+                "instructor": "Sharon Lavery",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "523",
+        "course_name": "University Wind Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and participation in concert programs. Open to all graduate students by audition. (Duplicates credit in MUEN 423.)",
+        "sections": [
+            {
+                "section": "43908D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "31 of 100",
+                "instructor": "Sharon Lavery",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "525",
+        "course_name": "Wind and Percussion Chamber Music",
+        "units": "(1.0 units, max 4)",
+        "description": "Performance of chamber music for wind and percussion instruments. Open to all students by audition. (Duplicates credit in MUEN 425.)",
+        "sections": [
+            {
+                "section": "43918D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 40",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            },
+            {
+                "section": "43919D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "526",
+        "course_name": "Guitar Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and performance of literature composed, transcribed and arranged for small ensembles, including literature for small ensembles of guitar and other instruments, as well as voice. (Duplicates credit in MUEN 426.)",
+        "sections": [
+            {
+                "section": "43922D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "2 of 20",
+                "instructor": "William Kanengiser,Scott Tennant",
+                "location": "BMH100"
+            },
+            {
+                "section": "43926D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 25",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "527",
+        "course_name": "String Chamber Music",
+        "units": "(1.0 units, max 4)",
+        "description": "Preparation and performance of small ensemble literature for strings. (Duplicates credit in MUEN 427.)",
+        "sections": [
+            {
+                "section": "43942D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 30",
+                "instructor": "Seth Woods",
+                "location": "RHM104"
+            },
+            {
+                "section": "43943D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "528",
+        "course_name": "Keyboard Collaboration",
+        "units": "(1.0 units, max 4)",
+        "description": "Continuation of MUEN 428.",
+        "sections": [
+            {
+                "section": "43945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "529",
+        "course_name": "Jazz Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and performance of literature written for large jazz ensemble.",
+        "sections": [
+            {
+                "section": "43947D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "1 of 30",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG128"
+            },
+            {
+                "section": "43950D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "0 of 30",
+                "instructor": "Jason Goldman",
+                "location": "TMCG128"
+            },
+            {
+                "section": "43953D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "0 of 30",
+                "instructor": "Jon Hatamiya",
+                "location": "TMCG128"
+            },
+            {
+                "section": "43956D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 8",
+                "instructor": "Jon Hatamiya",
+                "location": "TMCG131"
+            },
+            {
+                "section": "43959D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "530",
+        "course_name": "Contemporary Music Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Performance of 20th-century music; readings of student and faculty compositions; experimental music; guest conductors, composers, performers; annual concert series.",
+        "sections": [
+            {
+                "section": "43965D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "3 of 20",
+                "instructor": "Donald Crockett",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "531",
+        "course_name": "Guitar Big Band",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and preparation of big band literature adapted for large guitar ensemble. Guitarists perform in place of the traditional trumpet, trombone and sax sections.",
+        "sections": [
+            {
+                "section": "43968D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "532",
+        "course_name": "Jazz Chamber Music",
+        "units": "(1.0 units, max 4)",
+        "description": "Preparation and performance of advanced literature for jazz chamber groups. Open to graduate students, by audition.",
+        "sections": [
+            {
+                "section": "43970D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "544",
+        "course_name": "Vocal Chamber Music",
+        "units": "(1.0 units, max 4)",
+        "description": "Study of solo ensemble vocal literature such as duets, trios, quartets, madrigals, etc. Open to all graduate students by audition. (Duplicates credit in MUEN 444.)",
+        "sections": [
+            {
+                "section": "43975D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 16",
+                "instructor": "Lisa Sylvester",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "550",
+        "course_name": "Early Music Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and performance of vocal and instrumental ensemble music of the Renaissance and Baroque, with emphasis on chamber music for solo voices and bowed or plucked strings. Instrumentalists are required to perform on either their own or the School's historical instruments. Open to all graduate students by audition. (Duplicates credit in MUEN 444.)",
+        "sections": [
+            {
+                "section": "43982D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "3 of 10",
+                "instructor": "Rotem Gilbert",
+                "location": "UGW120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "626",
+        "course_name": "Guitar Ensemble",
+        "units": "(1.0 units, max 4)",
+        "description": "Rehearsal and performance of literature composed, transcribed and arranged for small ensembles, including literature for small ensembles of guitar and other instruments, as well as voice.",
+        "sections": [
+            {
+                "section": "43988D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 20",
+                "instructor": "William Kanengiser,Scott Tennant",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "628",
+        "course_name": "Keyboard Collaboration",
+        "units": "(1.0 units, max 4)",
+        "description": "Continuation of MUEN 328.",
+        "sections": [
+            {
+                "section": "43990D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUEN",
+        "course_num": "650",
+        "course_name": "Early Music Ensemble",
+        "units": "(1.0 units, max 8)",
+        "description": "Rehearsal and public performance of vocal and instrumental music of the Renaissance and Baroque era; emphasis is on large- and small-scale chamber works. Instrumentalists are required to perform on historical instruments.",
+        "sections": [
+            {
+                "section": "43995D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "1 of 10",
+                "instructor": "Rotem Gilbert",
+                "location": "UGW120"
+            }
+        ]
+    }
+]

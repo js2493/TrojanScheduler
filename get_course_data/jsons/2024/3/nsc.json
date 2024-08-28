@@ -1,0 +1,162 @@
+[
+    {
+        "term": "20243",
+        "department": "NSC",
+        "course_num": "101",
+        "course_name": "Introduction to Naval Science",
+        "units": "(2.0 units)",
+        "description": "Introduction to the structure, principles, and practices, lines of command and control, and functions of the various components of the naval service.",
+        "sections": [
+            {
+                "section": "41900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "31 of 45",
+                "instructor": "Jack Tribolet",
+                "location": "ZHS252"
+            },
+            {
+                "section": "41901R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 390,
+                "end_time": 560,
+                "days": 16,
+                "registered": "31 of 45",
+                "instructor": "",
+                "location": "THH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NSC",
+        "course_num": "201",
+        "course_name": "Leadership and Management",
+        "units": "(3.0 units)",
+        "description": "Principles of human relationships; principles of decision making and management at the junior officer level; theory and techniques of leadership.",
+        "sections": [
+            {
+                "section": "41907R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "11 of 40",
+                "instructor": "Josh Ragadio",
+                "location": "PED300"
+            },
+            {
+                "section": "41908R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 390,
+                "end_time": 560,
+                "days": 16,
+                "registered": "11 of 90",
+                "instructor": "",
+                "location": "THH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NSC",
+        "course_num": "203",
+        "course_name": "Evolution of Warfare",
+        "units": "(3.0 units)",
+        "description": "Causes and practice of warfare from ancient times; impact of changes in strategy, tactics, and technology; modern revolutionary warfare, global conflict, and politico-military relationships.",
+        "sections": [
+            {
+                "section": "41916R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 770,
+                "days": 10,
+                "registered": "7 of 25",
+                "instructor": "Kristen Gabel,Mallory Vanderschans",
+                "location": "PED300"
+            },
+            {
+                "section": "41917R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 390,
+                "end_time": 560,
+                "days": 16,
+                "registered": "7 of 45",
+                "instructor": "",
+                "location": "THH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NSC",
+        "course_num": "301",
+        "course_name": "Naval Ships Systems I (Engineering)",
+        "units": "(3.0 units)",
+        "description": "Types, structure, and purpose of Naval ships, compartmentation, propulsion systems, auxiliary power systems, interior communications, ship control; ship design and stability.",
+        "sections": [
+            {
+                "section": "41920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "13 of 40",
+                "instructor": "Krishna Peri",
+                "location": "PED300"
+            },
+            {
+                "section": "41921R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 390,
+                "end_time": 560,
+                "days": 16,
+                "registered": "13 of 40",
+                "instructor": "",
+                "location": "THH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NSC",
+        "course_num": "401",
+        "course_name": "Naval Operations and Seamanship",
+        "units": "(3.0 units)",
+        "description": "Vector solutions of relative motion, tactical problems; tactical communications, instructions; fleet communications, organizations; rules of the Nautical Road; aviation and maritime meteorology; operation plans and orders.",
+        "sections": [
+            {
+                "section": "41912R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "13 of 40",
+                "instructor": "Samuel Galli",
+                "location": "PED300"
+            },
+            {
+                "section": "41913R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 390,
+                "end_time": 560,
+                "days": 16,
+                "registered": "13 of 40",
+                "instructor": "",
+                "location": "THH101"
+            }
+        ]
+    }
+]

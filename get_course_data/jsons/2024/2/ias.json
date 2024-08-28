@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20242",
+        "department": "IAS",
+        "course_number": "501A",
+        "course_name": "Human Gross Anatomy",
+        "units": "(3.0-4.0 units)",
+        "description": "A complete dissection of the adult human body. Supplementary lectures and demonstrations. Emphasis on correlating development, structure and function. This course duplicates credit in former CNB 501a.",
+        "sections": [
+            {
+                "section": "40455D",
+                "session": "759",
+                "type": "Lecture-Lab",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 62,
+                "registered": "9 of 15",
+                "instructor": "Dorien de Vries",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IAS",
+        "course_number": "501B",
+        "course_name": "Human Gross Anatomy",
+        "units": "(4.0 units)",
+        "description": "A complete dissection of the adult human body. Supplementary lectures and demonstrations. Emphasis on correlating development, structure and function. This course duplicates credit in former CNB 501b.",
+        "sections": [
+            {
+                "section": "40451D",
+                "session": "759",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 62,
+                "registered": "9 of 15",
+                "instructor": "Dorien de Vries",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IAS",
+        "course_number": "550",
+        "course_name": "Integrative Anatomical Sciences Seminar",
+        "units": "(1.0 units, max 6)",
+        "description": "Reports and discussion on recent advances in anatomy.",
+        "sections": [
+            {
+                "section": "40452D",
+                "session": "759",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "7 of 20",
+                "instructor": "Kristi Lewton",
+                "location": ""
+            }
+        ]
+    }
+]

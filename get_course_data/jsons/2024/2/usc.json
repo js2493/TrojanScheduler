@@ -1,0 +1,207 @@
+[
+    {
+        "term": "20242",
+        "department": "USC",
+        "course_number": "100",
+        "course_name": "TEMPORARY ENROLLMENT/FILL COURSE",
+        "units": "(1.0-16.0 units)",
+        "description": "The registration for this course should only be temporary. There is no instruction in this course. (Used for special purposes by Registration.)",
+        "sections": [
+            {
+                "section": "00900R",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 500",
+                "instructor": "Frank Chang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "USC",
+        "course_number": "110",
+        "course_name": "Consortium Enrollment (Financial Aid)",
+        "units": "(0.0-18.0 units)",
+        "description": "Course created for USC students temporarily enrolled at another institution so that they can use the federal and state financial aid to which they are entitled for approved attendance at another institution.--rmm",
+        "sections": [
+            {
+                "section": "00301R",
+                "session": "120",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "00302R",
+                "session": "241",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00303R",
+                "session": "243",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00304R",
+                "session": "276",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00305R",
+                "session": "408",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00306R",
+                "session": "477",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00307R",
+                "session": "749",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "00308R",
+                "session": "217",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00309R",
+                "session": "216",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00310R",
+                "session": "216",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00311R",
+                "session": "164",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "USC",
+        "course_number": "300",
+        "course_name": "Overseas Block Enrollment",
+        "units": "(1.0-16.0 units, max 16)",
+        "description": "Block enrollment course for registration purposes only.",
+        "sections": [
+            {
+                "section": "00489R",
+                "session": "475",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 6",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            },
+            {
+                "section": "00490R",
+                "session": "726",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 6",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "USC",
+        "course_number": "500O",
+        "course_name": "Off Campus Studies",
+        "units": "(0.0-15.0 units, max 15)",
+        "description": "Off campus coursework; course serves as a block enrollment until transcript from host institution is provided and can be articulated into an MOI that results in individual courses on the USC transcript with section titles that reflect the title of the course at the host institution.",
+        "sections": [
+            {
+                "section": "05005R",
+                "session": "279",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 90",
+                "instructor": "",
+                "location": "OFF CAMPUS"
+            }
+        ]
+    }
+]

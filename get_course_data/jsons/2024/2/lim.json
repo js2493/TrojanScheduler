@@ -1,0 +1,128 @@
+[
+    {
+        "term": "20242",
+        "department": "LIM",
+        "course_number": "522",
+        "course_name": "Metadata and Taxonomies",
+        "units": "(3.0 units)",
+        "description": "An overview of developing and assessing metadata for digital resources including the different types of metadata schema, data dictionaries, taxonomies and emerging metadata standards.",
+        "sections": [
+            {
+                "section": "16980R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "Jennifer Dinalo",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LIM",
+        "course_number": "541",
+        "course_name": "Archives and Archival Management",
+        "units": "(3.0 units)",
+        "description": "A foundation of theoretical and applied knowledge necessary for careers in the archival field and management and leadership principles in archival organizations.",
+        "sections": [
+            {
+                "section": "16999R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 30",
+                "instructor": "Ben Alexander",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LIM",
+        "course_number": "562",
+        "course_name": "Library and Information Technology Management",
+        "units": "(3.0 units)",
+        "description": "Overview of management of library information technologies including computer networks, design, architecture, cloud technologies, data management and technology planning as well as emerging technologies.",
+        "sections": [
+            {
+                "section": "16987R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Deborah Holmes-Wong",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LIM",
+        "course_number": "593",
+        "course_name": "Independent Research in Library and Information Management",
+        "units": "(2.0 units, max 4)",
+        "description": "Opportunity to pursue independent research in an area of interest above and beyond normal course offerings. Proposal, research and written report/paper required.",
+        "sections": [
+            {
+                "section": "16994R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "Christal Young",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LIM",
+        "course_number": "595",
+        "course_name": "Internship in Library and Information Management",
+        "units": "(2.0 units)",
+        "description": "Supplements the academic learning experience with temporary employment (paid or unpaid) in the information professions. Supervised by host organization and overseen by MMLIS faculty member.",
+        "sections": [
+            {
+                "section": "16995R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "Melissa Miller",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LIM",
+        "course_number": "598",
+        "course_name": "Capstone in Library and Information Management",
+        "units": "(3.0 units)",
+        "description": "Student-driven research or project-based experience that integrates the knowledge from course work and applies it to current issues in the field.",
+        "sections": [
+            {
+                "section": "17000R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 30",
+                "instructor": "Jade Winn",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

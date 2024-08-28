@@ -1,0 +1,730 @@
+[
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "140",
+        "course_name": "Workshop in Multimedia Authoring",
+        "units": "(2.0 units)",
+        "description": "Introduction to the expressive potential of multimedia as a critical and creative tool, supplementing traditional forms of academic work.",
+        "sections": [
+            {
+                "section": "37401R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "Jeanne Jo",
+                "location": "SCI207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "201",
+        "course_name": "The Languages of Digital Media",
+        "units": "(4.0 units)",
+        "description": "An in-depth investigation of the close interrelationships among technology, culture and communication to form a solid foundation for digital authoring. Duplicates credit in former IML 101.",
+        "sections": [
+            {
+                "section": "37402D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "12 of 20",
+                "instructor": "David Johnson",
+                "location": "SCIL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "202",
+        "course_name": "Media Arts and Practice Studio I",
+        "units": "(4.0 units)",
+        "description": "Intermediate laboratory exploring the foundations of visual culture through a series of critical design prompts. Emphasis on the creative process, project documentation and the development of a personal design methodology.",
+        "sections": [
+            {
+                "section": "37404D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "14 of 15",
+                "instructor": "Evan Hughes",
+                "location": "SCIL106"
+            },
+            {
+                "section": "37405D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "14 of 15",
+                "instructor": "Michael Bodie",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "230",
+        "course_name": "Introduction to Visual Design",
+        "units": "(4.0 units)",
+        "description": "An introduction to the principles of visual and graphic design within the field of media art.",
+        "sections": [
+            {
+                "section": "37411D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "15 of 20",
+                "instructor": "Renee Reizman",
+                "location": "SCIL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "288",
+        "course_name": "Introduction to Creative Coding",
+        "units": "(4.0 units)",
+        "description": "An introduction to the design of poetic and creative artworks using foundational programming concepts.",
+        "sections": [
+            {
+                "section": "37412D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "Jeanne Jo",
+                "location": "SCI206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "295",
+        "course_name": "Race, Class and Gender in Digital Culture",
+        "units": "(4.0 units)",
+        "description": "Critical analysis of the categories of race, class and gender within the diverse digital spaces of contemporary culture, from video games to the digital divide.",
+        "sections": [
+            {
+                "section": "37406D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "9 of 20",
+                "instructor": "Evan Hughes",
+                "location": "RZC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "300",
+        "course_name": "Introduction to Creative Web Programming",
+        "units": "(4.0 units)",
+        "description": "An introduction to the fundamentals of creative web coding and design, with best practices and new creative directions.",
+        "sections": [
+            {
+                "section": "37413D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "19 of 20",
+                "instructor": "Qianqian Ye",
+                "location": "SCI206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "310",
+        "course_name": "Professionalism for Media Arts",
+        "units": "(2.0 units)",
+        "description": "Development of documentation and archival strategies, with an emphasis on techniques of personal and professional representation.",
+        "sections": [
+            {
+                "section": "37407D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "11 of 20",
+                "instructor": "Ashley York",
+                "location": "SCIL106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "328",
+        "course_name": "Introduction to Sound",
+        "units": "(2.0 units)",
+        "description": "An introduction to audio and sound technologies, focusing on creating artwork using sound as a primary modality.",
+        "sections": [
+            {
+                "section": "37414D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "19 of 20",
+                "instructor": "Andrew Kim",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "335",
+        "course_name": "Introduction to Video",
+        "units": "(2.0 units)",
+        "description": "An introduction to digital storytelling with a focus on cameras, sound recording and editing techniques to create short, professional video projects.",
+        "sections": [
+            {
+                "section": "37415D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "19 of 20",
+                "instructor": "Ashley York",
+                "location": "SCA310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "346",
+        "course_name": "Methods in Digital Research",
+        "units": "(2.0 units)",
+        "description": "Emphasizing rigorous multimedia research and authorship strategies, this course prepares students to undertake large-scale digital projects.",
+        "sections": [
+            {
+                "section": "37408D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "David Johnson",
+                "location": "SCIL106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "354",
+        "course_name": "Introduction to 3-D Modeling",
+        "units": "(2.0 units)",
+        "description": "An introduction to 3-D modeling, with an emphasis on the fundamentals of texturing and lighting for use in animation, game art and interactive 3-D spaces.",
+        "sections": [
+            {
+                "section": "37416D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "Carrie Chen",
+                "location": "SCIL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "400",
+        "course_name": "Advanced Platform: Creative Coding and Web Design",
+        "units": "(4.0 units)",
+        "description": "Analysis and development of scholarly media projects using diverse web authoring strategies, technologies and documentation.",
+        "sections": [
+            {
+                "section": "37420D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SCIL104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "430",
+        "course_name": "Advanced Platform: Visual Design",
+        "units": "(4.0 units)",
+        "description": "Exploration of advanced techniques in visual and graphic design within the field of media art.",
+        "sections": [
+            {
+                "section": "37423D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Carrie Chen",
+                "location": "SCIL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "440",
+        "course_name": "Thesis Studio",
+        "units": "(4.0 units)",
+        "description": "Production of a digital thesis project.",
+        "sections": [
+            {
+                "section": "37438D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "27 of 31",
+                "instructor": "David Johnson",
+                "location": "SCIL106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "454",
+        "course_name": "Advanced Platform: 3-D Design",
+        "units": "(4.0 units)",
+        "description": "Studio class exploring spatial perception and advanced techniques of 3-D representation, stereoscopy, panorama, projection mapping, modeling for real-time environments, parametric modeling and 3-D fabrication.",
+        "sections": [
+            {
+                "section": "37426D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "13 of 15",
+                "instructor": "Todd Furmanski",
+                "location": "SCIL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "455",
+        "course_name": "Future Cinema",
+        "units": "(4.0 units)",
+        "description": "Examination of the history of cinematic experimentation to provide a framework for understanding contemporary virtual reality, augmented reality, interactive installations and large-scale urban screens.",
+        "sections": [
+            {
+                "section": "37444R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "Scott Fisher",
+                "location": "SCI209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "475",
+        "course_name": "Media Arts Research Lab",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "A hands-on mentored research lab experience within the context of media art and in association with a real-world project.",
+        "sections": [
+            {
+                "section": "37452D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "5 of 10",
+                "instructor": "Scott Fisher",
+                "location": "OFFICE"
+            },
+            {
+                "section": "37453R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "14 of 20",
+                "instructor": "Matt Scott",
+                "location": "RZC119"
+            },
+            {
+                "section": "37454R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "4 of 30",
+                "instructor": "Jesse Damiani",
+                "location": "SCI207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "477",
+        "course_name": "Embodied Storytelling and Immersive Docu-Narratives",
+        "units": "(4.0 units)",
+        "description": "Examination of art, media, and theatre, to create an immersive, installation-based intervention utilizing the embodied 360-degree docu-narrative form.",
+        "sections": [
+            {
+                "section": "37451R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "16 of 20",
+                "instructor": "Michael Bodie",
+                "location": "SCI207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "37455D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "37456D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "535",
+        "course_name": "Tactical Media Strategies",
+        "units": "(4.0 units)",
+        "description": "Integrating hardware, software and interactivity to explore new forms of expression. Emphasis on critical tactics (culture hacking, creative misuse) aimed at activism and social change.",
+        "sections": [
+            {
+                "section": "37469R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "1 of 15",
+                "instructor": "Aisling Kelliher",
+                "location": "SCIL104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "570",
+        "course_name": "Topics in Ethnographic Media Arts",
+        "units": "(2.0-6.0 units, max 12)",
+        "description": "A hands-on approach to contemporary topics in ethnographic media arts and creative nonfiction cinema.",
+        "sections": [
+            {
+                "section": "37473R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Stephanie Spray",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "575",
+        "course_name": "Graduate Media Arts Research Lab",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "A hands-on mentored graduate research lab experience within the context of media art and in association with a real-world project.",
+        "sections": [
+            {
+                "section": "37475R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "6 of 15",
+                "instructor": "Alexander Mcdowell",
+                "location": "RZC120"
+            },
+            {
+                "section": "37476R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "10 of 15",
+                "instructor": "Aisling Kelliher",
+                "location": "SCIL104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the masters degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "37480D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Holly Willis",
+                "location": "OFFICE"
+            },
+            {
+                "section": "37481D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "37482D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "600",
+        "course_name": "Historical Approaches to Media Arts and Culture",
+        "units": "(4.0 units)",
+        "description": "Introduction to the historical specificities of old media (painting, print, photography, film, video, television) and to consequences of the convergences produced by new media forms. (Duplicates credit in former CNTV 600)",
+        "sections": [
+            {
+                "section": "37485D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "9 of 15",
+                "instructor": "Vicki Callahan",
+                "location": "SCIL104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "601",
+        "course_name": "Seminar in Media and Design Studies",
+        "units": "(4.0 units)",
+        "description": "Creation of a work of digital culture, informed by cultural theory, and planned using current design methods and practices. (Duplicates credit in former CNTV 601)",
+        "sections": [
+            {
+                "section": "37486D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "6 of 15",
+                "instructor": "Kiki Benzon",
+                "location": "SCI209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. (Duplicates credit in CNTV 794a)",
+        "sections": [
+            {
+                "section": "37495D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. (Duplicates credit in CNTV 794b)",
+        "sections": [
+            {
+                "section": "37496D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. (Duplicates credit in CNTV 794c)",
+        "sections": [
+            {
+                "section": "37497D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. (Duplicates credit in CNTV 794d)",
+        "sections": [
+            {
+                "section": "37498D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IML",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. (Duplicates credit in CNTV 794z)",
+        "sections": [
+            {
+                "section": "37499D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

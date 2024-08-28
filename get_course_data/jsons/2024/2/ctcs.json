@@ -1,0 +1,129 @@
+[
+    {
+        "term": "20242",
+        "department": "CTCS",
+        "course_number": "469",
+        "course_name": "Film and/or Television Style Analysis",
+        "units": "(4.0 units, max 8)",
+        "description": "Intensive study of the style of an auteur, studio, film or television making mode in terms of thematic and formal properties and their influences upon the art of film.",
+        "sections": [
+            {
+                "section": "18013R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 50",
+                "instructor": "Luci Marzola",
+                "location": "SCA112"
+            },
+            {
+                "section": "18014R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "26 of 60",
+                "instructor": "Todd Boyd",
+                "location": "SCA108"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTCS",
+        "course_number": "511",
+        "course_name": "Seminar: Non-Fiction Film/Video",
+        "units": "(4.0 units)",
+        "description": "Aesthetic, rhetorical, and ideological issues in non-fiction film and video.",
+        "sections": [
+            {
+                "section": "18003D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 20,
+                "registered": "14 of 20",
+                "instructor": "Michael Renov",
+                "location": "SCA216"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTCS",
+        "course_number": "518",
+        "course_name": "Seminar: Avant-garde Film/Video",
+        "units": "(4.0 units)",
+        "description": "Aesthetic, historical and ideological issues in avant-garde film and video.",
+        "sections": [
+            {
+                "section": "18006D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 10,
+                "registered": "16 of 20",
+                "instructor": "Akira Mizuta Lippit",
+                "location": "SCA204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTCS",
+        "course_number": "564",
+        "course_name": "Seminar in Film and Television Genres",
+        "units": "(4.0 units, max 8)",
+        "description": "Advanced study of a selected genre of film and/or television its relationship to history, society, and culture, as well as to genre theory.",
+        "sections": [
+            {
+                "section": "18005D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 890,
+                "days": 10,
+                "registered": "19 of 20",
+                "instructor": "Aniko Imre",
+                "location": "SCA204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTCS",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "18007D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "",
+                "location": "SCA214"
+            },
+            {
+                "section": "18008D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

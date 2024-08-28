@@ -1,0 +1,212 @@
+[
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "503",
+        "course_name": "Advanced Pharmacology of Anesthesia Practice II",
+        "units": "(4.0 units)",
+        "description": "Pharmacokinetic/pharmacodynamic principles of drugs covering different organs systems (Cardiovascular, CNS, hematology, endocrine), herbal therapies, chemotherapeutics, antimicrobials. Application of pharmacology to anesthetic management using problem-based learning. Prerequisites: ANST 501 and ANST 502.",
+        "sections": [
+            {
+                "section": "50101R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 715,
+                "days": 2,
+                "registered": "23 of 24",
+                "instructor": "Elizabeth Bamgbose,Ignacio Diaz,Niko Lazovich,Michele Gold",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "504",
+        "course_name": "Advanced Physiology/Pathophysiology for Anesthetists",
+        "units": "(4.0 units)",
+        "description": "In-depth advanced study of cardiovascular, respiratory, renal, liver, endocrine and neurophysiology and pathophysiology with application of these principles to anesthetic case management across the lifespan. Prerequisite: ANST 501, ANST 502.",
+        "sections": [
+            {
+                "section": "50102R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 830,
+                "days": 4,
+                "registered": "23 of 24",
+                "instructor": "Joshua Carr",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "608",
+        "course_name": "Advanced Clinical Anatomy for Nurse Anesthesia Practice",
+        "units": "(2.0 units)",
+        "description": "Investigation of the cardiovascular, respiratory, renal, hepatic, spine, head and neck, musculoskeletal and nervous system anatomy with emphasis on these systems relating to anesthesia management.",
+        "sections": [
+            {
+                "section": "50129R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "Nilu Patel",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "610",
+        "course_name": "Advanced Physiology for Nurse Anesthesia Practice",
+        "units": "(4.0 units)",
+        "description": "An investigation of the human cardiovascular, respiratory, renal, hepatic, neurological, and hematological systems and cellular physiology with special emphasis on how these systems relate to anesthesia management.",
+        "sections": [
+            {
+                "section": "50130R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 420,
+                "end_time": 710,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Paula Belson,Jennifer Hogan",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "613",
+        "course_name": "Clinician-Technology Interface",
+        "units": "(3.0 units)",
+        "description": "Exploring informatics, the integration of computer science, cognitive science, and informational science to manage and communicate data, information, knowledge and wisdom in healthcare delivery.",
+        "sections": [
+            {
+                "section": "50103R",
+                "session": "434",
+                "type": "Lecture-Discussion",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Joshua Carr",
+                "location": "CHP225"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "614",
+        "course_name": "Clinical Residency in Nurse Anesthesia I",
+        "units": "(2.0 units)",
+        "description": "Correlation of techniques of anesthesia administration with application of scientific and pharmacologic theory in the clinical setting with observation and supervised clinical residency.",
+        "sections": [
+            {
+                "section": "50104R",
+                "session": "434",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 24",
+                "instructor": "Elizabeth Bamgbose,Jeffrey Darna,Erica McCall,Jennifer Hogan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "617",
+        "course_name": "Advanced Clinical Residency in Nurse Anesthesia II",
+        "units": "(2.0 units)",
+        "description": "Correlation of techniques of anesthesia administration with application of scientific and pharmacologic theory expanded to neuroanesthesia, cardiac anesthesia, trauma anesthesia, critical care and pain management.",
+        "sections": [
+            {
+                "section": "50122R",
+                "session": "434",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 24",
+                "instructor": "Elizabeth Bamgbose,Jeffrey Darna,Erica McCall,Jennifer Hogan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "619",
+        "course_name": "Advanced Clinical Residency in Nurse Anesthesia IV",
+        "units": "(3.0 units)",
+        "description": "Correlation of techniques of anesthesia administration with application of scientific and pharmacologic theory expanded to neuroanesthesia, cardiac anesthesia, trauma anesthesia, critical care and pain management.",
+        "sections": [
+            {
+                "section": "50124R",
+                "session": "434",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 60,
+                "registered": "1 of 1",
+                "instructor": "Elizabeth Bamgbose,Jeffrey Darna,Erica McCall,Jennifer Hogan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "633",
+        "course_name": "Clinical Synthesis III",
+        "units": "(2.0 units)",
+        "description": "Lecture and advanced simulation curriculum promoting synthesis and mastery of topics integral to the art and science of nurse anesthesia planning, management and delivery.",
+        "sections": [
+            {
+                "section": "50105R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1080,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Regalado Valerio,Seth Quiambao",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANST",
+        "course_number": "691",
+        "course_name": "The Doctor of Nurse Anesthesia Practice Essentials",
+        "units": "(2.0 units)",
+        "description": "Examination of elements involved in capstone project preparation. Emphasis placed on identification of a project through literature review, gap analysis and assessment of project feasibility.",
+        "sections": [
+            {
+                "section": "50131R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 870,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Elizabeth Bamgbose,Charles Griffis",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

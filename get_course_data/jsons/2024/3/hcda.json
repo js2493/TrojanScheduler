@@ -1,0 +1,212 @@
+[
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "500",
+        "course_name": "U.S. Health System: Healthcare Access and Delivery",
+        "units": "(3.0 units)",
+        "description": "Introduction to U.S. health system with comprehensive overview of insurance coverage and benefits, reimbursement, access to healthcare and biopharmaceuticals, and the delivery of healthcare services.",
+        "sections": [
+            {
+                "section": "54015D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "39 of 50",
+                "instructor": "Ken Wong",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "502",
+        "course_name": "Comparative International Healthcare Systems",
+        "units": "(3.0 units)",
+        "description": "Comparative analysis of healthcare coverage and financing policies across countries. Examine its relationship to drug coverage, access, reimbursement, pricing policies and impact on biopharmaceutical market.",
+        "sections": [
+            {
+                "section": "54019D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Ken Wong",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "503",
+        "course_name": "Competitive Healthcare Intelligence",
+        "units": "(3.0 units)",
+        "description": "Competitive intelligence techniques and analysis to evaluate opportunities in biopharmaceutical marketplace including product development, positioning and launch strategies with an aim to optimize business decisions.",
+        "sections": [
+            {
+                "section": "54020D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "25 of 50",
+                "instructor": "Hormoz Moaven,Daniel Tomaszewski",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "520",
+        "course_name": "Health Economic and Outcomes Methodology",
+        "units": "(3.0 units)",
+        "description": "Comprehensive review of the strategies used in drug value assessment with a focus on health economics and outcomes research and application to healthcare decision making.",
+        "sections": [
+            {
+                "section": "54016D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 50",
+                "instructor": "Daniel Tomaszewski",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "540",
+        "course_name": "Healthcare Organization Management and Leadership",
+        "units": "(3.0 units)",
+        "description": "Develop foundational leadership and business management skills specifically within the context of dynamic global biopharmaceutical, medical device and other healthcare enterprises.",
+        "sections": [
+            {
+                "section": "54017D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "35 of 50",
+                "instructor": "John Stofko",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "572",
+        "course_name": "Introduction to Healthcare Data Analytics",
+        "units": "(3.0 units)",
+        "description": "Learn methods for working with large health data sets, including developing an analytic plan and selecting an appropriate data source, as well as practical skills needed to manage and use large health data sets to accomplish an analytic goal.",
+        "sections": [
+            {
+                "section": "54018D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 25",
+                "instructor": "Cody Arbuckle,Daniel Tomaszewski",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "580",
+        "course_name": "Seminars in Healthcare Decision Analysis",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Weekly seminar and literature series, review and discuss policy, biopharmaceuticals, insurance, global healthcare access issues. Student lead discussions, expert guest speakers, group projects, critical thinking.",
+        "sections": [
+            {
+                "section": "54014D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Kristen Felthousen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "589",
+        "course_name": "Healthcare Consulting Enterprise Team Project",
+        "units": "(3.0 units, max 6)",
+        "description": "Work as a consultant to conduct market research and apply decision analysis methods to design strategies for healthcare products and services or company pipelines.",
+        "sections": [
+            {
+                "section": "54011D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 20",
+                "instructor": "John Stofko",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "595",
+        "course_name": "Internship in Healthcare Business",
+        "units": "(3.0 units)",
+        "description": "Work on real business issues in the healthcare industry at an internship site with an existing business, company, firm or government entity.",
+        "sections": [
+            {
+                "section": "54012D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "Ken Wong",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HCDA",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one full academic year of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "54013D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ken Wong",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

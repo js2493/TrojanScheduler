@@ -1,0 +1,290 @@
+[
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "702",
+        "course_name": "Physical Diagnosis",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Didactic and clinical experience in physical diagnosis relevant to practice of the dental specialties. Lecture, 1 hour; demonstration, 1 hour.",
+        "sections": [
+            {
+                "section": "22614D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 6",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703A",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22606D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 5",
+                "instructor": "Kian Kar,Cheryl Park,Winston Chee",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22609D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703B",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22608D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 6",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703C",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22604D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 4",
+                "instructor": "Winston Chee,Kian Kar,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703E",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22607D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703F",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialities. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "22602D",
+                "session": "370",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 4",
+                "instructor": "Winston Chee,Kian Kar,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703I",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialities. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "22605D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Winston Chee,Cheryl Park",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "703J",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialities. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "22601D",
+                "session": "394",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 4",
+                "instructor": "Kian Kar,Cheryl Park,Winston Chee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ADNT",
+        "course_number": "710",
+        "course_name": "Internship: Dental Education",
+        "units": "(0.0-5.0 units, max 5)",
+        "description": "Practical experience teaching predoctoral students. Units and hours variable.",
+        "sections": [
+            {
+                "section": "22600D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22610D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22611D",
+                "session": "027",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Catherine Pham,Philip Yoong",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22612D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 10",
+                "instructor": "Catherine Pham,Philip Yoong",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22613D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22615D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 6",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22616D",
+                "session": "324",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Hovhanness Shnorhokian",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22619D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 10",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22620D",
+                "session": "370",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 10",
+                "instructor": "Kian Kar",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

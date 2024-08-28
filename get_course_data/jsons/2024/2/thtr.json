@@ -1,0 +1,76 @@
+[
+    {
+        "term": "20242",
+        "department": "THTR",
+        "course_number": "229",
+        "course_name": "Sports on Stage and Screen",
+        "units": "(4.0 units)",
+        "description": "The examination of the intersection between athletes and actors through the study of plays, musicals, feature films and TV series that depict athletic worlds.",
+        "sections": [
+            {
+                "section": "62955R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "Canceled",
+                "instructor": "Emily Roxworthy",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "THTR",
+        "course_number": "476",
+        "course_name": "African American Theatre, Dance, and Performance",
+        "units": "(4.0 units)",
+        "description": "A survey of African American theatre and cultural performance traditions as a reflection of both African American culture and American history.",
+        "sections": [
+            {
+                "section": "62956R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "6 of 30",
+                "instructor": "Lena Ford",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "THTR",
+        "course_number": "489",
+        "course_name": "Theatre Internship",
+        "units": "(2.0-6.0 units)",
+        "description": "Practical experience in the entertainment industry.",
+        "sections": [
+            {
+                "section": "62941D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 20",
+                "instructor": "Meghan Laughlin",
+                "location": "OFFICE"
+            },
+            {
+                "section": "62942D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 20",
+                "instructor": "Meghan Laughlin",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

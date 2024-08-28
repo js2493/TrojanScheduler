@@ -1,0 +1,464 @@
+[
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "449",
+        "course_name": "Teaching Marching Band",
+        "units": "(2.0 units)",
+        "description": "Modern school marching band techniques; precision drill; administration; rehearsal techniques.",
+        "sections": [
+            {
+                "section": "43525D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "4 of 15",
+                "instructor": "Jacob Vogel",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "43550D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "500",
+        "course_name": "Research Foundations in Music Teaching and Learning",
+        "units": "(3.0 units)",
+        "description": "Introductory exploration of types of research linked to research literature in music teaching and learning; interpreting research reports; organizing and writing research proposals and reports.",
+        "sections": [
+            {
+                "section": "43560D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "2 of 12",
+                "instructor": "William Coppola",
+                "location": "TMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "502",
+        "course_name": "Sociological Foundations of Music Teaching and Learning",
+        "units": "(3.0 units)",
+        "description": "Study of interdependent relationship between society, music and music education.",
+        "sections": [
+            {
+                "section": "43564D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "12 of 15 (1 on waitlist)",
+                "instructor": "Beatriz Ilari",
+                "location": "TMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "505",
+        "course_name": "Teaching and Learning Music",
+        "units": "(2.0 units)",
+        "description": "Studies of the latest resources concerning the teaching and learning of music so that musicians can function more effectively as both teachers and performers.",
+        "sections": [
+            {
+                "section": "43571D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "9 of 12 (10 on waitlist)",
+                "instructor": "William Coppola",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "516",
+        "course_name": "Popular Music Teaching and Learning",
+        "units": "(2.0 units)",
+        "description": "Pedagogical framework, overview of current research and practical strategies for applying formal and informal teaching modalities in popular music.",
+        "sections": [
+            {
+                "section": "43574D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "3 of 15",
+                "instructor": "Candice Mattio",
+                "location": "TMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "517",
+        "course_name": "Teaching and Learning Popular Songwriting",
+        "units": "(2.0 units)",
+        "description": "Conceptual and practical framework to prepare music educators to teach popular songwriting at all levels and in a variety of environments.",
+        "sections": [
+            {
+                "section": "43575D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "6 of 15",
+                "instructor": "Kat Reinhert",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "43610D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "592",
+        "course_name": "Final Project",
+        "units": "(2.0 units)",
+        "description": "Required for the Master of Music, Teaching and Learning degree. Credit upon acceptance.",
+        "sections": [
+            {
+                "section": "43615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "43619D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "43622D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "43625D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "607",
+        "course_name": "Foundations of Community Music",
+        "units": "(2.0 units)",
+        "description": "Exploration of community music programs in the U.S. and beyond with emphasis on philosophical, sociological, structural and cultural bases for the diverse programs.",
+        "sections": [
+            {
+                "section": "43636D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "650",
+        "course_name": "Pedagogy for Collegiate Music Appreciation and Fundamentals",
+        "units": "(2.0 units)",
+        "description": "Design and teaching strategies for collegiate music appreciation and fundamentals classes developed for the adult, non music major student.",
+        "sections": [
+            {
+                "section": "43648D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "5 of 15",
+                "instructor": "Robert Cutietta",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "653",
+        "course_name": "World Music Pedagogy",
+        "units": "(2.0 units)",
+        "description": "Introduction to the pedagogy of world music cultures, including both sonic and sociocultural dimensions of music-in-culture, through the World Music Pedagogy approach.",
+        "sections": [
+            {
+                "section": "43651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "William Coppola",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "720",
+        "course_name": "Quantitative Research in Music Teaching and Learning",
+        "units": "(3.0 units)",
+        "description": "Survey of theories, concepts and procedures for designing, conducting and evaluating quantitative research studies in music teaching and learning.",
+        "sections": [
+            {
+                "section": "43663D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "6 of 12",
+                "instructor": "Candice Mattio",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "43679D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "43685D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "43688D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "43691D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "43694D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MTAL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "43697D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Beatriz Ilari",
+                "location": "MUS314"
+            }
+        ]
+    }
+]

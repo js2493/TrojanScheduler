@@ -1,0 +1,685 @@
+[
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "250",
+        "course_name": "Introduction to Data Science",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of data science: representation of data and knowledge, role of a data scientist, data storage/processing/analytics, machine learning, big data and data visualization.",
+        "sections": [
+            {
+                "section": "32401D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "156 of 263",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "SAL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "351",
+        "course_name": "Foundations of Data Management",
+        "units": "(4.0 units)",
+        "description": "Data modeling, data storage, indexing, relational databases, key-value/document store, NoSQL, distributed file system, parallel computation and big-data analytics.",
+        "sections": [
+            {
+                "section": "32402D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "48 of 98",
+                "instructor": "Wensheng Wu",
+                "location": "SOSB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "352",
+        "course_name": "Applied Machine Learning and Data Mining",
+        "units": "(4.0 units)",
+        "description": "Foundational course focusing on the understanding, application and evaluation of machine learning and data mining approaches in data-intensive scenarios.",
+        "sections": [
+            {
+                "section": "32459D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "17 of 60",
+                "instructor": "James Blythe",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "429",
+        "course_name": "Security and Privacy",
+        "units": "(4.0 units)",
+        "description": "Basic concepts in information security and privacy; implications of security and privacy breaches; security and privacy policies, threats and protection mechanisms; security and privacy laws, regulations and ethics.",
+        "sections": [
+            {
+                "section": "32403D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "29 of 30",
+                "instructor": "Clifford Neuman",
+                "location": "RTH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "510",
+        "course_name": "Principles of Programming for Data Science",
+        "units": "(4.0 units)",
+        "description": "Programming in Python for retrieving, searching and analyzing data from the Web. Learning to manipulate large data sets.",
+        "sections": [
+            {
+                "section": "32404D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "53 of 93",
+                "instructor": "Amandeep Singh",
+                "location": "SLH100"
+            },
+            {
+                "section": "32427R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "53 of 93",
+                "instructor": "",
+                "location": "SLH100"
+            },
+            {
+                "section": "32433D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "47 of 120",
+                "instructor": "Gleb Satyukov",
+                "location": "OHE122"
+            },
+            {
+                "section": "32434R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "47 of 120",
+                "instructor": "",
+                "location": "OHE122"
+            },
+            {
+                "section": "32405D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "17 of 30",
+                "instructor": "Gleb Satyukov",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32428R",
+                "session": "034",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "17 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "517",
+        "course_name": "Research Methods and Analysis for User Studies",
+        "units": "(4.0 units)",
+        "description": "Introduction to research methods and data analysis techniques for human subject research; experimental research design, correlational research, data analysis, ensuring validity and ethics.",
+        "sections": [
+            {
+                "section": "32454D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 2,
+                "registered": "119 of 120",
+                "instructor": "Gale Lucas",
+                "location": "OHE122"
+            },
+            {
+                "section": "32456D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 2,
+                "registered": "22 of 30",
+                "instructor": "Gale Lucas",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "519",
+        "course_name": "Foundations and Policy for Information Security",
+        "units": "(4.0 units)",
+        "description": "Threats to information systems; technical and procedural approaches to threat mitigation; policy specification and foundations of policy for secure systems; mechanisms for building secure security services; risk management. Background in computer security preferred. Recommended previous courses of study include computer science, electrical engineering, computer engineering, management information systems and/or mathematics.",
+        "sections": [
+            {
+                "section": "32406D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 920,
+                "days": 8,
+                "registered": "28 of 56",
+                "instructor": "Tanya Ryutov",
+                "location": "OHE100D"
+            },
+            {
+                "section": "32407D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 920,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Tanya Ryutov",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "523",
+        "course_name": "Computer Systems Assurance",
+        "units": "(4.0 units)",
+        "description": "Assurance that an information system will behave as expected; assurance approaches for fielding secure information systems; case studies. Recommended preparation: Prior degree in computer science, electrical engineering, computer engineering, management information systems and/or mathematics. Some background in computer security preferred.",
+        "sections": [
+            {
+                "section": "32408R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "19 of 45",
+                "instructor": "Clifford Neuman",
+                "location": "RTH109"
+            },
+            {
+                "section": "32409D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "6 of 20",
+                "instructor": "Clifford Neuman",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "534",
+        "course_name": "Biomedical Data Privacy Issues and Solutions",
+        "units": "(4.0 units)",
+        "description": "Privacy concerns in healthcare; current law and regulations; existing and emerging technologies shaped by ethics, privacy considerations and medical implications; special attention given to genomic data.",
+        "sections": [
+            {
+                "section": "32439D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "1 of 20",
+                "instructor": "Tatyana Ryutov",
+                "location": "ONLINE"
+            },
+            {
+                "section": "32462D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "1 of 30",
+                "instructor": "Tatyana Ryutov",
+                "location": "ZHS360"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "549",
+        "course_name": "Introduction to Computational Thinking and Data Science",
+        "units": "(4.0 units)",
+        "description": "Introduction to data analysis techniques and associated computing concepts for non-programmers. Topics include foundations for data analysis, visualization, parallel processing, metadata, provenance and data stewardship. Recommended preparation: mathematics and logic undergraduate courses.",
+        "sections": [
+            {
+                "section": "32410D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 8,
+                "registered": "97 of 120",
+                "instructor": "Deborah Khider",
+                "location": "OHE122"
+            },
+            {
+                "section": "32411D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 8,
+                "registered": "9 of 30",
+                "instructor": "Deborah Khider",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "550",
+        "course_name": "Data Science at Scale",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of big data informatics techniques. Data lifecycle; the data scientist; machine learning; data mining; NoSQL databases; tools for storage/processing/analytics of large data set on clusters; in-data techniques.",
+        "sections": [
+            {
+                "section": "32412D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "94 of 120",
+                "instructor": "Seon Kim",
+                "location": "OHE122"
+            },
+            {
+                "section": "32441D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "10 of 30",
+                "instructor": "Seon Kim",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "551",
+        "course_name": "Foundations of Data Management",
+        "units": "(4.0 units)",
+        "description": "Function and design of modern storage systems, including cloud; data management techniques; data modeling; network attached storage, clusters and data centers; relational databases; the map-reduce paradigm.",
+        "sections": [
+            {
+                "section": "32413D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "49 of 120",
+                "instructor": "Wensheng Wu",
+                "location": "OHE122"
+            },
+            {
+                "section": "32414D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "106 of 163",
+                "instructor": "Wensheng Wu",
+                "location": "SGM101"
+            },
+            {
+                "section": "32443D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "14 of 30",
+                "instructor": "Wensheng Wu",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "552",
+        "course_name": "Machine Learning for Data Science",
+        "units": "(4.0 units)",
+        "description": "Practical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.",
+        "sections": [
+            {
+                "section": "32400D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "187 of 187",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "SLH200"
+            },
+            {
+                "section": "32448D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "198 of 330",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "SGM123"
+            },
+            {
+                "section": "32442D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "28 of 30",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "553",
+        "course_name": "Foundations and Applications of Data Mining",
+        "units": "(4.0 units)",
+        "description": "Data mining and machine learning algorithms for analyzing very large data sets. Emphasis on System Building with Spark. Case studies.",
+        "sections": [
+            {
+                "section": "32444D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "116 of 120",
+                "instructor": "Wei-Min Shen",
+                "location": "OHE122"
+            },
+            {
+                "section": "32445D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "21 of 30",
+                "instructor": "Wei-Min Shen",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "554",
+        "course_name": "Data Visualization",
+        "units": "(4.0 units)",
+        "description": "Graphical depictions of data for communication, analysis and decision support. Cognitive processing and perception of visual data and visualizations. Designing effective visualizations. Implementing interactive visualizations.",
+        "sections": [
+            {
+                "section": "32422R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "63 of 82",
+                "instructor": "Luciano Nocera",
+                "location": "GFS116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "556",
+        "course_name": "User Experience Design and Strategy",
+        "units": "(4.0 units)",
+        "description": "The practice of User Experience Design and Strategy principles for the creation of unique and compelling digital products and services.",
+        "sections": [
+            {
+                "section": "32424D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "40 of 40",
+                "instructor": "David Chan",
+                "location": "DMC101"
+            },
+            {
+                "section": "32455D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "40 of 40",
+                "instructor": "David Chan",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "560",
+        "course_name": "Data Science Professional Practicum",
+        "units": "(4.0 units)",
+        "description": "Student teams working on external customer data analytic challenges; project/presentation based; real client data and implementable solutions for delivery to actual stakeholders; capstone to degree.",
+        "sections": [
+            {
+                "section": "32426R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "50 of 72",
+                "instructor": "Young Cho",
+                "location": "THH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "561",
+        "course_name": "Predictive Analytics",
+        "units": "(4.0 units)",
+        "description": "Supervised learning. Linear regression, cross validation, ridge and lasso regression, logistic regression, k-nearest-neighbors, decision trees, random forest and gradient-boosting models, support vector machines, neural networks.",
+        "sections": [
+            {
+                "section": "31529D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "45 of 45",
+                "instructor": "Maryam Pishgar",
+                "location": "OHE122"
+            },
+            {
+                "section": "31546D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "26 of 60",
+                "instructor": "Tao Ma",
+                "location": "ZHS163"
+            },
+            {
+                "section": "31726D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 20,
+                "registered": "31 of 90",
+                "instructor": "Tao Ma",
+                "location": "SOSB2"
+            },
+            {
+                "section": "31729D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "35 of 40",
+                "instructor": "Maryam Pishgar",
+                "location": "VHE217"
+            },
+            {
+                "section": "31731D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "6 of 20",
+                "instructor": "Maryam Pishgar",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "562",
+        "course_name": "Integration of Medical Imaging Systems",
+        "units": "(4.0 units)",
+        "description": "Introduce basic concepts of Medical Imaging Informatics with an introduction to clinical information systems (eg, PACS, RIS, EMR) related to the imaging workflow in a clinical healthcare enterprise",
+        "sections": [
+            {
+                "section": "29305D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "3 of 20",
+                "instructor": "Brent Liu",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29306D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 28",
+                "instructor": "Brent Liu",
+                "location": "OHE120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "565",
+        "course_name": "Introduction to Deep Learning for Data Science",
+        "units": "(4.0 units)",
+        "description": "An introduction to core deep learning algorithms combined with practical experience in building and applying deep learning networks.",
+        "sections": [
+            {
+                "section": "32457R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "32 of 48",
+                "instructor": "Ke-Thia Yao",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSCI",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the masters degree; maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "32429D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Yolanda Gil",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

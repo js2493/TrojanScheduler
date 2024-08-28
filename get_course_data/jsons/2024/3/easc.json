@@ -1,0 +1,300 @@
+[
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "150",
+        "course_name": "East Asian Societies",
+        "units": "(4.0 units)",
+        "description": "Main patterns of change in modern China, Japan, and Korea;historical framework and the insights of geography, economics,political science, and other disciplines.",
+        "sections": [
+            {
+                "section": "25800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "199 of 200",
+                "instructor": "Kin Tak Raymond Tsang",
+                "location": "THH201"
+            },
+            {
+                "section": "25802R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC209"
+            },
+            {
+                "section": "25804R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KDC241"
+            },
+            {
+                "section": "25807R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Zerui Pan",
+                "location": "KDC241"
+            },
+            {
+                "section": "25810R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC211"
+            },
+            {
+                "section": "25812R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "25816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Zerui Pan",
+                "location": "DMC200"
+            },
+            {
+                "section": "25820R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH214"
+            },
+            {
+                "section": "25821R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "25828D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "495",
+        "course_name": "Honors Thesis",
+        "units": "(4.0 units)",
+        "description": "Writing the honors thesis: for East Asian Area Studies Honors majors.",
+        "sections": [
+            {
+                "section": "25830D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "25840D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "592",
+        "course_name": "Proseminar on Issues and Trends in Contemporary East Asia",
+        "units": "(4.0 units)",
+        "description": "Introduction to graduate level study of policy issues and major trends in contemporary China, Japan, and Korea; contributions of various academic disciplines.",
+        "sections": [
+            {
+                "section": "25842R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "6 of 15",
+                "instructor": "Brett Sheehan",
+                "location": "DMC108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "25843R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "25844R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "25845R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "595",
+        "course_name": "Research Methods and Prospectus Writing",
+        "units": "(2.0 units, max 6)",
+        "description": "Research skills to launch a specific research project, usually a master's thesis.",
+        "sections": [
+            {
+                "section": "25822R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Miya Elise Desjardins",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "25832D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

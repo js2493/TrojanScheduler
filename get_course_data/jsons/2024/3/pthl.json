@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20243",
+        "department": "PTHL",
+        "course_num": "701",
+        "course_name": "Clinicopathologic Conference",
+        "units": "(0.0-12.0 units, max 4)",
+        "description": "Clinicopathologic correlation of diseases of the head and neck. Seminar, 1 hour. Presented at LAC/USC Medical Center.",
+        "sections": [
+            {
+                "section": "24350D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

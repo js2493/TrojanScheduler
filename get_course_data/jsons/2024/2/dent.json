@@ -1,0 +1,109 @@
+[
+    {
+        "term": "20242",
+        "department": "DENT",
+        "course_number": "695",
+        "course_name": "Clinic Completion",
+        "units": "(1.0-18.0 units, max 20)",
+        "description": "Course is provided only for the purpose of demonstrating skills in the clinic. It is not available for subject, unit or degree credit. The course may be registered for only as an audit.",
+        "sections": [
+            {
+                "section": "22902R",
+                "session": "029",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22910D",
+                "session": "769",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22919D",
+                "session": "212",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22920R",
+                "session": "026",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DENT",
+        "course_number": "850",
+        "course_name": "Advanced Dentistry Third Year",
+        "units": "(1.0-15.0 units, max 15)",
+        "description": "For registration and fee purposes only.",
+        "sections": [
+            {
+                "section": "22904D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22912D",
+                "session": "025",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DENT",
+        "course_number": "999",
+        "course_name": "Special Session Dentistry",
+        "units": "(1.0-16.0 units, max 16)",
+        "description": "For Registration and fee purposes only.",
+        "sections": [
+            {
+                "section": "22909D",
+                "session": "196",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

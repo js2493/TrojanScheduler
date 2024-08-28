@@ -1,0 +1,152 @@
+[
+    {
+        "term": "20243",
+        "department": "ARCG",
+        "course_num": "202",
+        "course_name": "Archaeology: Our Human Past",
+        "units": "(4.0 units)",
+        "description": "Archaeology as the means of investigating our shared human past, from the origins of humanity to the foundations of current civilization.",
+        "sections": [
+            {
+                "section": "10615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "89 of 89",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS106"
+            },
+            {
+                "section": "10616R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "7 of 28",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10617R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10718R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10719R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCG",
+        "course_num": "321",
+        "course_name": "Greek Art and Archaeology",
+        "units": "(4.0 units)",
+        "description": "Survey of artistic works and monuments of ancient Greece from the Geometric through the Hellenistic period (c. 1000 - 30 BCE.).",
+        "sections": [
+            {
+                "section": "11923R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "John Pollini",
+                "location": "WPH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCG",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "59975D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "59976D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARCG",
+        "course_num": "494",
+        "course_name": "Lab Methods and Theories in Archaeology",
+        "units": "(4.0 units, max 16)",
+        "description": "Archaeological research design, data recovery, artifact analysis, interpretation and analogy, publication, and ethics.",
+        "sections": [
+            {
+                "section": "60144D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "7 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "ACB330"
+            },
+            {
+                "section": "60145R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "7 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "ACB330"
+            }
+        ]
+    }
+]

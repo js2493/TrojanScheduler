@@ -1,0 +1,87 @@
+[
+    {
+        "term": "20242",
+        "department": "MUCD",
+        "course_number": "441",
+        "course_name": "Choral Conducting II",
+        "units": "(2.0 units)",
+        "description": "Refinement of techniques developed in MUCD 340; study of styles and interpretations of choral music from the Renaissance to the present.",
+        "sections": [
+            {
+                "section": "43244D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 665,
+                "days": 20,
+                "registered": "11 of 12 (2 on waitlist)",
+                "instructor": "So-Mang Jeagal",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCD",
+        "course_number": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "43285D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCD",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43365D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            },
+            {
+                "section": "43366D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            },
+            {
+                "section": "43367D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

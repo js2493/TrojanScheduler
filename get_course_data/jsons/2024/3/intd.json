@@ -1,0 +1,233 @@
+[
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "500",
+        "course_name": "Ethics and Accountability in Biomedical Research",
+        "units": "(1.0 unit)",
+        "description": "The purpose of this course is to engage current (and potential) research trainees in discussions about the responsible conduct of science. The course is designed as an option for meeting current federal regulations which require that all predoctoral and postdoctoral fellows paid from federal contracts and grants have a component of ethical training. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40681D",
+                "session": "466",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "68 of 80",
+                "instructor": "Axel Schonthal,Carol Lin",
+                "location": "MCA149"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "504",
+        "course_name": "Molecular Biology of Cancer",
+        "units": "(4.0 units)",
+        "description": "Epidemiology, pathobiology, carcinogenesis, tumor biology and heterogeneity; retroviruses, oncogenes, cell cycle control, genetics of cancer, tumor immunology; treatment strategies.",
+        "sections": [
+            {
+                "section": "40657D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "27 of 40",
+                "instructor": "Joseph Landolph,David Cobrinik",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "531",
+        "course_name": "Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Current perspectives on major research areas in cell biology. Emphasis will be on in-depth examination of cellular structures, regulatory processes, intra-cellular routing and targeting, and cell/environmental interactions.",
+        "sections": [
+            {
+                "section": "40654D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "55 of 90",
+                "instructor": "Axel Schonthal",
+                "location": "MCH156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "550",
+        "course_name": "Introduction to Pathology",
+        "units": "(4.0 units)",
+        "description": "Normal histology and introduction to basic pathological concepts. Provides a solid and basic understanding of normal structures and how they relate to function.",
+        "sections": [
+            {
+                "section": "40661D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "10 of 25",
+                "instructor": "Louis Dubeau,Michele King,Leslie Khawli",
+                "location": "HMR202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "574",
+        "course_name": "Medical Biology Seminar",
+        "units": "(1.0 units, max 16)",
+        "description": "Selected topics in systems biology and disease.",
+        "sections": [
+            {
+                "section": "40671D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "41 of 45",
+                "instructor": "W. Martin Kast",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "577",
+        "course_name": "Writing in the Biomedical and Biological Sciences",
+        "units": "(1.0 unit)",
+        "description": "Writing instruction for graduate students focusing on grant proposals and scientific papers. Includes both writing and providing critiques of classmates work. Lectures and discussion. Open only to doctoral students in the school of Medicine.",
+        "sections": [
+            {
+                "section": "40674D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "37 of 50",
+                "instructor": "Ite Offringa",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "600",
+        "course_name": "Student Research Presentation",
+        "units": "(1.0 units, max 12)",
+        "description": "Students prepare and present their own research to an audience of faculty and peers. Graded CR/NC. Open only to graduate students.",
+        "sections": [
+            {
+                "section": "40667D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "8 of 75",
+                "instructor": "Ansgar Siemer",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "620",
+        "course_name": "Medical Students Elective Program",
+        "units": "(0.0 units)",
+        "description": "Opportunities for Medical students as preceptors, in research laboratories or in field medical services under guidance of sponsors approved by faculty committees. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40650R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 25",
+                "instructor": "Brian Lee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "622",
+        "course_name": "Pre-clinical System Block for Health, Technology and Engineering",
+        "units": "(4.0-9.0 units)",
+        "description": "A three-to-nine week block of lectures and laboratories focused on particular body system (e.g. Cardiovascular, Renal, etc.). Open only to Health, Technology and Engineering students.",
+        "sections": [
+            {
+                "section": "40652D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 720,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "623",
+        "course_name": "Interprofessional Education and Collaboration for Geriatrics",
+        "units": "(0.0 units)",
+        "description": "Students from multiple health professions learn about aging and collaborative team care through a combination of didactic and experiential learning working in a community-based setting.",
+        "sections": [
+            {
+                "section": "48096D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 130",
+                "instructor": "Ashley Halle",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "INTD",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40675D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "25 of 40",
+                "instructor": "Ite Offringa",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

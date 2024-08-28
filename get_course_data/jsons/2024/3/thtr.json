@@ -1,0 +1,3586 @@
+[
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "101",
+        "course_name": "Introduction to Acting",
+        "units": "(4.0 units)",
+        "description": "Study of diverse genres and disciplines of acting; fundamental techniques necessary for performance; scene study from contemporary text.",
+        "sections": [
+            {
+                "section": "62602D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Tomm Polos",
+                "location": "DABB5"
+            },
+            {
+                "section": "62607D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "17 of 18",
+                "instructor": "Debra De Liso",
+                "location": "MCC112"
+            },
+            {
+                "section": "62610D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "2 of 18",
+                "instructor": "Jeremiah O'Brian",
+                "location": "MCC109"
+            },
+            {
+                "section": "62601D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "9 of 18",
+                "instructor": "Stevie Johnson",
+                "location": "PED206"
+            },
+            {
+                "section": "62603D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Kendall Johnson",
+                "location": "DAB213"
+            },
+            {
+                "section": "62604D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Jill Alexander",
+                "location": "DABB5"
+            },
+            {
+                "section": "62605D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "16 of 18",
+                "instructor": "Tessa Slovis",
+                "location": "DAB109"
+            },
+            {
+                "section": "62608D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Kendall Johnson",
+                "location": "MCC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "105",
+        "course_name": "Introduction to Screen Acting",
+        "units": "(2.0 units)",
+        "description": "Introduction to the theoretical and foundational practices, techniques and strategies specific to screen acting in relation to the basic dynamics of acting for the stage.",
+        "sections": [
+            {
+                "section": "62609R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "12 of 12",
+                "instructor": "Kate Burton",
+                "location": "DABB10"
+            },
+            {
+                "section": "62650R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "10 of 18",
+                "instructor": "Adam Chambers",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "115A",
+        "course_name": "Movement I",
+        "units": "(4.0 units)",
+        "description": "Basic training for the actor's body for expression and communication. Awareness and control through mind-body techniques.",
+        "sections": [
+            {
+                "section": "62621D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "16 of 18",
+                "instructor": "Stephanie Shroyer",
+                "location": "MCC107"
+            },
+            {
+                "section": "62622R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 18",
+                "instructor": "Kosta Potamianos",
+                "location": "MCC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "120A",
+        "course_name": "Acting I",
+        "units": "(4.0 units)",
+        "description": "Basic principles and techniques of acting through theatre games and improvisation. Introduction to contemporary texts, basic characterization and cold reading techniques.",
+        "sections": [
+            {
+                "section": "62625D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "16 of 18",
+                "instructor": "Anita Dashiell-Sparks",
+                "location": "DAB109"
+            },
+            {
+                "section": "62627D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "5 of 18",
+                "instructor": "MaryAnn Hu",
+                "location": "MCC107"
+            },
+            {
+                "section": "62626D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 18",
+                "instructor": "Amrita Dhaliwal",
+                "location": "MCC112"
+            },
+            {
+                "section": "62629D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "5 of 18",
+                "instructor": "Jenni Barber",
+                "location": "MCC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "122",
+        "course_name": "Improvisation and Theatre Games",
+        "units": "(2.0 units, max 4)",
+        "description": "Individual and group exercises to free the actor physically and emotionally and to stimulate creativity, imagination, and self-expression.",
+        "sections": [
+            {
+                "section": "62636R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Debra De Liso",
+                "location": "MCC109"
+            },
+            {
+                "section": "62637R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "5 of 20",
+                "instructor": "Nick Massouh",
+                "location": "DABB5"
+            },
+            {
+                "section": "62638R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Kirstin Eggers",
+                "location": "MCC111"
+            },
+            {
+                "section": "62631R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "6 of 20",
+                "instructor": "Amrita Dhaliwal",
+                "location": "MCC111"
+            },
+            {
+                "section": "62632R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "19 of 20",
+                "instructor": "Kirstin Eggers",
+                "location": "MCC111"
+            },
+            {
+                "section": "62633R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "Nick Massouh",
+                "location": "PED202"
+            },
+            {
+                "section": "62634R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "14 of 20",
+                "instructor": "Nick Massouh",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "125",
+        "course_name": "Text Studies for Production",
+        "units": "(4.0 units)",
+        "description": "Focuses on the questions, artistic choices, methodologies, and approaches of an actor/director/designer in the preparation of a production score prior to rehearsal.",
+        "sections": [
+            {
+                "section": "62639D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "25 of 26",
+                "instructor": "Melinda Finberg",
+                "location": "SOSB37"
+            },
+            {
+                "section": "62640D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "11 of 12",
+                "instructor": "John Allis",
+                "location": "SOSB50"
+            },
+            {
+                "section": "62641D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Laurie Fisher",
+                "location": "SOSB41"
+            },
+            {
+                "section": "62642D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "Melinda Finberg",
+                "location": "KAP147"
+            },
+            {
+                "section": "62643D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 25",
+                "instructor": "Lena Ford",
+                "location": "WPHB26"
+            },
+            {
+                "section": "62645D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "23 of 25",
+                "instructor": "Adam Lebowitz-Lockard",
+                "location": "THH119"
+            },
+            {
+                "section": "62646D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "23 of 25",
+                "instructor": "Lena Ford",
+                "location": "LVL13"
+            },
+            {
+                "section": "62647D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "Rena Heinrich",
+                "location": "VHE214"
+            },
+            {
+                "section": "62644D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Sharon Carnicke",
+                "location": "KAP164"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "130",
+        "course_name": "Introduction to Theatrical Production",
+        "units": "(2.0 units)",
+        "description": "Introduction to the non-performance areas of theatrical production(administrative, design, and technical fields) through hands-onparticipation in USC productions.",
+        "sections": [
+            {
+                "section": "62657R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "60 of 60",
+                "instructor": "Elizabeth Harper,Tak Kata,Ann Closs-Farley,Noel Nichols,Tony Shayne",
+                "location": "THH210"
+            },
+            {
+                "section": "62662R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "60 of 60",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "131A",
+        "course_name": "Advanced Theatrical Production",
+        "units": "(2.0 units)",
+        "description": "Advanced understanding of non-performance areas of theatrical production (administrative, design, and technical fields) through hands-on participation in USC productions.",
+        "sections": [
+            {
+                "section": "62670D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "16 of 25",
+                "instructor": "Noel Nichols,Scott Faris,Duncan Mahoney,Tony Shayne",
+                "location": "PED114E"
+            },
+            {
+                "section": "62671R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "16 of 25",
+                "instructor": "",
+                "location": "TTL"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "132A",
+        "course_name": "Art of Theatrical Design",
+        "units": "(2.0 units)",
+        "description": "A guided student exploration of the fundamentals of applied design elements and their use as creative tools in the design process",
+        "sections": [
+            {
+                "section": "62672D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "16 of 25",
+                "instructor": "Sibyl Wickersheimer",
+                "location": "KAP164"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "192",
+        "course_name": "History of Stand-Up Comedy",
+        "units": "(4.0 units)",
+        "description": "A comprehensive overview and understanding of how stand-up evolved in the United States, from the mid-1800's to the current touring performers.",
+        "sections": [
+            {
+                "section": "63238R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "70 of 70",
+                "instructor": "Wayne Federman",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "197",
+        "course_name": "Comedy and Performance",
+        "units": "(4.0 units)",
+        "description": "Comedy and Performance traces the history of comedy in performance from its earliest incarnations to the present day.",
+        "sections": [
+            {
+                "section": "62752R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Zachary Steel",
+                "location": "DMC150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "214A",
+        "course_name": "The Actor's Instrument: Voice and Body",
+        "units": "(4.0 units)",
+        "description": "A comprehensive exploration of voice, speech and acting to strengthen the actors physical instrument.",
+        "sections": [
+            {
+                "section": "62613D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "15 of 18",
+                "instructor": "Laura Flanagan,",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "216",
+        "course_name": "Movement for Actors",
+        "units": "(2.0 units)",
+        "description": "Training and practice in the coordination of the physical apparatus of the actor utilizing various movement techniques through improvisation.",
+        "sections": [
+            {
+                "section": "62767R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Alexandra Billings",
+                "location": "PED207"
+            },
+            {
+                "section": "62768R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "6 of 18",
+                "instructor": "Sabina Zuniga Varela",
+                "location": "MCC107"
+            },
+            {
+                "section": "62770R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "17 of 18",
+                "instructor": "Zachary Steel",
+                "location": "DAB213"
+            },
+            {
+                "section": "62769R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "12 of 18",
+                "instructor": "Sabina Zuniga Varela",
+                "location": "DAB213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "220A",
+        "course_name": "Intermediate Acting I",
+        "units": "(4.0 units)",
+        "description": "Continuing development of imagination leading to an increased range of dramatic expression through the formalized text of William Shakespeare.",
+        "sections": [
+            {
+                "section": "62772D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "15 of 18",
+                "instructor": "Brent Blair",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "222",
+        "course_name": "Stage Make-up",
+        "units": "(2.0 units)",
+        "description": "Principles of stage make-up materials and skills allowing the actors to enhance their features and techniques for moderate and extreme aging, injuries, and character roles.",
+        "sections": [
+            {
+                "section": "62781R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 32,
+                "registered": "2 of 15",
+                "instructor": "Gary Domasin",
+                "location": "DAB115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "230",
+        "course_name": "Communicating Theatrical Design Concepts",
+        "units": "(3.0 units)",
+        "description": "The visualization and communication of design ideas through free-hand and mechanical drawing: orthographics, isometrics,perspective, shades and shadows, plans, sections and elevations.",
+        "sections": [
+            {
+                "section": "62789R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "10 of 25",
+                "instructor": "Tom Buderwitz",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "231",
+        "course_name": "Costume Construction",
+        "units": "(3.0 units)",
+        "description": "Historical survey, theory and practice in construction of costume.",
+        "sections": [
+            {
+                "section": "62792R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "12 of 12",
+                "instructor": "Charlotte Stratton",
+                "location": "PED114E"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "232",
+        "course_name": "Stage Lighting",
+        "units": "(3.0 units)",
+        "description": "Theory and practice of theatrical lighting design including electricity, radiant energy, refraction, reflection, absorption, chromatic variation and electronic controls.",
+        "sections": [
+            {
+                "section": "62797R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "13 of 25",
+                "instructor": "Nathan Scheuer",
+                "location": "MCC106"
+            },
+            {
+                "section": "62796R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "11 of 25",
+                "instructor": "Elizabeth Harper",
+                "location": "MCC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "233",
+        "course_name": "Historic Costumes for the Theatre",
+        "units": "(3.0 units)",
+        "description": "Historical survey, theory and practice of the use of costume in theatrical production; emphasis on period and style.",
+        "sections": [
+            {
+                "section": "62795R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Howard Schmitt",
+                "location": "SOSB41"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "236",
+        "course_name": "Stage Sound",
+        "units": "(2.0 units)",
+        "description": "Basic audio engineering science, how sound is measured, basic transducers and signal flow. Operation of recording and playback equipment used in theatrical sound design/mixing.",
+        "sections": [
+            {
+                "section": "62800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "12 of 14",
+                "instructor": "Noel Nichols",
+                "location": "MCC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "250",
+        "course_name": "Camera and Improvisation",
+        "units": "(2.0 units)",
+        "description": "Understanding on-camera acting and improvisation by creating original material both in front and behind the camera.",
+        "sections": [
+            {
+                "section": "62782R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "5 of 18",
+                "instructor": "Julian Conde",
+                "location": "SHR105"
+            },
+            {
+                "section": "63234R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "6 of 18",
+                "instructor": "Julian Conde",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "252A",
+        "course_name": "Intermediate Acting I: Drama/Comedy",
+        "units": "(4.0 units)",
+        "description": "Polishing the actor's skills through analysis and performance applied to the arc of a character.",
+        "sections": [
+            {
+                "section": "62811R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "11 of 18",
+                "instructor": "Alexandra Billings",
+                "location": "MCC111"
+            },
+            {
+                "section": "62819R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 18",
+                "instructor": "Marty Lamar",
+                "location": "MCC112"
+            },
+            {
+                "section": "62820R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Bayo Akinfemi",
+                "location": "PED207"
+            },
+            {
+                "section": "62812R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "14 of 18",
+                "instructor": "Stevie Johnson",
+                "location": "SCD"
+            },
+            {
+                "section": "62814R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Paul Urcioli",
+                "location": "DAB109"
+            },
+            {
+                "section": "62816R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "12 of 18",
+                "instructor": "Bob Bailey",
+                "location": "PED206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "252B",
+        "course_name": "Intermediate Acting I: Drama/Comedy",
+        "units": "(4.0 units)",
+        "description": "Polishing the actor's skills through analysis and performance applied to the arc of a character.",
+        "sections": [
+            {
+                "section": "62817R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Marty Lamar",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "290",
+        "course_name": "Introduction to Medical Clowning",
+        "units": "(2.0 units)",
+        "description": "Explores the art of clowning in hospitals for the purpose of improving the well-being of those in need.",
+        "sections": [
+            {
+                "section": "62830R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "13 of 18",
+                "instructor": "Zachary Steel",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "295",
+        "course_name": "Theatre in Los Angeles",
+        "units": "(2.0 units)",
+        "description": "Current state of American theatre, through a study of acting, playwriting, criticism, stage design, lighting, and dramatic styles.",
+        "sections": [
+            {
+                "section": "62840R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "10 of 18",
+                "instructor": "Frank Catalano",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "305A",
+        "course_name": "Directing",
+        "units": "(4.0 units)",
+        "description": "Examination of basic directorial principles. Pre-production analysis and rehearsal procedures; relationship of the director to actor; integration of technical aspects of production.",
+        "sections": [
+            {
+                "section": "62855R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "17 of 18",
+                "instructor": "Kenneth Sawyer",
+                "location": "DABB5"
+            },
+            {
+                "section": "62858R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "17 of 18",
+                "instructor": "Bob Bailey",
+                "location": "MCC112"
+            },
+            {
+                "section": "62857R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "14 of 18",
+                "instructor": "Stephanie Shroyer",
+                "location": "MCC111"
+            },
+            {
+                "section": "62859R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "8 of 18",
+                "instructor": "Tony Taccone",
+                "location": "MCC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "307",
+        "course_name": "Comedy in LA",
+        "units": "(2.0 units)",
+        "description": "Experiential and discussion-based; examines Los Angeles-based live comedy as it continues to evolve, both through text and performance.",
+        "sections": [
+            {
+                "section": "62860D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "312",
+        "course_name": "LGBTQ Theatre",
+        "units": "(4.0 units)",
+        "description": "Explores the range and genealogy of LGBTQ theatre and performance across political, historical, and theatrical contexts.",
+        "sections": [
+            {
+                "section": "62874R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "12 of 12",
+                "instructor": "Anna Winget",
+                "location": "GFS221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "314",
+        "course_name": "Advanced Topics in Modern Drama",
+        "units": "(4.0 units)",
+        "description": "20th century realism and the avant-garde.",
+        "sections": [
+            {
+                "section": "62876R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "1 of 30",
+                "instructor": "Melinda Finberg",
+                "location": "WPHB30"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "315A",
+        "course_name": "Physical Theatre I",
+        "units": "(2.0 units)",
+        "description": "Actor training anchored by rigorous physical movements. Activities include comdey, clowning, juggling, and mask work. Open to BFA acting majors only.",
+        "sections": [
+            {
+                "section": "62880D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 0,
+                "registered": "12 of 18",
+                "instructor": "Sarah Anindo Marshall",
+                "location": "PED207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "318",
+        "course_name": "Creating the Hit Podcast",
+        "units": "(2.0 units)",
+        "description": "Develops the ability to create a podcast. Focuses on skills to produce, perform, market and monetize a podcast across a variety of genres.",
+        "sections": [
+            {
+                "section": "63161R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "14 of 30",
+                "instructor": "Sim Sarna",
+                "location": "THH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "320A",
+        "course_name": "Intermediate Acting II",
+        "units": "(4.0 units)",
+        "description": "Further development of range and breadth of performance skills with emphasis on texts of heightened language and style.",
+        "sections": [
+            {
+                "section": "62886D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 18",
+                "instructor": "Michele Shay",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "322",
+        "course_name": "Improv 2: Advanced Improv",
+        "units": "(2.0 units)",
+        "description": "An in depth study of improvised comedy scene work. An exploration of the primary tools and structure for creating improvised scenes and developing characters for stage and screen.",
+        "sections": [
+            {
+                "section": "62890R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 16,
+                "registered": "14 of 18",
+                "instructor": "Paul Hungerford",
+                "location": "SCD"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "330",
+        "course_name": "Scene Design I",
+        "units": "(4.0 units)",
+        "description": "Historical styles, methods, and dramatic analysis for scene design as applied in contemporary practice.",
+        "sections": [
+            {
+                "section": "62905R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Sibyl Wickersheimer",
+                "location": "KAP164"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "331",
+        "course_name": "Costume Design I",
+        "units": "(4.0 units)",
+        "description": "Historical styles, methods, and dramatic analysis in costume design as applied in contemporary practice. Execution of costume designs for assigned works.",
+        "sections": [
+            {
+                "section": "62908R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Samantha Jones",
+                "location": "PED114E"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "332",
+        "course_name": "Lighting Design I",
+        "units": "(4.0 units)",
+        "description": "Historical styles, methods and dramatic analysis in lighting design as applied in contemporary practice.",
+        "sections": [
+            {
+                "section": "62909R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "13 of 15",
+                "instructor": "Elizabeth Harper",
+                "location": "MCC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "333",
+        "course_name": "Stage Management I",
+        "units": "(3.0 units)",
+        "description": "Basic skills, including assembly of prompt book, blocking notation, and organizational and communication procedures applied in theater production.",
+        "sections": [
+            {
+                "section": "62914R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "17 of 18",
+                "instructor": "Scott Faris,Jennifer Sarvas",
+                "location": "SOSB52"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "335",
+        "course_name": "Scenic Construction",
+        "units": "(3.0 units)",
+        "description": "Technology, organization, and operation of the theatrical scene shop centered around the proper and safe use of tools, the choosing of materials, and methods of construction.",
+        "sections": [
+            {
+                "section": "62920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "11 of 15",
+                "instructor": "Duncan Mahoney",
+                "location": "TTL"
+            },
+            {
+                "section": "62921R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 15",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "339A",
+        "course_name": "The Actor's Instrument: Voice and Body II",
+        "units": "(4.0 units)",
+        "description": "Continued training in the areas of breath awareness, physical awareness, voice, speech work and movement training.",
+        "sections": [
+            {
+                "section": "62936D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "12 of 18",
+                "instructor": "Esther Chae,",
+                "location": "DAB109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "340A",
+        "course_name": "Intermediate Voice",
+        "units": "(2.0 units)",
+        "description": "Extended development of vocal freedom and range, acquisition of articulate speech. Enhancement of vocal power and resonance, techniques for performing with a dialect. Open to BFA acting majors only.",
+        "sections": [
+            {
+                "section": "62927D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 950,
+                "days": 10,
+                "registered": "10 of 18",
+                "instructor": "Kathy Dunn-Muzingo",
+                "location": "MCC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "342A",
+        "course_name": "Basic Voice",
+        "units": "(2.0 units)",
+        "description": "a: Examination of the individual voice centering on resonance, tone, flexibility, and support through dramatic selections for transmitting meaning and emotion of character.",
+        "sections": [
+            {
+                "section": "62934R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Laura Flanagan",
+                "location": "DABB5"
+            },
+            {
+                "section": "62935R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 10,
+                "registered": "9 of 18",
+                "instructor": "Brent Blair",
+                "location": "SCD"
+            },
+            {
+                "section": "63265R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Brent Blair",
+                "location": "MCC112"
+            },
+            {
+                "section": "62932D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "11 of 12",
+                "instructor": "Hugh O'Gorman",
+                "location": "MCC107"
+            },
+            {
+                "section": "62933R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "16 of 18",
+                "instructor": "Emily Alpren",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "342B",
+        "course_name": "Basic Voice",
+        "units": "(2.0 units)",
+        "description": "Examination of the individual voice centering on resonance, tone, flexibility, and support through dramatic selections for transmitting meaning and emotion of character. Continuation of 342a.",
+        "sections": [
+            {
+                "section": "62939R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "343",
+        "course_name": "Musical Theatre Audition",
+        "units": "(3.0 units)",
+        "description": "Designed to give students confidence and integrity for auditions in musical theatre. Choosing appropriate material and preparation for the audition and performance. Audition required.",
+        "sections": [
+            {
+                "section": "62940R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "MaryAnn Hu",
+                "location": "MCC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "352A",
+        "course_name": "Intermediate Acting II",
+        "units": "(4.0 units)",
+        "description": "Building and sustaining character with special focus on stylized realism, subtext and heightened language. Multi-cultural text and methodologies.",
+        "sections": [
+            {
+                "section": "62950R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Alexandra Billings",
+                "location": "DAB109"
+            },
+            {
+                "section": "62951R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 20,
+                "registered": "14 of 18",
+                "instructor": "Bob Bailey",
+                "location": "MCC109"
+            },
+            {
+                "section": "62952R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "14 of 18",
+                "instructor": "Stevie Johnson",
+                "location": "MCC109"
+            },
+            {
+                "section": "62953R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Paul Urcioli",
+                "location": "MCC112"
+            },
+            {
+                "section": "62954R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Paul Urcioli",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "352B",
+        "course_name": "Intermediate Acting II",
+        "units": "(4.0 units)",
+        "description": "Building and sustaining character with special focus on stylized realism, subtext and heightened language. Multi-cultural text and methodologies.",
+        "sections": [
+            {
+                "section": "62955R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "4 of 18",
+                "instructor": "Brent Blair",
+                "location": "MCC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "354",
+        "course_name": "Acting Shakespeare",
+        "units": "(4.0 units)",
+        "description": "Basic approach to the acting and analysis of the highly formalized texts of William Shakespeare.",
+        "sections": [
+            {
+                "section": "62957R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "4 of 18",
+                "instructor": "Edgar Landa",
+                "location": "DAB109"
+            },
+            {
+                "section": "62958R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "9 of 18",
+                "instructor": "Lee Chemel",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "355",
+        "course_name": "Acting for Sitcoms",
+        "units": "(4.0 units)",
+        "description": "Provide an understanding as to how to work in half-hour television and streaming media.",
+        "sections": [
+            {
+                "section": "62959R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Jill Alexander",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "365",
+        "course_name": "Playwriting I",
+        "units": "(4.0 units)",
+        "description": "Essential elements of playwriting through weekly assignments, students' initiative, occasional productions of scenes, and extensive classroom analysis.",
+        "sections": [
+            {
+                "section": "62964R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Boni Alvarez",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "366",
+        "course_name": "Playwriting II",
+        "units": "(4.0 units)",
+        "description": "Continuation of the work begun in 365.",
+        "sections": [
+            {
+                "section": "62861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Paula Cizmar",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "395",
+        "course_name": "Drama as Human Relations",
+        "units": "(4.0 units)",
+        "description": "A focus on American ethnic and multicultural diversity from the perspectives of gender, race, and myth as revealed in plays, film, and other performance media.",
+        "sections": [
+            {
+                "section": "62990R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Anna Winget",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "397",
+        "course_name": "Theatre Practicum",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Substantive participation in a production sponsored by the School and supervised by the faculty.",
+        "sections": [
+            {
+                "section": "62993D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Tony Shayne,",
+                "location": ""
+            },
+            {
+                "section": "63001D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Tony Shayne,Ashley Eskew",
+                "location": "DAB213"
+            },
+            {
+                "section": "63002D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 980,
+                "days": 10,
+                "registered": "0 of 50",
+                "instructor": "Bayo Akinfemi",
+                "location": "DAB213"
+            },
+            {
+                "section": "63006D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Bayo Akinfemi",
+                "location": "OFFICE"
+            },
+            {
+                "section": "62994D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Tony Shayne,",
+                "location": ""
+            },
+            {
+                "section": "62995D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Tony Shayne,",
+                "location": ""
+            },
+            {
+                "section": "62996D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "24 of 50",
+                "instructor": "Tony Shayne,",
+                "location": ""
+            },
+            {
+                "section": "62997D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "13 of 50",
+                "instructor": "Edgar Landa,Tony Shayne",
+                "location": "PED207"
+            },
+            {
+                "section": "62998D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Tony Shayne",
+                "location": ""
+            },
+            {
+                "section": "62999D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Tony Shayne",
+                "location": ""
+            },
+            {
+                "section": "63000D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Tony Shayne",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "402",
+        "course_name": "Projection Design II",
+        "units": "(3.0 units)",
+        "description": "Projection design process, software, equipment, multi-media and digital technology concepts, and related documentation.",
+        "sections": [
+            {
+                "section": "63012R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "4 of 15",
+                "instructor": "Nathan Scheuer",
+                "location": "MCC106"
+            },
+            {
+                "section": "63011R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "404",
+        "course_name": "Acting Theory",
+        "units": "(4.0 units)",
+        "description": "Examination of the theoretical foundations of acting as an art form through the reading of primary historical texts.",
+        "sections": [
+            {
+                "section": "63005D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Sharon Carnicke",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "405",
+        "course_name": "Performing Identities",
+        "units": "(4.0 units)",
+        "description": "This course explores the live performance medium as a creative means of social redress and personal expression. Duplicates credit in the former THTR 393m.",
+        "sections": [
+            {
+                "section": "63003R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "26 of 26",
+                "instructor": "Boni Alvarez",
+                "location": "SOSB48"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "406",
+        "course_name": "Theatre on the Edge",
+        "units": "(4.0 units)",
+        "description": "An exploration of the art of theatre at the edge of possibilities.",
+        "sections": [
+            {
+                "section": "63008R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Rena Heinrich",
+                "location": "WPH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "407A",
+        "course_name": "Drawing and Rendering for the Theater",
+        "units": "(2.0 units)",
+        "description": "Drawing and rendering techniques appropriate for theater designers. Drawing and rendering.",
+        "sections": [
+            {
+                "section": "63010R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "8 of 18",
+                "instructor": "Samantha Jones",
+                "location": "PED114E"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "408A",
+        "course_name": "Dialects",
+        "units": "(2.0 units)",
+        "description": "The study of standard American stage dialect using the international phonetic alphabet.",
+        "sections": [
+            {
+                "section": "63013R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 10,
+                "registered": "20 of 20",
+                "instructor": "Kathy Dunn-Muzingo",
+                "location": "MCC109"
+            },
+            {
+                "section": "63014R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 10,
+                "registered": "9 of 20",
+                "instructor": "Louis Colaianni",
+                "location": "MCC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "409",
+        "course_name": "Advanced Drafting: Vectorworks",
+        "units": "(3.0 units)",
+        "description": "An exploration of computer aided drafting (CAD) software, including drafting standards as achieved with Vectorworks and related software.",
+        "sections": [
+            {
+                "section": "63015D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "12 of 13",
+                "instructor": "Nathan Scheuer",
+                "location": "BIT"
+            },
+            {
+                "section": "63016R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 13",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "410",
+        "course_name": "The Digital Actor",
+        "units": "(2.0 units)",
+        "description": "Empowers the student to forge a career in acting by managing and utilizing the many facets of social and digital media.",
+        "sections": [
+            {
+                "section": "63020R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 20",
+                "instructor": "Tessa Slovis",
+                "location": "SHR105"
+            },
+            {
+                "section": "63201D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Kate Burton",
+                "location": ""
+            },
+            {
+                "section": "63019R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 20",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "411",
+        "course_name": "The Business of Acting",
+        "units": "(4.0 units)",
+        "description": "Develops the student's ability to connect and combine managerial, economic and business-related skills with the craft and career of acting.",
+        "sections": [
+            {
+                "section": "63017R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Dan Shaner",
+                "location": "DAB109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "416",
+        "course_name": "Creating Content for the Actor",
+        "units": "(2.0 units)",
+        "description": "Development of skills to create content for stage and screen.",
+        "sections": [
+            {
+                "section": "63245R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "James Morosini",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "420",
+        "course_name": "Senior Project",
+        "units": "(4.0 units)",
+        "description": "Contemporary material from plays and screenplays with an emphasis on individual challenges and problems.",
+        "sections": [
+            {
+                "section": "63027D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "12 of 18",
+                "instructor": "Michele Shay",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "421",
+        "course_name": "Public Speaking as Performance: A Course for Non-Actors",
+        "units": "(2.0 units)",
+        "description": "Public speaking approached as performance, using acting techniques to communicate with confidence, clarity and charisma.",
+        "sections": [
+            {
+                "section": "63031R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "11 of 18",
+                "instructor": "Stevie Johnson",
+                "location": "MCC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "423",
+        "course_name": "Magic",
+        "units": "(2.0 units)",
+        "description": "The dramatic art of making an audience believe something is impossible. the history and performance of magic including illusion, mentalism, vanishing, coin and card tricks.",
+        "sections": [
+            {
+                "section": "63033R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Matthew Felten",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "424",
+        "course_name": "Creator as Entrepreneur",
+        "units": "(2.0 units)",
+        "description": "Explores the tools required to forge a career as a contemporary creator, with an emphasis on producing and monetizing new work through modern platforms.",
+        "sections": [
+            {
+                "section": "62623R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "21 of 40",
+                "instructor": "Tomm Polos",
+                "location": ""
+            },
+            {
+                "section": "63034R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "7 of 40",
+                "instructor": "Tomm Polos",
+                "location": "KAP163"
+            },
+            {
+                "section": "63236R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "7 of 40",
+                "instructor": "Tomm Polos",
+                "location": "WPH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "426",
+        "course_name": "Being on Screen: A Class for Presenters, Hosts, and Others",
+        "units": "(2.0 units)",
+        "description": "Exploration of on-camera skills required for presenters, hosts, athletes, public speakers, and others whose careers will include on-screen appearances.",
+        "sections": [
+            {
+                "section": "63036R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "4 of 18",
+                "instructor": "Jeremiah O'Brian",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "427",
+        "course_name": "Audition Technique for Film, Television and New Media",
+        "units": "(2.0 units)",
+        "description": "Develop on-camera auditioning skills for actors at a professional level in a variety of film, television and new media venues.",
+        "sections": [
+            {
+                "section": "63038R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Dan Shaner",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "432A",
+        "course_name": "Scene Design II",
+        "units": "(3.0 units)",
+        "description": "Continuation of 330. Evolution of scene design through analysis of script, environmental factors, and styles.",
+        "sections": [
+            {
+                "section": "63040D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "5 of 18",
+                "instructor": "Tak Kata",
+                "location": "KAP164"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "433A",
+        "course_name": "Costume Design II",
+        "units": "(3.0 units)",
+        "description": "Evolution of costume design through analysis of script, environmental factors, and styles.",
+        "sections": [
+            {
+                "section": "63043D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "3 of 15",
+                "instructor": "Ann Closs-Farley",
+                "location": "PED114E"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "434A",
+        "course_name": "Lighting Design II",
+        "units": "(3.0 units)",
+        "description": "Continuation of THTR 332. Evolution of lighting design through analysis of script, environmental factors and styles.",
+        "sections": [
+            {
+                "section": "63046D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "2 of 15",
+                "instructor": "Nathan Scheuer",
+                "location": "MCC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "436",
+        "course_name": "Sound for Theatre",
+        "units": "(3.0 units)",
+        "description": "Introduction to electronic sound and sound reinforcement, including basic equipment, recording, editing, and show operation.",
+        "sections": [
+            {
+                "section": "63050D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 980,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Phil Allen",
+                "location": "MCC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "438",
+        "course_name": "Technical Theatre",
+        "units": "(3.0 units)",
+        "description": "Theory and practice of technical theatre. Emphasis is on technical problem solving and graphic solutions to technical theatre.",
+        "sections": [
+            {
+                "section": "62922R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "439",
+        "course_name": "Stage Properties",
+        "units": "(3.0 units)",
+        "description": "Organization, management, and construction of properties for the theatre.",
+        "sections": [
+            {
+                "section": "63052R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "15 of 18",
+                "instructor": "Mallory Birkrem",
+                "location": "PED204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "442",
+        "course_name": "Voice-over Acting",
+        "units": "(2.0 units)",
+        "description": "Acting techniques, recording studio technology and editing for the field of voice acting and voice-overs.",
+        "sections": [
+            {
+                "section": "63055D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "10 of 10",
+                "instructor": "Phil Allen,Gabriella Santinelli",
+                "location": "MCC110"
+            },
+            {
+                "section": "63056D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Noel Nichols,Phil Allen,Gabriella Santinelli",
+                "location": "MCC110"
+            },
+            {
+                "section": "63237D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 680,
+                "days": 2,
+                "registered": "9 of 10",
+                "instructor": "Phil Allen,Gabriella Santinelli",
+                "location": "MCC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "443",
+        "course_name": "Production Management",
+        "units": "(4.0 units)",
+        "description": "The context and scope of work done by a Theatrical Production Manager. Students will learn about different types of theatrical organizations and how they are structured. Prerequisite: THTR 333. Recommended preparation: two units of THTR 397.",
+        "sections": [
+            {
+                "section": "63058D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "445",
+        "course_name": "Developing Your Speaking Voice",
+        "units": "(2.0 units)",
+        "description": "Development of resonance, range and clarity. Examination of posture and breathwork. Applications of voice skills to acting, professional speaking and personal projects.",
+        "sections": [
+            {
+                "section": "63060R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "446",
+        "course_name": "English Language Dubbing",
+        "units": "(2.0 units)",
+        "description": "Adapt the fundamentals tools of scene and character analysis to the specialized world of voice acting for English dubbing.",
+        "sections": [
+            {
+                "section": "63202R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Esther Chae",
+                "location": "MCC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "447",
+        "course_name": "Fashion Influencing",
+        "units": "(4.0 units)",
+        "description": "Analysis of key influencers and aesthetics within relevant digital platforms for the fashion industry.",
+        "sections": [
+            {
+                "section": "63065R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "21 of 25",
+                "instructor": "Samantha Jones",
+                "location": "DAB109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "448",
+        "course_name": "History of Fashion and the Costume",
+        "units": "(4.0 units)",
+        "description": "Introduction to four hundred years of fashion history drawing parallels between the fashion and period that it existed.",
+        "sections": [
+            {
+                "section": "63066R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "63071R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "452",
+        "course_name": "Advanced Acting",
+        "units": "(4.0 units)",
+        "description": "Focus on advanced acting, theatrical interdisciplinary storytelling styles explored in epic theatre.",
+        "sections": [
+            {
+                "section": "63064R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "7 of 18",
+                "instructor": "Paul Urcioli",
+                "location": "PED206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "456",
+        "course_name": "Latinx Theatre",
+        "units": "(4.0 units)",
+        "description": "Explores the range and genealogy of Latinx theatre and performance from its origins in the last fifty years to the present.",
+        "sections": [
+            {
+                "section": "63210R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "5 of 24",
+                "instructor": "Luis Alfaro",
+                "location": "DMC200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "464",
+        "course_name": "An Actor's Reel",
+        "units": "(2.0 units)",
+        "description": "Using original and existing scripted material for film, television and new media students will act, film and edit scenes to form a professional performance reel.",
+        "sections": [
+            {
+                "section": "63070R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Adam Chambers",
+                "location": "MCC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "465",
+        "course_name": "Playwriting III",
+        "units": "(4.0 units)",
+        "description": "Analysis of a full-length play or its equivalent with continued production opportunity.",
+        "sections": [
+            {
+                "section": "62862R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Boni Alvarez",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "467",
+        "course_name": "Going Viral: Performance for New Media",
+        "units": "(2.0 units)",
+        "description": "A writing and performance course (partially online) for new media. Students will learn to create original short form and web series content for new media including YouTube, Funny or Die, Periscope and other Internet platforms.",
+        "sections": [
+            {
+                "section": "63158R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "5 of 18",
+                "instructor": "",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "470",
+        "course_name": "Sketch Comedy for Theatre",
+        "units": "(4.0 units)",
+        "description": "A writing-performance workshop in which the students create, rehearse and perform original sketch comedy material.",
+        "sections": [
+            {
+                "section": "63081R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "10 of 18",
+                "instructor": "Kirstin Eggers",
+                "location": "DAB109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "472",
+        "course_name": "Professional Preparation for Actors",
+        "units": "(2.0 units)",
+        "description": "Introduction to the skills, knowledge, and promotional materials that will enable the student to manage an independent career in the performing arts.",
+        "sections": [
+            {
+                "section": "63077R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "10 of 18",
+                "instructor": "Dan Shaner",
+                "location": "SCD"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "474",
+        "course_name": "Introduction to Stand Up Comedy",
+        "units": "(2.0 units)",
+        "description": "An introduction to the discipline of conceiving, writing, and creating original Stand Up Comedy routines",
+        "sections": [
+            {
+                "section": "63087R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "12 of 14",
+                "instructor": "Judith Shelton",
+                "location": "DABB5"
+            },
+            {
+                "section": "63088R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "5 of 14",
+                "instructor": "Judith Shelton",
+                "location": "DABB5"
+            },
+            {
+                "section": "63089R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "13 of 14",
+                "instructor": "Judith Shelton",
+                "location": "PED204"
+            },
+            {
+                "section": "63122R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "13 of 14",
+                "instructor": "Judith Shelton",
+                "location": "MCC111"
+            },
+            {
+                "section": "63159R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "14 of 14",
+                "instructor": "Judith Shelton",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "475",
+        "course_name": "Acting on Camera: The Collaborative Process",
+        "units": "(4.0 units, max 8)",
+        "description": "Acting students will learn to develop on-camera acting skills and to collaborate with student directors and cinematographers from the School of Cinematic Arts.",
+        "sections": [
+            {
+                "section": "63090R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Tessa Slovis",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "479",
+        "course_name": "Solo Performance",
+        "units": "(4.0 units)",
+        "description": "A writing-performance workshop in which students write, develop, and rehearse original, autobiographical and character monologues and perform them at the end of the semester.",
+        "sections": [
+            {
+                "section": "63106R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "5 of 18",
+                "instructor": "Debra De Liso",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "480A",
+        "course_name": "Performance for Camera",
+        "units": "(2.0 units)",
+        "description": "Structured to address the dynamics of acting in relation to film/television. Refining the students' understanding of the similarities/differences between acting on stage/film.",
+        "sections": [
+            {
+                "section": "63108R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 2,
+                "registered": "7 of 12",
+                "instructor": "Joe Hacker",
+                "location": "SHR105"
+            },
+            {
+                "section": "63119R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "4 of 12",
+                "instructor": "Joe Hacker",
+                "location": "SHR105"
+            },
+            {
+                "section": "63123R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Joe Hacker",
+                "location": "SHR105"
+            },
+            {
+                "section": "63124R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Joe Hacker",
+                "location": "SHR105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "480B",
+        "course_name": "Performance for Camera",
+        "units": "(2.0 units)",
+        "description": "Continued exploration of acting for film/television. Furthering the student's understanding of the similarities/differences between acting on stage/film.",
+        "sections": [
+            {
+                "section": "63125R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "1 of 12",
+                "instructor": "Joe Hacker",
+                "location": "SHR105"
+            },
+            {
+                "section": "63126R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "12 of 12",
+                "instructor": "Kate Burton",
+                "location": "SHR105 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "482",
+        "course_name": "Stand Up 2: Becoming A Pro",
+        "units": "(2.0 units)",
+        "description": "Interactive performance and writing intensive focusing on creating professional level comedy material plus onstage performance strategies.",
+        "sections": [
+            {
+                "section": "63115R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "7 of 18",
+                "instructor": "Wayne Federman",
+                "location": "MCC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "484",
+        "course_name": "Acting in Television Commercials",
+        "units": "(2.0 units)",
+        "description": "An on-camera, workshop-style introduction to techniques, perspectives and theories unique to performing in television commercials.",
+        "sections": [
+            {
+                "section": "63121R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 8,
+                "registered": "14 of 18",
+                "instructor": "Kevin McCorkle",
+                "location": "SHR105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "489",
+        "course_name": "Theatre Internship",
+        "units": "(2.0-6.0 units)",
+        "description": "Practical experience in the entertainment industry.",
+        "sections": [
+            {
+                "section": "63133D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 18",
+                "instructor": "Dan Shaner",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "63139D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 18",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "63141D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 18",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "63142D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 18",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "491",
+        "course_name": "Theatre Organization and Administration",
+        "units": "(4.0 units)",
+        "description": "Budgets, contracts, box-office procedures, public relations; personnel and executive policies of the school, community, and professional theatre.",
+        "sections": [
+            {
+                "section": "63140D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "10 of 18",
+                "instructor": "Murry Hepner",
+                "location": "MRF206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "493A",
+        "course_name": "Periods and Styles",
+        "units": "(2.0 units)",
+        "description": "A survey of the influence of historical and cultural events on the evaluation of theatrical styles. Classical to Jacobean.",
+        "sections": [
+            {
+                "section": "63144D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "14 of 18",
+                "instructor": "Tom Buderwitz",
+                "location": "KAP164"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "495",
+        "course_name": "Experimental Theatre Workshop I",
+        "units": "(4.0 units, max 8)",
+        "description": "Guidance and direction in the production of new and experimental plays for a public audience. By audition.",
+        "sections": [
+            {
+                "section": "63148R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "3 of 15",
+                "instructor": "Corinne Chooey Dizon",
+                "location": "PED205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "497",
+        "course_name": "Advanced Theatre Practicum",
+        "units": "(2.0 units, max 4)",
+        "description": "Intensive participation in a production sponsored by the school and supervised by the faculty, to increase and develop artistic growth.",
+        "sections": [
+            {
+                "section": "63154D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "4 of 20",
+                "instructor": "Tony Shayne",
+                "location": "TBA"
+            },
+            {
+                "section": "63155D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Tony Shayne,",
+                "location": "TBA"
+            },
+            {
+                "section": "63156D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Tony Shayne",
+                "location": "OFFICE"
+            },
+            {
+                "section": "63157D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Tony Shayne",
+                "location": ""
+            },
+            {
+                "section": "63153D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 0,
+                "registered": "9 of 25",
+                "instructor": "Tony Shayne,",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Studies in selected areas of theatre art. Intensive practice in role and script interpretation and its psychological relationship to the audience.",
+        "sections": [
+            {
+                "section": "63246R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Sanjay Sharma",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "500",
+        "course_name": "Dramaturgical Perspectives and Approaches",
+        "units": "(2.0 units, max 10)",
+        "description": "Investigates art and craft of dramatic writing initiated/completed in other MFA in Dramatic Writing courses or that was submitted as a sample for program entry.",
+        "sections": [
+            {
+                "section": "63170D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "7 of 12",
+                "instructor": "Oliver Mayer",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "501",
+        "course_name": "Poetry and Prose into Drama",
+        "units": "(4.0 units, max 12)",
+        "description": "Plays for the stage shall be written using public-domain poetry and prose as inspiration and source material, complemented with exploring poetry, prose, and varied dramas as context for the student writer. Students should be well-versed in literature, and have written in one or more genres.",
+        "sections": [
+            {
+                "section": "63173D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Heather James",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "507",
+        "course_name": "Casting Director Workshop",
+        "units": "(2.0 units)",
+        "description": "The development and building of auditioning skills for film, television and new media venues.",
+        "sections": [
+            {
+                "section": "63172D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "515A",
+        "course_name": "Advanced Movement",
+        "units": "(2.0 units)",
+        "description": "Advanced exercises in movement for the use of the body in relation to the stage.",
+        "sections": [
+            {
+                "section": "63175D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "6 of 12",
+                "instructor": "Lindsay Torrey",
+                "location": "MCC112"
+            },
+            {
+                "section": "63176D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "6 of 12",
+                "instructor": "Edgar Landa,",
+                "location": "DAB213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "515C",
+        "course_name": "Advanced Movement",
+        "units": "(2.0 units)",
+        "description": "Advanced exercises in movement for the use of the body in relation to the stage. Includes Viewpoints and Clown.",
+        "sections": [
+            {
+                "section": "63177D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "5 of 12",
+                "instructor": "Zachary Steel",
+                "location": "DAB109"
+            },
+            {
+                "section": "63178R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "5 of 12",
+                "instructor": "Stephanie Shroyer",
+                "location": "MCC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "520A",
+        "course_name": "Advanced Acting",
+        "units": "(4.0 units)",
+        "description": "Advanced training in acting skills; emphasis upon individual needs.",
+        "sections": [
+            {
+                "section": "63182D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "6 of 12",
+                "instructor": "Natsuko Ohama",
+                "location": "SCD"
+            },
+            {
+                "section": "63181D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "6 of 12",
+                "instructor": "Robert Mohler,",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "520C",
+        "course_name": "Advanced Acting",
+        "units": "(2.0 units)",
+        "description": "Advanced training in acting skills; emphasis upon individual needs and solo performance.",
+        "sections": [
+            {
+                "section": "63184D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "5 of 12",
+                "instructor": "",
+                "location": "MCC111"
+            },
+            {
+                "section": "63185R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "5 of 12",
+                "instructor": "Luis Alfaro",
+                "location": "DABB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "527",
+        "course_name": "Writing the Pacific Rim: Global and Western Dramatic Writing",
+        "units": "(4.0 units)",
+        "description": "Writing dramatically, utilizing the Pacific Rim and the Western United States as cultural sites of knowledge and as inspirations.",
+        "sections": [
+            {
+                "section": "63186D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "3 of 12",
+                "instructor": "Paula Cizmar",
+                "location": "DMC153"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "529A",
+        "course_name": "Textual Studies for Performance",
+        "units": "(4.0 units)",
+        "description": "Close textual reading of dramatic texts as a fundamental tool for rehearsal and performance.",
+        "sections": [
+            {
+                "section": "63188D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 40,
+                "registered": "8 of 10",
+                "instructor": "David Warshofsky",
+                "location": "DMC153"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "540A",
+        "course_name": "Advanced Voice Diction",
+        "units": "(2.0 units)",
+        "description": "Individual work in improving the actor's vocal range.",
+        "sections": [
+            {
+                "section": "63190D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "6 of 12",
+                "instructor": "Louis Colaianni",
+                "location": "PED208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "540C",
+        "course_name": "Advanced Voice Diction",
+        "units": "(2.0 units)",
+        "description": "Individual work in improving the actor's vocal range.",
+        "sections": [
+            {
+                "section": "63192D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "5 of 12",
+                "instructor": "Natsuko Ohama",
+                "location": "SCD"
+            },
+            {
+                "section": "63193R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "5 of 12",
+                "instructor": "Louis Colaianni",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "540E",
+        "course_name": "Advanced Voice Diction",
+        "units": "(2.0 units)",
+        "description": "Individual work in improving the actor's vocal range.",
+        "sections": [
+            {
+                "section": "63196D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 42,
+                "registered": "9 of 12",
+                "instructor": "Tessa Slovis,",
+                "location": "SCD"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "541",
+        "course_name": "Diction and Dialects",
+        "units": "(2.0 units)",
+        "description": "Fundamentals of speech, diction, dialects and accents, including work in the International Phonetic Alphabet.",
+        "sections": [
+            {
+                "section": "63194D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "5 of 12",
+                "instructor": "Louis Colaianni",
+                "location": "MCC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "542",
+        "course_name": "Singing for Actors",
+        "units": "(2.0 units)",
+        "description": "An introduction to the various facets of singing in theatrical performance",
+        "sections": [
+            {
+                "section": "63197D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "5 of 12",
+                "instructor": "Jenni Barber,Anthony Lucca",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "555",
+        "course_name": "Directing Fundamentals",
+        "units": "(2.0 units)",
+        "description": "To provide the basic foundations for the conceptualization and execution of works for the stage.",
+        "sections": [
+            {
+                "section": "63232D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "11 of 12",
+                "instructor": "Luis Alfaro",
+                "location": "PED206"
+            },
+            {
+                "section": "63266D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "566",
+        "course_name": "Dramatic Writing Studio",
+        "units": "(4.0 units, max 24)",
+        "description": "Investigates gestalt of the student dramatic writer's professional development from the empty page and writing fundamentals to the first-draft script, business affairs, and dramaturgical advancement.",
+        "sections": [
+            {
+                "section": "63213D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 2,
+                "registered": "7 of 12",
+                "instructor": "Velina Hasu Houston",
+                "location": "DMC153"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "574A",
+        "course_name": "Dramatic Writing Across Media for Playwrights",
+        "units": "(2.0 units)",
+        "description": "Intensive overview of career paths for playwrights in a wide array of media as they exist now, and as new opportunities arise.",
+        "sections": [
+            {
+                "section": "63239D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "2 of 12",
+                "instructor": "Rena Heinrich",
+                "location": "DMC103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "574B",
+        "course_name": "Dramatic Writing Across Media for Playwrights",
+        "units": "(2.0 units)",
+        "description": "Intensive overview of career paths for playwrights in a wide array of media as they exist now, and as new opportunities arise.",
+        "sections": [
+            {
+                "section": "63240D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1200,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "575",
+        "course_name": "Creative Production Projects",
+        "units": "(4.0-6.0 units)",
+        "description": "Advanced creative projects",
+        "sections": [
+            {
+                "section": "63215D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1310,
+                "days": 0,
+                "registered": "9 of 12",
+                "instructor": "Stephanie Shroyer",
+                "location": "MCC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "580A",
+        "course_name": "Performance with Camera",
+        "units": "(2.0 units)",
+        "description": "Structured to address the dynamics of acting in relation to film/television. Refining the students understanding of the similarities/differences between acting on stage/film.",
+        "sections": [
+            {
+                "section": "63216D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "9 of 12",
+                "instructor": "Finola Hughes",
+                "location": "DABB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "63221D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "596",
+        "course_name": "Thesis Development and Attainment",
+        "units": "(2.0 units, max 10)",
+        "description": "Designed to guide the MFADW student toward refinement of thesis including vision, development, and execution.",
+        "sections": [
+            {
+                "section": "63231D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 12",
+                "instructor": "Paula Cizmar",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTR",
+        "course_num": "597",
+        "course_name": "Theatre Practicum",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Substantive participation in productions sponsored by the school and supervised by the faculty.",
+        "sections": [
+            {
+                "section": "63241D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "5 of 12",
+                "instructor": "",
+                "location": "MCC111"
+            }
+        ]
+    }
+]

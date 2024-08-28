@@ -1,0 +1,192 @@
+[
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "574",
+        "course_name": "Stem Cell and Developmental Biology Seminar Series",
+        "units": "(1.0 units, max 10)",
+        "description": "Selected topics in Development, Stem Cell, and Regeneration.",
+        "sections": [
+            {
+                "section": "40127D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 630,
+                "days": 32,
+                "registered": "55 of 75",
+                "instructor": "Louise Menendez",
+                "location": "BCC101"
+            },
+            {
+                "section": "40128D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 780,
+                "days": 32,
+                "registered": "0 of 50",
+                "instructor": "",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "620",
+        "course_name": "Current Topics in Stem Cell Biology and Organogenesis",
+        "units": "(1.0 units, max 12)",
+        "description": "Selected topics on sub-fields within stem cell biology and organogenesis. Includes review of contemporary literature and research. Open only to master and doctoral students.",
+        "sections": [
+            {
+                "section": "40129D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 960,
+                "days": 4,
+                "registered": "12 of 25",
+                "instructor": "Jessie Huang,Yao Wei Lu",
+                "location": "KAMB40/42"
+            },
+            {
+                "section": "40136D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "38 of 65",
+                "instructor": "Leonardo Morsut",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40140D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 30",
+                "instructor": "Yali Dou,Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40145D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40146D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40147D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40148D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSR",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40149D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 30",
+                "instructor": "Gage Crump",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

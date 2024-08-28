@@ -1,0 +1,1447 @@
+[
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "100",
+        "course_name": "Central Problems of Philosophy",
+        "units": "(4.0 units)",
+        "description": "Explores questions about human beings and their place in nature, including questions about knowledge, mind and body, freedom and determinism, and the existence of God.",
+        "sections": [
+            {
+                "section": "49300R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "149 of 150",
+                "instructor": "Dmitri Gallow",
+                "location": "SGM101"
+            },
+            {
+                "section": "49301R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Nadja Winning",
+                "location": "WPH107"
+            },
+            {
+                "section": "49302R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Nadja Winning",
+                "location": "WPHB26"
+            },
+            {
+                "section": "49303R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Yuanye Hu",
+                "location": "MRF229"
+            },
+            {
+                "section": "49304R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Yuanye Hu",
+                "location": "THH121"
+            },
+            {
+                "section": "49305R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Svenja Schimmelpfennig",
+                "location": "WPH107"
+            },
+            {
+                "section": "49306R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Svenja Schimmelpfennig",
+                "location": "WPHB26"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "103",
+        "course_name": "Philosophy, Politics and Economics in Europe, from Renaissan",
+        "units": "(4.0 units)",
+        "description": "Introduction to the central ideas of philosophy, science, politics and economics in western European history between 1450 and 1800.",
+        "sections": [
+            {
+                "section": "49679R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "99 of 100",
+                "instructor": "Jacob Soll",
+                "location": "MHP101"
+            },
+            {
+                "section": "49392R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Philip Li",
+                "location": "MHP102"
+            },
+            {
+                "section": "49393R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Philip Li",
+                "location": "GFS220"
+            },
+            {
+                "section": "49694R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 8,
+                "registered": "21 of 25",
+                "instructor": "Megha Devraj",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "49695R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Megha Devraj",
+                "location": "GFS108"
+            },
+            {
+                "section": "49696R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "49697R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "104",
+        "course_name": "Ancient Foundations of Western Thought",
+        "units": "(4.0 units)",
+        "description": "Explores writings of ancient philosophers who first raised, and continue to influence our thinking about, fundamental questions concerning nature, knowledge, justice, happiness and death.",
+        "sections": [
+            {
+                "section": "49318R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Jacob Ross",
+                "location": "MHP101"
+            },
+            {
+                "section": "49319R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jaime Castillo-Gamboa",
+                "location": "SOSB37"
+            },
+            {
+                "section": "49320R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jaime Castillo-Gamboa",
+                "location": "MHP102"
+            },
+            {
+                "section": "49321R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Yudi Huang",
+                "location": "GFS220"
+            },
+            {
+                "section": "49322R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Yudi Huang",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "122A",
+        "course_name": "Reasoning and Argument",
+        "units": "(2.0 units)",
+        "description": "Techniques for constructing good arguments and for assessing and criticizing the arguments of others. (Duplicates credit in former PHIL 250a)",
+        "sections": [
+            {
+                "section": "49345R",
+                "session": "416",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "Yasha Sapir",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "122B",
+        "course_name": "Reasoning and Argument",
+        "units": "(2.0 units)",
+        "description": "Techniques for constructing good arguments and for assessing and criticizing the arguments of others. (Duplicates credit in former PHIL 250b)",
+        "sections": [
+            {
+                "section": "49346R",
+                "session": "664",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "0 of 25",
+                "instructor": "Yasha Sapir",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "166",
+        "course_name": "Current Moral and Social Issues",
+        "units": "(4.0 units)",
+        "description": "Critical study of controversial social issues such as abortion, euthanasia, the death penalty, war and terrorism, sexual morality, affirmative action and economic justice.",
+        "sections": [
+            {
+                "section": "49374R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Jacob Ross",
+                "location": "MHP101"
+            },
+            {
+                "section": "49375R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Kelsey Wengert",
+                "location": "MHP102"
+            },
+            {
+                "section": "49376R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Kelsey Wengert",
+                "location": "MHP102"
+            },
+            {
+                "section": "49377R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Brian Haas",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "49378R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Brian Haas",
+                "location": "GFS228"
+            },
+            {
+                "section": "49379R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Rodrigo Garro Rivero",
+                "location": "MHP102"
+            },
+            {
+                "section": "49380R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Rodrigo Garro Rivero",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "220",
+        "course_name": "Introduction to Logic",
+        "units": "(4.0 units)",
+        "description": "Introduction to the aims and basic techniques of formal logic, including propositional and quantificational logic.",
+        "sections": [
+            {
+                "section": "49419R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "137 of 200",
+                "instructor": "Gabriel Uzquiano",
+                "location": "THH101"
+            },
+            {
+                "section": "49420R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "16 of 25",
+                "instructor": "Arthur Wu",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "49421R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Arthur Wu",
+                "location": "GFS108"
+            },
+            {
+                "section": "49422R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "5 of 25",
+                "instructor": "Antonio Maria Cleani",
+                "location": "MHP102"
+            },
+            {
+                "section": "49423R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Antonio Maria Cleani",
+                "location": "MHP102"
+            },
+            {
+                "section": "49424R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "19 of 25",
+                "instructor": "Yangming Qin",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "49425R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "Yangming Qin",
+                "location": "THH119"
+            },
+            {
+                "section": "49426R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "11 of 25",
+                "instructor": "Benjamin Andrew",
+                "location": "MHP102"
+            },
+            {
+                "section": "49427R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 25",
+                "instructor": "Benjamin Andrew",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "240",
+        "course_name": "Mind, Self, and Consciousness",
+        "units": "(4.0 units)",
+        "description": "Explores philosophical questions about the human mind and consciousness, and how they relate to the brain and to the physical world more generally.",
+        "sections": [
+            {
+                "section": "49437R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Christina Dietz",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "315",
+        "course_name": "History of Western Philosophy: Ancient Period",
+        "units": "(4.0 units)",
+        "description": "Major figures in the history of Western philosophical thought from the presocratics to the Hellenistic period; emphasis on Plato and Aristotle.",
+        "sections": [
+            {
+                "section": "49502R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Merrick Anderson",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "336",
+        "course_name": "Philosophy of Mind and Language",
+        "units": "(4.0 units)",
+        "description": "Explores how language shapes thought, how social norms impact meaning and communication, the nature of speech acts, with applications to hate speech and pornography.",
+        "sections": [
+            {
+                "section": "49511R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "47 of 48",
+                "instructor": "Robin Jeshion",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "350",
+        "course_name": "Intermediate Logic",
+        "units": "(4.0 units)",
+        "description": "Basic techniques of propositional and quantificational logic, and elements of probability. Especially useful to philosophy, mathematics, science and engineering majors.",
+        "sections": [
+            {
+                "section": "49522R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Andrew Bacon",
+                "location": "MHPB7B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "360",
+        "course_name": "Epistemology and Metaphysics",
+        "units": "(4.0 units)",
+        "description": "Examination of problems in metaphysics and/or epistemology. Conducted at the intermediate level.",
+        "sections": [
+            {
+                "section": "49526R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "30 of 30",
+                "instructor": "Kadri Vihvelin",
+                "location": "DMC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "363",
+        "course_name": "Philosophy of Perception",
+        "units": "(4.0 units)",
+        "description": "Philosophical investigation of sense perception as it relates to issues in epistemology, metaphysics, the philosophy of mind, and the philosophy of science.",
+        "sections": [
+            {
+                "section": "49528R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "31 of 31",
+                "instructor": "Sam Clarke",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "430",
+        "course_name": "Philosophy of Law",
+        "units": "(4.0 units)",
+        "description": "Philosophical theories about the nature of law, relations between law and morality, and analysis of normative concepts central to law, such as responsibility, punishment, negligence.",
+        "sections": [
+            {
+                "section": "49551R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "77 of 100",
+                "instructor": "Jake Monaghan",
+                "location": "MHP101"
+            },
+            {
+                "section": "49553R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Laura Nicoara",
+                "location": "MHP102"
+            },
+            {
+                "section": "49554R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "7 of 25",
+                "instructor": "Laura Nicoara",
+                "location": "THH213"
+            },
+            {
+                "section": "49556R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "21 of 25",
+                "instructor": "Jin Zeng",
+                "location": "MHP102"
+            },
+            {
+                "section": "49557R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Jin Zeng",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "437",
+        "course_name": "Social and Political Philosophy",
+        "units": "(4.0 units)",
+        "description": "The nature of man and society, the nature and justification of state and government, political rights and political obligation, justice and equality.",
+        "sections": [
+            {
+                "section": "49555R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "31 of 31",
+                "instructor": "Sharon Lloyd",
+                "location": "VPD106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "442",
+        "course_name": "History of Ethics to 1900",
+        "units": "(4.0 units)",
+        "description": "An historical and critical study of the great moral philosophers, including Plato, Aristotle, Aquinas, Kant, and the British moralists.",
+        "sections": [
+            {
+                "section": "49560R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "Jacob Soll",
+                "location": "DMC211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "450",
+        "course_name": "The Limits of Logic",
+        "units": "(4.0 units)",
+        "description": "Systematic study of the formal limits on what can be counted, expressed in language, systematically computed or rigorously proved, including Goedel's Incompleteness Theorems.",
+        "sections": [
+            {
+                "section": "49568R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "5 of 28",
+                "instructor": "Andrew Bacon",
+                "location": "THH215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "462",
+        "course_name": "Philosophy of Mind",
+        "units": "(4.0 units)",
+        "description": "Examination of contemporary theories of mind and its place in the natural world.",
+        "sections": [
+            {
+                "section": "49575R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "29 of 30",
+                "instructor": "Sam Clarke",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "475",
+        "course_name": "Topics in Philosophy, Politics and Economics",
+        "units": "(4.0 units)",
+        "description": "The analysis of public policy debates combining the different tools and perspectives of philosophy, political science and economic theory.",
+        "sections": [
+            {
+                "section": "49586R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 30",
+                "instructor": "Dmitri Gallow",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "480",
+        "course_name": "Philosophy of Mathematics",
+        "units": "(4.0 units)",
+        "description": "The nature of mathematical truth and the nature of mathematical entities.",
+        "sections": [
+            {
+                "section": "49587R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "3 of 30",
+                "instructor": "Zlatan Damnjanovic",
+                "location": "DMC200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "484",
+        "course_name": "Philosophy of Physics",
+        "units": "(4.0 units, max 12)",
+        "description": "A comprehensive introduction to two of the central areas of modern philosophy of physics: the philosophy of spacetime, and the philosophy of quantum mechanics.",
+        "sections": [
+            {
+                "section": "49589R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "5 of 30",
+                "instructor": "Lu Chen",
+                "location": "DMC201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "49593D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Ralph Wedgwood",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49594D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Ralph Wedgwood",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49595D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Ralph Wedgwood",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49596D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Ralph Wedgwood",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "494",
+        "course_name": "Senior Thesis",
+        "units": "(4.0 units)",
+        "description": "Independent studies for philosophy majors, and guidance in the preparation of the senior thesis for students who wish to graduate with honors in philosophy.",
+        "sections": [
+            {
+                "section": "49597D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49598D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49599D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "503",
+        "course_name": "Introduction to Contemporary Philosophical Literature on Value",
+        "units": "(4.0 units)",
+        "description": "Analysis of selected philosophical problems and theses of current interest; explication of major contemporary papers and/ or books is emphasized.",
+        "sections": [
+            {
+                "section": "49605R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Ralph Wedgwood",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "520",
+        "course_name": "Studies in Modern Philosophy",
+        "units": "(4.0 units, max 16)",
+        "description": "Problems in research in selected portions of modern philosophy.",
+        "sections": [
+            {
+                "section": "49613R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 16,
+                "registered": "10 of 20",
+                "instructor": "Edwin McCann,Ralph Wedgwood",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "537",
+        "course_name": "Seminar in Social and Political Philosophy",
+        "units": "(4.0 units, max 16)",
+        "description": "Advanced literature on selected topics in social and political philosophy, including the nature of law, man, and society; ideals such as justice and freedom.",
+        "sections": [
+            {
+                "section": "49619R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 8,
+                "registered": "6 of 18",
+                "instructor": "Emily Tilton",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "565",
+        "course_name": "Philosophy of Language",
+        "units": "(4.0 units, max 12)",
+        "description": "Philosophical issues in the empirical study of language concerning the relationship between linguistic meaning and the use of sentences to assert and convey information.",
+        "sections": [
+            {
+                "section": "49630R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "8 of 15",
+                "instructor": "Alexis Wellwood",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "570",
+        "course_name": "Seminar in Epistemology",
+        "units": "(4.0 units, max 16)",
+        "description": "Advanced topics in epistemology.",
+        "sections": [
+            {
+                "section": "49632R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 2,
+                "registered": "8 of 20",
+                "instructor": "John Hawthorne",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49638D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49639D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49640D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49641D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49642D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49643D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49644D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49645D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49646D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49647D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49648D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "593",
+        "course_name": "Teaching Philosophy",
+        "units": "(2.0 units)",
+        "description": "Basic principles of philosophical pedagogy, with emphasis on practical applications and the importance of career-long skill development. Required for first-semester teaching assistants in philosophy.",
+        "sections": [
+            {
+                "section": "49649R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 32,
+                "registered": "7 of 8",
+                "instructor": "Edwin McCann",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49650D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49652D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "700",
+        "course_name": "Dissertation Seminar",
+        "units": "(2.0 units, max 12)",
+        "description": "A focused environment in which to present and evaluate dissertation work-in-progress. Focus on peer and faculty feedback, developing professional presentation skills, improving critical communication skills. Graded CR/NC. Open only to Philosophy doctoral students.",
+        "sections": [
+            {
+                "section": "49672R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 4,
+                "registered": "3 of 20",
+                "instructor": "Robin Jeshion",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49659D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Robin Jeshion",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49660D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49661D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49662D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49663D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49664D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49665D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49666D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49667D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49668D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49669D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHIL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "49670D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

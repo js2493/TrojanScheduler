@@ -1,0 +1,257 @@
+[
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not avaliable for graduate credit.",
+        "sections": [
+            {
+                "section": "43055D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43056D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43057D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "501",
+        "course_name": "Introduction to the Analysis of Tonal Music",
+        "units": "(2.0 units)",
+        "description": "Survey of common practice period (1650-1900) approaches to phrase design, tonal organization and type-forms (binary, ternary, rondo, sonata.)",
+        "sections": [
+            {
+                "section": "43065D",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 675,
+                "end_time": 800,
+                "days": 10,
+                "registered": "14 of 15",
+                "instructor": "Sara Ballance",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43136D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43137D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43138D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43185D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43186D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43187D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43190D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43192D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43194D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43196D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUCO",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43198D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

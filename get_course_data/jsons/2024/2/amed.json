@@ -1,0 +1,98 @@
+[
+    {
+        "term": "20242",
+        "department": "AMED",
+        "course_number": "750A",
+        "course_name": "Physical Evaluation and Anesthesia",
+        "units": "(2.0 units)",
+        "description": "In-depth examination of physical evaluation, emergency medicine, basic life support, inhalation sedation, intravenous sedation, local anesthesia, and patient monotoring; includes clinical experience.",
+        "sections": [
+            {
+                "section": "22650D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22670D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 50",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMED",
+        "course_number": "750B",
+        "course_name": "Physical Evaluation and Anesthesia",
+        "units": "(2.0 units)",
+        "description": "In-depth examination of physical evaluation, emergency medicine, basic life support, inhalation sedation, intravenous sedation, local anesthesia, and patient monotoring; includes clinical experience.",
+        "sections": [
+            {
+                "section": "22651D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22671D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 50",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMED",
+        "course_number": "750C",
+        "course_name": "Physical Evaluation and Anesthesia",
+        "units": "(1.0 unit)",
+        "description": "In-depth examination of physical evaluation, emergency medicine, basic life support, inhalation sedation, intravenous sedation, local anesthesia, and patient monotoring; includes clinical experience.",
+        "sections": [
+            {
+                "section": "22652D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22672D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "32 of 50",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

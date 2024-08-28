@@ -1,0 +1,86 @@
+[
+    {
+        "term": "20242",
+        "department": "TRGN",
+        "course_number": "520",
+        "course_name": "Translational Biomedical Informatics Capstone Portfolio",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Portfolio, translational biomedical informatics, bioinformatics, genomics, application development, web-based application.",
+        "sections": [
+            {
+                "section": "70095D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Matthew Salomon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "TRGN",
+        "course_number": "539",
+        "course_name": "Translational Biotechnology Practicum",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Experiential training based on a project in a biomedical, biotechnology or pharmaceutical setting.",
+        "sections": [
+            {
+                "section": "70069D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 12",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "TRGN",
+        "course_number": "541",
+        "course_name": "Translational Biotechnology Capstone Defense",
+        "units": "(2.0 units)",
+        "description": "Finalization and defense of capstone project.",
+        "sections": [
+            {
+                "section": "70071R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 5",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "TRGN",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "70076R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

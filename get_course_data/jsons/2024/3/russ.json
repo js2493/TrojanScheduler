@@ -1,0 +1,97 @@
+[
+    {
+        "term": "20243",
+        "department": "RUSS",
+        "course_num": "120",
+        "course_name": "Beginning Russian I",
+        "units": "(4.0 units)",
+        "description": "Introduction to the Russian language with emphasis on basic conversational skills, major points of grammar and reading.",
+        "sections": [
+            {
+                "section": "60202D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "9 of 19",
+                "instructor": "Evgeny Dengub",
+                "location": "WPH107"
+            },
+            {
+                "section": "60204D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 19",
+                "instructor": "Yulia Dubasova",
+                "location": "VPD107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RUSS",
+        "course_num": "150",
+        "course_name": "Beginning Russian II",
+        "units": "(4.0 units)",
+        "description": "Continuation of RUSS 120.",
+        "sections": [
+            {
+                "section": "60208R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "5 of 19",
+                "instructor": "Ellina Sattarova",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RUSS",
+        "course_num": "220",
+        "course_name": "Intermediate Russian I",
+        "units": "(4.0 units)",
+        "description": "Development of thematic conversational skills with emphasis on extended dialogue. Review of basic morphology with special attention to verbs of motion. Reading of authentic material is emphasized.",
+        "sections": [
+            {
+                "section": "60216R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "8 of 10",
+                "instructor": "Aleksandra Pchelintseva",
+                "location": "THH221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RUSS",
+        "course_num": "310",
+        "course_name": "Advanced Russian in Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Advanced conversation, reading, grammar and topical analysis of Russian press, films and other popular sources. Conducted in Russian.",
+        "sections": [
+            {
+                "section": "60227R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "Anna Sbitneva",
+                "location": "TBD"
+            }
+        ]
+    }
+]

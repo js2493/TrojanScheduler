@@ -1,0 +1,342 @@
+[
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "541",
+        "course_name": "Systems Engineering Theory and Practice",
+        "units": "(3.0 units)",
+        "description": "Integration of engineering problem solving methodologies based on systems concepts. Application to complex, large scale technical systems and problems faced by engineering managers. Case studies.",
+        "sections": [
+            {
+                "section": "32311D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "18 of 25",
+                "instructor": "Michael Sievers",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32341R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "8 of 15",
+                "instructor": "Michael Sievers",
+                "location": "OHE120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "542",
+        "course_name": "Advanced Topics in Systems Engineering",
+        "units": "(3.0 units)",
+        "description": "Probability theory in systems engineering: test design and performance, reliability and maintainability, quantitative decision models. Constraint theory to manage and de-conflict complex requirements. Complexity theory.",
+        "sections": [
+            {
+                "section": "32312D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "10 of 25",
+                "instructor": "Phan Phan",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32342R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "0 of 10",
+                "instructor": "Phan Phan",
+                "location": "RTH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "547",
+        "course_name": "Model-Based Systems Architecting and Engineering",
+        "units": "(3.0 units)",
+        "description": "Approaches for modeling systems using software such as SySML; modeling system, requirements, structure, behavior, and parametrics; mapping to hardware description language and behavioral code generation. Recommended preparation: Modeling and simulation courses.",
+        "sections": [
+            {
+                "section": "32317D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "31 of 45",
+                "instructor": "Mark Mckelvin",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32347R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "4 of 8",
+                "instructor": "Mark Mckelvin",
+                "location": "OHE100C"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "548",
+        "course_name": "Systems/System-of-Systems Integration and Communication",
+        "units": "(3.0 units)",
+        "description": "Essentials of systems and system-of-systems integration from the perspectives of business, programs, and technology. Process, Legacy, and Systems-of-Systems Integration. Verification and Validation methods. Case studies. Recommended preparation: Bachelor's degree in engineering or physical sciences.",
+        "sections": [
+            {
+                "section": "32315D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "7 of 30",
+                "instructor": "Michael Sievers",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32348R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "3 of 8",
+                "instructor": "Michael Sievers",
+                "location": "OHE120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "549",
+        "course_name": "Systems Architecting",
+        "units": "(3.0 units)",
+        "description": "Introduction to systems architecture in aerospace, electrical, computer, and manufacturing systems emphasizing the conceptual and acceptance phases and using heuristics.",
+        "sections": [
+            {
+                "section": "32319D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 2,
+                "registered": "29 of 38",
+                "instructor": "Azad Madni",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32349D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 2,
+                "registered": "3 of 7",
+                "instructor": "Azad Madni",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "550",
+        "course_name": "Systems Architecting and the Political Process",
+        "units": "(3.0 units)",
+        "description": "Analysis of risks inherent in managing high-tech/high-cost government-funded engineering programs; tools and techniques for coping with the impacts of politically-driven budgets on the engineering design process. Recommended preparation: 2 years of work experience.",
+        "sections": [
+            {
+                "section": "32320D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "7 of 30",
+                "instructor": "Ken Cureton,Edwin Ordoukhanian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32350R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "3 of 8",
+                "instructor": "Ken Cureton,Edwin Ordoukhanian",
+                "location": "OHE114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "560",
+        "course_name": "Economic Considerations for Systems Engineering",
+        "units": "(3.0 units)",
+        "description": "Impact of economic factors for systems architects and engineers, tools for understanding these factors, fundamental quantitative analysis of cash flow, life-cost estimating for systems and software engineering.",
+        "sections": [
+            {
+                "section": "32330D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "11 of 20",
+                "instructor": "Ken Cureton,Edwin Ordoukhanian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32360D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "0 of 8",
+                "instructor": "Ken Cureton,Edwin Ordoukhanian",
+                "location": "OHE114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32390R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "32391D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "32392D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "32393R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SAE",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Course content will be selected each semester to reflect current trends and developments in the field of systems architecture and engineering.",
+        "sections": [
+            {
+                "section": "32300D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "11 of 20",
+                "instructor": "Michael Sievers",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32310D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "1 of 20",
+                "instructor": "Michael Sievers",
+                "location": ""
+            }
+        ]
+    }
+]

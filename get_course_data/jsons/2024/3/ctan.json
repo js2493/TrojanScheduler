@@ -1,0 +1,760 @@
+[
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "101",
+        "course_name": "Introduction to the Art of Animation",
+        "units": "(2.0 units)",
+        "description": "Theory and practice of animation across organic and digital media with an emphasis on self-exploration. Open to freshman in Animation and Digital Arts majors only.",
+        "sections": [
+            {
+                "section": "17853D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "14 of 14",
+                "instructor": "Michael Patterson,",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "210",
+        "course_name": "Design Fundamentals for Animation II",
+        "units": "(2.0 units)",
+        "description": "Applying design principles in image-making and motion with software skills in After Effects to produce creative content and expand animation practice.",
+        "sections": [
+            {
+                "section": "17857D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "11 of 11",
+                "instructor": "Justin Parpan",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "220",
+        "course_name": "Introduction to Storyboarding",
+        "units": "(2.0 units)",
+        "description": "A practical introductory course that emphasizes the fundamentals of digital storyboarding to include storyboarding basics, proper composition, staging for clarity, pitching and critique.",
+        "sections": [
+            {
+                "section": "17858D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "11 of 11",
+                "instructor": "Katie Smith",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "280",
+        "course_name": "Intermediate Character Animation for Games",
+        "units": "(4.0 units)",
+        "description": "An applied introduction to the techniques used for animating 3-D bipedal human character content for the movement and interactive experience within 3-D video games.",
+        "sections": [
+            {
+                "section": "17852R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1110,
+                "end_time": 1220,
+                "days": 10,
+                "registered": "23 of 25",
+                "instructor": "Cristian Thompson",
+                "location": "SCIL113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "301",
+        "course_name": "3-D Character Performance Animation",
+        "units": "(3.0 units)",
+        "description": "Advanced 3-D character animation with an emphasis on performance, lip-syncing, timing and execution. Prerequisite: CTAN 202L. Open only to juniors in Animation and Digital Arts.",
+        "sections": [
+            {
+                "section": "17876D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Jason Reisig",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "305",
+        "course_name": "Professionalism of Animation",
+        "units": "(2.0 units)",
+        "description": "Understanding the business of the animation industry. Developing presentation skills for interviewing and pitching, preparing personal marketing tools, researching employment opportunities, and practicing networking techniques.",
+        "sections": [
+            {
+                "section": "17851D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Nicole West",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "320",
+        "course_name": "Cinematography for Animators",
+        "units": "(2.0 units)",
+        "description": "The basic cinematic principles for animation, and how to shoot storyboards for the best composition to serve the story.",
+        "sections": [
+            {
+                "section": "17875D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Michael Comfort",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "401A",
+        "course_name": "Senior Project",
+        "units": "(4.0 units)",
+        "description": "Understanding the requirements and relationships between theory and practice regarding the complexity of an animated film in idea and execution.",
+        "sections": [
+            {
+                "section": "17873D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Jordan Halsey",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "420",
+        "course_name": "Concept Design for Animation",
+        "units": "(2.0 units)",
+        "description": "Creating characters and environments for animation, live action, and video games.",
+        "sections": [
+            {
+                "section": "17917R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "John Mahoney",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "425",
+        "course_name": "Studio Careers: Story to Screen",
+        "units": "(2.0 units)",
+        "description": "Seminar featuring guest speakers from major animation studios to provide an overview of a feature animation pipeline from development to pre-production, production and post-production.",
+        "sections": [
+            {
+                "section": "17923D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "7 of 9",
+                "instructor": "Josh Staub",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "436",
+        "course_name": "Writing for Animation",
+        "units": "(2.0 units)",
+        "description": "Workshop exploring concept and structure of long and short form animated films through practical writing exercises.",
+        "sections": [
+            {
+                "section": "17862R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Elizabeth Brauer",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "438",
+        "course_name": "Story Structure for Animation",
+        "units": "(2.0 units)",
+        "description": "Storytelling principles as they pertain to episodic and serialized animated television series and animated feature films.",
+        "sections": [
+            {
+                "section": "17874D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "11 of 11",
+                "instructor": "Abram Makowka",
+                "location": "SCB304"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "451",
+        "course_name": "History of Animation",
+        "units": "(2.0 units)",
+        "description": "In depth survey of historical developments, styles, techniques, theory and criticism of animation as an art form.",
+        "sections": [
+            {
+                "section": "17888R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "53 of 65",
+                "instructor": "Tom Sito",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "452",
+        "course_name": "Introduction to 3-D Computer Animation",
+        "units": "(2.0 units, max 4)",
+        "description": "Lecture and laboratory in computer animation: geometric modeling, motion specification, lighting, texture mapping, rendering, compositing, production techniques, systems for computer-synthesized animation using Maya software.",
+        "sections": [
+            {
+                "section": "17892R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Dariush Derakhshani",
+                "location": "SCAB134"
+            },
+            {
+                "section": "17893R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Maurice Bastian",
+                "location": "RZC117"
+            },
+            {
+                "section": "17894R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "Marcel Valcarce",
+                "location": "RZC117"
+            },
+            {
+                "section": "17895R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Maurice Bastian",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "455",
+        "course_name": "Organic Modeling for Animation",
+        "units": "(2.0 units)",
+        "description": "The art of digital sculpting for animated characters, with visual effects integration. Recommended preparation: CTAN-452 or CTAN-462.",
+        "sections": [
+            {
+                "section": "17897R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "John Mahoney",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "460",
+        "course_name": "Character Design Workshop",
+        "units": "(2.0 units)",
+        "description": "The basics of character design for animation: anatomy, poses, facial expressions, silhouettes, and anthropomorphism. Development of a portfolio.",
+        "sections": [
+            {
+                "section": "17925R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Tapan Gandhi",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "462",
+        "course_name": "Visual Effects",
+        "units": "(2.0 units)",
+        "description": "Survey of contemporary concepts and approaches to production in the current state of film and video effects work. Digital and traditional methodologies will be covered, with a concentration on digital exercises illustrating modern techniques.",
+        "sections": [
+            {
+                "section": "17900R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Eric Hanson",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "464",
+        "course_name": "Digital Lighting and Rendering",
+        "units": "(2.0 units)",
+        "description": "Concepts, tools and techniques used to create cinematic lighting and rendering in computer-generated imagery (CGI).",
+        "sections": [
+            {
+                "section": "17909R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "15 of 16",
+                "instructor": "Alessandro Jacomini",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "466",
+        "course_name": "Animation for Projection Mapping and Live Performance",
+        "units": "(2.0 units)",
+        "description": "An exploration of animation for projection mapping with hands-on learning and projects providing professional skills and workflows for helping students create their own content.",
+        "sections": [
+            {
+                "section": "17911R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "Jordan Halsey",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "485",
+        "course_name": "Character Modeling for Animation",
+        "units": "(2.0 units)",
+        "description": "Modeling and pipeline integration for 3-D animation props, sets and characters. Prior knowledge in Maya preferred.",
+        "sections": [
+            {
+                "section": "17918R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Jaewon Lee",
+                "location": "SCA356"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "500",
+        "course_name": "Animation: The Art and the Industry",
+        "units": "(2.0 units)",
+        "description": "Seminar on the growth and development of animation studios and how they became part of the Hollywood studio system.",
+        "sections": [
+            {
+                "section": "17924D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "7 of 9",
+                "instructor": "Tom Sito",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "504",
+        "course_name": "Creative Production in Virtual Reality",
+        "units": "(2.0 units)",
+        "description": "A creative studio course in producing both a linear cinematic virtual reality short film and associated real-time immersive experience.",
+        "sections": [
+            {
+                "section": "17922R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "Eric Hanson",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "505",
+        "course_name": "The Business of Animation",
+        "units": "(2.0 units)",
+        "description": "Overview of the global production, media and entertainment industries and fundamental business skills, with an emphasis on animation and the animation professional.",
+        "sections": [
+            {
+                "section": "17921D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "11 of 11",
+                "instructor": "Sandra Rabins",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "519",
+        "course_name": "Design Fundamentals for Animation",
+        "units": "(3.0 units)",
+        "description": "A creative design course for animators, combining visual design aesthetics with practical technique and software skill learning.",
+        "sections": [
+            {
+                "section": "17926D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "7 of 9",
+                "instructor": "Justin Parpan,",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "530",
+        "course_name": "Fundamentals of 2-D Animation",
+        "units": "(2.0 units)",
+        "description": "Exploring techniques of classical hand-drawn character animation, with emphasis on performance, personality, and observation, specializing in classical Hollywood animation.",
+        "sections": [
+            {
+                "section": "17938D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "7 of 9",
+                "instructor": "Luis Grane",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "533",
+        "course_name": "Foundations of 3-D Computer Animation",
+        "units": "(2.0 units)",
+        "description": "Foundations of computer animation: generating and editing movement, lighting, textures, rendering, creating and outputting full animated projects using Maya software.",
+        "sections": [
+            {
+                "section": "17954D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "7 of 9",
+                "instructor": "Dariush Derakhshani",
+                "location": "SCA356"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "542",
+        "course_name": "Production Design for Animation",
+        "units": "(2.0 units)",
+        "description": "Design with an emphasis on storytelling through character design, environment design, moment paintings, color script and look of picture. Development of a project style guide.",
+        "sections": [
+            {
+                "section": "17950R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "10 of 14",
+                "instructor": "Josh Staub",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "555",
+        "course_name": "Animation Design and Production",
+        "units": "(4.0 units)",
+        "description": "Exploring creative strategies to designing form and content. Developing style and investigating multiple techniques, including live action and sound. Production of a 30-60 second work.",
+        "sections": [
+            {
+                "section": "17955D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 720,
+                "days": 20,
+                "registered": "11 of 11",
+                "instructor": "Michael Patterson",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "564",
+        "course_name": "Motion Capture Fundamentals",
+        "units": "(2.0 units)",
+        "description": "Fundamental principles of motion capture technology explored while working through a structured series of assignments based around performance, gesture and motion.",
+        "sections": [
+            {
+                "section": "17997R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "13 of 16",
+                "instructor": "John Brennan",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "571",
+        "course_name": "2-D Motion Graphics",
+        "units": "(2.0 units)",
+        "description": "A creative 2-D motion graphics course covering animation technique, visual design aesthetics and software skills.",
+        "sections": [
+            {
+                "section": "17958R",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Moses Journey",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "586",
+        "course_name": "Animation Storyboarding Practicum",
+        "units": "(2.0 units)",
+        "description": "Current storyboarding techniques for film and television animation, simulating a professional studio workflow. Emphasis on telling a story with pictures, not storyboarding tools or software.",
+        "sections": [
+            {
+                "section": "17969D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 2,
+                "registered": "11 of 11",
+                "instructor": "Brandon Jeffords",
+                "location": "SCB102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "592",
+        "course_name": "Master Class",
+        "units": "(2.0-6.0 units, max 12)",
+        "description": "A special projects course in which students produce a major work through weekly meetings with a master artist/animator. Topics must be approved prior to enrollment. Recommended preparation: Previous advanced animation production experience. Recommended preparation: Previous advanced animation production experience.",
+        "sections": [
+            {
+                "section": "17981D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "8 of 8",
+                "instructor": "Justin Copeland",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "593",
+        "course_name": "Directed Studies in Animation",
+        "units": "(2.0 units, max 4)",
+        "description": "Individual exploration in the areas of contemporary technology, animation techniques or experimental film through internships, residencies or directed studies. Open only to Animation and Digital Arts master students.",
+        "sections": [
+            {
+                "section": "17985D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "Jason Reisig",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17988D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTAN",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "17986D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 17",
+                "instructor": "Jason Reisig",
+                "location": "SCB205"
+            }
+        ]
+    }
+]

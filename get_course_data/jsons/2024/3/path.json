@@ -1,0 +1,191 @@
+[
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "531",
+        "course_name": "Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Current perspectives on major research areas in cell biology. Emphasis will be on in-depth examination of cellular structures, regulatory processes, intra-cellular routing and targeting, and cell/environmental interactions.",
+        "sections": [
+            {
+                "section": "40654D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "55 of 90",
+                "instructor": "Axel Schonthal",
+                "location": "MCH156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "550",
+        "course_name": "Introduction to Pathology",
+        "units": "(4.0 units)",
+        "description": "Normal histology and introduction to basic pathological concepts. Provides a solid and basic understanding of normal structures and how they relate to function.",
+        "sections": [
+            {
+                "section": "40661D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "10 of 25",
+                "instructor": "Louis Dubeau,Michele King,Leslie Khawli",
+                "location": "HMR202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "553",
+        "course_name": "Emerging Methods in Cellular and Clinical Pathology",
+        "units": "(2.0 units)",
+        "description": "Discuss key methodologies in biomedical research, applications/case studies in cell biology, protein analysis, flow cytometry, identification of microorganisms, drug development, cellular and molecular cancer immunotherapy.",
+        "sections": [
+            {
+                "section": "40854D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "9 of 25",
+                "instructor": "Leslie Khawli,Pamela Ward,Michele King",
+                "location": "HMR202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "570A",
+        "course_name": "Seminar in Pathology",
+        "units": "(1.0 unit)",
+        "description": "Recent advances in the understanding of diseased cells and tissues are reported and discussed using standard seminars, as well as autopsy organ reviews.",
+        "sections": [
+            {
+                "section": "40856D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 8,
+                "registered": "6 of 25",
+                "instructor": "Prasad Tongaonkar,Douglas Feldman,Michele King,Leslie Khawli",
+                "location": "HMR202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "570B",
+        "course_name": "Seminar in Pathology",
+        "units": "(1.0 unit)",
+        "description": "Recent advances in the understanding of diseased cells and tissues are reported and discussed using standard seminars, as well as autopsy organ reviews.",
+        "sections": [
+            {
+                "section": "40859D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 8,
+                "registered": "5 of 25",
+                "instructor": "Prasad Tongaonkar,Douglas Feldman,Michele King,Leslie Khawli",
+                "location": "HMR202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40873D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Leslie Khawli,Michele King",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40878D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Jeannie Chen,Anat Erdreich-Epstein,Joseph Carlson,Justin Schaal,Alan Epstein,Michele King",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40881D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Leslie Khawli,Michele King",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PATH",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40885D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Louis Dubeau,Imran Siddiqi,Leslie Khawli,Michele King",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

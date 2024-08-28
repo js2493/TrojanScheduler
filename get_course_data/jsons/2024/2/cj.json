@@ -1,0 +1,234 @@
+[
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "500",
+        "course_name": "Criminology",
+        "units": "(2.0 units)",
+        "description": "Key theories and frameworks used to explain crime and inform responses to crime.",
+        "sections": [
+            {
+                "section": "70125D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "10 of 30",
+                "instructor": "Steven Lurie,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "505",
+        "course_name": "Analysis of Criminal Justice Systems",
+        "units": "(2.0 units)",
+        "description": "The criminal justice systems response to crime through a theoretical and interdisciplinary lens.",
+        "sections": [
+            {
+                "section": "70130D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "11 of 30",
+                "instructor": "Stephen Abanise,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "510",
+        "course_name": "Criminal Justice Leadership",
+        "units": "(2.0 units)",
+        "description": "Theory and practice of traditional and contemporary approaches to leadership in the context of criminal justice.",
+        "sections": [
+            {
+                "section": "70135D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Louis Morlier,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "515",
+        "course_name": "Applied Research Methods for Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Fundamental research methods and design commonly used to answer questions related to criminal justice.",
+        "sections": [
+            {
+                "section": "70140D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "17 of 30",
+                "instructor": "Joseph Cortez,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "520",
+        "course_name": "Applied Statistics and Data Analysis in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Fundamentals of statistics and statistical analyses commonly used to interpret crime data for evaluation and performance.",
+        "sections": [
+            {
+                "section": "70145D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "Leslie Mullins,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "525",
+        "course_name": "Ethical Decision-Making in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Examination and analysis of how societal expectations for ethical behavior and regulatory oversight affect leaders and managers in criminal justice.",
+        "sections": [
+            {
+                "section": "70150D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "25 of 30",
+                "instructor": "Juan Mejia,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "540",
+        "course_name": "Criminal Justice Policy and Program Development",
+        "units": "(2.0 units)",
+        "description": "In-depth analysis of all major stages of the criminal justice policymaking process.",
+        "sections": [
+            {
+                "section": "70165D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "15 of 30",
+                "instructor": "Joseph Cortez,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70166D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "18 of 30",
+                "instructor": "Brian Buchner,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "545",
+        "course_name": "Criminal Investigations",
+        "units": "(2.0 units)",
+        "description": "Explores criminal investigative techniques such as search and seizure, use of technology, and multi-jurisdictional and transnational crime investigations.",
+        "sections": [
+            {
+                "section": "70170D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "17 of 30",
+                "instructor": "Louis Morlier,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70171D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Mari Kong,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "550",
+        "course_name": "Corrections and Community Supervision",
+        "units": "(2.0 units)",
+        "description": "Examines evidence-based corrections and community supervision practices including offender rehabilitation, bail, restorative justice and victims issues.",
+        "sections": [
+            {
+                "section": "70175D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Jennifer Loeffler-Cobia,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CJ",
+        "course_number": "555",
+        "course_name": "Making a Difference in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Preparing for the critical role of leadership through policy evaluation and policy change initiatives.",
+        "sections": [
+            {
+                "section": "70180D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "17 of 30",
+                "instructor": "Miji Vellakkatel,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

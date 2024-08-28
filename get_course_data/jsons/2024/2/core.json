@@ -1,0 +1,254 @@
+[
+    {
+        "term": "20242",
+        "department": "CORE",
+        "course_number": "195",
+        "course_name": "Summer Seminar",
+        "units": "(3.0 units)",
+        "description": "An honors course for high school students in summer; each section focuses on a topic in the arts or humanities, social or natural sciences.",
+        "sections": [
+            {
+                "section": "63581R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "63 of 75",
+                "instructor": "Darin Gray",
+                "location": "DCC211"
+            },
+            {
+                "section": "63582R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "56 of 65",
+                "instructor": "Lauren Matchison",
+                "location": "ZHS159"
+            },
+            {
+                "section": "63584R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "82 of 100",
+                "instructor": "Glenn Fox",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "63591R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "30 of 32",
+                "instructor": "Alexandra Little",
+                "location": "DMC101"
+            },
+            {
+                "section": "63607R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "44 of 50",
+                "instructor": "Tara Mastro",
+                "location": "GER224"
+            },
+            {
+                "section": "63611R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "15 of 40",
+                "instructor": "Douglas Becker",
+                "location": "SOSB44"
+            },
+            {
+                "section": "63613R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "11 of 20",
+                "instructor": "Amber Foster,P.T. McNiff",
+                "location": "GFS220"
+            },
+            {
+                "section": "63617R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "28 of 40",
+                "instructor": "Zachary Steel",
+                "location": "MCC105"
+            },
+            {
+                "section": "63618R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "10 of 20",
+                "instructor": "Anthony Lucca",
+                "location": "MCC107"
+            },
+            {
+                "section": "63628R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "12 of 40",
+                "instructor": "Antonio Elefano",
+                "location": "DMC156"
+            },
+            {
+                "section": "63636R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "6 of 20",
+                "instructor": "Kirstin Eggers",
+                "location": "MCC111"
+            },
+            {
+                "section": "63637R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "91 of 100",
+                "instructor": "Michael Paranal",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "63640R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "26 of 36",
+                "instructor": "Myra Turner",
+                "location": "ANNL116"
+            },
+            {
+                "section": "63642R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "19 of 40",
+                "instructor": "Anja Chivukula",
+                "location": "DMC152"
+            },
+            {
+                "section": "63644R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "17 of 35",
+                "instructor": "Yasha Sapir",
+                "location": "DMC100"
+            },
+            {
+                "section": "63646R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "18 of 30",
+                "instructor": "Alan Mittelstaedt",
+                "location": "ANN408"
+            },
+            {
+                "section": "63651R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "48 of 50",
+                "instructor": "Charlie Hannigan",
+                "location": "JFF414"
+            },
+            {
+                "section": "63653R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "21 of 40",
+                "instructor": "Bryant Lydell",
+                "location": "ANN409AB"
+            },
+            {
+                "section": "63654R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "24 of 35",
+                "instructor": "Mellissa Withers,Heather Wipfli",
+                "location": "DMC102"
+            },
+            {
+                "section": "63655R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "15 of 40",
+                "instructor": "Dave Campbell",
+                "location": "LAW118"
+            },
+            {
+                "section": "63656R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "37 of 45",
+                "instructor": "Jeremy Dann",
+                "location": "JFFLL102"
+            },
+            {
+                "section": "63657R",
+                "session": "688",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 960,
+                "days": 62,
+                "registered": "8 of 30",
+                "instructor": "Nick Stoubis",
+                "location": "MUS101"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "MED",
+        "course_number": "200",
+        "course_name": "Second Year Medicine",
+        "units": "(1.0-18.0 units, max 18)",
+        "description": "FOR REGISTRATION AND FEE PURPOSES ONLY.",
+        "sections": [
+            {
+                "section": "00020R",
+                "session": "047",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "187 of 200",
+                "instructor": "Ron Ben-Ari,Kevin Nash",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MED",
+        "course_number": "300",
+        "course_name": "Third Year Medicine",
+        "units": "(1.0-18.0 units, max 18)",
+        "description": "FOR REGISTRATION AND FEE PURPOSES ONLY.",
+        "sections": [
+            {
+                "section": "00030R",
+                "session": "080",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "230 of 250",
+                "instructor": "Ron Ben-Ari,David Diller",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

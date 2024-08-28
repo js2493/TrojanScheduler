@@ -1,0 +1,223 @@
+[
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "500",
+        "course_name": "Introduction to Sustainability",
+        "units": "(2.0 units)",
+        "description": "History and evolution of sustainability, including definitions, models and policies relevant to current global sustainability and advocacy.",
+        "sections": [
+            {
+                "section": "70800D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "18 of 30",
+                "instructor": "Scott Applebaum",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70801D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "Duncan Jepson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "505",
+        "course_name": "Sustainability Fundamentals",
+        "units": "(2.0 units)",
+        "description": "Evolution of business sustainability; environmental, social and governance (ESG) performance; and the United Nations Sustainable Development Goals (SDGs).",
+        "sections": [
+            {
+                "section": "70808D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "29 of 30",
+                "instructor": "Duncan Jepson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "510",
+        "course_name": "Business Strategy for a Sustainable World",
+        "units": "(2.0 units)",
+        "description": "Business strategies, practices, and performance metrics that champion sustainability as part of organizational purpose.",
+        "sections": [
+            {
+                "section": "70816D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "24 of 30",
+                "instructor": "Leonard Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "515",
+        "course_name": "Leading Organizational Transformation for Sustainability",
+        "units": "(2.0 units)",
+        "description": "Organizational transformation through integration of sustainability into values, culture, leadership, talent, workflow and strategy.",
+        "sections": [
+            {
+                "section": "70824D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "23 of 30",
+                "instructor": "Amy Williams",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "520",
+        "course_name": "Sustainable Supply and Global Value Chains",
+        "units": "(2.0 units)",
+        "description": "Sustainable management of supply chains and global value chains to increase benefits to business, the environment and society.",
+        "sections": [
+            {
+                "section": "70832D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "Christopher Gopal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "525",
+        "course_name": "The Circular Economy and Sustainable Design",
+        "units": "(2.0 units)",
+        "description": "Interrelationship of circular economy and sustainable design strategies to reduce waste and negative social and environmental impacts.",
+        "sections": [
+            {
+                "section": "70840D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "12 of 30",
+                "instructor": "Monalisa Chatterjee",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "540",
+        "course_name": "Sustainability Strategies for Human Rights",
+        "units": "(2.0 units)",
+        "description": "Strategies for businesses to address a range of human rights concerns and monitor their effects on individuals, society and the environment.",
+        "sections": [
+            {
+                "section": "70864D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "10 of 30",
+                "instructor": "Shannon Gibson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "545",
+        "course_name": "Systems Thinking and Tools for Sustainability",
+        "units": "(2.0 units)",
+        "description": "Application of systems theory, thinking and tools to address complex sustainability-related problems.",
+        "sections": [
+            {
+                "section": "70872D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "10 of 30",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "550",
+        "course_name": "Sustainability Metrics and Reporting",
+        "units": "(2.0 units)",
+        "description": "Strategies for organizations to identify, measure and report on prioritized sustainability issues.",
+        "sections": [
+            {
+                "section": "70880D",
+                "session": "182",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "9 of 30",
+                "instructor": "Patricia Kanashiro",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SMGT",
+        "course_num": "555",
+        "course_name": "Sustainability Management Strategy Capstone",
+        "units": "(2.0 units)",
+        "description": "Knowledge and skills gained throughout the Sustainability Management program are synthesized in a culminating capstone project.",
+        "sections": [
+            {
+                "section": "70888D",
+                "session": "188",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "9 of 30",
+                "instructor": "Victoria Petryshyn",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

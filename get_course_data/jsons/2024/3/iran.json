@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20243",
+        "department": "IRAN",
+        "course_num": "120",
+        "course_name": "Persian I",
+        "units": "(4.0 units)",
+        "description": "Introduction to contemporary Persian (Farsi). Oral practice, listening and reading comprehension, grammar and vocabulary necessary for simple spoken and written expression. (Duplicates credit in former MDES-120)",
+        "sections": [
+            {
+                "section": "41502D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "6 of 19",
+                "instructor": "Peyman Nojoumian",
+                "location": "WPH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IRAN",
+        "course_num": "220",
+        "course_name": "Persian III",
+        "units": "(4.0 units)",
+        "description": "Intermediate Persian (Farsi). Building conversational skills, listening and reading comprehension, grammar and vocabulary necessary for intermediate level spoken and written expression. Prerequisite: IRAN 150. (Duplicates credit in former MDES 220)",
+        "sections": [
+            {
+                "section": "41518R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Peyman Nojoumian",
+                "location": "WPH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IRAN",
+        "course_num": "320",
+        "course_name": "Advanced Persian I",
+        "units": "(4.0 units)",
+        "description": "Advanced verbal and written expression in Persian, including deeper understanding of Persian culture. Prerequisite: IRAN 250. (Duplicates credit in former MDES 320)",
+        "sections": [
+            {
+                "section": "41534R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "1 of 5",
+                "instructor": "Peyman Nojoumian",
+                "location": ""
+            }
+        ]
+    }
+]

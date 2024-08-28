@@ -1,0 +1,558 @@
+[
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "100A",
+        "course_name": "Engineering Honors Colloquium",
+        "units": "(1.0 unit)",
+        "description": "Recent developments in a highly technological society with emphasis on selected topics. Enrollment limited to members of the School of Engineering Honors Program. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28501D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "58 of 95",
+                "instructor": "",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "100B",
+        "course_name": "Engineering Honors Colloquium",
+        "units": "(1.0 unit)",
+        "description": "Recent developments in a highly technological society with emphasis on selected topics. Enrollment limited to members of the School of Engineering Honors Program. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28502D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "5 of 35",
+                "instructor": "",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "102",
+        "course_name": "Engineering Freshman Academy",
+        "units": "(2.0 units)",
+        "description": "Introduction to the profession of engineering. Ethical, political and societal consequences of engineering innovations and the impact of engineering on everyday life. Team projects and guest lectures. Open to freshmen only.",
+        "sections": [
+            {
+                "section": "28507D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "26 of 28",
+                "instructor": "Gisele Ragusa",
+                "location": "RTH105"
+            },
+            {
+                "section": "28508D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "2 of 28",
+                "instructor": "John Mai",
+                "location": "RTH105"
+            },
+            {
+                "section": "28509D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "28 of 28",
+                "instructor": "Gisele Ragusa",
+                "location": "RTH105"
+            },
+            {
+                "section": "28516D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 16,
+                "registered": "12 of 28",
+                "instructor": "Cristina Zavaleta",
+                "location": "RTH115"
+            },
+            {
+                "section": "28518D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "15 of 28",
+                "instructor": "Yasser Khan",
+                "location": "DRB146"
+            },
+            {
+                "section": "28519D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 920,
+                "days": 8,
+                "registered": "21 of 28",
+                "instructor": "Amy Rechenmacher",
+                "location": "RTH105"
+            },
+            {
+                "section": "28520D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "27 of 28",
+                "instructor": "Jean-Michel Maarek",
+                "location": "DRB146"
+            },
+            {
+                "section": "28631D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "28 of 28",
+                "instructor": "Brent Liu",
+                "location": "RTH115"
+            },
+            {
+                "section": "28632D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "8 of 28",
+                "instructor": "John Mai",
+                "location": "RTH105"
+            },
+            {
+                "section": "28634D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "16 of 28",
+                "instructor": "Yasser Khan",
+                "location": "DRB146"
+            },
+            {
+                "section": "28635D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "28 of 28",
+                "instructor": "Anthony Maddox",
+                "location": "RTH105"
+            },
+            {
+                "section": "28638D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "13 of 28",
+                "instructor": "Amy Rechenmacher",
+                "location": "RTH109"
+            },
+            {
+                "section": "28641D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "8 of 28",
+                "instructor": "Cristina Zavaleta",
+                "location": "DRB146"
+            },
+            {
+                "section": "28645R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "232 of 420",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "301",
+        "course_name": "Technology Entrepreneurship",
+        "units": "(3.0 units)",
+        "description": "Starting and managing a technological business: developing a viable concept, market and financial planning, product development, organizing the venture, protecting intellectual property rights.",
+        "sections": [
+            {
+                "section": "14641R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "41 of 46",
+                "instructor": "ShiaoFong Yin",
+                "location": "JFF416"
+            },
+            {
+                "section": "14642R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "34 of 38",
+                "instructor": "ShiaoFong Yin",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "395A",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Education Program required. Graded IP or CR/NC. Degree credit by departmental approval.",
+        "sections": [
+            {
+                "section": "28521D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "395B",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Education Program is required. Graded IP or CR/NC. Degree credit by departmental approval.",
+        "sections": [
+            {
+                "section": "28522D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "395C",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Program is required. Graded IP or CR/NC. Degree credit by department approval.",
+        "sections": [
+            {
+                "section": "28523D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "395D",
+        "course_name": "Cooperative Education Work Experience",
+        "units": "(1.0-2.0 units, max 5)",
+        "description": "Supervised work experience in a professional environment related to specific degree program, academic level, and career objective. Acceptance into Cooperative Education Program is required. Graded IP or CR/NC. Degree credit by departmental approval.",
+        "sections": [
+            {
+                "section": "28524D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 85",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "400",
+        "course_name": "Engineering Honors Projects",
+        "units": "(1.0-3.0 units, max 12)",
+        "description": "Supervised interdisciplinary studies and projects. Enrollment limited to members of the School of Engineering Honors Program. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28525D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "445",
+        "course_name": "Principles and Practices of Global Innovation",
+        "units": "(4.0 units)",
+        "description": "Basic principles that govern the dynamic socio-technical interactions of open technology innovations on competitive global markets, emphasizing real-world practices to uncover blue-ocean innovation opportunities.",
+        "sections": [
+            {
+                "section": "31521D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "19 of 40",
+                "instructor": "Chu-Yi Wang",
+                "location": "RTH217"
+            },
+            {
+                "section": "31721D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "Chu-Yi Wang",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "492",
+        "course_name": "Thought Leadership in a Technologically Changing World",
+        "units": "(2.0 units)",
+        "description": "Development of engineering leaders by providing a solid foundation of leadership principles and their practice while studying the impact of technological achievements in leadership structures.",
+        "sections": [
+            {
+                "section": "28532R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "13 of 40",
+                "instructor": "Chrysostomos Nikias,Deborah Glynn,Cauligi Raghavendra",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "494",
+        "course_name": "Technology Development and Commercialization",
+        "units": "(2.0 units)",
+        "description": "Introduction to the theory and practice of technology development and commercialization with an emphasis on how new technologies are formed and implemented into society.",
+        "sections": [
+            {
+                "section": "28531D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "3 of 25",
+                "instructor": "Denise McKenzie",
+                "location": "SOSB47"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Current developments in the field of engineering.",
+        "sections": [
+            {
+                "section": "28551R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "15 of 40",
+                "instructor": "Chrysostomos Nikias,Deborah Glynn,Cauligi Raghavendra",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "596",
+        "course_name": "Internship in Engineering",
+        "units": "(1.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program. Graduate standing in engineering. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28564D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 500",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28569D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 500",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28626D",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 250",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28627D",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 250",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "597",
+        "course_name": "Internship in Engineering with Professional Writing and Communication",
+        "units": "(0.5 units)",
+        "description": "Practical work experience; professional communication and writing skills.",
+        "sections": [
+            {
+                "section": "28620D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 500",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28621D",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 250",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENGR",
+        "course_num": "598",
+        "course_name": "Professional Internship Experiences",
+        "units": "(0.0 units)",
+        "description": "Part-time or full-time practical work experience in a particular field of study. The internship must be located at an off-campus facility.",
+        "sections": [
+            {
+                "section": "28622D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "86 of 500",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            },
+            {
+                "section": "28623D",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 500",
+                "instructor": "Candace Teixeira",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

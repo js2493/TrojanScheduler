@@ -1,0 +1,2254 @@
+[
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "102A",
+        "course_name": "Weight Training",
+        "units": "(1.0 unit)",
+        "description": "Improvement of body shape, muscle endurance, and muscle strength; understanding of weight training and nutrition principles that can be utilized for future weight training development.",
+        "sections": [
+            {
+                "section": "49700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Sarah McGill",
+                "location": "PED210"
+            },
+            {
+                "section": "49701R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "13 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49702R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Sarah McGill",
+                "location": "PED210"
+            },
+            {
+                "section": "49703R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "14 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49704R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49705R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49706R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49707R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49708R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49709R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "14 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49711R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "9 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49712R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49713R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "15 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            },
+            {
+                "section": "49908R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49910R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "104A",
+        "course_name": "Self-Defense",
+        "units": "(1.0 unit)",
+        "description": "Basic instruction of self-defense for beginners; strategies for standing and ground fighting situations with and without weapons.",
+        "sections": [
+            {
+                "section": "49718R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Carl Collins",
+                "location": "PED201"
+            },
+            {
+                "section": "49719R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Arthur Chivichyan",
+                "location": "PED201"
+            },
+            {
+                "section": "49720R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Carl Collins",
+                "location": "PED201"
+            },
+            {
+                "section": "49721R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Carl Collins",
+                "location": "PED201"
+            },
+            {
+                "section": "49722R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Carl Collins",
+                "location": "PED201"
+            },
+            {
+                "section": "49723R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "13 of 19",
+                "instructor": "Carl Collins",
+                "location": "PED201"
+            },
+            {
+                "section": "49920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "George Toney",
+                "location": "PED201"
+            },
+            {
+                "section": "49921R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "George Toney",
+                "location": "PED201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "105",
+        "course_name": "Principles of Self Defense and Personal Safety",
+        "units": "(2.0 units)",
+        "description": "Application of learned skills and strategies for identifying physical threats; increased situational awareness; understanding of when physical force may be required.",
+        "sections": [
+            {
+                "section": "49923R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Arthur Chivichyan",
+                "location": "PED201"
+            },
+            {
+                "section": "49924R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "17 of 19",
+                "instructor": "Arthur Chivichyan",
+                "location": "PED201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "106A",
+        "course_name": "Physical Conditioning",
+        "units": "(1.0 unit)",
+        "description": "a: Improvement in cardiorespiratory endurance, body composition, muscle endurance and flexibility; running, circuit training, resistance exercises; fitness principles and nutrition to develop individualized program.",
+        "sections": [
+            {
+                "section": "49727R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "16 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49728R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49729R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "11 of 19",
+                "instructor": "Steve Hsu",
+                "location": "PED210"
+            },
+            {
+                "section": "49732R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 19",
+                "instructor": "",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "110A",
+        "course_name": "Swimming",
+        "units": "(1.0 unit)",
+        "description": "a: Instruction and practice of basic strokes for beginners and intermediate swimmers; elementary springboard diving; water safety techniques; endurance training as a fitness program.",
+        "sections": [
+            {
+                "section": "49739R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            },
+            {
+                "section": "49740R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Natalia Cascino",
+                "location": "PED210"
+            },
+            {
+                "section": "49741R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            },
+            {
+                "section": "49743R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            },
+            {
+                "section": "49744R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            },
+            {
+                "section": "49746R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Natalia Cascino",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "115",
+        "course_name": "Surfing",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of surfing skills; water safety and wave etiquette; wave recognition and forecast interpretation; surf culture; board selection; surf related strengthening and conditioning.",
+        "sections": [
+            {
+                "section": "49950R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            },
+            {
+                "section": "49951R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "117",
+        "course_name": "Sustainability and Self-Care",
+        "units": "(2.0 units)",
+        "description": "Alternative ways to integrate sustainability practices into a daily routine; develop individual self-care modalities and connect to our planet; navigate climate anxiety.",
+        "sections": [
+            {
+                "section": "49755R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "Sara Ivanhoe,Eden Goldman",
+                "location": "SOSB48"
+            },
+            {
+                "section": "49756R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "30 of 30",
+                "instructor": "Sara Ivanhoe,Eden Goldman",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "118",
+        "course_name": "Sleep for Peak Performance",
+        "units": "(2.0 units)",
+        "description": "Introduction to sleep as it relates to physical and mental performance; breathing and meditation modalities to support healthy sleep; study of sleep systems, disorders, strategies.",
+        "sections": [
+            {
+                "section": "50020R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sara Ivanhoe,Eden Goldman",
+                "location": "THH118"
+            },
+            {
+                "section": "50021R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "Sara Ivanhoe,Eden Goldman",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "119",
+        "course_name": "Introduction to Mindfulness",
+        "units": "(2.0 units)",
+        "description": "Introduction to the principles of mindfulness; application of learned techniques to enhance mind body awareness; cultivate strategies to improve physical and mental health.",
+        "sections": [
+            {
+                "section": "50022R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "KAP137"
+            },
+            {
+                "section": "50023R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Martin Vitorino",
+                "location": "KAP137"
+            },
+            {
+                "section": "50024R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Christian Straka",
+                "location": "DMC107"
+            },
+            {
+                "section": "50025R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "JoAnna Hardy",
+                "location": "SOSB47"
+            },
+            {
+                "section": "50026R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "JoAnna Hardy",
+                "location": "GFS207"
+            },
+            {
+                "section": "50027R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Linda Yaron Weston,Clio Manuelian",
+                "location": "WPH103"
+            },
+            {
+                "section": "50030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Linda Yaron Weston,Clio Manuelian",
+                "location": "WPH103"
+            },
+            {
+                "section": "50031R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "John Kneedler",
+                "location": "VPD107"
+            },
+            {
+                "section": "50032R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Linda Yaron Weston,Clio Manuelian",
+                "location": "WPH202"
+            },
+            {
+                "section": "50033R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "John Kneedler",
+                "location": "DMC256"
+            },
+            {
+                "section": "50034R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 16,
+                "registered": "16 of 19",
+                "instructor": "Martin Vitorino",
+                "location": "PED210"
+            },
+            {
+                "section": "50035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "18 of 19",
+                "instructor": "Christian Straka",
+                "location": "DMC110"
+            },
+            {
+                "section": "50036R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "19 of 19",
+                "instructor": "Martin Vitorino",
+                "location": "DMC210"
+            },
+            {
+                "section": "50037R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Christian Straka",
+                "location": "DMC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "120A",
+        "course_name": "Yoga",
+        "units": "(1.0 unit)",
+        "description": "Introduction to meditation, breathing techniques and postures as a means towards relaxation; increase muscle flexibility, understanding of basic anatomy and nutritional guidelines.",
+        "sections": [
+            {
+                "section": "49760R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49761R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "16 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49762R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49763R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49764R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49766R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Salena Collins",
+                "location": "PED210"
+            },
+            {
+                "section": "49767R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49768R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "17 of 19",
+                "instructor": "Salena Collins",
+                "location": "PED210"
+            },
+            {
+                "section": "49769R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "11 of 19",
+                "instructor": "Steve Hsu",
+                "location": "PED210"
+            },
+            {
+                "section": "49770R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Stephanie Eggert",
+                "location": "PED210"
+            },
+            {
+                "section": "49771R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Steve Hsu",
+                "location": "PED210"
+            },
+            {
+                "section": "49772R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Stephanie Eggert",
+                "location": "PED210"
+            },
+            {
+                "section": "49773R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Steve Hsu",
+                "location": "PED210"
+            },
+            {
+                "section": "49774R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Eden Goldman",
+                "location": "PED210"
+            },
+            {
+                "section": "49963R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Jino De Castro",
+                "location": "PED210"
+            },
+            {
+                "section": "49964R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "120B",
+        "course_name": "Yoga",
+        "units": "(1.0 unit)",
+        "description": "A continuing study of intermediate and advanced yoga postures, breathing techniques and meditation as a means toward relaxation and stress-reduction.",
+        "sections": [
+            {
+                "section": "49967R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "12 of 16",
+                "instructor": "",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "122",
+        "course_name": "Kundalini Yoga and Meditation",
+        "units": "(1.0 unit)",
+        "description": "Ancient yoga practice combining postures, meditation, breathing, mantras and focus techniques; designed to improve mind body awareness, balance, strength, flexibility, techniques and nervous system function.",
+        "sections": [
+            {
+                "section": "49979R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Stephanie Eggert",
+                "location": "PED210"
+            },
+            {
+                "section": "49980R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "18 of 25",
+                "instructor": "Stephanie Eggert",
+                "location": "PED210"
+            },
+            {
+                "section": "49981R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Stephanie Eggert",
+                "location": "PED210"
+            },
+            {
+                "section": "49982R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "10 of 25",
+                "instructor": "Stephanie Eggert",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "123",
+        "course_name": "Yoga Therapy",
+        "units": "(2.0 units)",
+        "description": "Holistic discipline combining traditional yoga techniques with a modern medicine approach to treating a variety of health conditions; includes physical, mental and breathing practice.",
+        "sections": [
+            {
+                "section": "50050R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jennifer Guinter",
+                "location": "PED210"
+            },
+            {
+                "section": "50051R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 16,
+                "registered": "12 of 19",
+                "instructor": "Eden Goldman",
+                "location": "PED210"
+            },
+            {
+                "section": "50052R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "15 of 19",
+                "instructor": "Salena Collins",
+                "location": "PED210"
+            },
+            {
+                "section": "50054R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "14 of 19",
+                "instructor": "Salena Collins",
+                "location": "PED210"
+            },
+            {
+                "section": "50055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "16 of 19",
+                "instructor": "Jennifer Guinter",
+                "location": "PED210"
+            },
+            {
+                "section": "50056R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "17 of 19",
+                "instructor": "Eden Goldman",
+                "location": "PED210"
+            },
+            {
+                "section": "50057R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "17 of 19",
+                "instructor": "Jennifer Guinter",
+                "location": "PED210"
+            },
+            {
+                "section": "50058R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Salena Collins",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "124",
+        "course_name": "Walking for Fitness",
+        "units": "(1.0 unit)",
+        "description": "Develop a strong fitness foundation through walking; fitness assessment and individualized programs; gait biomechanics and power walking; injury prevention; strategies for special populations.",
+        "sections": [
+            {
+                "section": "49776R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "12 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "PED210"
+            },
+            {
+                "section": "49777R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "126",
+        "course_name": "AcroYoga",
+        "units": "(1.0 unit)",
+        "description": "Teamwork building fitness course combining mindfulness and yoga with the dynamic movement of acrobatics; strength, balance and mind body awareness; stretching, spotting and counter balancing.",
+        "sections": [
+            {
+                "section": "49750R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "18 of 19",
+                "instructor": "Jennifer Guinter",
+                "location": "PED201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "127",
+        "course_name": "Principles of Yoga Through Community Outreach",
+        "units": "(2.0 units)",
+        "description": "Introduction and reinforcement of yoga postures, breathing techniques and meditation; sharing yoga principles and benefits with grade schools; teaching and community service opportunity.",
+        "sections": [
+            {
+                "section": "49783R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "6 of 16",
+                "instructor": "Christina Koneazny",
+                "location": "PED210"
+            },
+            {
+                "section": "49983R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "6 of 16",
+                "instructor": "Christina Koneazny",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "129A",
+        "course_name": "Cardio Group Fitness",
+        "units": "(1.0 unit)",
+        "description": "Group fitness instruction incorporating a variety of training methods such as cycling, HITT (high intensity interval training), step, circuits; nutritional guidelines.",
+        "sections": [
+            {
+                "section": "49784R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "17 of 19",
+                "instructor": "Julia Sprague",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "132",
+        "course_name": "Distance Running",
+        "units": "(1.0 unit)",
+        "description": "Introduction to distance running while training for a 5k, 10k or half marathon; gait biomechanics and running efficiency; injury prevention; nutrition guidelines.",
+        "sections": [
+            {
+                "section": "49782R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jennifer Guinter",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "134",
+        "course_name": "Hiking",
+        "units": "(1.0 unit)",
+        "description": "Introduction to hiking; specific conditioning to develop muscle strength and endurance; equipment; various terrain, weather conditions, safety; environmental impact and trail etiquette.",
+        "sections": [
+            {
+                "section": "49811R",
+                "session": "859",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Ian Culbertson",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "135",
+        "course_name": "Backpacking",
+        "units": "(1.0 unit)",
+        "description": "Acquisition of backpacking knowledge and skills; conditioning plan; nutrition and equipment selection; ethics and environmental considerations; navigation, safety and wilderness first aid; trip planning.",
+        "sections": [
+            {
+                "section": "49812R",
+                "session": "802",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Ian Culbertson",
+                "location": "DMC110"
+            },
+            {
+                "section": "49813R",
+                "session": "802",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Ian Culbertson",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "138",
+        "course_name": "Beach Volleyball",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of skills and tactics specific to sand volleyball and related physical conditioning; rules and strategies; history and culture.",
+        "sections": [
+            {
+                "section": "49988R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Julia Sprague",
+                "location": "PED210"
+            },
+            {
+                "section": "49989R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Julia Sprague",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "139A",
+        "course_name": "Volleyball",
+        "units": "(1.0 unit)",
+        "description": "a: Introduction to beginning and intermediate volleyball skills, rules, game tactics, and strategies. Emphasis on the development of: passing, setting, hitting, serving, blocking, and digging.",
+        "sections": [
+            {
+                "section": "49792R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Julia Sprague",
+                "location": "PED210"
+            },
+            {
+                "section": "49794R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Julia Sprague",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "139B",
+        "course_name": "Volleyball",
+        "units": "(1.0 unit)",
+        "description": "b: Advanced techniques; focus on offenses and defenses used in game situations.",
+        "sections": [
+            {
+                "section": "49795R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "12 of 19",
+                "instructor": "Sarah McGill",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "140A",
+        "course_name": "Tennis",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of basic strokes for beginners and intermediate players; rules, scoring, court etiquette, strategies; singles and doubles; practice and match play.",
+        "sections": [
+            {
+                "section": "49802R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Frank Gutierrez",
+                "location": "PED210"
+            },
+            {
+                "section": "49804R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Frank Gutierrez",
+                "location": "PED210"
+            },
+            {
+                "section": "49884R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1100,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Frank Gutierrez",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "144",
+        "course_name": "Pickleball",
+        "units": "(1.0 unit)",
+        "description": "Introduction to pickleball; develop basic skills, techniques and fundamentals; rules, scoring, etiquette and strategies of play (singles/doubles play).",
+        "sections": [
+            {
+                "section": "49886R",
+                "session": "802",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Joshua Maya",
+                "location": "PED210"
+            },
+            {
+                "section": "49887R",
+                "session": "859",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "14 of 16",
+                "instructor": "Joshua Maya",
+                "location": "PED210"
+            },
+            {
+                "section": "49888R",
+                "session": "859",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Joshua Maya",
+                "location": "PED210"
+            },
+            {
+                "section": "49889R",
+                "session": "802",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Joshua Maya",
+                "location": "PED210"
+            },
+            {
+                "section": "49890R",
+                "session": "802",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Joshua Maya",
+                "location": "PED210"
+            },
+            {
+                "section": "49891R",
+                "session": "859",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Joshua Maya",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "148A",
+        "course_name": "Archery",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of archery technique for beginners and intermediates; historical origins; form; the shot cycle; mindfulness; scoring; equipment; sport specific training.",
+        "sections": [
+            {
+                "section": "49825R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Laurence Mo",
+                "location": "PED210"
+            },
+            {
+                "section": "49826R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Laurence Mo",
+                "location": "PED210"
+            },
+            {
+                "section": "49827R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Laurence Mo",
+                "location": "PED210"
+            },
+            {
+                "section": "49828R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Laurence Mo",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "150A",
+        "course_name": "Table Tennis",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of basic strokes for beginning and intermediate players; rules, scoring strategies; singles and doubles; practices and match play.",
+        "sections": [
+            {
+                "section": "49829R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED200"
+            },
+            {
+                "section": "49831R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED200"
+            },
+            {
+                "section": "49833R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED200"
+            },
+            {
+                "section": "49834R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED200"
+            },
+            {
+                "section": "49835R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "151A",
+        "course_name": "Badminton",
+        "units": "(1.0 unit)",
+        "description": "Fundamental instruction of basic strokes for beginners and intermediate players; rules, scoring, strategies; footwork and court positioning; practical drills and games.",
+        "sections": [
+            {
+                "section": "50010R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED210"
+            },
+            {
+                "section": "50011R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "19 of 19",
+                "instructor": "Irina Jestkova",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "154A",
+        "course_name": "Soccer",
+        "units": "(1.0 unit)",
+        "description": "Development of basic skills for beginners, intermediate and advanced players; rules, positioning elements of play, small group and team tactics; full field scrimmages.",
+        "sections": [
+            {
+                "section": "49839R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "12 of 16",
+                "instructor": "Shannon Cross",
+                "location": "PED210"
+            },
+            {
+                "section": "49840R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "2 of 16",
+                "instructor": "Shannon Cross",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "155A",
+        "course_name": "Golf",
+        "units": "(1.0 unit)",
+        "description": "Basic skills development and knowledge in stance, grip and swing mechanics; course strategy; use of woods, irons and putting; history rules and etiquette.",
+        "sections": [
+            {
+                "section": "49847R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Michael Munson",
+                "location": "PED210"
+            },
+            {
+                "section": "49848R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Timothy Burton",
+                "location": "PED210"
+            },
+            {
+                "section": "49849R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Michael Munson",
+                "location": "PED210"
+            },
+            {
+                "section": "49850R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Timothy Burton",
+                "location": "PED210"
+            },
+            {
+                "section": "49851R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Marcos Briano",
+                "location": "PED210"
+            },
+            {
+                "section": "49852R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Timothy Burton",
+                "location": "PED210"
+            },
+            {
+                "section": "49948R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "Timothy Burton",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "156A",
+        "course_name": "Basketball",
+        "units": "(1.0 unit)",
+        "description": "a: Basic skill development in dribbling, passing, shooting, rebounding and defense; rules, history, and etiquette; drills and full court games.",
+        "sections": [
+            {
+                "section": "49859R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Sarah McGill",
+                "location": "PED210"
+            },
+            {
+                "section": "49861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "PED210"
+            },
+            {
+                "section": "49960R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "PED210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "160",
+        "course_name": "Stress Management for Healthy Living",
+        "units": "(2.0 units)",
+        "description": "Instruction on the effects of stress as it relates to work, sport and academics; coping strategies are discussed and applied through physical conditioning interventions.",
+        "sections": [
+            {
+                "section": "49863D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Steve Hsu",
+                "location": ""
+            },
+            {
+                "section": "49864R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Steve Hsu",
+                "location": "DMC101"
+            },
+            {
+                "section": "49865R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Jennifer Guinter",
+                "location": "SGM226"
+            },
+            {
+                "section": "49866R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Diana Ordorica",
+                "location": "DMC205"
+            },
+            {
+                "section": "49867R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Stephanie Eggert",
+                "location": "THH118"
+            },
+            {
+                "section": "49868R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": "DMC260"
+            },
+            {
+                "section": "49869R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Stephanie Eggert",
+                "location": "THH118"
+            },
+            {
+                "section": "49870R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "17 of 19",
+                "instructor": "Timothy Burton",
+                "location": "THH205"
+            },
+            {
+                "section": "49871R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "9 of 19",
+                "instructor": "Marcos Briano",
+                "location": "DMC161"
+            },
+            {
+                "section": "49872R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Ian Culbertson",
+                "location": ""
+            },
+            {
+                "section": "49968R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "15 of 19",
+                "instructor": "Kevin Robinson",
+                "location": "KAP145"
+            },
+            {
+                "section": "49969R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "19 of 19",
+                "instructor": "Timothy Burton",
+                "location": "WPHB26"
+            },
+            {
+                "section": "49975R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "7 of 19",
+                "instructor": "Kiel Shaub,Martin Vitorino",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "161",
+        "course_name": "First Aid",
+        "units": "(1.0 unit)",
+        "description": "First aid safety education and infant, child, and adult CPR; demonstrated proficiency and successful completion of exam prepares students for Red Cross certification.",
+        "sections": [
+            {
+                "section": "49814R",
+                "session": "859",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Sarah McGill",
+                "location": "PED200"
+            },
+            {
+                "section": "49815R",
+                "session": "802",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Sarah McGill",
+                "location": "PED200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "162",
+        "course_name": "Principles of Athletic Coaching",
+        "units": "(2.0 units)",
+        "description": "Introduction to coaching strategies; team management; philosophy; ethics; leadership. Methodologies in sport specific training; skill progression; conditioning; athlete motivation; budgeting; fundraising.",
+        "sections": [
+            {
+                "section": "49892R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "8 of 19",
+                "instructor": "Timothy Burton",
+                "location": "WPH201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "163",
+        "course_name": "Health Coaching",
+        "units": "(3.0 units)",
+        "description": "Skills and strategies of coaching principles promoting healthy lifestyle change. Motivational communication techniques; goal setting; designing safe, effective exercise program; health coach certification exam preparation.",
+        "sections": [
+            {
+                "section": "49928R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "16 of 16",
+                "instructor": "Sarah McGill",
+                "location": "HED103"
+            },
+            {
+                "section": "49930R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "7 of 16",
+                "instructor": "Shannon Cross",
+                "location": "DMC204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHED",
+        "course_num": "165",
+        "course_name": "Varsity Athletics",
+        "units": "(1.0 units, max 4)",
+        "description": "Participation in the University's intercollegiate programs as sanctioned and governed by the PAC-10 conference and/or the NCAA. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50070D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 50",
+                "instructor": "Cole Mears,Andrew Stankiewicz",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50071D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "60 of 90",
+                "instructor": "Heather Bell,Lincoln Riley",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50072D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 100",
+                "instructor": "Heather Bell,Eric Musselman",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50073D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "Whitney Rotrock,Mark Hankins",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50074D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 50",
+                "instructor": "Angelyne Loiselle,Lea Maurer",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50075D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "Whitney Rotrock,Brett Masi",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50076D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 100",
+                "instructor": "Angela Munger-Rivera,Quincy Watts",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50077D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 100",
+                "instructor": "Ty House,Jeff Nygaard",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50078D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "Sarah Shriber,Marko Pintaric",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50079D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 50",
+                "instructor": "Lindsay Gottlieb,Cole Mears",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50080D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "Angela Munger-Rivera,Kelsie Chaudoin",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50081D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Sarah Shriber,Justin Silverstein",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50082D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 30",
+                "instructor": "Chelsea Paraschos,Jane Alukonis",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50083D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Whitney Rotrock,Alison Swain",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50084D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Richard Coles,Brad Keller",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50085D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "7 of 40",
+                "instructor": "Whitney Rotrock,Sarah Shriber",
+                "location": "JMC103"
+            },
+            {
+                "section": "50086D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "38 of 40",
+                "instructor": "Lionel Montenegro",
+                "location": "JMC103"
+            },
+            {
+                "section": "50087D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "30 of 40",
+                "instructor": "Cole Mears,Lisa Auld",
+                "location": "JMC103"
+            },
+            {
+                "section": "50088D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 29",
+                "instructor": "Whitney Rotrock,Lindsey Munday",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50089D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Nicholas Thornton,Dain Blanton",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50090D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 35",
+                "instructor": "Sarah Shriber,Casey Moon",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50092D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "9 of 40",
+                "instructor": "Heather Bell",
+                "location": "JMC103"
+            }
+        ]
+    }
+]

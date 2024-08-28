@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "DSM",
+        "course_number": "596",
+        "course_name": "Final Project Capstone",
+        "units": "(4.0 units)",
+        "description": "Students produce a working site, app or embedded social platform project with digital/multimedia elements. Development includes pitching, conceptualization and launching of the final project.",
+        "sections": [
+            {
+                "section": "21890D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1330,
+                "days": 4,
+                "registered": "10 of 25",
+                "instructor": "Jeffrey Hirsch",
+                "location": "ANN210"
+            }
+        ]
+    }
+]

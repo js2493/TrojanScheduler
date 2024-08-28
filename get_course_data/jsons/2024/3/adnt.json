@@ -1,0 +1,443 @@
+[
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "701",
+        "course_name": "Research Methodologies in Dentistry",
+        "units": "(2.0 units)",
+        "description": "Critical evaluation of the scientific principles in the development, execution, and interpretation of methodologies used in dentistry.",
+        "sections": [
+            {
+                "section": "22608D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Amy Merrill-Brugger",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22615D",
+                "session": "341",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Amy Merrill-Brugger",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22631D",
+                "session": "027",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Amy Merrill-Brugger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "702",
+        "course_name": "Physical Diagnosis",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Didactic and clinical experience in physical diagnosis relevant to practice of the dental specialties. Lecture, 1 hour; demonstration, 1 hour.",
+        "sections": [
+            {
+                "section": "22604D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22609D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22610D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22614D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22616D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22619D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "703A",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22601D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Winston Chee,Cheryl Park,Kian Kar",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22620D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Cheryl Park,Winston Chee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "703C",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22629D",
+                "session": "010",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Cheryl Park,Winston Chee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "703D",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialties.",
+        "sections": [
+            {
+                "section": "22623D",
+                "session": "370",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,Cheryl Park,Kian Kar",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "703F",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialities. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "22630D",
+                "session": "030",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Cheryl Park,Winston Chee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "703H",
+        "course_name": "Seminar: Combined Treatment Planning",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary consideration of complex cases which involve several of the dental specialities. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "22625D",
+                "session": "394",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Winston Chee,Cheryl Park,Kian Kar",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "704A",
+        "course_name": "Oral Biology",
+        "units": "(1.0-13.0 units)",
+        "description": "Interdisciplinary consideration of contemporary biology of the cell, bone, teeth, periodontium, occlusion, dental pulp, pain and human growth, and development.",
+        "sections": [
+            {
+                "section": "22605D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22611D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22621D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22627D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22633D",
+                "session": "367",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "704B",
+        "course_name": "Oral Biology",
+        "units": "(1.0-13.0 units)",
+        "description": "Interdisciplinary consideration of contemporary biology of the cell, bone, teeth, periodontium, occlusion, dental pulp, pain and human growth and development.",
+        "sections": [
+            {
+                "section": "22603D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 35",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22606D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22612D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22622D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Mariela Padilla",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADNT",
+        "course_num": "710",
+        "course_name": "Internship: Dental Education",
+        "units": "(0.0-5.0 units, max 5)",
+        "description": "Practical experience teaching predoctoral students. Units and hours variable.",
+        "sections": [
+            {
+                "section": "22607D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Jin-Ho Phark",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22613D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22617D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22624D",
+                "session": "368",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Hovhanness Shnorhokian",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22626D",
+                "session": "394",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Kian Kar,Alon Frydman",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22628D",
+                "session": "027",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Catherine Pham,Philip Yoong",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22632D",
+                "session": "370",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Kian Kar,Alon Frydman",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

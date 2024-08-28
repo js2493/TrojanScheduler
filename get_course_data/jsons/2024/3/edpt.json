@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20243",
+        "department": "EDPT",
+        "course_num": "502",
+        "course_name": "Learning and Individual Differences",
+        "units": "(3.0 units)",
+        "description": "Theory and research in learning, development and individual differences, and social psychology related to education in instructional or training contexts.",
+        "sections": [
+            {
+                "section": "27105D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "13 of 25",
+                "instructor": "David Smith",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

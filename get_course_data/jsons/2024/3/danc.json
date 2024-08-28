@@ -1,0 +1,1259 @@
+[
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "101",
+        "course_name": "Colloquium I: Joining the Creative Community",
+        "units": "(1.0 units, max 2)",
+        "description": "Introduction to a vibrant creative community. Students will explore university resources, engage with faculty, guest artists and staff, and establish goals for sustainability and growth.",
+        "sections": [
+            {
+                "section": "22351D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "25 of 28",
+                "instructor": "Thomas Ford",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "103",
+        "course_name": "Conditioning for Dancers",
+        "units": "(2.0 units, max 4)",
+        "description": "Designed for the specific needs of the dancer in preparation for professional training, combining somatic work with the foundation of scientific principles.",
+        "sections": [
+            {
+                "section": "22353D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "27 of 37",
+                "instructor": "Marisa Hentis",
+                "location": "KDC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "107",
+        "course_name": "World Perspective on Dance Performance",
+        "units": "(2.0 units, max 4)",
+        "description": "The practice and aesthetics of international dance styles through lecture and participant-driven interaction.",
+        "sections": [
+            {
+                "section": "22357D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1120,
+                "days": 2,
+                "registered": "24 of 40",
+                "instructor": "Thomas Ford",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "110",
+        "course_name": "Dance Technique I",
+        "units": "(3.0 units, max 12)",
+        "description": "Fundamental technique studies in a studio setting. Concentration on classical ballet, hip hop and its derivatives, partnering and contemporary techniques essential to the dancers' development. Placement audition required.",
+        "sections": [
+            {
+                "section": "22360D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 0,
+                "registered": "26 of 28",
+                "instructor": "Jackie Kopcsak,Ebony Frazier,Bruce McCormick,Achinta McDaniel,d. Sabela Grimes,Molly Bogunovic,Amy O'Neal,Patrick Corbin",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "120",
+        "course_name": "Repertory and Performance I",
+        "units": "(2.0 units, max 4)",
+        "description": "Study and guided practice of choreographic repertory. Emphasis in choreographic intention, stylistic approaches and performance technique.",
+        "sections": [
+            {
+                "section": "22363D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "25 of 28",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC102"
+            },
+            {
+                "section": "22364D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 32,
+                "registered": "25 of 28",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "130",
+        "course_name": "Composition: Improvisation and Exploration",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to diverse approaches in improvisation and dancemaking, with special emphasis on how compositional concerns play out in space, time, and physical form.",
+        "sections": [
+            {
+                "section": "22368D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "24 of 34",
+                "instructor": "Bret Easterling",
+                "location": "KDC104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "140",
+        "course_name": "Dance and Health",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Examine the intersection of dance with subjects such as nutrition, neuroatypicality, neurodegenerative disorders, disease, occupational and movement therapy, somatic techniques, cognitive conditioning and fitness.",
+        "sections": [
+            {
+                "section": "22371R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "14 of 35",
+                "instructor": "Patrick Corbin",
+                "location": "KDC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "170",
+        "course_name": "Choreography and Performance",
+        "units": "(2.0 units, max 8)",
+        "description": "Compositional methods and approaches to developing choreographic ideas; integration of improvisational techniques as a means to generate movement ideas and expand movement vocabulary, edit choreographic material, and evaluate and execute choreography and performance.",
+        "sections": [
+            {
+                "section": "22383R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "13 of 35",
+                "instructor": "Holley Farmer",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "172",
+        "course_name": "Introduction to Commercial Dance",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Designed to introduce students to the styles, norms and standards prevalent in the commercial dance industry. Exploration of technical approaches, practical skills and historical benchmarks.",
+        "sections": [
+            {
+                "section": "22385R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "11 of 35",
+                "instructor": "Grasan Kingsberry",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "180",
+        "course_name": "African Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "African Dance technique at the beginning/intermediate level: knowing, understanding, experiencing culture, emphasizing cultural traditions, community outreach and diversity; works through artistic process, practice, performance, and related activities, using dance, theatre and music work rooted in the African tradition and contemporary African aesthetics; focus on West and Central African traditional dance and music.",
+        "sections": [
+            {
+                "section": "22393R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "8 of 35",
+                "instructor": "Sarah Anindo Marshall",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "181A",
+        "course_name": "Contemporary Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to methods developed from modern and post-modern dance techniques, including the study of the rebellious, individualistic, and democratic nature of dance in the 20th and 21st centuries.",
+        "sections": [
+            {
+                "section": "22394R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "29 of 35",
+                "instructor": "Betsy Struxness",
+                "location": "KDC107"
+            },
+            {
+                "section": "22395R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "23 of 35",
+                "instructor": "Patrick Corbin",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "181B",
+        "course_name": "Contemporary Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "Continued study in the fusion of modern, post-modern dance and classical ballet techniques encompassing the study of the democratic nature of dance and choreographic composition in the 20th and 21st centuries.",
+        "sections": [
+            {
+                "section": "22396R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 980,
+                "days": 20,
+                "registered": "5 of 35",
+                "instructor": "Jennifer Lott",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "183A",
+        "course_name": "Ballet",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to Classical Ballet technique with beginning-level barre and center work, focusing on correct body alignment and musicality. Development of a basic knowledge of ballet history and terminology.",
+        "sections": [
+            {
+                "section": "22402R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "26 of 35",
+                "instructor": "Gillian Finley",
+                "location": "KDC105"
+            },
+            {
+                "section": "22403R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 10,
+                "registered": "17 of 35",
+                "instructor": "Molly Bogunovic",
+                "location": "KDC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "183B",
+        "course_name": "Ballet",
+        "units": "(2.0 units, max 4)",
+        "description": "Continued study of Classical Ballet technique with intermediate-level barre and center work, focusing on developing greater clarity, coordination, musicality, and knowledge of ballet history and terminology.",
+        "sections": [
+            {
+                "section": "22404R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "17 of 35",
+                "instructor": "Molly Bogunovic",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "183C",
+        "course_name": "Ballet",
+        "units": "(2.0 units, max 4)",
+        "description": "Intermediate/advanced study of Classical Ballet technique with emphasis on clarity, precision, musicality, movement quality, and artistic expression. Introduction of beats, tours, advanced adagio and allegro combinations, and optional pointe work.",
+        "sections": [
+            {
+                "section": "22405R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 10,
+                "registered": "11 of 35",
+                "instructor": "Ebony Frazier",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "183D",
+        "course_name": "Ballet",
+        "units": "(2.0 units, max 4)",
+        "description": "Advanced/pre-professional study of Classical Ballet, continuing and deepening emphasis on clarity, precision, musicality, movement quality, and artistic expression. Further development of beats, tours, advanced adagio and allegro combinations, and optional pointe work.",
+        "sections": [
+            {
+                "section": "22406R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "12 of 35",
+                "instructor": "Ebony Frazier",
+                "location": "KDC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "184A",
+        "course_name": "Jazz Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to Jazz Dance technique, focusing on African and Latin based diaspora dances with European influences, improvisation, and strength/stretching series.",
+        "sections": [
+            {
+                "section": "22407R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 10,
+                "registered": "12 of 35",
+                "instructor": "Pat Taylor",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "184B",
+        "course_name": "Jazz Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "Continued study of Jazz Dance technique at the intermediate level, focusing on African and Latin based diaspora dances with European influences, improvisation, center work, performance techniques, and strength/stretching series.",
+        "sections": [
+            {
+                "section": "22409R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 10,
+                "registered": "4 of 35",
+                "instructor": "Pat Taylor",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "184C",
+        "course_name": "Jazz Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "Advanced study of Jazz Dance technique, focusing on Broadway, commercial, and concert Jazz Dance, with a continued emphasis on improvisation, center work, and performance techniques.",
+        "sections": [
+            {
+                "section": "22410R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 890,
+                "days": 20,
+                "registered": "9 of 35",
+                "instructor": "Shannon Grayson",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "185A",
+        "course_name": "Hip Hop Dance",
+        "units": "(2.0 units, max 8)",
+        "description": "An introduction to elements of Hip Hop Dance, including technique, movement, musical rhythm, tempo, and phrasing, as well as the historical context required to develop the skills needed to practice and perform this popular dance form.",
+        "sections": [
+            {
+                "section": "22412R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "38 of 42",
+                "instructor": "Dante Rose",
+                "location": "KDC107"
+            },
+            {
+                "section": "22413R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "13 of 40",
+                "instructor": "Tiffany Bong",
+                "location": "KDC106"
+            },
+            {
+                "section": "22414R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "40 of 42",
+                "instructor": "Dante Rose",
+                "location": "KDC106"
+            },
+            {
+                "section": "22415R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 32,
+                "registered": "16 of 40",
+                "instructor": "Nina Flagg",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "185B",
+        "course_name": "Hip Hop Dance",
+        "units": "(2.0 units, max 8)",
+        "description": "Continued study of Hip Hop Dance elements on an intermediate level, augmenting the historical context, technique, fluidity, and musicality required to execute the form with greater movement acuity.",
+        "sections": [
+            {
+                "section": "22418R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "24 of 40",
+                "instructor": "Nina Flagg",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "187",
+        "course_name": "Bollywood Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to basic and intermediate Bollywood Dance, including technique, movement, musical rhythm, phrases, and choreography. Inspired by the high energy music from Indian films, Bollywood is a fusion form that combines traditional Indian folk and classical dances with Hip Hop, Jazz, Latin, and Middle-eastern dance.",
+        "sections": [
+            {
+                "section": "22421R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "12 of 40",
+                "instructor": "Achinta McDaniel",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "188A",
+        "course_name": "International Style Ballroom Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "Introduction to International Standard, International Latin, and American Style ballroom dances. Designed to introduce students to the fundamentals of ballroom dance, emphasizing partner connection, communication, and creativity, with the practical application of dance within a social setting.",
+        "sections": [
+            {
+                "section": "22423R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "50 of 50",
+                "instructor": "Jesus Fuentes",
+                "location": "KDC107"
+            },
+            {
+                "section": "22424R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "50 of 50",
+                "instructor": "Jesus Fuentes",
+                "location": "KDC107"
+            },
+            {
+                "section": "22425R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "17 of 50",
+                "instructor": "Jesus Fuentes",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "188B",
+        "course_name": "International Style Ballroom Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "Continued study in International Standard, International Latin, and American Style ballroom dances. Designed for advanced knowledge in ballroom styles, emphasizing rhythmic sequences, partnering techniques, complex patterns, and performance quality.",
+        "sections": [
+            {
+                "section": "22428R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1220,
+                "days": 10,
+                "registered": "9 of 50",
+                "instructor": "Jesus Fuentes",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "189A",
+        "course_name": "Tap Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to basic Tap Dance technique, rhythms, syncopation, and musicality, developing into complex steps and elementary dances with progressive understanding of weight change, improvisation, and combinations of sound.",
+        "sections": [
+            {
+                "section": "22429R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 890,
+                "days": 20,
+                "registered": "5 of 35",
+                "instructor": "Josette Wiggan",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "189B",
+        "course_name": "Tap Dance",
+        "units": "(2.0 units, max 4)",
+        "description": "Continued study of Tap Dance technique, focusing on more complex rhythmic patterns and combinations and introducing advanced steps and combinations, all with continued emphasis on improvisation and musicality.",
+        "sections": [
+            {
+                "section": "22431R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 10,
+                "registered": "2 of 35",
+                "instructor": "Jason Rodgers",
+                "location": "KDC107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "190",
+        "course_name": "Gaga: People",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Explore the movement language, rooted in guided improvisation, developed by Ohad Naharin of Batsheva Dance Company. Open to all, regardless of dance or movement background.",
+        "sections": [
+            {
+                "section": "22433R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 20,
+                "registered": "28 of 35",
+                "instructor": "Bret Easterling",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "201",
+        "course_name": "Colloquium II: Investing in the Collaboratory",
+        "units": "(1.0 units, max 2)",
+        "description": "Continued investment in the creative community, with a focus on best practices for sharing work, soliciting feedback and establishing healthy relationships with fellow creators.",
+        "sections": [
+            {
+                "section": "22442D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "29 of 35",
+                "instructor": "Patrick Corbin",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "210",
+        "course_name": "Dance Technique II",
+        "units": "(3.0 units, max 12)",
+        "description": "Intermediate technique studies in a studio setting. Concentration on classical ballet, hip hop and its derivatives, partnering and contemporary techniques essential to the dancers' development.",
+        "sections": [
+            {
+                "section": "22445D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 0,
+                "registered": "30 of 35",
+                "instructor": "Holley Farmer,Ebony Frazier,Bruce McCormick,Achinta McDaniel,E. Moncell Durden,Gillian Finley,Molly Bogunovic,Patrick Corbin,Jackie Kopcsak",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "212",
+        "course_name": "Dance in Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Examination of the role of dance in popular culture in a classroom setting. Studies of dance styles and their evolution in recreational and professional contexts through research, observation, and practice.",
+        "sections": [
+            {
+                "section": "22447R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1000,
+                "days": 10,
+                "registered": "28 of 60",
+                "instructor": "Jason Rodgers",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "220",
+        "course_name": "Repertory and Performance II",
+        "units": "(2.0 units, max 4)",
+        "description": "Continued studies and guided practice of choreographic repertory. Investigation of choreographic vocabulary, intention, stylistic approaches, and performance technique for group work.",
+        "sections": [
+            {
+                "section": "22452D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "30 of 35",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC105"
+            },
+            {
+                "section": "22453D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 32,
+                "registered": "30 of 35",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "230",
+        "course_name": "Composition: Collaborative Foundations",
+        "units": "(2.0 units, max 4)",
+        "description": "An introduction to collaborative creation across disciplinary boundaries, working toward the integration of varied design elements into choreographic composition.",
+        "sections": [
+            {
+                "section": "22457D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "28 of 35",
+                "instructor": "Thomas Ford",
+                "location": "KDC104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "280",
+        "course_name": "Introduction to Dance as an Art Form",
+        "units": "(4.0 units)",
+        "description": "Gateway to the minor in dance. An interdisciplinary overview of dance relating to the aesthetic and art in various subjects. Applications of the elements of dance studies, art criticism, and viewing productions to explore topic such as architecture, photography, poetry, technology, cinematic arts, sports, medicine, and more.",
+        "sections": [
+            {
+                "section": "22463R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "50 of 72",
+                "instructor": "Holley Farmer",
+                "location": "THH210"
+            },
+            {
+                "section": "22464R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 700,
+                "days": 10,
+                "registered": "59 of 60",
+                "instructor": "Kelly Alvarez",
+                "location": "KDC235"
+            },
+            {
+                "section": "22465R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 700,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Margo Apostolos",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "285",
+        "course_name": "Elements of Dance Production",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Theoretical aspects of creativity, choreography, accompaniment, dance notation and production; application in individual and group composition.",
+        "sections": [
+            {
+                "section": "22466R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "5 of 35",
+                "instructor": "Jennifer Lott",
+                "location": "KDC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "301",
+        "course_name": "Colloquium III: Clarifying Personal Pathways",
+        "units": "(1.0 units, max 2)",
+        "description": "Clarification of long-term goals, establishment of a unique artistic identity, and contextualization of creative work within broader social, political and cultural contexts.",
+        "sections": [
+            {
+                "section": "22470D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "21 of 26",
+                "instructor": "Tiffany Bong",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "302",
+        "course_name": "Hip Hop Don't Stop: Black Social Dance Culture and Media",
+        "units": "(4.0 units)",
+        "description": "Introduction to the history and practice of Urban Folk Dance including hip hop, freestyle, street dance and the relevant social dances of the 20th century.",
+        "sections": [
+            {
+                "section": "22471R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1150,
+                "days": 20,
+                "registered": "33 of 60",
+                "instructor": "Dante Rose",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "308",
+        "course_name": "Dance and Feminine Sexuality",
+        "units": "(4.0 units)",
+        "description": "Analyzes gender and sexuality in dance by investigating a broad, international framework of embodied performance including film, television, music videos and live performance.",
+        "sections": [
+            {
+                "section": "22474R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 820,
+                "days": 10,
+                "registered": "35 of 72",
+                "instructor": "Achinta McDaniel",
+                "location": "THH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "310",
+        "course_name": "Dance Technique III",
+        "units": "(3.0 units, max 12)",
+        "description": "Advanced technique studies in a studio setting. Concentration on classical ballet, hip hop and its derivatives, partnering and contemporary techniques essential to the dancers' development.",
+        "sections": [
+            {
+                "section": "22476D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 800,
+                "days": 42,
+                "registered": "24 of 26",
+                "instructor": "Molly Bogunovic,",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "312",
+        "course_name": "African American Dance",
+        "units": "(4.0 units)",
+        "description": "Exploration of the discursive foundations, political motivations, and aesthetic strategies of dance writers and artists whose works have enabled the category of \"black dance.\"",
+        "sections": [
+            {
+                "section": "22478D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1030,
+                "days": 20,
+                "registered": "34 of 72",
+                "instructor": "d. Sabela Grimes",
+                "location": "THH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "320",
+        "course_name": "Repertory and Performance III",
+        "units": "(2.0 units, max 4)",
+        "description": "Study and guided practice of new works and developing roles. Emphasis on the dancer as collaborator in the creative process.",
+        "sections": [
+            {
+                "section": "22482D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "13 of 26",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC104"
+            },
+            {
+                "section": "22483D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 32,
+                "registered": "13 of 26",
+                "instructor": "Shannon Grayson,",
+                "location": "KDC104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "333",
+        "course_name": "Origins of Jazz Dance",
+        "units": "(4.0 units)",
+        "description": "Examining the role that vernacular dance and music play in the creation of Jazz Dance, taught in lecture format; practical studies in Jazz Dance, from recreational to professional settings.",
+        "sections": [
+            {
+                "section": "22485R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "E. Moncell Durden",
+                "location": "WPH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "342",
+        "course_name": "International and Historical Perspectives on Dance",
+        "units": "(4.0 units)",
+        "description": "Exploration of dance as an art form in its artistic, political, and socio-cultural climate. Studies of the continuum of dance within its historical context.",
+        "sections": [
+            {
+                "section": "22487D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 940,
+                "days": 20,
+                "registered": "42 of 60",
+                "instructor": "Alison D'Amato",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "350",
+        "course_name": "Advanced Composition",
+        "units": "(2.0 units, max 8)",
+        "description": "Explore a variety of compositional forms and methods to develop a personalized choreographic approach.",
+        "sections": [
+            {
+                "section": "22495D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "27 of 35",
+                "instructor": "Amy O'Neal",
+                "location": "KDC105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "355",
+        "course_name": "Performance Lab",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Intermediate to advanced level dance practices in a variety of forms. Some sections are open only to dance majors.",
+        "sections": [
+            {
+                "section": "22502D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "1 of 35",
+                "instructor": "Jennifer Lott",
+                "location": "KDC104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "362",
+        "course_name": "Pilates Mat Training",
+        "units": "(2.0 units, max 4)",
+        "description": "Mat exercises designed to promote healthy movement practices, develop strength, balance, flexibility and coordination.",
+        "sections": [
+            {
+                "section": "22505R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "Shannon Grayson",
+                "location": "KDC106"
+            },
+            {
+                "section": "22507R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "40 of 40",
+                "instructor": "Kelly Alvarez",
+                "location": "KDC106"
+            },
+            {
+                "section": "22509R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 890,
+                "days": 20,
+                "registered": "32 of 40",
+                "instructor": "Gillian Finley",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "363",
+        "course_name": "Dancing on the Screen",
+        "units": "(4.0 units)",
+        "description": "The study of dance in movies, television, internet, mobile devices and new media. Examining dance on screen, influenced by storytelling, camera technology and editing.",
+        "sections": [
+            {
+                "section": "22508R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "27 of 72",
+                "instructor": "Dawn Stoppiello",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "372",
+        "course_name": "Intermediate/Advanced Commercial Dance",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Designed to build higher level skills in preparation for success in the commercial dance industry. Development of an intermediate/advanced technical skill set in preparation for auditions, on-screen performances and interactions with agents.",
+        "sections": [
+            {
+                "section": "22513D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 4,
+                "registered": "4 of 35",
+                "instructor": "Saleemah Knight",
+                "location": "KDC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "410",
+        "course_name": "Dance Technique IV",
+        "units": "(3.0 units, max 12)",
+        "description": "Pre-professional technique studies in a studio setting with concentration on classical ballet, hip hop and its derivatives, and contemporary techniques essential to the dancers' development.",
+        "sections": [
+            {
+                "section": "22534D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 800,
+                "days": 42,
+                "registered": "18 of 26",
+                "instructor": "Jackie Kopcsak,",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "420",
+        "course_name": "Repertory and Performance IV",
+        "units": "(2.0 units, max 4)",
+        "description": "Study and guided practice of significant roles in new and existing choreography. Emphasis on refinement of partnering, solo and group performance technique.",
+        "sections": [
+            {
+                "section": "22527D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "20 of 26",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC220"
+            },
+            {
+                "section": "22528D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 32,
+                "registered": "20 of 26",
+                "instructor": "Betsy Struxness,",
+                "location": "KDC220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "480",
+        "course_name": "Fourth-Year Seminar",
+        "units": "(1.0 units, max 2)",
+        "description": "Seminar and studio course in preparation of the senior project to be presented in spring semester, in performance, choreography, scholarship or entrepreneurship.",
+        "sections": [
+            {
+                "section": "22540D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "20 of 26",
+                "instructor": "Bruce McCormick,Grasan Kingsberry",
+                "location": "THH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "22546D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Alison D'Amato,Tiffany Bong,Thomas Ford,Shannon Grayson,d. Sabela Grimes,Saleemah Knight,Jackie Kopcsak,Jennifer Lott,Bruce McCormick",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "495",
+        "course_name": "Dance Internship",
+        "units": "(1.0-18.0 units, max 36)",
+        "description": "Practical experience linked with information and learned skills. Providing supervised field application of dance theories and practices within an employment context in dance.",
+        "sections": [
+            {
+                "section": "22549D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    }
+]

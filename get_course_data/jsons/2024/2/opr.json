@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20242",
+        "department": "OPR",
+        "course_number": "702",
+        "course_name": "Principles and Practice of Oral Medicine",
+        "units": "(1.0 unit)",
+        "description": "An overview of patients with primary oral conditions and oral diseases related to systemic pathology. Practice management issues discussed.",
+        "sections": [
+            {
+                "section": "24572D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Parish Sedghizadeh,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPR",
+        "course_number": "708",
+        "course_name": "Diagnostic Radiology",
+        "units": "(2.0 units)",
+        "description": "Case-based radiology course reviewing head and neck cases; interpretation using conventional and advance imaging such as MRI, CBCT and CT Scan.",
+        "sections": [
+            {
+                "section": "24574D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 12",
+                "instructor": "Elham Radan,Parish Sedghizadeh,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPR",
+        "course_number": "732",
+        "course_name": "Knowledge Assessment",
+        "units": "(1.0 unit)",
+        "description": "Residents attend the USC campus, with several intensive calibration/training/seminar sessions provided by faculty.",
+        "sections": [
+            {
+                "section": "24575D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 12",
+                "instructor": "Parish Sedghizadeh,Anette Vistoso Monreal,Glenn Clark",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

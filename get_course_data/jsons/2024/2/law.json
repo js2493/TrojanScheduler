@@ -1,0 +1,387 @@
+[
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "498",
+        "course_name": "Law Internship",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Intensive experience with a law-related non-profit organization, or public agency.",
+        "sections": [
+            {
+                "section": "02652D",
+                "session": "170",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Jeff Rodgers",
+                "location": "OFFICE"
+            },
+            {
+                "section": "02653D",
+                "session": "204",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Jeff Rodgers",
+                "location": "OFFICE"
+            },
+            {
+                "section": "02654D",
+                "session": "283",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "Jeff Rodgers",
+                "location": "OFFICE"
+            },
+            {
+                "section": "02655D",
+                "session": "281",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "Jeff Rodgers",
+                "location": "OFFICE"
+            },
+            {
+                "section": "02656D",
+                "session": "303",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 2",
+                "instructor": "Jeff Rodgers",
+                "location": "OFFICE"
+            },
+            {
+                "section": "02657D",
+                "session": "307",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 3",
+                "instructor": "Jeff Rodgers",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "567",
+        "course_name": "Introduction to Litigation in U.S. Courts",
+        "units": "(2.0 units)",
+        "description": "Provides an overview of the United States legal system for those unfamiliar with common law courts, including the mechanics of the U.S. Court system in both criminal and civil courts, as well as more detailed analysis of torts and intellectual property disputes.",
+        "sections": [
+            {
+                "section": "04401D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": 1160,
+                "end_time": 1285,
+                "days": 4,
+                "registered": "4 of 4",
+                "instructor": "Marissa Roy",
+                "location": "LAW103"
+            },
+            {
+                "section": "04405D",
+                "session": "275",
+                "type": "Lecture",
+                "start_time": 1160,
+                "end_time": 1285,
+                "days": 4,
+                "registered": "5 of 5",
+                "instructor": "Marissa Roy",
+                "location": "LAW103"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "572",
+        "course_name": "Practical Mediation Skills Clinic",
+        "units": "(1.0-5.0 units, max 6)",
+        "description": "Students learn basic and advanced mediation skills, practice their skills in simulated mediations, and upon certification by the instructor, mediate in the Los Angeles County courts.",
+        "sections": [
+            {
+                "section": "04004D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "4 of 4",
+                "instructor": "Michael Karagozian",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "574",
+        "course_name": "Health Care Compliance",
+        "units": "(2.0-3.0 units)",
+        "description": "Provides background on about the importance of compliance for health care organizations and legal challenges facing the health care industry.",
+        "sections": [
+            {
+                "section": "04402D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1150,
+                "days": 4,
+                "registered": "4 of 4",
+                "instructor": "David Figueroa",
+                "location": "LAW101"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "03915D",
+                "session": "503",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 8",
+                "instructor": "Deborah Weiss",
+                "location": "OFFICE"
+            },
+            {
+                "section": "04005D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Sarah Gruzas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "613",
+        "course_name": "Corporate Governance",
+        "units": "(2.0 units)",
+        "description": "Examines the purpose, evolution and history of corporate governance standards, priorities and culture of boards, shareholder/stakeholder engagement, and corporate social responsibility, as it relates to law.",
+        "sections": [
+            {
+                "section": "04403D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": 1155,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Barry Kaye",
+                "location": "LAW103"
+            },
+            {
+                "section": "04407D",
+                "session": "275",
+                "type": "Lecture",
+                "start_time": 1155,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "4 of 4",
+                "instructor": "Barry Kaye",
+                "location": "LAW103"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "676",
+        "course_name": "Dealmaking",
+        "units": "(2.0 units)",
+        "description": "Covers the nuts and bolts of negotiating a deal with investors, and emphasizes legal concepts used in drafting key business agreements.",
+        "sections": [
+            {
+                "section": "04404D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1145,
+                "days": 8,
+                "registered": "11 of 11",
+                "instructor": "Arthur Yoon",
+                "location": "LAW101"
+            },
+            {
+                "section": "04408D",
+                "session": "275",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1145,
+                "days": 8,
+                "registered": "4 of 4",
+                "instructor": "Arthur Yoon",
+                "location": "LAW101"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "781",
+        "course_name": "Externship I",
+        "units": "(2.0-12.0 units)",
+        "description": "An externship allows a student to gain hands-on legal experience in legal settings. Students will be assigned to a legal services program, government agency, or state or federal judge under faculty supervision. All externships include a classroom component.",
+        "sections": [
+            {
+                "section": "03650D",
+                "session": "503",
+                "type": "Lecture",
+                "start_time": 1040,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "45 of 47",
+                "instructor": "Sheri Kanesaka,Kenneth Spencer,Susan Stengel",
+                "location": "LAW130"
+            },
+            {
+                "section": "03651D",
+                "session": "503",
+                "type": "Lecture",
+                "start_time": 1040,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "1 of 5",
+                "instructor": "Sheri Kanesaka,Kenneth Spencer,Susan Stengel",
+                "location": "LAW130"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "782",
+        "course_name": "Externship II",
+        "units": "(2.0-12.0 units)",
+        "description": "Advanced externship. All externships include a classroom component.",
+        "sections": [
+            {
+                "section": "03656D",
+                "session": "503",
+                "type": "Lecture",
+                "start_time": 1040,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "0 of 5",
+                "instructor": "Sheri Kanesaka,Kenneth Spencer,Susan Stengel",
+                "location": "LAW130"
+            },
+            {
+                "section": "03657D",
+                "session": "503",
+                "type": "Lecture",
+                "start_time": 1040,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "1 of 5",
+                "instructor": "Sheri Kanesaka,Kenneth Spencer,Susan Stengel",
+                "location": "LAW130"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "890",
+        "course_name": "Directed Research",
+        "units": "(1.0-4.0 units)",
+        "description": "One CR/D/F unit for a research proposal approved by a full- or part-time faculty supervisor; up to four graded units with academic deans approval of proposal by LLM or third-year JD student to produce a publishable paper under full-time professor.",
+        "sections": [
+            {
+                "section": "03900D",
+                "session": "331",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Anitha Cadambi",
+                "location": "OFFICE"
+            },
+            {
+                "section": "03901D",
+                "session": "331",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Anitha Cadambi",
+                "location": "OFFICE"
+            },
+            {
+                "section": "03902D",
+                "session": "331",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Ben Meiselas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "04000D",
+                "session": "529",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Timothy Chung",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "LAW",
+        "course_number": "898",
+        "course_name": "Evidence for Administrative Agency Practice",
+        "units": "(1.0 unit)",
+        "description": "The constitutional, statutory and regulatory evidentiary concepts that govern the California parole process and the strategic application of those concepts during administrative hearings on behalf of clients.",
+        "sections": [
+            {
+                "section": "03910D",
+                "session": "503",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Heidi Rummel",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "term": "20242",
+        "department": "POSC",
+        "course_number": "265",
+        "course_name": "Environmental Challenges",
+        "units": "(4.0 units)",
+        "description": "Examination of the challenges of environmental problem-solving at the personal, local, national and global scales, focused on the issue of climate change.",
+        "sections": [
+            {
+                "section": "51900R",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 10,
+                "registered": "28 of 31",
+                "instructor": "Jefferey Sellers",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51901R",
+                "session": "076",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "28 of 31",
+                "instructor": "Jefferey Sellers,Lisa Basil",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "POSC",
+        "course_number": "321",
+        "course_name": "Urban Political Problems",
+        "units": "(4.0 units)",
+        "description": "Social problems and governmental policy in the urban environment, emphasizing such problem areas as education, environment, race, police and the system of criminal justice, and poverty.",
+        "sections": [
+            {
+                "section": "51910R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 10,
+                "registered": "14 of 30",
+                "instructor": "Jefferey Sellers",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "POSC",
+        "course_number": "395",
+        "course_name": "Directed Governmental and Political Leadership Internship",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Intensive experience in governmental and political offices. Minimum time requirement; evaluation by office and intern report required.",
+        "sections": [
+            {
+                "section": "51930D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 25",
+                "instructor": "Iva Bozovic",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51935D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 25",
+                "instructor": "Iva Bozovic",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "POSC",
+        "course_number": "469",
+        "course_name": "Critical Issues in Comparative Politics",
+        "units": "(4.0 units, max 12)",
+        "description": "Intensive examination of critical issues of particular interest in the field of comparative politics.",
+        "sections": [
+            {
+                "section": "52155R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 14,
+                "registered": "6 of 19",
+                "instructor": "Brian Palmer-Rubin",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

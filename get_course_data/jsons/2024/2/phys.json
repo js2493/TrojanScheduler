@@ -1,0 +1,610 @@
+[
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "135A",
+        "course_name": "Physics for the Life Sciences",
+        "units": "(4.0 units)",
+        "description": "Fundamental laws and principles of physics emphasizing areasrelated to life sciences. Prerequisite for Biological Sciences,Medicine, Dentistry, Pharmacy. Lecture, 4 hrs.; Lab, 3 hrs.",
+        "sections": [
+            {
+                "section": "50310R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "31 of 93",
+                "instructor": "Aaron Wirthwein",
+                "location": "SLH200"
+            },
+            {
+                "section": "50312R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 20,
+                "registered": "8 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50314D",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50315D",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50316R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50311R",
+                "session": "050",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 96",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "135B",
+        "course_name": "Physics for the Life Sciences",
+        "units": "(4.0 units)",
+        "description": "Fundamental laws and principles of physics emphasizing areas related to life sciences. Prerequisite for Biological Sciences, Medicine, Dentistry, and Pharmacy. Lecture, 4 hrs.; Lab, 3 hrs. (Duplicates credit in 105abLg and 125L).",
+        "sections": [
+            {
+                "section": "50320R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "28 of 80",
+                "instructor": "Lara Martini",
+                "location": "SLH200"
+            },
+            {
+                "section": "50323R",
+                "session": "051",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "17 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50325D",
+                "session": "051",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50424D",
+                "session": "051",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50321R",
+                "session": "051",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 80",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "50322R",
+                "session": "051",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 20,
+                "registered": "11 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "142",
+        "course_name": "Special Laboratory II",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for PHYS 152L for transfer students with equivalent lecture credit from another institution. For transfer students immediately after matriculation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50478D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "151",
+        "course_name": "Fundamentals of Physics I: Mechanics and Thermodynamics",
+        "units": "(4.0 units)",
+        "description": "Gateway to the majors and minors in Physics and Astronomy. Statics and dynamics of particles and rigid bodies, conservation principles, gravitation, simple harmonic oscillators, thermodynamics, heat engines, entropy.",
+        "sections": [
+            {
+                "section": "50330R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "17 of 32",
+                "instructor": "Christopher Gould",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50332R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "17 of 32",
+                "instructor": "Gokhan Esirgen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50331R",
+                "session": "070",
+                "type": "Quiz",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "17 of 32",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "152",
+        "course_name": "Fundamentals of Physics II: Electricity and Magnetism",
+        "units": "(4.0 units)",
+        "description": "Electrostatics, magnetostatics, electrical circuits, wave motion, sound waves, electromagnetic waves.",
+        "sections": [
+            {
+                "section": "50340R",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 30,
+                "registered": "26 of 48",
+                "instructor": "Scott Macdonald",
+                "location": "SSC319 & ONLINE"
+            },
+            {
+                "section": "50342R",
+                "session": "076",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 20,
+                "registered": "26 of 48",
+                "instructor": "Gokhan Esirgen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50341R",
+                "session": "076",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "26 of 48",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Prerequisite: consent of instructor.",
+        "sections": [
+            {
+                "section": "50360D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "495",
+        "course_name": "Senior Project",
+        "units": "(2.0 units)",
+        "description": "An original project will be constructed applying computer technology (in either hardware or software) to produce a result useful in the physics classroom or laboratory.",
+        "sections": [
+            {
+                "section": "50526D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50374D",
+                "session": "059",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "50 of 50",
+                "instructor": "Stephan Haas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "50382D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "50392D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50393D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "50398D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50399D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "50679D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Stephan Haas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "750O",
+        "course_name": "Off Campus Studies",
+        "units": "(3.0 units, max 9)",
+        "description": "Coursework taken on campus at Caltech as part of the Caltech-USC cross-registration program. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "07975D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Stephan Haas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50414D",
+                "session": "059",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 24",
+                "instructor": "Stephan Haas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50422D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 16",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50431D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50674D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50675D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50446D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50447D",
+                "session": "051",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "50452D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "50453D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

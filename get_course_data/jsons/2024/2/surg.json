@@ -1,0 +1,170 @@
+[
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "701A",
+        "course_name": "Seminar: Advanced Oral Surgery",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Problems in advanced oral surgery and hospital oral surgery including student presentations and critique of clinical cases.",
+        "sections": [
+            {
+                "section": "24512D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 5",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "701B",
+        "course_name": "Seminar: Advanced Oral Surgery",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Problems in advanced oral surgery and hospital oral surgery including student presentations and critique of clinical cases.",
+        "sections": [
+            {
+                "section": "24500D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "702A",
+        "course_name": "Seminar: Review of the Oral Surgery Literature",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Critical analysis of recent oral surgery and other related literature.",
+        "sections": [
+            {
+                "section": "24513D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 6",
+                "instructor": "Nam Cho,Bach Le",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "702B",
+        "course_name": "Seminar: Review of the Oral Surgery Literature",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Critical analysis of recent oral surgery and other related literature.",
+        "sections": [
+            {
+                "section": "24501D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Nam Cho,Bach Le",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "761A",
+        "course_name": "Clinic: Advanced Oral Surgery",
+        "units": "(1.0-10.0 units)",
+        "description": "Clinical evaluation and surgical treatment of dento-alveolar disease in out-patient clinic.",
+        "sections": [
+            {
+                "section": "24514D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 6",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "761D",
+        "course_name": "Clinic: Advanced Oral Surgery",
+        "units": "(1.0-10.0 units)",
+        "description": "Clinical evaluation and surgical treatment of dento-alveolar disease in out-patient clinic.",
+        "sections": [
+            {
+                "section": "24502D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "763A",
+        "course_name": "Clinic: Advanced Hospital Oral Surgery and Anesthesia",
+        "units": "(1.0-10.0 units)",
+        "description": "Surgical treatment of patients and service in medical anesthesia at the LAC/USC Medical Center.",
+        "sections": [
+            {
+                "section": "24515D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 6",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SURG",
+        "course_number": "763D",
+        "course_name": "Clinic: Advanced Hospital Oral Surgery and anesthesia",
+        "units": "(1.0-10.0 units)",
+        "description": "Surgical treatment of patients and service in medical anesthesia at the LAC/USC Medical Center.",
+        "sections": [
+            {
+                "section": "24503D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

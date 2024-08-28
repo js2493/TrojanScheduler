@@ -1,0 +1,235 @@
+[
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "510",
+        "course_name": "Business Analytics",
+        "units": "(1.5-3.0 units)",
+        "description": "Foundational knowledge for business analytics, including strategies, methods, and tools integrated with hands-on skills for defining business analytics for data-driven decision making and innovation.",
+        "sections": [
+            {
+                "section": "16303D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "77 of 80",
+                "instructor": "Richard Selby",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "16304R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1260,
+                "days": 2,
+                "registered": "16 of 54",
+                "instructor": "Keith Robinson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "520",
+        "course_name": "Logistics Management",
+        "units": "(3.0 units)",
+        "description": "Gives students a managerial knowledge of basic logistics concepts and principles. Some topics include management of logistics cost integration, transportation, distribution, and customer service.",
+        "sections": [
+            {
+                "section": "16221D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "58 of 59 (1 on waitlist)",
+                "instructor": "Tathagata Dasgupta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "547",
+        "course_name": "Spreadsheet Modeling for Business Insights",
+        "units": "(3.0 units)",
+        "description": "Application of decision analysis, simulation and optimization techniques to managerial problems. Learn how to create and present useful spreadsheet models to analyze practical business models.",
+        "sections": [
+            {
+                "section": "16222R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "30 of 54",
+                "instructor": "Hiroshi Ochiumi",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "548",
+        "course_name": "Emerging Technologies in Supply Chain Management",
+        "units": "(3.0 units)",
+        "description": "Insights into the emerging technologies of artificial intelligence, machine learning, Blockchain and the theoretical difficulties and implementation challenges of these technologies.",
+        "sections": [
+            {
+                "section": "16297R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 64,
+                "registered": "50 of 60",
+                "instructor": "Arif Ansari,Bhaskar Krishnamachari",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "580",
+        "course_name": "Project Management",
+        "units": "(3.0 units)",
+        "description": "Applications of systems theory and concepts, matrix organizational structures, PERT/CPM project modeling, and management information systems to the management of complex and critical projects.",
+        "sections": [
+            {
+                "section": "16281R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "31 of 50",
+                "instructor": "Vitaly Glozman",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16283D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 8,
+                "registered": "41 of 45",
+                "instructor": "Vitaly Glozman",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "585",
+        "course_name": "Data-Driven Consulting",
+        "units": "(1.5 units)",
+        "description": "Hands-on application of descriptive, predictive and prescriptive analytics to a unique business problem. Use business intelligence, programming and available tools to implement analytics-based solutions.",
+        "sections": [
+            {
+                "section": "16284R",
+                "session": "291",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "19 of 35",
+                "instructor": "Austin Pollok",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "593",
+        "course_name": "Independent Research in Data Sciences or Operations",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16290D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Austin Pollok",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "595",
+        "course_name": "Internship in Data Sciences or Operations",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest (Curricular Practical Training). Recommended preparation: completion of required MBA, MSGSCM, or MSBA courses.",
+        "sections": [
+            {
+                "section": "16292D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "64 of 65",
+                "instructor": "Nick Vyas,Dawn Porter,Gourab Mukherjee",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16398D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "130 of 150",
+                "instructor": "Nick Vyas,Dawn Porter",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DSO",
+        "course_number": "597",
+        "course_name": "Consulting Project in Data Sciences or Operations",
+        "units": "(0.5-5.0 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Open only to graduate business students.",
+        "sections": [
+            {
+                "section": "16286D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 3",
+                "instructor": "Nick Vyas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16287D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Nick Vyas",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,720 @@
+[
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "270",
+        "course_name": "Introduction to the Music Industry",
+        "units": "(4.0 units)",
+        "description": "A survey of the music business with emphasis on distribution of recorded music, music publishing, performance rights societies, record companies, agents, personal managers and contracts. Open to music majors (B.M. and B.S. degrees) only.",
+        "sections": [
+            {
+                "section": "44205D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "49 of 60",
+                "instructor": "Michael Garcia",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "272",
+        "course_name": "Basics of the Music Industry",
+        "units": "(4.0 units)",
+        "description": "Introductory survey of the music business. Topics include: copyright, record companies, contracts, music publishing, performance rights societies, managers, agents, and other artist team/income considerations. Not for major credit for Music Industry Majors. (Duplicates credit in former MUIN 372ax.)",
+        "sections": [
+            {
+                "section": "44209R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "48 of 60",
+                "instructor": "Robert Borg",
+                "location": "KDC240"
+            },
+            {
+                "section": "44210R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 40",
+                "instructor": "Andrae Alexander",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "280",
+        "course_name": "Communications in the Music Industry",
+        "units": "(4.0 units)",
+        "description": "A comprehensive course on communications specific to the music industry with a focus on press and publicity for artists.",
+        "sections": [
+            {
+                "section": "44213D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "14 of 30",
+                "instructor": "Loren Medina",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "360",
+        "course_name": "Introduction to Music Law",
+        "units": "(4.0 units)",
+        "description": "A study of entertainment law with a focus on the music industry.Areas of study include contracts, domestic practices,international practices, copyright protection, trademarks. Prerequisites: MUIN 270.",
+        "sections": [
+            {
+                "section": "44240D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "21 of 30",
+                "instructor": "Jane Davidson",
+                "location": "KDC241"
+            },
+            {
+                "section": "44241D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "30 of 30 (2 on waitlist)",
+                "instructor": "Jane Davidson",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "370",
+        "course_name": "Music Publishing and Licensing",
+        "units": "(2.0 units)",
+        "description": "A contemporary survey of the methods used to monetize music through licensing/media placement, covering music publishing, songwriter agreements, performance rights and licenses for traditional/new media. Prerequisites: MUIN 270 or MUIN 272x.",
+        "sections": [
+            {
+                "section": "44244D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "50 of 50 (1 on waitlist)",
+                "instructor": "Joseph Poindexter",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "372",
+        "course_name": "Business and Legal Aspects of the Music Industry",
+        "units": "(4.0 units)",
+        "description": "An intermediate/advanced-level survey of music copyright law, artist contract analysis, infringement case studies as they affect modern/emerging business models and global music licensing.",
+        "sections": [
+            {
+                "section": "44247D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "14 of 60 (1 on waitlist)",
+                "instructor": "Andrew Leff",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "410",
+        "course_name": "Marketing, Branding and Strategic Alliances in Music",
+        "units": "(2.0 units)",
+        "description": "An in-depth study of music marketing, non-traditional revenue streams for artists, musicians, and labels including artist endorsements, artist tour sponsorships, digital music programs, music licensing, merchandise, and a primary focus on brand partnership deals in the music space. Prerequisites: MUIN 270 or MUIN 272x.",
+        "sections": [
+            {
+                "section": "44256D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "39 of 40 (14 on waitlist)",
+                "instructor": "Kevin Lyman",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "420",
+        "course_name": "DIY Music Marketing",
+        "units": "(2.0 units)",
+        "description": "An exploration of the most current and effective marketing strategies and online branding tools for promoting, monetizing, and sustaining the career of the independent creative artist. Prerequisites: MUIN 270 or MUIN 272x.",
+        "sections": [
+            {
+                "section": "44260D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "33 of 35",
+                "instructor": "Robert Borg",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "425",
+        "course_name": "Live Music Production and Promotion",
+        "units": "(4.0 units)",
+        "description": "A survey of the presentation of the live musical experience. Both classical and popular concert presentation will be examined including venue selection, promotion and security.",
+        "sections": [
+            {
+                "section": "44264D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 60",
+                "instructor": "Michael Garcia,Michael Kaminsky",
+                "location": "CTV136A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "444",
+        "course_name": "Music Supervision",
+        "units": "(4.0 units)",
+        "description": "An advanced focus on the music supervisors role, working with directors, producers, licensing representatives and executives to select, budget and clear songs for broadcast/new media.",
+        "sections": [
+            {
+                "section": "44282D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "34 of 36",
+                "instructor": "Alex Nickson",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "450",
+        "course_name": "Practicum in Music Industry Issues (Internship)",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Field application of music industry theories and practices; part-time employment. Project jointly defined by student, employer and professor.",
+        "sections": [
+            {
+                "section": "44289D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "16 of 60",
+                "instructor": "Robert Borg",
+                "location": "ONLINE"
+            },
+            {
+                "section": "44290D",
+                "session": "213",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 64,
+                "registered": "0 of 60",
+                "instructor": "Robert Borg",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "460",
+        "course_name": "Streaming Economy in the Music Industry",
+        "units": "(2.0 units)",
+        "description": "Focus on identifying the economic impact current music streaming models have on artists, record labels, publishing and consumers.",
+        "sections": [
+            {
+                "section": "44291D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "19 of 30",
+                "instructor": "Andrew Leff",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "461",
+        "course_name": "Music Festival Design and Management",
+        "units": "(2.0 units)",
+        "description": "Focus on planning, booking, marketing, promoting, ticketing and operating a festival in an ever-changing marketplace.",
+        "sections": [
+            {
+                "section": "44292D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "33 of 40",
+                "instructor": "Kevin Lyman",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "462",
+        "course_name": "Technology, Big Data and Marketing in the Music Industry",
+        "units": "(2.0 units)",
+        "description": "Analyzing technologys relationship to the music industry. Use of data and analytics to develop successful strategies for new and existing artists.",
+        "sections": [
+            {
+                "section": "44293D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1200,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "20 of 20 (2 on waitlist)",
+                "instructor": "Michael Kaminsky",
+                "location": "TMC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "44306D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Michael Garcia",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "496",
+        "course_name": "Music Media Solutions",
+        "units": "(4.0 units)",
+        "description": "Group study of one current music media issue, focusing on possible solutions with practical applications. Stress on leadership, critical thinking, and professional practices. By application only. Open to juniors and seniors only.",
+        "sections": [
+            {
+                "section": "44314D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "8 of 12",
+                "instructor": "Kevin Lyman",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "497",
+        "course_name": "Current Topics, Case Studies, and Analysis",
+        "units": "(2.0 units, max 6)",
+        "description": "Exploration of emerging topics and trends in business and technology in the music and entertainment industries. Prerequisites; MUIN 270 or MUIN 272x.",
+        "sections": [
+            {
+                "section": "44316D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "21 of 22",
+                "instructor": "Andrew Leff",
+                "location": "TMC112"
+            },
+            {
+                "section": "44318D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "0 of 24",
+                "instructor": "Andrae Alexander",
+                "location": "TMC112"
+            },
+            {
+                "section": "44319D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "19 of 24",
+                "instructor": "Sophie Reeves",
+                "location": "KDC241"
+            },
+            {
+                "section": "44320D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "24 of 24 (4 on waitlist)",
+                "instructor": "Brian Malouf",
+                "location": "KDC241"
+            },
+            {
+                "section": "44321D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "14 of 20",
+                "instructor": "Andrew Leff",
+                "location": "TMC112"
+            },
+            {
+                "section": "44322D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "14 of 20",
+                "instructor": "Andrae Alexander",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "498A",
+        "course_name": "Final Capstone Project",
+        "units": "(1.0 unit)",
+        "description": "Culmination of the four-year course of study. Affords students the opportunity to experience guided work to meet the professional demands of the industry.",
+        "sections": [
+            {
+                "section": "44324D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "43 of 75",
+                "instructor": "Michael Garcia",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "498B",
+        "course_name": "Final Capstone Project",
+        "units": "(1.0 unit)",
+        "description": "Culmination of the four-year course of study. Affords students the opportunity to experience guided workto meet the professional demands of the industry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44327D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Michael Garcia",
+                "location": "TMC118 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "510",
+        "course_name": "The Music Industry: Careers, Rights and Income Streams",
+        "units": "(4.0 units)",
+        "description": "History, procedures, economics and evolving technologies involved with careers, rights and income connected with artists, songwriters, producers, labels, music publishing, performance rights and visual media.",
+        "sections": [
+            {
+                "section": "44336D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "21 of 24",
+                "instructor": "Andrae Alexander",
+                "location": "TMC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "512",
+        "course_name": "The Management of Live Performances",
+        "units": "(2.0 units)",
+        "description": "Focus on the Artist, Promoter and Venue, and the roles they play in the Live Performance space, applying theory, technology, and practice.",
+        "sections": [
+            {
+                "section": "44342D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "23 of 24",
+                "instructor": "Michael Garcia",
+                "location": "TMC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "515",
+        "course_name": "Live Touring Strategy",
+        "units": "(2.0 units)",
+        "description": "Part of an emphasis track that focuses on advanced live touring strategies, methods and practices. Projects will apply theory and practice in a directed team oriented approach.",
+        "sections": [
+            {
+                "section": "44346D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "15 of 24",
+                "instructor": "Kevin Lyman",
+                "location": "TMC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "522",
+        "course_name": "Music Marketing, Branding and Campaigns",
+        "units": "(3.0 units)",
+        "description": "An overview of music specific concepts and opportunities spanning various roles, tools, forms of music consumption, and campaign stages as it pertains to music marketing.",
+        "sections": [
+            {
+                "section": "44356D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "22 of 24",
+                "instructor": "Kevin Lyman",
+                "location": "TMC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "530",
+        "course_name": "Mentorship",
+        "units": "(1.0 unit)",
+        "description": "A semester bridge for students working on job preparation, career skills, and continued efforts before launching their final campaign projects and graduation portfolio.",
+        "sections": [
+            {
+                "section": "44370D",
+                "session": "177",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "23 of 24",
+                "instructor": "Michael Garcia",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "540",
+        "course_name": "Artist Management: Campaign Execution and Hindsight Analysis",
+        "units": "(2.0 units)",
+        "description": "Lecture and experiential learning focused on the role of an artists personal manager including executing various release campaigns and hindsight assessment to inform future endeavors.",
+        "sections": [
+            {
+                "section": "44374D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "21 of 24",
+                "instructor": "Robert Borg",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "541",
+        "course_name": "Data Analytics: Music Marketing Decisions and Presentations",
+        "units": "(2.0 units)",
+        "description": "The when, why and how data analysis tools are used to assist music professionals and better support marketing decisions, beyond the realm of intuition and aesthetic appeal.",
+        "sections": [
+            {
+                "section": "44377D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "21 of 24",
+                "instructor": "Joseph Poindexter",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "542",
+        "course_name": "Developing Copyright Laws and Business Models",
+        "units": "(3.0 units)",
+        "description": "Study of advanced copyright law, conflicts and entrepreneurial opportunities to gain insight into what is evolving for the globalized digital music industry.",
+        "sections": [
+            {
+                "section": "44380D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "21 of 24",
+                "instructor": "Andrew Leff",
+                "location": "TMC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44386D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Michael Garcia",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "598",
+        "course_name": "Internship",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "Students gain insight, experience and networking opportunities within the industry areas they wish to consider as a career.",
+        "sections": [
+            {
+                "section": "44390D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 24",
+                "instructor": "Robert Borg",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUIN",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determinedd by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44397D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Michael Garcia",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

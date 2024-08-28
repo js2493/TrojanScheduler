@@ -1,0 +1,170 @@
+[
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "500",
+        "course_name": "Global Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "History, theories, trends and impacts relevant to global hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70300D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "15 of 30",
+                "instructor": "Diana Beltran",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "505",
+        "course_name": "Managing Service Quality in Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Strategic management of service quality in hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70308D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "13 of 30",
+                "instructor": "John Bowen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "520",
+        "course_name": "Revenue Management for Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Key principles and best practices in revenue management and pricing for hospitality and tourism organizations.",
+        "sections": [
+            {
+                "section": "70332D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Hicham Jaddoud",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "525",
+        "course_name": "Ethics in Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Ethical theories applied to common and strategic situations in hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70340D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "14 of 30",
+                "instructor": "Leonard Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "530",
+        "course_name": "Strategic Human Resources in Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Broad range of human resource concepts and strategies relevant to hospitality and tourism organizations.",
+        "sections": [
+            {
+                "section": "70348D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "7 of 30",
+                "instructor": "Andrea Daniels",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "535",
+        "course_name": "Applied Research Methods for Hospitality and Tourism",
+        "units": "(2.0 units)",
+        "description": "Applied research methods relevant to evidence-based decision-making in hospitality and tourism.",
+        "sections": [
+            {
+                "section": "70356D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "7 of 30",
+                "instructor": "Andria Godfrey",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "550",
+        "course_name": "Hospitality and Tourism Events",
+        "units": "(2.0 units)",
+        "description": "Analysis, planning and evaluation of meetings and events in hospitality and tourism settings.",
+        "sections": [
+            {
+                "section": "70380D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "4 of 30",
+                "instructor": "Michael Mathis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HT",
+        "course_num": "555",
+        "course_name": "Hospitality and Tourism Capstone",
+        "units": "(2.0 units)",
+        "description": "Students synthesize knowledge and skills gained throughout the program in a culminating capstone project.",
+        "sections": [
+            {
+                "section": "70388D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "3 of 30",
+                "instructor": "Anna Abelson",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

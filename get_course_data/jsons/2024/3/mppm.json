@@ -1,0 +1,617 @@
+[
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "100",
+        "course_name": "Forum",
+        "units": "(1.0 units, max 4)",
+        "description": "A weekly lecture series addressing a wide range of special topics and issues confronting the contemporary music professional.",
+        "sections": [
+            {
+                "section": "47300D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "120 of 140",
+                "instructor": "Jason King",
+                "location": "CTV136A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "120",
+        "course_name": "Popular Music Performance I",
+        "units": "(2.0 units, max 8)",
+        "description": "Study of musical elements appropriate to the performance of popular music in a collaborative, interactive environment.",
+        "sections": [
+            {
+                "section": "47320D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "30 of 30",
+                "instructor": "Andy Abad,Patrice Rushen",
+                "location": "CTV136A"
+            },
+            {
+                "section": "47321D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "7 of 1",
+                "instructor": "Sean Holt,Paul Jackson Jr.",
+                "location": "CTV136A"
+            },
+            {
+                "section": "47323R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Timothy Kobza",
+                "location": "MUS101"
+            },
+            {
+                "section": "47324R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "17 of 20",
+                "instructor": "Andy Abad",
+                "location": "MUS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "153",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction.",
+        "sections": [
+            {
+                "section": "47340D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 30",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "220",
+        "course_name": "Popular Music Performance II",
+        "units": "(2.0 units, max 8)",
+        "description": "Study of popular music repertoire from the 1970s to the present. Students will learn, rehearse and perform in a collaborative, interactive environment.",
+        "sections": [
+            {
+                "section": "47360D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Sean Holt",
+                "location": "CTV136A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "240",
+        "course_name": "Drumming Proficiency for the Popular Musician",
+        "units": "(2.0 units)",
+        "description": "Beginning and elementary instruction in drum set techniques.",
+        "sections": [
+            {
+                "section": "47370R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "8 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47371R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "8 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47372R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "7 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47373R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "7 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47374D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "8 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47375R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "8 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47376D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "4 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47377R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "8 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            },
+            {
+                "section": "47378D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "5 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "250",
+        "course_name": "Keyboard Proficiency for the Popular Musician",
+        "units": "(2.0 units)",
+        "description": "Development of practical keyboard skills, including reading and realizing chord symbols, basics of voice leading, study of various harmonic and rhythmic styles.",
+        "sections": [
+            {
+                "section": "47386D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "16 of 16",
+                "instructor": "Michael Arrom",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "253",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction.",
+        "sections": [
+            {
+                "section": "47395D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 30",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors.",
+        "sections": [
+            {
+                "section": "47420D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for all majors and minors except MPPM.",
+        "sections": [
+            {
+                "section": "47425D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 40",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "320",
+        "course_name": "Popular Music Performance III",
+        "units": "(2.0 units, max 8)",
+        "description": "Development of ensemble and communication skills through the performance and interpretation of American popular music in concert and studio settings. Development of original compositions.",
+        "sections": [
+            {
+                "section": "47440D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "23 of 32",
+                "instructor": "Patrice Rushen,Timothy Kobza,Paul Jackson Jr.",
+                "location": "CTV136A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "325A",
+        "course_name": "Arranging in Popular Music",
+        "units": "(2.0 units)",
+        "description": "Principles and techniques of arranging for voice and rhythm section in the popular music idiom.",
+        "sections": [
+            {
+                "section": "47450D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "32 of 32",
+                "instructor": "Douglas Petty",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "340",
+        "course_name": "Intermediate Drum Set Proficiency",
+        "units": "(2.0 units)",
+        "description": "Intermediate level instruction in drum set performance including accompaniment techniques,fills, beat and brush patterns in jazz, Afro-Caribbean and Brazilian styles, interpreting drum charts. Recommended preparation: MPPM 240",
+        "sections": [
+            {
+                "section": "47465D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "0 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "350",
+        "course_name": "A History of Popular Music",
+        "units": "(4.0 units)",
+        "description": "The history of popular music particularly as developed in America in the 20th and early 21st centuries.",
+        "sections": [
+            {
+                "section": "47475D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "30 of 40",
+                "instructor": "Nathaniel Sloan",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "353",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction in primary major instrument.",
+        "sections": [
+            {
+                "section": "47478D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "370",
+        "course_name": "The Vocal Edge: Contemporary Vocal Performance Techniques",
+        "units": "(2.0 units, max 4)",
+        "description": "A study of the practical aspects of vocal performance and skills necessary to increase one's opportunities within the music industry.",
+        "sections": [
+            {
+                "section": "47490D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "5 of 15",
+                "instructor": "Lyndia Johnson",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "420",
+        "course_name": "Popular Music Performance Styles and Genres",
+        "units": "(2.0 units, max 8)",
+        "description": "The detailed exploration of a specific style or genre in Popular Music through study of repertoire, history and practice with particular emphasis on performance. Recommended preparation: MPPM 120 and MPPM 320.",
+        "sections": [
+            {
+                "section": "47511D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1200,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "13 of 20",
+                "instructor": "Andy Abad",
+                "location": "MUS101"
+            },
+            {
+                "section": "47513D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Sean Holt",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "450A",
+        "course_name": "Final Project",
+        "units": "(1.0 unit)",
+        "description": "Major collaborative performance project in popular music.",
+        "sections": [
+            {
+                "section": "47525D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 30",
+                "instructor": "Douglas Petty",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "450B",
+        "course_name": "Final Project",
+        "units": "(1.0 unit)",
+        "description": "Major collaborative performance project in popular music. CR/NC.",
+        "sections": [
+            {
+                "section": "47528D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Douglas Petty",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "453",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Weekly individual instruction in primary major instrument.",
+        "sections": [
+            {
+                "section": "47531D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Open only to juniors and seniors. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "47540D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "47554D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which maybe applied to the degree to be determined by the department.Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47570D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPPM",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47595D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lyndia Johnson",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

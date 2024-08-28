@@ -1,0 +1,1409 @@
+[
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "501",
+        "course_name": "The Role of the Manager",
+        "units": "(3.0 units)",
+        "description": "Fundamental roles of a manager and skill sets necessary to performing these roles. Open only to online MBA students.",
+        "sections": [
+            {
+                "section": "15535D",
+                "session": "701",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 1020,
+                "days": 0,
+                "registered": "61 of 65",
+                "instructor": "Peter Cardon,Nandini Rajagopalan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15653D",
+                "session": "701",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 1020,
+                "days": 0,
+                "registered": "59 of 65",
+                "instructor": "Peter Cardon,Nandini Rajagopalan",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "504A",
+        "course_name": "Operations Management",
+        "units": "(1.5 units)",
+        "description": "Formulation, modeling, analysis, and optimization of business decision problems; survey of concepts and techniques necessary to manage the operations function of a firm. Duplicates credit in GSBA-534 and the former GSBA-504.",
+        "sections": [
+            {
+                "section": "15652D",
+                "session": "277",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "24 of 54",
+                "instructor": "Feng Chen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "505",
+        "course_name": "Fundamentals of Business",
+        "units": "(10.0 units)",
+        "description": "Fundamentals of financial accounting, microeconomics, statistics, analytics and communication.",
+        "sections": [
+            {
+                "section": "15536D",
+                "session": "736",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 10,
+                "registered": "61 of 65",
+                "instructor": "Shane Heitzman,Matthew Hill,Richard Selby,Meg Carrington-Griffin Simons",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15788D",
+                "session": "736",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 10,
+                "registered": "59 of 65",
+                "instructor": "Shane Heitzman,Matthew Hill,Richard Selby,Meg Carrington-Griffin Simons",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "508",
+        "course_name": "Foundations of Business Success",
+        "units": "(2.0 units)",
+        "description": "Foundational knowledge and skills needed to achieve long-term career success and satisfaction.",
+        "sections": [
+            {
+                "section": "15555D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "62 of 225",
+                "instructor": "Christian Busch",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15557D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "47 of 50",
+                "instructor": "Scott Abrams,Arianna Uhalde",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15558D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "37 of 50",
+                "instructor": "Marina Mesin Zagar",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15559D",
+                "session": "744",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "63 of 67",
+                "instructor": "Gordon Ho,Dan Wadhwani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "509",
+        "course_name": "Marketing Management",
+        "units": "(1.5 units)",
+        "description": "Development of analytical, strategic, and planning skills. Application within an integrated strategic framework to the development of a comprehensive marketing plan for a product, service, and/or organization. Duplicates credit in GSBA 528 and GSBA 546.",
+        "sections": [
+            {
+                "section": "15560D",
+                "session": "646",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "67 of 225",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15561D",
+                "session": "646",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "72 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15562D",
+                "session": "646",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "70 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "510",
+        "course_name": "Accounting Concepts and Financial Reporting",
+        "units": "(1.5-3.0 units)",
+        "description": "Information systems for public reporting and for management decision-making; theory of asset and income measurement; interpretation and uses of accounting data and financial statements; analysis of cases.",
+        "sections": [
+            {
+                "section": "15575D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "65 of 225",
+                "instructor": "Mark Soliman",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15576D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "72 of 72",
+                "instructor": "Mark Soliman",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15577D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "67 of 72",
+                "instructor": "Mark Soliman",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15583D",
+                "session": "630",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "61 of 75",
+                "instructor": "Taylor Wiesen",
+                "location": "JKP210"
+            },
+            {
+                "section": "15584D",
+                "session": "580",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 64,
+                "registered": "51 of 75",
+                "instructor": "Taylor Wiesen",
+                "location": "JKP210"
+            },
+            {
+                "section": "15597D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "53 of 77",
+                "instructor": "Tony Aaron",
+                "location": "JKP110"
+            },
+            {
+                "section": "15650D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "24 of 30",
+                "instructor": "James Leonetti",
+                "location": "ACC201"
+            },
+            {
+                "section": "15993D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "59 of 77",
+                "instructor": "Tony Aaron",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "511",
+        "course_name": "Microeconomics for Management",
+        "units": "(1.5-3.0 units)",
+        "description": "Microeconomic theory with business applications; consumer demand, production theory, cost theory and market theory; decision making within the firm under different market and regulatory environments.",
+        "sections": [
+            {
+                "section": "15587D",
+                "session": "751",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "65 of 225",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15588D",
+                "session": "751",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "70 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15589D",
+                "session": "751",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "69 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15595D",
+                "session": "631",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "61 of 75",
+                "instructor": "Rahsan Akbulut",
+                "location": "JKP210"
+            },
+            {
+                "section": "15596D",
+                "session": "581",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 64,
+                "registered": "51 of 75",
+                "instructor": "Rahsan Akbulut",
+                "location": "JKP210"
+            },
+            {
+                "section": "15598D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "37 of 76",
+                "instructor": "Anthony Marino",
+                "location": "JKP110"
+            },
+            {
+                "section": "15599D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "47 of 77",
+                "instructor": "Anthony Marino",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "519A",
+        "course_name": "Strategic Formulation for Competitive Advantage",
+        "units": "(1.5 units)",
+        "description": "Analyses of environments and competition, the basis of competitive strategy, strategy models, and the achievement of sustainable competitive advantage. Duplicates credit in GSBA 540 and GSBA 529.",
+        "sections": [
+            {
+                "section": "15707D",
+                "session": "813",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "61 of 75",
+                "instructor": "Carl Voigt",
+                "location": "JKP210"
+            },
+            {
+                "section": "16006D",
+                "session": "585",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 960,
+                "days": 64,
+                "registered": "51 of 75",
+                "instructor": "Arvind Ramakrishnan",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "523",
+        "course_name": "Communication for Management",
+        "units": "(2.0-3.0 units)",
+        "description": "Internal and external communication, research methods; reports for decision making; oral presentations and briefings; strategies to assure communication; field studies. Duplicates credit in GSBA-502, GSBA-542, and the former GSBA-502ab.",
+        "sections": [
+            {
+                "section": "15708D",
+                "session": "778",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "61 of 75",
+                "instructor": "Stephen Lind",
+                "location": "JKP210"
+            },
+            {
+                "section": "15803D",
+                "session": "582",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 960,
+                "days": 64,
+                "registered": "51 of 75",
+                "instructor": "Yijia Guo",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "524",
+        "course_name": "Data Science for Business",
+        "units": "(2.0-3.0 units)",
+        "description": "Principles of probability theory and classical statistics applied to business decision problems; survey analysis, estimation and prediction methods, evaluation, and control techniques. Duplicates credit in GSBA 506ab, GSBA 516, GSBA 545.",
+        "sections": [
+            {
+                "section": "15696D",
+                "session": "747",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "66 of 225",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15697D",
+                "session": "747",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "72 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15698D",
+                "session": "747",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "70 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "525",
+        "course_name": "Introduction to Management and Strategy",
+        "units": "(1.0 unit)",
+        "description": "Introduction to the concepts, tools, and first principles of strategy formulation and competitive analysis.",
+        "sections": [
+            {
+                "section": "15703D",
+                "session": "864",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "112 of 125",
+                "instructor": "Carl Voigt",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "528",
+        "course_name": "Marketing Management",
+        "units": "(3.0 units)",
+        "description": "Marketing is treated as a managerial decision-making process. Emphasis is given to understanding the concepts, tools, and techniques that comprise a comprehensive marketing strategy. Duplicates credit in GSBA 509, the former GSBA 509ab, and GSBA 546.",
+        "sections": [
+            {
+                "section": "15722D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "36 of 48",
+                "instructor": "Rex Kovacevich",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "532",
+        "course_name": "Leading People, Teams and Organizations",
+        "units": "(2.0 units)",
+        "description": "How to make sound decisions, build and leverage social capital, negotiate effectively and influence and motivate others without relying on formal authority. Duplicates credit in GSBA 507, GSBA 522ab, GSBA 533, and GSBA 543.",
+        "sections": [
+            {
+                "section": "15742D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "67 of 220",
+                "instructor": "Sarah Townsend",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15743D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "71 of 72",
+                "instructor": "Sarah Townsend",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15744D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "71 of 72",
+                "instructor": "Sarah Townsend",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "534",
+        "course_name": "Operations Management",
+        "units": "(2.0-3.0 units)",
+        "description": "Formulation, modeling, analysis, and optimization of business decision problems; survey of concepts and techniques necessary to manage the operations function of the firm. Recommended preparation: GSBA 506b or GSBA 524 or GSBA 516 and GSBA 545. (Duplicates credit in GSBA-504ab)",
+        "sections": [
+            {
+                "section": "15752D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "34 of 40",
+                "instructor": "Feng Chen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15753D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "54 of 54 (3 on waitlist)",
+                "instructor": "Alireza Kabirian",
+                "location": "JKP104"
+            },
+            {
+                "section": "15754D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "30 of 54",
+                "instructor": "Alireza Kabirian",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "537",
+        "course_name": "Managing Inside the Firm",
+        "units": "(9.5 units)",
+        "description": "Thematic exploration of managerial accounting, employment law, operations management and organizational behavior. Application of analytics and communication to optimize internal operations.",
+        "sections": [
+            {
+                "section": "15764D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 20,
+                "registered": "69 of 78",
+                "instructor": "Kerry Fields,Cecil Jackson,Charlie Hannigan,Arif Ansari",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "538",
+        "course_name": "Managing Outside the Firm",
+        "units": "(9.5 units)",
+        "description": "Thematic exploration of operations management, corporate finance, marketing, and microeconomics. Coordinating production processes, marketing strategies, and corporate financial plans in order to maximize growth.",
+        "sections": [
+            {
+                "section": "15769D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 20,
+                "registered": "54 of 57",
+                "instructor": "Marion Philadelphia,Chris Parsons,Hank Wasiak,Dina Mayzlin",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15770D",
+                "session": "711",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 20,
+                "registered": "53 of 57",
+                "instructor": "Marion Philadelphia,Chris Parsons,Hank Wasiak,Dina Mayzlin",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "540",
+        "course_name": "Contemporary Issues in Competitive Strategy",
+        "units": "(1.5 units)",
+        "description": "Introduces the role industry and competitive analysis serves in an organization. Topics covered include global competition, innovation, the use of standards, competence, and building organizational capabilities to sustain competitive advantage. Duplicates credit in GSBA 529.",
+        "sections": [
+            {
+                "section": "15789D",
+                "session": "819",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "67 of 225",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15790D",
+                "session": "819",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "71 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15791D",
+                "session": "819",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "70 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "541",
+        "course_name": "Foundations of Your Professional Value",
+        "units": "(0.5 units)",
+        "description": "Foundational knowledge to discover, identify and leverage the professional value each person brings to today's job market.",
+        "sections": [
+            {
+                "section": "15794D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "67 of 225",
+                "instructor": "Kirk Snyder",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15795D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "71 of 72",
+                "instructor": "Kirk Snyder",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15796D",
+                "session": "742",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "71 of 72",
+                "instructor": "Kirk Snyder",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "542",
+        "course_name": "Communication for Management",
+        "units": "(1.5 units)",
+        "description": "Internal and external communication, research methods, reports for decision-making, oral presentations and briefing, strategies to assure communication; field studies. Duplicates credit in GSBA 502, GSBA 523, GSBA-523T, and the former GSBA-502ab.",
+        "sections": [
+            {
+                "section": "15792D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 4,
+                "registered": "36 of 46",
+                "instructor": "Gregory Patton",
+                "location": "ACC303"
+            },
+            {
+                "section": "15793D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 16,
+                "registered": "38 of 46",
+                "instructor": "Gregory Patton",
+                "location": "ACC303"
+            },
+            {
+                "section": "15797D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "37 of 46",
+                "instructor": "Gregory Patton",
+                "location": "ACC303"
+            },
+            {
+                "section": "15798D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "34 of 46",
+                "instructor": "Gregory Patton",
+                "location": "ACC303"
+            },
+            {
+                "section": "15799D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "36 of 54",
+                "instructor": "Yijia Guo",
+                "location": "JFF236"
+            },
+            {
+                "section": "15800D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "54 of 54",
+                "instructor": "Yijia Guo",
+                "location": "JFF236"
+            },
+            {
+                "section": "15801D",
+                "session": "175",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1200,
+                "days": 32,
+                "registered": "33 of 40",
+                "instructor": "Yijia Guo",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15805D",
+                "session": "745",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "67 of 225",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15806D",
+                "session": "745",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "72 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15807D",
+                "session": "745",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "70 of 72",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15809D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 4,
+                "registered": "31 of 42",
+                "instructor": "Maria Colman",
+                "location": "BRI5"
+            },
+            {
+                "section": "15810D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 4,
+                "registered": "26 of 42",
+                "instructor": "Maria Colman",
+                "location": "BRI5"
+            },
+            {
+                "section": "15811D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 4,
+                "registered": "30 of 42",
+                "instructor": "Maria Colman",
+                "location": "BRI5"
+            },
+            {
+                "section": "15812D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "38 of 46",
+                "instructor": "Gregory Patton",
+                "location": "ACC303"
+            },
+            {
+                "section": "15813D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "32 of 46",
+                "instructor": "Gregory Patton",
+                "location": "ACC303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "543",
+        "course_name": "Managerial Perspectives",
+        "units": "(3.0 units)",
+        "description": "Managerial careers, development of critical executive and managerial abilities, and the dynamics of organizational environment and systems as they impact managerial progression and growth. Duplicates credit in GSBA 507, GSBA 522ab, GSBA 532, GSBA 533.",
+        "sections": [
+            {
+                "section": "15665D",
+                "session": "427",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "61 of 75",
+                "instructor": "Marco Aponte-Moreno",
+                "location": "JKP210"
+            },
+            {
+                "section": "15666D",
+                "session": "560",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 960,
+                "days": 64,
+                "registered": "51 of 75",
+                "instructor": "Marco Aponte-Moreno",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "544",
+        "course_name": "The Firm in the Global Economy",
+        "units": "(1.5 units)",
+        "description": "The economic environment of business and the forces influencing the firm. Duplicates credit in GSBA 549.",
+        "sections": [
+            {
+                "section": "15815D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "65 of 66",
+                "instructor": "Fatemeh Nazarian",
+                "location": "JKP212"
+            },
+            {
+                "section": "15817D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 64,
+                "registered": "49 of 60",
+                "instructor": "Fatemeh Nazarian",
+                "location": "JKP212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "545",
+        "course_name": "Data Driven Decision Making",
+        "units": "(1.5 units)",
+        "description": "Data analysis technologies for business decision making; principles and techniques of statistical inference for business problem solving; foundations of data-driven regression and time series analytics. Duplicates credit in GSBA 506ab and GSBA 524.",
+        "sections": [
+            {
+                "section": "15550D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 2,
+                "registered": "53 of 60",
+                "instructor": "Dawn Porter",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "15551D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 8,
+                "registered": "46 of 60",
+                "instructor": "Dawn Porter",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "15552D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 2,
+                "registered": "47 of 60",
+                "instructor": "Dawn Porter",
+                "location": "JKP212"
+            },
+            {
+                "section": "15554D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 8,
+                "registered": "44 of 60",
+                "instructor": "Dawn Porter",
+                "location": "JKP212"
+            },
+            {
+                "section": "15556D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 8,
+                "registered": "52 of 54",
+                "instructor": "Inga Maslova",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "548",
+        "course_name": "Corporate Finance",
+        "units": "(2.0-3.0 units)",
+        "description": "Modern theory of corporate investment and financing decisions. (Duplicates credit in GSBA 521a and GSBA 521b.)",
+        "sections": [
+            {
+                "section": "15832D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "65 of 225",
+                "instructor": "Scott Abrams,Giorgia Piacentino",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15833D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "72 of 72",
+                "instructor": "Scott Abrams,Giorgia Piacentino",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15834D",
+                "session": "743",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "69 of 72",
+                "instructor": "Scott Abrams,Giorgia Piacentino",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15843D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "44 of 70",
+                "instructor": "Suh-Pyng Ku",
+                "location": "JKP110"
+            },
+            {
+                "section": "15844D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "38 of 77",
+                "instructor": "Suh-Pyng Ku",
+                "location": "JKP110"
+            },
+            {
+                "section": "15994R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "72 of 74",
+                "instructor": "Steve Schurman",
+                "location": "HOHEDI"
+            },
+            {
+                "section": "15995D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "1 of 10",
+                "instructor": "Steve Schurman",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "595",
+        "course_name": "Internship in Business",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest. (Curricular Practical Training) Graduate business students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16098D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16100D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16101D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16102D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Scott Abrams",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "597",
+        "course_name": "Consulting Project in Business",
+        "units": "(1.0-0.5 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Open only to master and doctoral students.",
+        "sections": [
+            {
+                "section": "16089D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "602",
+        "course_name": "Selected Issues in Economic Theory I",
+        "units": "(3.0 units)",
+        "description": "Methodology and research perspectives of economics; contribution of the economics paradigm to accounting, management, finance, marketing, and decision sciences. Recommended preparation: Admission to doctoral program in business administration or departmental approval.",
+        "sections": [
+            {
+                "section": "16104R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "5 of 18",
+                "instructor": "Anthony Marino",
+                "location": "HOH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "604",
+        "course_name": "Regression and Generalized Linear Models for Business Applications",
+        "units": "(3.0 units)",
+        "description": "Theory and application of linear regression models; role of substantive theory in statistical model building; model specification, estimation, diagnostic checking; the general linear hypothesis.",
+        "sections": [
+            {
+                "section": "16107R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "2 of 15",
+                "instructor": "Gourab Mukherjee,Clive Lennox",
+                "location": "HOH506"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "699",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Selected topics reflecting current trends and recent developments in business research. Emphasis on cross-disciplinary inquiry.",
+        "sections": [
+            {
+                "section": "16109D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "4 of 15",
+                "instructor": "David Hirshleifer",
+                "location": "ACC312"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16125D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16126D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "16130R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "16131R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "16132R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "16133R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSBA",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "16134D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "term": "20242",
+        "department": "ACAD",
+        "course_number": "419",
+        "course_name": "Professional Internship",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "An experiential/academic opportunity in an arts, technology and business related facility. Written analysis, evaluation, and working internship.",
+        "sections": [
+            {
+                "section": "10276D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Patrick Dent",
+                "location": "OFFICE"
+            },
+            {
+                "section": "10277D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Patrick Dent",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "term": "20242",
+        "department": "ARCG",
+        "course_number": "482",
+        "course_name": "Field Research in Maya Archaeology",
+        "units": "(4.0 units)",
+        "description": "Hands on research experience at a Maya ruin, including archaeological survey and excavation in the jungle.",
+        "sections": [
+            {
+                "section": "10617R",
+                "session": "349",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 11",
+                "instructor": "Eric Heller",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ARCG",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "59997D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "OFFICE"
+            },
+            {
+                "section": "59998D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "OFFICE"
+            },
+            {
+                "section": "59999D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

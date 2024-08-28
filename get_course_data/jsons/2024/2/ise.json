@@ -1,0 +1,622 @@
+[
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "515",
+        "course_name": "Engineering Project Management",
+        "units": "(4.0 units)",
+        "description": "Methods, processes and tools for managing projects to create engineered systems. Project management; engineering economics; risk management. Industry-drawn large-scale engineering case studies. Team project presentations.",
+        "sections": [
+            {
+                "section": "31515R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1150,
+                "days": 20,
+                "registered": "11 of 30",
+                "instructor": "Yalda Khashe",
+                "location": "OHE100B"
+            },
+            {
+                "section": "31715D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1150,
+                "days": 20,
+                "registered": "26 of 30",
+                "instructor": "Yalda Khashe",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "529",
+        "course_name": "Predictive Analytics",
+        "units": "(4.0 units)",
+        "description": "Supervised learning. Linear regression, cross validation, ridge and lasso regression, logistic regression, k-nearest-neighbors, decision trees, random forest and gradient-boosting models, support vector machines, neural networks.",
+        "sections": [
+            {
+                "section": "31529R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 20,
+                "registered": "23 of 40",
+                "instructor": "Hamid Chabok",
+                "location": "GFS207"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "530",
+        "course_name": "Optimization Methods for Analytics",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of Linear Programming, Integer Programming, quadratic and nonlinear programming for analytics and data science problems.",
+        "sections": [
+            {
+                "section": "31530R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1180,
+                "days": 10,
+                "registered": "10 of 40",
+                "instructor": "Maryam Pishgar",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "534",
+        "course_name": "Data Analytics Consulting",
+        "units": "(4.0 units)",
+        "description": "Consulting project concepts, frameworks, analytical tools and managerial skills with a focus on the use of data analytics, design thinking and insight-driven frameworks.",
+        "sections": [
+            {
+                "section": "31734R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 10,
+                "registered": "17 of 40",
+                "instructor": "Maryam Pishgar",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "544",
+        "course_name": "Leading and Managing Engineering Teams",
+        "units": "(4.0 units)",
+        "description": "Design and management of engineering teams. Group decision-making, motivation, leadership, infrastructure requirements, performance measurement, team diversity, conflict and integration.",
+        "sections": [
+            {
+                "section": "31504R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 20,
+                "registered": "5 of 30",
+                "instructor": "Yalda Khashe",
+                "location": "OHE100B"
+            },
+            {
+                "section": "31704D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 20,
+                "registered": "18 of 25",
+                "instructor": "Yalda Khashe",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "560",
+        "course_name": "Analysis of Algorithms",
+        "units": "(4.0 units)",
+        "description": "Explores fundamental techniques such as recursion, Fourier transform ordering, dynamic programming for efficient algorithm construction. Examples include arithmetic, algebraic, graph, pattern matching, sorting, searching algorithms.",
+        "sections": [
+            {
+                "section": "29928R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 26,
+                "registered": "96 of 120",
+                "instructor": "Shahriar Shamsian",
+                "location": "OHE122"
+            },
+            {
+                "section": "29929R",
+                "session": "902",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "96 of 120",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29930R",
+                "session": "902",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "96 of 120",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29931D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 26,
+                "registered": "31 of 40",
+                "instructor": "Shahriar Shamsian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29932R",
+                "session": "910",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 40",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29933R",
+                "session": "910",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 40",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29970R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 26,
+                "registered": "17 of 100",
+                "instructor": "Shahriar Shamsian",
+                "location": "SLH200"
+            },
+            {
+                "section": "29971R",
+                "session": "902",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29972R",
+                "session": "902",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "563",
+        "course_name": "Financial Engineering",
+        "units": "(4.0 units)",
+        "description": "Concepts underlying the economic analysis of engineering projects; applications to call and put options; utility theory and mathematical optimizations models; simulation.",
+        "sections": [
+            {
+                "section": "31565R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 10,
+                "registered": "10 of 30",
+                "instructor": "Gordon Delianedis",
+                "location": "OHE100D"
+            },
+            {
+                "section": "31765D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 10,
+                "registered": "3 of 10",
+                "instructor": "Gordon Delianedis",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "568",
+        "course_name": "Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for building intelligent and adaptive systems that improve performance from experiences; Focus on theoretical understanding of these methods and their computational implications. Recommended preparation: Undergraduate level training or coursework in linear algebra, multivariate calculus, basic probability and statistics; an undergraduate level course in Artificial Intelligence may be helpful but is not required.",
+        "sections": [
+            {
+                "section": "29922R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 980,
+                "days": 28,
+                "registered": "30 of 40",
+                "instructor": "Victor Adamchik",
+                "location": "RTH109"
+            },
+            {
+                "section": "29923R",
+                "session": "901",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29924R",
+                "session": "901",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29925D",
+                "session": "909",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 980,
+                "days": 28,
+                "registered": "8 of 30",
+                "instructor": "Victor Adamchik",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29926R",
+                "session": "909",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29927R",
+                "session": "909",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "580",
+        "course_name": "Performance Analysis with Simulation",
+        "units": "(4.0 units)",
+        "description": "Introduction to modeling and analysis of stochastic systems, with an emphasis on discrete-event simulation of non-Markovian systems.",
+        "sections": [
+            {
+                "section": "31580R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 10,
+                "registered": "9 of 30",
+                "instructor": "Hamid Pourmohammadi",
+                "location": "KAP158"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "583",
+        "course_name": "Enterprise Wide Information Systems",
+        "units": "(4.0 units)",
+        "description": "The role enterprise resource planning systems (ERPs) play in organization; integrating and coordinating the many business processes such as demand planning, procurement, production and sales.",
+        "sections": [
+            {
+                "section": "31583R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 42,
+                "registered": "15 of 30",
+                "instructor": "Nitin Kale",
+                "location": "OHE100B"
+            },
+            {
+                "section": "31783D",
+                "session": "909",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 42,
+                "registered": "6 of 10",
+                "instructor": "Nitin Kale",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree; maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "31590D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Paul Lu",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31594D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "David Belson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Course content will be selected each semester to reflect current trends and developments in the field of industrial and systems engineering.",
+        "sections": [
+            {
+                "section": "31519R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 10,
+                "registered": "7 of 30",
+                "instructor": "Ragheb Raad",
+                "location": "KAP148"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "31701D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Maged Dessouky",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31702D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Ali Abbas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31703D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Randolph Hall",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31706D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 2",
+                "instructor": "Giacomo Nannicini",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31707D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 2",
+                "instructor": "Satish Thittamaranahalli Ka",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31791D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31792D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31793D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31794D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ISE",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31795D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

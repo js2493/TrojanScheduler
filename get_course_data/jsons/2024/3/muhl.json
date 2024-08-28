@@ -1,0 +1,413 @@
+[
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "250",
+        "course_name": "Music and Ideas",
+        "units": "(4.0 units)",
+        "description": "A topical study of critical issues and cultural relationships found in music from antiquity to the present and across musical genres and styles.",
+        "sections": [
+            {
+                "section": "44000D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "79 of 80 (13 on waitlist)",
+                "instructor": "Nathaniel Sloan",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "350",
+        "course_name": "Western Art Music History I",
+        "units": "(4.0 units)",
+        "description": "A study of the musical styles and genres from antiquity through early modern periods within their historical context. Detailed analysis of selected works.",
+        "sections": [
+            {
+                "section": "44009D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "31 of 45",
+                "instructor": "Leah Morrison",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "44031D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "570",
+        "course_name": "Research Materials and Techniques",
+        "units": "(2.0 units)",
+        "description": "Introduction to music research, information science, and technical writing. Required of all graduate students majoring in music.",
+        "sections": [
+            {
+                "section": "44058D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "18 of 20 (1 on waitlist)",
+                "instructor": "Sean Nye",
+                "location": "KDC241"
+            },
+            {
+                "section": "44059D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "17 of 20 (5 on waitlist)",
+                "instructor": "Scott Spencer",
+                "location": "KDC241"
+            },
+            {
+                "section": "44060D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "11 of 20",
+                "instructor": "Andrew Justice",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "586",
+        "course_name": "Special Studies in the Music of the Classical Period, 1730-1800",
+        "units": "(2.0 units, max 6)",
+        "description": "Music problems and composers of the period.",
+        "sections": [
+            {
+                "section": "44103D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "6 of 20",
+                "instructor": "Leah Morrison",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "588",
+        "course_name": "Special Studies in Music Since 1900",
+        "units": "(2.0 units, max 6)",
+        "description": "Music problems and composers of the period. Specific emphasis to be determined by the department.",
+        "sections": [
+            {
+                "section": "44109D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "24 of 25 (2 on waitlist)",
+                "instructor": "Lisa Vest",
+                "location": "MUS303"
+            },
+            {
+                "section": "44110D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "23 of 25 (2 on waitlist)",
+                "instructor": "Tim Greiving",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44115D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "591",
+        "course_name": "Seminar in Baroque Repertories and Performance Practice",
+        "units": "(2.0 units)",
+        "description": "Study and discussion of Baroque music sources and performance practice treatises.",
+        "sections": [
+            {
+                "section": "44118D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "17 of 17 (1 on waitlist)",
+                "instructor": "Rotem Gilbert",
+                "location": "UGW120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceoptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44122D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44125D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44128D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "681",
+        "course_name": "Studies in Musicology",
+        "units": "(4.0 units, max 16)",
+        "description": "Close study of musical repertories and issues (particularly ones transcending period divisions), with emphasis on recent scholarship and methodologies.",
+        "sections": [
+            {
+                "section": "44149D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "5 of 15",
+                "instructor": "Leon Garcia Corona",
+                "location": "UGW120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44180D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44185D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44188D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44191D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44194D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUHL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "44197D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

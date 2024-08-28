@@ -1,0 +1,372 @@
+[
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction (secondary emphasis) for music majors and minors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "43207D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "340",
+        "course_name": "Choral Conducting I",
+        "units": "(2.0 units)",
+        "description": "Basic conducting techniques; score analysis; conducting patterns; problems of tempo, dynamics, articulation and text.",
+        "sections": [
+            {
+                "section": "43215D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "5 of 14",
+                "instructor": "Tram Sparks",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "343",
+        "course_name": "Instrumental Conducting I",
+        "units": "(2.0 units)",
+        "description": "Communicating musical ideas to instrumental ensembles; reading and conducting from full score of orchestral compositions. Laboratory, 3 hours. Prerequisite: ability to read a music score.",
+        "sections": [
+            {
+                "section": "43220D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "6 of 12",
+                "instructor": "Troy Quinn",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "348",
+        "course_name": "Instrumental Conducting and Orchestration",
+        "units": "(2.0 units)",
+        "description": "Reading and conducting from scores, communicating musical ideas to instrumental ensembles, arranging for small and large ensembles, notation, playing techniques, timbre, rhythm and intonation.",
+        "sections": [
+            {
+                "section": "43227D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Sharon Lavery,",
+                "location": "MUS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "441",
+        "course_name": "Choral Conducting II",
+        "units": "(2.0 units)",
+        "description": "Refinement of techniques developed in MUCD 340; study of styles and interpretations of choral music from the Renaissance to the present.",
+        "sections": [
+            {
+                "section": "43245D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "9 of 12",
+                "instructor": "Emily Sung",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "443",
+        "course_name": "Instrumental Conducting II",
+        "units": "(2.0 units)",
+        "description": "Principal composers and representative instrumental works since the eighteenth century; studies of styles and interpretations based on scores and the performance of works in class.",
+        "sections": [
+            {
+                "section": "43255D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "9 of 12",
+                "instructor": "Troy Quinn",
+                "location": "MUS208"
+            },
+            {
+                "section": "43256D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "12 of 12 (2 on waitlist)",
+                "instructor": "Sharon Lavery",
+                "location": "MUS105"
+            },
+            {
+                "section": "43257D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "10 of 12 (2 on waitlist)",
+                "instructor": "Larry Livingston",
+                "location": "MUS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "43260D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            },
+            {
+                "section": "43263D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "43285D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 12",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "541",
+        "course_name": "Choral Conducting III",
+        "units": "(2.0 units, max 6)",
+        "description": "Problems of preparing and conducting contemporary choral music and major choral-orchestral works from full score; special projects according to student's development and interests. Laboratory, 3 hours.",
+        "sections": [
+            {
+                "section": "43295D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "2 of 10",
+                "instructor": "Tram Sparks",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "543",
+        "course_name": "Instrumental Conducting III",
+        "units": "(2.0 units, max 4)",
+        "description": "Problems in advanced conducting.",
+        "sections": [
+            {
+                "section": "43300D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "6 of 10",
+                "instructor": "Larry Livingston",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "43310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43320D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            },
+            {
+                "section": "43323D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "641",
+        "course_name": "Choral Conducting IV",
+        "units": "(2.0 units, max 8)",
+        "description": "Continuation of MUCD 541, including choral conducting pedagogy.",
+        "sections": [
+            {
+                "section": "43330D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "4 of 6",
+                "instructor": "Tram Sparks",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for D.M.A. Performance majors.",
+        "sections": [
+            {
+                "section": "43335D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCD",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43360D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Tram Sparks",
+                "location": "MUS211"
+            },
+            {
+                "section": "43365D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Larry Livingston",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

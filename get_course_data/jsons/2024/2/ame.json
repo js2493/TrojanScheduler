@@ -1,0 +1,394 @@
+[
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "308",
+        "course_name": "Computer-Aided Engineering",
+        "units": "(3.0-4.0 units)",
+        "description": "Introduction to the finite element method; practical application of computer analysis tools for structural analysis and design.",
+        "sections": [
+            {
+                "section": "28812R",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 480,
+                "end_time": 700,
+                "days": 42,
+                "registered": "9 of 14",
+                "instructor": "Bo Jin",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "28850D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "525",
+        "course_name": "Engineering Analysis",
+        "units": "(4.0 units)",
+        "description": "Engineering mathematical methods: linear algebra, eigen problems, introduction to linear partial differential equations, transforms and complex variable theory.",
+        "sections": [
+            {
+                "section": "28885R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 845,
+                "days": 30,
+                "registered": "3 of 25",
+                "instructor": "Oussama Safadi",
+                "location": "OHE100D"
+            },
+            {
+                "section": "29055D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 845,
+                "days": 30,
+                "registered": "14 of 25",
+                "instructor": "Oussama Safadi",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "526",
+        "course_name": "Introduction to Mathematical Methods in Engineering II",
+        "units": "(4.0 units)",
+        "description": "An intermediate and comprehensive methods of engineering mathematics course covering basic methods for solving linear partial differential equations including the method of characteristics and Green's function.",
+        "sections": [
+            {
+                "section": "28886R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 30,
+                "registered": "3 of 25",
+                "instructor": "Inna Abramova",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29056D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 30,
+                "registered": "5 of 25",
+                "instructor": "Inna Abramova",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "528",
+        "course_name": "Finite Element Analysis",
+        "units": "(4.0 units)",
+        "description": "Basic concepts; variational methods; isoparametric formulation; plane stress; plane strain; axisymmetric structures; plates and shells; structural dynamics; stability and buckling; computer applications; nonlinear analysis.",
+        "sections": [
+            {
+                "section": "29603R",
+                "session": "905",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 20,
+                "registered": "2 of 20",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "OHE100D"
+            },
+            {
+                "section": "29604D",
+                "session": "942",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 20,
+                "registered": "14 of 18",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29605R",
+                "session": "905",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "29606D",
+                "session": "942",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 18",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "549",
+        "course_name": "Systems Architecting",
+        "units": "(3.0 units)",
+        "description": "Introduction to systems architecture in aerospace, electrical, computer, and manufacturing systems emphasizing the conceptual and acceptance phases and using heuristics.",
+        "sections": [
+            {
+                "section": "32332D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "42 of 45",
+                "instructor": "Edwin Ordoukhanian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32349R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "1 of 10",
+                "instructor": "Edwin Ordoukhanian",
+                "location": "OHE100B"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28950D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "28955D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28956D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28989D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 45",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29088D",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28991D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28992D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28993D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "28994D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AME",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28995D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

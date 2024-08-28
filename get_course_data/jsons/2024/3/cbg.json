@@ -1,0 +1,191 @@
+[
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "504",
+        "course_name": "Molecular Biology of Cancer",
+        "units": "(4.0 units)",
+        "description": "Epidemiology, pathobiology, carcinogenesis, tumor biology and heterogeneity; retroviruses, oncogenes, cell cycle control, genetics of cancer, tumor immunology; treatment strategies.",
+        "sections": [
+            {
+                "section": "40657D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "27 of 40",
+                "instructor": "Joseph Landolph,David Cobrinik",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "574",
+        "course_name": "Cancer Biology and Genomics Research Seminar Series",
+        "units": "(1.0 unit)",
+        "description": "Cancer biology research seminar for doctoral students enrolled in the CBG program.",
+        "sections": [
+            {
+                "section": "40106D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "41 of 50",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "580",
+        "course_name": "Topics in Cancer (Epi)Genomics",
+        "units": "(1.0 unit)",
+        "description": "Selected topics in Cancer Biology and Genomics including review of contemporary literature and research.",
+        "sections": [
+            {
+                "section": "40100D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "34 of 50",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40115D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 0,
+                "end_time": 0,
+                "days": 0,
+                "registered": "4 of 30",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40120D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 0,
+                "end_time": 0,
+                "days": 0,
+                "registered": "17 of 30",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40121D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 0,
+                "end_time": 0,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40122D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 0,
+                "end_time": 0,
+                "days": 0,
+                "registered": "7 of 30",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40123D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 0,
+                "end_time": 0,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CBG",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "40124D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 0,
+                "end_time": 0,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "Josh Neman-Ebrahim",
+                "location": ""
+            }
+        ]
+    }
+]

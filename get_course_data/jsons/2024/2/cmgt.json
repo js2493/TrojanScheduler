@@ -1,0 +1,406 @@
+[
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "500",
+        "course_name": "Managing Communication",
+        "units": "(4.0 units)",
+        "description": "Production and distribution of information within large organizations; information networks, organization structure, control and decision-making functions. Resources necessary for effective organizational communication systems.",
+        "sections": [
+            {
+                "section": "21701D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 8,
+                "registered": "16 of 90",
+                "instructor": "Jessica Neff,Austin Roy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "508",
+        "course_name": "Communicating Strategy and Change",
+        "units": "(4.0 units)",
+        "description": "Examination of role of communication in developing and implementing business strategy; critical assessment and practice with models, tools, and techniques for communicating change.",
+        "sections": [
+            {
+                "section": "21715D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 16,
+                "registered": "21 of 80",
+                "instructor": "Brad Shipley,J. D. Schramm II",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "510",
+        "course_name": "Communication, Values, Attitudes and Behavior",
+        "units": "(4.0 units)",
+        "description": "Theory and research on value and attitude formation and change; consequences for communication and behavior.",
+        "sections": [
+            {
+                "section": "21719D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 8,
+                "registered": "18 of 80",
+                "instructor": "Nithya Muthuswamy,Mathew Curtis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "533",
+        "course_name": "Emerging Communication Technologies",
+        "units": "(4.0 units)",
+        "description": "Basics of multimedia; new forms of audio and video interactive technologies; computer communication networks; social, political, cultural, interpersonal, organizational issues related to emerging communication technologies. (Duplicate credit in former COMM 533.)",
+        "sections": [
+            {
+                "section": "21742D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1330,
+                "days": 2,
+                "registered": "13 of 20",
+                "instructor": "Aaron Settipane",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "540",
+        "course_name": "Uses of Communication Research",
+        "units": "(4.0 units)",
+        "description": "Data collection and elementary statistical analysis in communication management. Methods include surveys, focus groups, content analysis, experiments, secondary data sources.",
+        "sections": [
+            {
+                "section": "21752D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "18 of 90",
+                "instructor": "Mathew Curtis,Julianna Kirschner",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "541",
+        "course_name": "Integrated Communication Strategies",
+        "units": "(4.0 units)",
+        "description": "Communication strategies for product marketing and advertising; communication's role in developing domestic and international marketplaces; practical applications of persuasion theory.",
+        "sections": [
+            {
+                "section": "21753D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1330,
+                "days": 16,
+                "registered": "21 of 25",
+                "instructor": "Rafael Bracero",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "555",
+        "course_name": "Online Marketing Communication Development and Analysis",
+        "units": "(4.0 units)",
+        "description": "Analysis and development of online communication and marketing campaigns; exploration of current Internet best practices in social media, SEM, privacy, location-based marketing, and online measurement.",
+        "sections": [
+            {
+                "section": "21772D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "66 of 80",
+                "instructor": "Mayanna Framroze,James Lee,Courtney Pade",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "562",
+        "course_name": "Foundations of Effective PR Writing",
+        "units": "(4.0 units)",
+        "description": "Specialized writing for persuasive and strategic communication contexts. Intensive focus on public relations writing for print, online, broadcast, and social media.",
+        "sections": [
+            {
+                "section": "21193D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "14 of 80",
+                "instructor": "Lisa Tush",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "584",
+        "course_name": "Communication and the Multicultural Marketplace",
+        "units": "(4.0 units)",
+        "description": "Popular culture and marketing communication; race, gender, sexual orientation and consumer culture; consumption patterns and identity, loyalty and self-actualization; cultural marketing campaigns and socio-political conflict.",
+        "sections": [
+            {
+                "section": "21802D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1330,
+                "days": 2,
+                "registered": "16 of 24",
+                "instructor": "Ariela Turndorf",
+                "location": "ANN210 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "589",
+        "course_name": "Storytelling, Culture and Experiential Communication",
+        "units": "(4.0 units)",
+        "description": "How to communicate through storytelling in contemporary culture. Strategic story development for brands, for self-branding, and for social impact. Story creation utilizes narrative theories and workshop-style participatory activities.",
+        "sections": [
+            {
+                "section": "21810D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 16,
+                "registered": "68 of 80",
+                "instructor": "Mayanna Framroze,Styles Akira,Mahta Emrani,Rafael Bracero,Leah Gunn",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the school. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "21811D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21814D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "591",
+        "course_name": "Communication Internship",
+        "units": "(1.0-2.0 units, max 3)",
+        "description": "Field experience in applying communication principles to settings in organizations, campaigns, or other contexts; analysis and assessment of issues and problems. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "21819D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 20",
+                "instructor": "Ben Lee",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21820D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 20",
+                "instructor": "Daniela Baroffio",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21822D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Brad Shipley",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21823D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 20",
+                "instructor": "Ben Lee",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21824D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 24",
+                "instructor": "Daniela Baroffio",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21825D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Joseph Itaya",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21826D",
+                "session": "955",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Ben Lee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "597A",
+        "course_name": "Communication Research Practicum",
+        "units": "(2.0 units)",
+        "description": "Communication management research project design and execution - thesis formulation, literature review, methods choice and instrument design. Analysis and reporting with appropriate quantitative or qualitative techniques.",
+        "sections": [
+            {
+                "section": "21837D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Brad Shipley",
+                "location": "ONLINE"
+            },
+            {
+                "section": "21838D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Brad Shipley",
+                "location": "OFFICE"
+            },
+            {
+                "section": "21839D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Ben Lee",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CMGT",
+        "course_number": "597B",
+        "course_name": "Communication Research Practicum",
+        "units": "(2.0 units)",
+        "description": "Communication management research project design and execution - thesis formulation, literature review, methods choice and instrument design. Analysis and reporting with appropriate quantitative or qualitative techniques.",
+        "sections": [
+            {
+                "section": "21842D",
+                "session": "169",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Brad Shipley",
+                "location": "ONLINE"
+            },
+            {
+                "section": "21843D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Brad Shipley",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

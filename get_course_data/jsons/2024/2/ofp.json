@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20242",
+        "department": "OFP",
+        "course_number": "710",
+        "course_name": "Knowledge Assessment",
+        "units": "(1.0 unit)",
+        "description": "Students attend USC campus to validate skills and perform in-person evaluations.",
+        "sections": [
+            {
+                "section": "24552D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 20",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFP",
+        "course_number": "723",
+        "course_name": "Systems Physiology, Motor Disorders, and Sleep Apnea",
+        "units": "(2.0 units)",
+        "description": "Presentation, diagnosis, mechanism and management of oral motor disorders and sleep disordered breathing providing knowledge about general issues of physiology associated with the masticatory system.",
+        "sections": [
+            {
+                "section": "24550D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 20",
+                "instructor": "Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFP",
+        "course_number": "730C",
+        "course_name": "Case Portfolio Preparation",
+        "units": "(0.5 units)",
+        "description": "Case portfolio preparation with weekly online presentations and discussions of de-identified patient cases.",
+        "sections": [
+            {
+                "section": "24551D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "176",
+        "course_name": "Los Angeles: the City, the Novel, the Movie",
+        "units": "(4.0 units)",
+        "description": "An exploration of the culture, vibrance, heritage, mythology, variety, and pathology of a city that was born in hopes and captured the worlds imagination. Duplicates credit in ARLT 101g.",
+        "sections": [
+            {
+                "section": "32750R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 80",
+                "instructor": "Thomas Gustafson",
+                "location": "SOSB2"
+            },
+            {
+                "section": "32751R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "14 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32752R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32753R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32754R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "285",
+        "course_name": "African American Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Examines history of popular cultural forms such as literature, music, dance, theater, and visual arts produced by and about African Americans.",
+        "sections": [
+            {
+                "section": "10399D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "28 of 28",
+                "instructor": "Lanita Jacobs",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "371",
+        "course_name": "Literary Genres and Film",
+        "units": "(4.0 units)",
+        "description": "Literary studies in the relationship between fiction and drama and their adaptation as films.",
+        "sections": [
+            {
+                "section": "32632D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "15 of 18",
+                "instructor": "Brighde Mullins",
+                "location": "DMC110"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "430",
+        "course_name": "Shakespeare",
+        "units": "(4.0 units)",
+        "description": "Major history plays, comedies, and tragedies.",
+        "sections": [
+            {
+                "section": "32650R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "Canceled",
+                "instructor": "Thea Tomaini",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "32757D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 19",
+                "instructor": "Beatrice Sanford Russell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "530",
+        "course_name": "Restoration and 18th Century British Literatures and Cultures",
+        "units": "(4.0 units, max 12)",
+        "description": "Studies in prose, poetry, drama, and culture of the period 1661-1800.",
+        "sections": [
+            {
+                "section": "32800D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "6 of 19",
+                "instructor": "Ashley Cohen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32790D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Ashley Cohen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "591",
+        "course_name": "20th Century American Literatures and Cultures",
+        "units": "(4.0 units, max 12)",
+        "description": "Studies in rural and urban fictions, modernism, the shift from imagism and symbolism to confessional poetry, recovered writers, hemispheric traditions, literature and kindred arts, and other topics.",
+        "sections": [
+            {
+                "section": "32793D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 42,
+                "registered": "3 of 12",
+                "instructor": "Elda Maria Roman",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Thematic, theoretical, or experimental studies in British and American literatures and cultures.",
+        "sections": [
+            {
+                "section": "32791D",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 2,
+                "registered": "7 of 12",
+                "instructor": "Jonathan Leal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "609A",
+        "course_name": "Internship in Editing and Publishing: Eloquence and Ethics",
+        "units": "(2.0 units)",
+        "description": "Practical experience in the publishing world for acquiring skills and knowledge beyond the classroom.",
+        "sections": [
+            {
+                "section": "32809D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "0 of 7",
+                "instructor": "Brighde Mullins",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32890D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "Ashley Cohen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "32895D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. GRADED CR/NC.",
+        "sections": [
+            {
+                "section": "32896D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32897D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32898D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit upon acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32899D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

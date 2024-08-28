@@ -1,0 +1,360 @@
+[
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "101",
+        "course_name": "Reality Starts Here",
+        "units": "(2.0 units)",
+        "description": "Introduction to emerging forms of immersive entertainment, to Cinematic Arts faculty, and to guest speakers who will comment on the changing nature of the industry.",
+        "sections": [
+            {
+                "section": "17825D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "228 of 270",
+                "instructor": "Marcus Anderson",
+                "location": "NCC"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "375",
+        "course_name": "Breaking Into the Entertainment Industry",
+        "units": "(2.0 units)",
+        "description": "An overview of the entertainment industry and the tools needed to secure jobs and survive and succeed in the market.",
+        "sections": [
+            {
+                "section": "17827R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "105 of 105",
+                "instructor": "Steven Brookman",
+                "location": "SCA112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "440",
+        "course_name": "The Business of Motion Pictures, TV, Animation, Video Games, and Interactive Entertainment",
+        "units": "(2.0 units)",
+        "description": "An in-depth analysis of the history, evolution, and current state of the motion picture, television, animation, video game, and interactive entertainment industries.",
+        "sections": [
+            {
+                "section": "17833D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "48 of 48",
+                "instructor": "Jeffrey Korchek",
+                "location": "RZC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "458",
+        "course_name": "Producing and Marketing Feature Length Films",
+        "units": "(2.0 units)",
+        "description": "The principles and business practices of producing and marketing feature length films in the motion picture industry.",
+        "sections": [
+            {
+                "section": "17836D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "36 of 50",
+                "instructor": "Anne Globe",
+                "location": "SCA112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "463",
+        "course_name": "Television: Integrating Creative and Business Objectives",
+        "units": "(2.0 units)",
+        "description": "An investigation of the creative and business sides of television and how they connect, including changes caused by fractionalization and digital technology.",
+        "sections": [
+            {
+                "section": "17815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 8,
+                "registered": "32 of 48",
+                "instructor": "Scott Stone",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "473",
+        "course_name": "Digital Media Techniques of Entertainment and Fake News",
+        "units": "(2.0 units)",
+        "description": "Examines media disinformation in content creation, online news sources and entertainment; includes guest experts on technology, media and ethics.",
+        "sections": [
+            {
+                "section": "17826R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "17 of 100",
+                "instructor": "Diego Berdakin,Michael Broukhim",
+                "location": "SCA112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Prerequisite: consent of instructor.",
+        "sections": [
+            {
+                "section": "17800D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17802D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "495",
+        "course_name": "Internship in Cinematic Arts",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "On-the-job film, television, and interactive industry experience in the areas of interest of the individual student. Requires departmental approval.",
+        "sections": [
+            {
+                "section": "17835D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "25 of 100",
+                "instructor": "Victoria Esquer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics in cinematic arts.",
+        "sections": [
+            {
+                "section": "17829R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "25 of 60",
+                "instructor": "Rachel Victor",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "521",
+        "course_name": "The World of the Producer",
+        "units": "(4.0 units)",
+        "description": "A comprehensive overview of the role of the producer in creating television programming, feature films, and new media content.",
+        "sections": [
+            {
+                "section": "17841D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "27 of 35",
+                "instructor": "Sandra Yee Ling",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "523",
+        "course_name": "Feature Film Financing and the Studio System",
+        "units": "(4.0 units)",
+        "description": "An overview of the motion picture studio system and how to finance feature films. Principles, business practices, and future trends.",
+        "sections": [
+            {
+                "section": "17843D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "35 of 36",
+                "instructor": "Jeffrey Shumway",
+                "location": "SCA203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "525",
+        "course_name": "Entertainment Marketing in Today's Digital Environment",
+        "units": "(4.0 units)",
+        "description": "Entertainment industry marketing disciplines, covering motion pictures, television, music, theme parks, home entertainment, and video games. Current principles and business practices.",
+        "sections": [
+            {
+                "section": "17808D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "43 of 44",
+                "instructor": "Kellie Kawaguchi",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "530",
+        "course_name": "Cinematic Ethics",
+        "units": "(1.0 unit)",
+        "description": "An introductory course in the ethical questions professionals encounter in the field of cinematic arts. Case studies and guest lectures.",
+        "sections": [
+            {
+                "section": "17824D",
+                "session": "037",
+                "type": "Lecture-Discussion",
+                "start_time": 570,
+                "end_time": 680,
+                "days": 2,
+                "registered": "56 of 60",
+                "instructor": "Stephen Armour",
+                "location": "SCA112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "563",
+        "course_name": "The Business of Representation",
+        "units": "(4.0 units)",
+        "description": "Various roles an agent, manager, attorney and publicist play in representing talent, producers and writers. Taught by professionals who are at the forefront of the entertainment industry.",
+        "sections": [
+            {
+                "section": "17807D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "33 of 33",
+                "instructor": "Alan Berger",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17805D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17810D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CNTV",
+        "course_num": "595",
+        "course_name": "Professional Practicum",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Film, media, archival and interactive industry experience in areas of interest to the individual student, and development of a personal brand. Requires departmental approval.",
+        "sections": [
+            {
+                "section": "17842D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "Sam Jungheim",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

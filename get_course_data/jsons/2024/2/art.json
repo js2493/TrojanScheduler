@@ -1,0 +1,88 @@
+[
+    {
+        "term": "20242",
+        "department": "ART",
+        "course_number": "419",
+        "course_name": "Professional Internship in the Arts",
+        "units": "(2.0 units, max 4)",
+        "description": "An experiential/academic opportunity in a museum, gallery, community cultural center or related facility. Lectures, seminars, written analysis and working internship.",
+        "sections": [
+            {
+                "section": "33291D",
+                "session": "126",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33292D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33293D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ART",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to graduate degree. Maximum units which may be applied to degree determined by department. Graded CR/NC. (Duplicates credit in former FA 590)",
+        "sections": [
+            {
+                "section": "33222D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33224D",
+                "session": "126",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Jennifer West",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33226D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Jennifer West",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

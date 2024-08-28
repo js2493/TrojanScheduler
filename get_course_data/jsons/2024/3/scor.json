@@ -1,0 +1,349 @@
+[
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "403",
+        "course_name": "Introduction to Scoring Movies and Television",
+        "units": "(2.0 units)",
+        "description": "Practical composition course covering the unique art, craft, and technology involved in writing and integrating music for animated and live-action visual media.",
+        "sections": [
+            {
+                "section": "42301D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Lolita Ritmanis",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "405",
+        "course_name": "Introduction to Scoring Video Games",
+        "units": "(2.0 units)",
+        "description": "Practical composition course covering the unique art, craft, and technology involved in composing and integrating video-game music.",
+        "sections": [
+            {
+                "section": "42303D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "18 of 18",
+                "instructor": "Garry Schyman",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "42310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jeanine Cowen",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "42320D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Jeanine Cowen",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "502",
+        "course_name": "Individual Instruction in Advanced Screen Scoring",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Individual instruction and review of students work. Selected composers, orchestrators, filmmakers, and other important industry collaborators offer their insights on scoring and career building.",
+        "sections": [
+            {
+                "section": "42323D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 20",
+                "instructor": "Jon Burlingame,Jeanine Cowen",
+                "location": "TMC118"
+            },
+            {
+                "section": "42324D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 860,
+                "end_time": 950,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Jon Burlingame,Jeanine Cowen",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "503A",
+        "course_name": "Advanced Scoring for Motion Pictures and Television",
+        "units": "(2.0 units)",
+        "description": "Scoring principles involved in designing, timing, and composing scores for video projects, including documentaries, animated, and live-action projects. Will also include composing for live recording sessions.",
+        "sections": [
+            {
+                "section": "42326D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "Lolita Ritmanis",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "504A",
+        "course_name": "Orchestral Scoring",
+        "units": "(2.0 units)",
+        "description": "Explores the sounds of and notations for the major orchestral instruments; provides instruction on implementation of those instruments in scoring and orchestrating for the screen.",
+        "sections": [
+            {
+                "section": "42332D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Pete Anthony",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "505A",
+        "course_name": "Advanced Game Scoring and Integration",
+        "units": "(2.0 units)",
+        "description": "Explores more sophisticated principles and techniques involved in the unique aspects of composing and integrating music for video games.",
+        "sections": [
+            {
+                "section": "42338D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 860,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Garry Schyman",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "506",
+        "course_name": "Applied Techniques in Contemporary Scoring",
+        "units": "(2.0 units)",
+        "description": "Explores the most recent artistic and technological innovations in film/television scoring, and includes creating cues from adapted themes.",
+        "sections": [
+            {
+                "section": "42344D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "Patrick Kirst",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "507",
+        "course_name": "Studio Conducting and Contemporary Score Analysis",
+        "units": "(2.0 units)",
+        "description": "Study of two distinct areas: 1) The methods and protocols involved in conducting scoring sessions; and 2) Analysis of innovative scores from current television- and feature- films.",
+        "sections": [
+            {
+                "section": "42347D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 860,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Amy Andersson,Michael McCuistion",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "509",
+        "course_name": "Music Editing and Spotting for Media Productions",
+        "units": "(2.0 units)",
+        "description": "Processes and techniques used for the planning and workflow of a score within a media production.",
+        "sections": [
+            {
+                "section": "42349D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Jeanine Cowen,Allegra De souza",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "511A",
+        "course_name": "History of Film Scoring",
+        "units": "(2.0 units)",
+        "description": "Examines the evolution of movie music from 1920s to present. Includes recorded interviews with the most significant film composers and film clips of their work.",
+        "sections": [
+            {
+                "section": "42351D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Jon Burlingame",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "521A",
+        "course_name": "Recording, Mixing and Editing for the Screen Composer",
+        "units": "(2.0 units)",
+        "description": "Addresses the need for modern-day screen composers to produce and digitally record, sweeten, mix, and edit much of their own music.",
+        "sections": [
+            {
+                "section": "42365D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Christian Amonson,Jeanine Cowen",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "523A",
+        "course_name": "Advanced Screen Scoring Technology",
+        "units": "(2.0 units)",
+        "description": "Explores sophisticated principles and applications of technologies for screen scoring, including the use of synthesizers, samplers, and sequencers.",
+        "sections": [
+            {
+                "section": "42373D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Jeanine Cowen",
+                "location": "TMCG147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "42385D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jeanine Cowen",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCOR",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "42397D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jeanine Cowen",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

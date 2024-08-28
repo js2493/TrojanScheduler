@@ -1,0 +1,459 @@
+[
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "500",
+        "course_name": "Bridge Course",
+        "units": "(2.0 units)",
+        "description": "Key concepts from chemistry, biochemistry, genetics, cell biology, metabolism, microbiology, and immunology in an 8 week format. Successful completion of this unique preparatory course is expected to position students for success in the graduate level pathophysiology and pharmacology courses.",
+        "sections": [
+            {
+                "section": "69001D",
+                "session": "374",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 16,
+                "registered": "2 of 12",
+                "instructor": "Christa Bancroft",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "501",
+        "course_name": "Pathophysiology for Advanced Nursing Practice",
+        "units": "(4.0 units)",
+        "description": "Advanced physiology/pathophysiology including general principles that apply across the lifespan.",
+        "sections": [
+            {
+                "section": "69002D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 675,
+                "end_time": 765,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Michelle Zappas",
+                "location": "VAC"
+            },
+            {
+                "section": "69003D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 660,
+                "days": 8,
+                "registered": "9 of 13",
+                "instructor": "Adam Aisner",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "502",
+        "course_name": "Advanced Health Assessment Across the Life Span",
+        "units": "(3.0 units)",
+        "description": "Development of advanced critical thinking and clinical judgement skills through comprehensive health assessment. Health promotion and health maintenance content is utilized to assess health status and evaluate health risk among individuals and groups.",
+        "sections": [
+            {
+                "section": "69004D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1080,
+                "days": 4,
+                "registered": "9 of 13",
+                "instructor": "Jennifer Tran",
+                "location": "VAC"
+            },
+            {
+                "section": "69005D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Jennifer Tran",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "503",
+        "course_name": "Theory: Clinical Management of Adult Patients",
+        "units": "(2.0 units)",
+        "description": "The scope of practice and responsibilities of the family nurse practitioner in prevention of disease, health maintenance and the diagnosis and management of patients with common illnesses are explored.",
+        "sections": [
+            {
+                "section": "69006D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 735,
+                "end_time": 810,
+                "days": 4,
+                "registered": "12 of 13",
+                "instructor": "Cynthia Sanchez",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "504",
+        "course_name": "Pharmacology for Advanced Practice Nursing",
+        "units": "(3.0 units)",
+        "description": "Advanced pharmacology including pharmacodynamics, pharmacokinetics, and pharmacotherapeutics of all broad categories of agents.",
+        "sections": [
+            {
+                "section": "69007D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 765,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adam Aisner",
+                "location": "VAC"
+            },
+            {
+                "section": "69008D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 645,
+                "days": 4,
+                "registered": "5 of 15",
+                "instructor": "Michelle Zappas",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "505",
+        "course_name": "Clinical Practicum: Management of Adult Patients",
+        "units": "(4.0 units)",
+        "description": "Primary health care to patients throughout the life cycle with a focus on the prevention of disease, health maintenance and the diagnosis and management of patients with common illnesses.",
+        "sections": [
+            {
+                "section": "69009D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 720,
+                "days": 4,
+                "registered": "8 of 8",
+                "instructor": "Cynthia Sanchez",
+                "location": "VAC"
+            },
+            {
+                "section": "69010D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 540,
+                "days": 8,
+                "registered": "5 of 7",
+                "instructor": "Kathleen Woodruff",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "507",
+        "course_name": "Theory: Clinical Management of the Childbearing/Childrearing Family",
+        "units": "(2.0 units)",
+        "description": "Diagnosing and managing childbearing women from preconception through uncomplicated pregnancy and postpartum periods and providing primary care to children and their families from newborn through adolescence periods.",
+        "sections": [
+            {
+                "section": "69011D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 555,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Tracie Kirkland",
+                "location": "VAC"
+            },
+            {
+                "section": "69012D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 645,
+                "days": 8,
+                "registered": "4 of 11",
+                "instructor": "Tracie Kirkland",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "600",
+        "course_name": "Theory: Clinical Management of Adult Patients with Complex Medical Issues",
+        "units": "(2.0 units)",
+        "description": "The scope of practice and responsibilities of the family nurse practitioner in the diagnosis and management of patients with acute, complex and chronic illnesses are explored.",
+        "sections": [
+            {
+                "section": "69013D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 735,
+                "days": 16,
+                "registered": "13 of 13",
+                "instructor": "Lindsey Plato-Johnson",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "601",
+        "course_name": "Clinical Practicum: Management of the Childbearing/Childrearing Family",
+        "units": "(4.0 units)",
+        "description": "Clinical practicum is intended to prepare FNP students to provide primary health care to childbearing/childrearing families from preconception through adolescent phase of the life cycle.",
+        "sections": [
+            {
+                "section": "69014D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 540,
+                "days": 8,
+                "registered": "4 of 6",
+                "instructor": "Tracie Kirkland",
+                "location": "VAC"
+            },
+            {
+                "section": "69015D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 840,
+                "days": 4,
+                "registered": "8 of 8",
+                "instructor": "Tracie Kirkland",
+                "location": "VAC"
+            },
+            {
+                "section": "69016D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "5 of 6",
+                "instructor": "Nakisha Sattelmaier",
+                "location": "VAC"
+            },
+            {
+                "section": "69017D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "3 of 7",
+                "instructor": "Nakisha Sattelmaier",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "602",
+        "course_name": "Research/Analytical Methods",
+        "units": "(3.0 units)",
+        "description": "Understanding and applying commonly used research methodologies and data analysis techniques in healthcare research.",
+        "sections": [
+            {
+                "section": "69018D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 645,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Benita Walton-Moss",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "603",
+        "course_name": "Transforming Research Evidence into Practice",
+        "units": "(3.0 units)",
+        "description": "Preparing the advanced practice nursing student to critically evaluate knowledge, research and evidence for implementation of best practices in healthcare in order to deliver safe, ethical, culturally sensitive evidence based care for patients in diverse settings.",
+        "sections": [
+            {
+                "section": "69019D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 645,
+                "days": 16,
+                "registered": "15 of 16",
+                "instructor": "Kathleen Woodruff",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "604",
+        "course_name": "Clinical Practicum: Management of Adult Patients with Complex Medical Issues",
+        "units": "(4.0 units)",
+        "description": "Application of theoretical concepts studied in NURS 600. Comprehensive assessments, formulation of differential diagnoses and the development of plans of care to manage acute and chronic complex in a variety of practice settings.",
+        "sections": [
+            {
+                "section": "69020D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 840,
+                "days": 16,
+                "registered": "5 of 5",
+                "instructor": "Kathleen Woodruff",
+                "location": "VAC"
+            },
+            {
+                "section": "69021D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 735,
+                "end_time": 795,
+                "days": 8,
+                "registered": "7 of 8",
+                "instructor": "Kathleen Woodruff",
+                "location": "VAC"
+            },
+            {
+                "section": "69027D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 840,
+                "days": 16,
+                "registered": "5 of 5",
+                "instructor": "Lindsey Plato-Johnson",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "605",
+        "course_name": "Professional Issues in Advanced Practice Nursing",
+        "units": "(2.0 units)",
+        "description": "The professional role and legal responsibilities of the nurse practitioner at entry to clinical practice and throughout a career are explored.",
+        "sections": [
+            {
+                "section": "69022D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 900,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Cynthia Sanchez",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "606",
+        "course_name": "Health Policy Principles in Changing Health Care Contexts",
+        "units": "(2.0 units)",
+        "description": "Foundation for leadership in interprofessional collaborative endeavors to address health policy that prepares learners to analyze and influence health policy and explores the role of nurse practitioners in the creation and modification of health policy.",
+        "sections": [
+            {
+                "section": "69023D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 720,
+                "days": 8,
+                "registered": "9 of 11",
+                "instructor": "Beth Haney",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "607",
+        "course_name": "Theory: Family Primary Care",
+        "units": "(2.0 units)",
+        "description": "Capstone course draws on material and concepts learning throughout the FNP program and explores additional complex issues including management of pain, caregiver burden, palliative care and end of life.",
+        "sections": [
+            {
+                "section": "69024D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 855,
+                "days": 16,
+                "registered": "11 of 12",
+                "instructor": "Benita Walton-Moss",
+                "location": "VAC"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "NURS",
+        "course_number": "608",
+        "course_name": "Clinical Practicum: Family Primary Care",
+        "units": "(3.0-4.0 units)",
+        "description": "Prepares the family nurse practitioner student for entry into practice in the diagnosis and management of patients with acute, complex and chronic illnesses in the primary care setting.",
+        "sections": [
+            {
+                "section": "69025D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 540,
+                "days": 16,
+                "registered": "5 of 6",
+                "instructor": "Benita Walton-Moss",
+                "location": "VAC"
+            },
+            {
+                "section": "69026D",
+                "session": "353",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 720,
+                "days": 16,
+                "registered": "6 of 7",
+                "instructor": "Benita Walton-Moss",
+                "location": "VAC"
+            }
+        ]
+    }
+]

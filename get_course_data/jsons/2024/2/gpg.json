@@ -1,0 +1,139 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "101",
+        "course_name": "Race and Class in Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Analysis of race and the economic, political, gender, and social dimensions of contemporary Los Angeles including topics such as residential segregation, economic inequality, and city politics.",
+        "sections": [
+            {
+                "section": "10310D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "24 of 29",
+                "instructor": "Chrisshonna Nieva",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "135",
+        "course_name": "Peoples and Cultures of the Americas",
+        "units": "(4.0 units)",
+        "description": "An introduction to cultures and people in the Americas; the social, historical, economic and cultural formations that together make up the Latino/a American imaginary.",
+        "sections": [
+            {
+                "section": "10320D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 28,
+                "registered": "26 of 30",
+                "instructor": "Alicia Chavez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "274",
+        "course_name": "Exploring Ethnicity through Film",
+        "units": "(4.0 units)",
+        "description": "Examination of the constructions of American ethnicity/race in film.",
+        "sections": [
+            {
+                "section": "10390D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "21 of 29",
+                "instructor": "Chris Finley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "102",
+        "course_name": "World Music",
+        "units": "(4.0 units)",
+        "description": "Exploration of music and cultures of the world. Engagement with international musicians, global issues, field work and musical diasporas in Los Angeles.",
+        "sections": [
+            {
+                "section": "47203R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "21 of 50",
+                "instructor": "Scott Spencer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "POSC",
+        "course_number": "265",
+        "course_name": "Environmental Challenges",
+        "units": "(4.0 units)",
+        "description": "Examination of the challenges of environmental problem-solving at the personal, local, national and global scales, focused on the issue of climate change.",
+        "sections": [
+            {
+                "section": "51900R",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 10,
+                "registered": "28 of 31",
+                "instructor": "Jefferey Sellers",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51901R",
+                "session": "076",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 10,
+                "registered": "28 of 31",
+                "instructor": "Jefferey Sellers,Lisa Basil",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "THTR",
+        "course_number": "476",
+        "course_name": "African American Theatre, Dance, and Performance",
+        "units": "(4.0 units)",
+        "description": "A survey of African American theatre and cultural performance traditions as a reflection of both African American culture and American history.",
+        "sections": [
+            {
+                "section": "62956R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "6 of 30",
+                "instructor": "Lena Ford",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

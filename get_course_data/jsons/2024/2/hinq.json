@@ -1,0 +1,130 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "205",
+        "course_name": "Introduction to American Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Examines the relation between U.S. national culture, race, and popular culture.",
+        "sections": [
+            {
+                "section": "10360R",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "26 of 29",
+                "instructor": "Joshua Mitchell",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "301",
+        "course_name": "America, the Frontier, and the New West",
+        "units": "(4.0 units)",
+        "description": "Introduction to an interdisciplinary study of American political, cultural and social life with a particular emphasis on the Western United States as a region. Recommended preparation: HIST 200, ENGL 263",
+        "sections": [
+            {
+                "section": "10408D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 14,
+                "registered": "29 of 28",
+                "instructor": "Chris Finley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "176",
+        "course_name": "Los Angeles: the City, the Novel, the Movie",
+        "units": "(4.0 units)",
+        "description": "An exploration of the culture, vibrance, heritage, mythology, variety, and pathology of a city that was born in hopes and captured the worlds imagination. Duplicates credit in ARLT 101g.",
+        "sections": [
+            {
+                "section": "32750R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 80",
+                "instructor": "Thomas Gustafson",
+                "location": "SOSB2"
+            },
+            {
+                "section": "32751R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "14 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32752R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32753R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32754R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "371",
+        "course_name": "Literary Genres and Film",
+        "units": "(4.0 units)",
+        "description": "Literary studies in the relationship between fiction and drama and their adaptation as films.",
+        "sections": [
+            {
+                "section": "32632D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "15 of 18",
+                "instructor": "Brighde Mullins",
+                "location": "DMC110"
+            }
+        ]
+    }
+]

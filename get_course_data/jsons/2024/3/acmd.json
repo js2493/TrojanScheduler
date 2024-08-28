@@ -1,0 +1,149 @@
+[
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "501",
+        "course_name": "Introduction to Academic Medicine Worldwide",
+        "units": "(3.0 units)",
+        "description": "Introduces the master's program including four key roles of clinician educators: teacher, leader, scholar and mentor and a key theme, career development.",
+        "sections": [
+            {
+                "section": "40253R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "7 of 15",
+                "instructor": "Kathleen Hill-Besinque,Ann Spangler,Julie Nyquist,Velyn Wu,Mojca Remskar",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "502",
+        "course_name": "Becoming a Leader in Academic Medicine",
+        "units": "(3.0 units)",
+        "description": "Current approaches to leadership within the context of academic medicine and health professions education, leadership styles, emotional intelligence, critical reflection, well-being and personal leadership journeys.",
+        "sections": [
+            {
+                "section": "40254R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "6 of 15",
+                "instructor": "Julie Nyquist,Samuel Yanofsky",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "513",
+        "course_name": "Professionalism in Academic Medicine and Health",
+        "units": "(3.0 units)",
+        "description": "Promoting, assessing and remediating performance of communication skills, culturally responsive care and professionalism within the context of health care complexity and challenges to well-being.",
+        "sections": [
+            {
+                "section": "40263R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "0 of 10",
+                "instructor": "Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "514",
+        "course_name": "Accreditation and Program Evaluation in Academic Medicine",
+        "units": "(3.0 units)",
+        "description": "Evaluating health professions training programs within guidelines of relevant accreditation organizations; models of evaluation, designing plans and tools for evaluation of program elements.",
+        "sections": [
+            {
+                "section": "40267R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1200,
+                "days": 4,
+                "registered": "3 of 15",
+                "instructor": "Julie Nyquist,Cathy Jalali",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "591",
+        "course_name": "Designing Research on Innovations in Academic Medicine",
+        "units": "(2.0 units)",
+        "description": "Introduction to design and scholarly review of innovations in health professions education; needs assessment, problem selection, use of research methods to study an innovation.",
+        "sections": [
+            {
+                "section": "40269R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 2,
+                "registered": "4 of 15",
+                "instructor": "Cha-Chi Fung,Jacob Schreiber,Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "598",
+        "course_name": "Fieldwork: Designing Innovations for the Health Professions",
+        "units": "(1.0 unit)",
+        "description": "Individual projects designing curricular or other innovations for an individual program or specialty as an extension of program concepts or deepening the capstone experience.",
+        "sections": [
+            {
+                "section": "40279R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACMD",
+        "course_num": "621",
+        "course_name": "Capstone Portfolio for the Master of Academic Medicine",
+        "units": "(1.0 unit)",
+        "description": "Role of portfolios for teachers and learners; develop a personal capstone portfolio that represents each learners accomplishment of the core competencies of the MACM program.",
+        "sections": [
+            {
+                "section": "40282R",
+                "session": "098",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "Julie Nyquist",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

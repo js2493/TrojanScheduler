@@ -1,0 +1,202 @@
+[
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "301",
+        "course_name": "Real Estate Internship Seminar",
+        "units": "(1.0 unit)",
+        "description": "Real estate development skills for practice; internship seminar; leadership, group dynamics and presentation skills; application of management; organizational diversity; reflection on experiences.",
+        "sections": [
+            {
+                "section": "51651D",
+                "session": "524",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "33 of 35",
+                "instructor": "Esther Lanier",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "437",
+        "course_name": "Advanced Finance and Investment for Real Estate Development",
+        "units": "(4.0 units)",
+        "description": "Advanced real estate principles. Underwriting property valuation and deal structure including risk and return. Debt and equity markets; difference between development and existing assets.",
+        "sections": [
+            {
+                "section": "51652R",
+                "session": "525",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 10,
+                "registered": "18 of 35",
+                "instructor": "Brian Miller",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "500",
+        "course_name": "Real Estate Development and the Economy",
+        "units": "(2.0 units)",
+        "description": "Linkages between national and regional economies and the performance of the real estate sector. Anticipating development trends. Public policy applications.",
+        "sections": [
+            {
+                "section": "51601D",
+                "session": "531",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "John Drachman",
+                "location": "RGL215"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "541",
+        "course_name": "Finance Fundamentals for Real Estate Development",
+        "units": "(2.0 units)",
+        "description": "Introduction to the general principles of finance with application to real estate development, including capital markets, financial institutions, valuation and risk management.",
+        "sections": [
+            {
+                "section": "51600D",
+                "session": "531",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "19 of 32",
+                "instructor": "Terri Dickerhoff",
+                "location": "RGL209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "542",
+        "course_name": "Finance of Real Estate Development",
+        "units": "(3.0 units)",
+        "description": "Theory and methods of real estate finance and investment. Real estate investment analysis, real estate entities, taxation; introduction to securitization of real estate equities, debt.",
+        "sections": [
+            {
+                "section": "51602D",
+                "session": "531",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "17 of 32",
+                "instructor": "Christian Redfearn",
+                "location": "RGL209"
+            },
+            {
+                "section": "51603R",
+                "session": "531",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "17 of 32",
+                "instructor": "Iain Gulin",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "547",
+        "course_name": "Project Management and Construction",
+        "units": "(2.0 units)",
+        "description": "Managing the building phase of development. Architectural and engineering aspects of construction management for the real estate developer.",
+        "sections": [
+            {
+                "section": "51611D",
+                "session": "532",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1270,
+                "days": 2,
+                "registered": "32 of 35",
+                "instructor": "Paul Giorgio",
+                "location": "VPD110"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "551",
+        "course_name": "The Approval Process",
+        "units": "(4.0 units)",
+        "description": "Approval process for real estate development including land use entitlement, site selection, zoning, environmental review, community and government relations, infrastructure financing, ethical issues, negotiation skills.",
+        "sections": [
+            {
+                "section": "51606D",
+                "session": "531",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "39 of 60",
+                "instructor": "Nicole Kuklok-Waldman,Donna Tripp",
+                "location": "RGL101"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "51610D",
+                "session": "531",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "RED",
+        "course_number": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Current issues, trends, and developments in real estate development.",
+        "sections": [
+            {
+                "section": "51612D",
+                "session": "533",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1270,
+                "days": 2,
+                "registered": "32 of 35",
+                "instructor": "Greg Kling",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

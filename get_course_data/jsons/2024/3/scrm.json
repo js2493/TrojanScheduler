@@ -1,0 +1,360 @@
+[
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "310",
+        "course_name": "Laboratory Techniques in Developmental and Stem Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Laboratory course that focuses on the theory and practice of embryology to study developmental biology, and cell culture to study stem cell biology.",
+        "sections": [
+            {
+                "section": "41622R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 950,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "4 of 12",
+                "instructor": "Louise Menendez",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "335",
+        "course_name": "Human Development: From Stem to Sternum",
+        "units": "(2.0 units)",
+        "description": "An introduction to transformation of a single cell into a mature organism.",
+        "sections": [
+            {
+                "section": "41444R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "17 of 30",
+                "instructor": "Thomas Lozito",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "487",
+        "course_name": "Regenerative Medicine: Principles, Paradigms and Practice",
+        "units": "(4.0 units)",
+        "description": "Examination of molecular and cellular processes that generate, maintain and repair body systems. Special emphasis on stem cell biology with clinical applications to regenerative medicine.",
+        "sections": [
+            {
+                "section": "41624R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "5 of 30",
+                "instructor": "Rong Lu,Giorgia Quadrato,Yulia Shwartz,Zhongwei Li,Albert Almada,Louise Menendez",
+                "location": "WPHB26"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings under the guidance of a faculty member.",
+        "sections": [
+            {
+                "section": "41623R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Louise Menendez",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "511",
+        "course_name": "Developmental Biology and Human Embryology",
+        "units": "(4.0 units)",
+        "description": "Survey of anatomical, cellular and molecular processes that underlie human development and congenital malformations, with discussion of other species for comparison. Open only to Stem Cell Biology and Regenerative Medicine majors.",
+        "sections": [
+            {
+                "section": "41600R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "38 of 50",
+                "instructor": "Francesca Mariani",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "513",
+        "course_name": "Stem Cells and Regenerative Medicine",
+        "units": "(4.0 units)",
+        "description": "A comprehensive investigation of embryonic, fetal and adult stem cells and the application of stem cell biology to treat disease. Open only to Stem Cell Biology and Regenerative Medicine majors.",
+        "sections": [
+            {
+                "section": "41601R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "41 of 50",
+                "instructor": "Qilong Ying,",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "522",
+        "course_name": "Biological Imaging in Stem Cell Research",
+        "units": "(2.0 units)",
+        "description": "Theory and practice of using microscopy and flow cytometry in stem cell biology, including sample preparation, digital processing and data analysis.",
+        "sections": [
+            {
+                "section": "41606R",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 950,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "8 of 8",
+                "instructor": "Louise Menendez",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "525",
+        "course_name": "Tools and Techniques in Stem Cell Biology",
+        "units": "(2.0 units, max 10)",
+        "description": "Introduces students to classical and cutting-edge techniques used to assess stem cells and regenerating systems.",
+        "sections": [
+            {
+                "section": "41615R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "41 of 45",
+                "instructor": "Francesca Mariani,Louise Menendez",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "555",
+        "course_name": "Writing About Stem Cell Biology and Regenerative Medicine",
+        "units": "(1.0 unit)",
+        "description": "Instruction in writing for various audiences on topics related to stem cell biology and regenerative medicine.",
+        "sections": [
+            {
+                "section": "41605R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 4,
+                "registered": "41 of 50",
+                "instructor": "Francesca Mariani,Cristy Lytal",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "574",
+        "course_name": "Stem Cell and Developmental Biology Seminar Series",
+        "units": "(1.0 units, max 10)",
+        "description": "Selected topics in Development, Stem Cell, and Regeneration.",
+        "sections": [
+            {
+                "section": "40127D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 630,
+                "days": 32,
+                "registered": "55 of 75",
+                "instructor": "Louise Menendez",
+                "location": "BCC101"
+            },
+            {
+                "section": "40128D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 780,
+                "days": 32,
+                "registered": "0 of 50",
+                "instructor": "",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "580",
+        "course_name": "SCRM External Speaker Seminar Series",
+        "units": "(2.0 units, max 8)",
+        "description": "Reading and discussion of recent papers by the SCRM speaker of the week, and attendance at the speaker's seminar. Open only to Stem Cell Biology and Regenerative Medicine majors.",
+        "sections": [
+            {
+                "section": "41602R",
+                "session": "046",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 4,
+                "registered": "42 of 50",
+                "instructor": "Leonardo Morsut",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "590",
+        "course_name": "Independent Research",
+        "units": "(1.0-4.0 units, max 16)",
+        "description": "Independent research conducted under the guidance of faculty in the Department of Stem Cell Biology and Regenerative Medicine. Prerequisites: SCRM 511, SCRM 513, SCRM 515, SCRM 522, SCRM 524, SCRM 555, SCRM 580. Open only to Stem Cell Biology and Regenerative Medicine majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41645D",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 15",
+                "instructor": "Francesca Mariani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41611D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Francesca Mariani",
+                "location": "BCC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41612R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Francesca Mariani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41631R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Francesca Mariani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SCRM",
+        "course_num": "620",
+        "course_name": "Current Topics in Stem Cell Biology and Organogenesis",
+        "units": "(1.0 units, max 12)",
+        "description": "Selected topics on sub-fields within stem cell biology and organogenesis. Includes review of contemporary literature and research. Open only to master and doctoral students.",
+        "sections": [
+            {
+                "section": "40129D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 960,
+                "days": 4,
+                "registered": "12 of 25",
+                "instructor": "Jessie Huang,Yao Wei Lu",
+                "location": "KAMB40/42"
+            },
+            {
+                "section": "40136D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "39 of 65",
+                "instructor": "Leonardo Morsut",
+                "location": "BCC101"
+            }
+        ]
+    }
+]

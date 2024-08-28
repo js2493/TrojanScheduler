@@ -1,0 +1,882 @@
+[
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "101",
+        "course_name": "Introduction to Astronautics",
+        "units": "(4.0 units)",
+        "description": "Gateway to the Astronautical Engineering major. Introduction to space, space exploration and the space business. Elements of orbits, spacecraft systems, rocket propulsion, and communications. Laboratory: introduction to graphics, computation and simulation.",
+        "sections": [
+            {
+                "section": "29100R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "27 of 40",
+                "instructor": "Dan Erwin",
+                "location": "VHE217"
+            },
+            {
+                "section": "29101R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 680,
+                "days": 4,
+                "registered": "27 of 40",
+                "instructor": "Dan Erwin",
+                "location": "SAL127"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "291",
+        "course_name": "Team Projects I",
+        "units": "(1.0 units, max 4)",
+        "description": "Participation in ASTE undergraduate student team projects. Intended for lower-division students or those with little prior project experience. Departmental approval.",
+        "sections": [
+            {
+                "section": "29103R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 8,
+                "registered": "0 of 20",
+                "instructor": "David Barnhart",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29104R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "0 of 20",
+                "instructor": "David Barnhart",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29105R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "0 of 20",
+                "instructor": "Dan Erwin",
+                "location": "GFS114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "331A",
+        "course_name": "Spacecraft Systems Engineering",
+        "units": "(3.0 units)",
+        "description": "Introduction to spacecraft systems: propulsion, attitude dynamics and control, structures, communications, power, thermal control. Space environment. Systems engineering as applied to spacecraft.",
+        "sections": [
+            {
+                "section": "28489R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "20 of 45",
+                "instructor": "Jim Chase",
+                "location": "SOSB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "404",
+        "course_name": "Computational Programming and Numerical Methods",
+        "units": "(3.0 units)",
+        "description": "Development of simulation code with high-performance languages such as C++ and Fortran; numerical techniques for continuum and rarefied gas flows, GPU utilization; data visualization, machine learning.",
+        "sections": [
+            {
+                "section": "32513R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 16,
+                "registered": "28 of 40",
+                "instructor": "Lubos Brieda",
+                "location": "DRB146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "475",
+        "course_name": "Rocket Propulsion",
+        "units": "(2.0 units)",
+        "description": "Liquid-fueled and solid-fueled rocket engines; adiabatic flame temperature; duct flows with area change, heat addition, mass addition; rocket heat transfer; staging; and electric thrusters.",
+        "sections": [
+            {
+                "section": "32525R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "31 of 70",
+                "instructor": "Daniel Depew",
+                "location": "SOSB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "29120D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "David Barnhart",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "491",
+        "course_name": "Team Projects II",
+        "units": "(1.0 units, max 4)",
+        "description": "Participation in ASTE undergraduate student team projects. Intended for students with prior project experience. Departmental approval.",
+        "sections": [
+            {
+                "section": "29123R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 8,
+                "registered": "3 of 20",
+                "instructor": "David Barnhart",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29124R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "0 of 20",
+                "instructor": "David Barnhart",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29125R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "45 of 50",
+                "instructor": "Dan Erwin",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "505A",
+        "course_name": "Plasma Dynamics",
+        "units": "(3.0 units)",
+        "description": "Charged particle dynamics. Kinetic and fluid theories. Rarefied and collisional plasma flows. Plasma-surface interactions. Waves, instabilities, turbulence. Applications in engineering and space technology. Recommended preparation: Graduate standing in engineering or physics. (Duplicates credit in EE-572a)",
+        "sections": [
+            {
+                "section": "29158R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 16,
+                "registered": "2 of 20",
+                "instructor": "Joseph Wang",
+                "location": "RTH105"
+            },
+            {
+                "section": "32518D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 16,
+                "registered": "6 of 20",
+                "instructor": "Joseph Wang",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "520",
+        "course_name": "Spacecraft System Design",
+        "units": "(3.0 units)",
+        "description": "System components; vehicle structure, propulsion systems, flight dynamics, thermal control, power systems, telecommunication. Interfaces and tradeoffs between these components. Testing, system reliability, and integration.",
+        "sections": [
+            {
+                "section": "29132R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "31 of 60",
+                "instructor": "Mike Gruntman",
+                "location": "OHE100D"
+            },
+            {
+                "section": "29162D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "46 of 90",
+                "instructor": "Mike Gruntman",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "524",
+        "course_name": "Human Spaceflight",
+        "units": "(3.0 units)",
+        "description": "Engineering, technologies, and systems for human spaceflight. Life support, space environments, crew accommodations. Mission operations, safety. Astrodynamics, launch and space vehicles, space stations, planetary bases.",
+        "sections": [
+            {
+                "section": "29122R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 760,
+                "days": 4,
+                "registered": "45 of 60",
+                "instructor": "Garrett Reisman",
+                "location": "OHE132"
+            },
+            {
+                "section": "29152D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 760,
+                "days": 4,
+                "registered": "48 of 80",
+                "instructor": "Garrett Reisman",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "527",
+        "course_name": "Space Exploration Architectures Concept Synthesis Studio",
+        "units": "(3.0 units)",
+        "description": "Programmatic/conceptual design synthesis/choice creation methods for complex space missions. Aerospace system engineering/architecting tools to create innovative projects. Evaluated by faculty/industry/NASA experts. Graduate standing in engineering or science. Recommended preparation: ASTE-520 or experience in space industry",
+        "sections": [
+            {
+                "section": "29134R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "6 of 6",
+                "instructor": "Madhu Thangavelu",
+                "location": "OHE114"
+            },
+            {
+                "section": "29164D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "6 of 6",
+                "instructor": "Madhu Thangavelu",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "535",
+        "course_name": "Space Environments and Spacecraft Interactions",
+        "units": "(3.0 units)",
+        "description": "Space environments and interactions with space systems. Vacuum, neutral and ionized species, plasma, radiation, micrometeoroids. Phenomena important for spacecraft operations.",
+        "sections": [
+            {
+                "section": "29135R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "37 of 50",
+                "instructor": "Justin Bailey",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29165D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "34 of 50",
+                "instructor": "Justin Bailey",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "553",
+        "course_name": "Systems for Remote Sensing from Space",
+        "units": "(3.0 units)",
+        "description": "The operations and applications of instruments which produce images of ground scene or probe the atmosphere from space. Graduate standing in engineering or physics.",
+        "sections": [
+            {
+                "section": "29139R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "9 of 20",
+                "instructor": "Steven Matousek",
+                "location": "OHE100B"
+            },
+            {
+                "section": "29169D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "10 of 25",
+                "instructor": "Steven Matousek",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "556",
+        "course_name": "Spacecraft Structural Dynamics",
+        "units": "(3.0 units)",
+        "description": "Applied analytical methods (vibrations of single and multi degree of freedom systems, finite element modeling, spacecraft applications); requirements definition process; analytical cycles; and design verfication. Graduate standing in engineering or science.",
+        "sections": [
+            {
+                "section": "29141R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "8 of 30",
+                "instructor": "Oscar Alvarez-Salazar",
+                "location": "OHE120"
+            },
+            {
+                "section": "29171D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "Oscar Alvarez-Salazar",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "561",
+        "course_name": "Human Factors of Spacecraft Operations",
+        "units": "(3.0 units)",
+        "description": "Engineering fundamentals and experimental methods of human factors design and evaluation for spacecraft which incorporate human-in-the-loop control.",
+        "sections": [
+            {
+                "section": "28498R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "7 of 20",
+                "instructor": "Garrett Reisman",
+                "location": "OHE100B"
+            },
+            {
+                "section": "28499D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "7 of 20",
+                "instructor": "Garrett Reisman",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "571",
+        "course_name": "Solid Rocket Propulsion",
+        "units": "(3.0 units)",
+        "description": "Fundamental concepts, implementation and applications of solid rocket propulsion. Propellants, performance, ballistics, structures and systems used for space launch vehicles, sounding rockets and rocket motors.",
+        "sections": [
+            {
+                "section": "28490R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "8 of 30",
+                "instructor": "David Reese",
+                "location": "RTH105"
+            },
+            {
+                "section": "28491D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "5 of 40",
+                "instructor": "David Reese",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "577",
+        "course_name": "Entry and Landing Systems for Planetary Surface Exploration",
+        "units": "(3.0 units)",
+        "description": "Multi-disciplinary engineering theory, simulation techniques, and unique technologies for landing robotic and human space vehicles on the surface of planets and moons.",
+        "sections": [
+            {
+                "section": "28482R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "13 of 40",
+                "instructor": "Anita Sengupta",
+                "location": "OHE100B"
+            },
+            {
+                "section": "28483D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "19 of 50",
+                "instructor": "Anita Sengupta",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "580",
+        "course_name": "Orbital Mechanics I",
+        "units": "(3.0 units)",
+        "description": "Physical principles; two-body and central force motion; trajectory correction maneuvers; position and velocity in conic orbits; Lambert's problem; celestial mechanics; orbital perturbations.",
+        "sections": [
+            {
+                "section": "29145R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "14 of 45",
+                "instructor": "Ryan Park",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29175D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "25 of 40",
+                "instructor": "Ryan Park",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "589",
+        "course_name": "Solar System Navigation",
+        "units": "(3.0 units)",
+        "description": "Free-return trajectories for exploration of the moon, optimization and control of interplanetary trajectories, and mission design using the Interplanetary Superhighway.",
+        "sections": [
+            {
+                "section": "29186R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "7 of 20",
+                "instructor": "Gerald Hintz,Rodney Anderson,Troy Goodson,Dan Erwin",
+                "location": "RTH109"
+            },
+            {
+                "section": "29187D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "13 of 30",
+                "instructor": "Gerald Hintz,Rodney Anderson,Troy Goodson,Dan Erwin",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the division. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29180D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,David Barnhart,Azad Madni,Garrett Reisman,Lubos Brieda",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29181D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,Azad Madni,David Barnhart,Garrett Reisman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29182D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,David Barnhart,Azad Madni,Garrett Reisman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29183D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,Azad Madni,David Barnhart,Garrett Reisman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "690",
+        "course_name": "Directed Research",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Laboratory studies of specific problems by candidates for the degree Engineer in Astronautical Engineering. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29190D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,Joseph Wang,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "694A",
+        "course_name": "Thesis",
+        "units": "(2.0 units)",
+        "description": "Required for the degree Engineer in Astronautical Engineering. Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29191D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "694B",
+        "course_name": "Thesis",
+        "units": "(2.0 units)",
+        "description": "Required for the degree Engineer in Astronautical Engineering. Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29192D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "694Z",
+        "course_name": "Thesis",
+        "units": "(0.0 units)",
+        "description": "Required for the degree Engineer in Astronautical Engineering. Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29193D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the division. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29194D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 20",
+                "instructor": "Mike Gruntman,Dan Erwin,Joseph Wang,Azad Madni,David Barnhart,Garrett Reisman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29195D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Dan Erwin,Joseph Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29196D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Dan Erwin,Joseph Wang,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29197D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Joseph Wang,Dan Erwin,David Barnhart,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29198D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Dan Erwin,Joseph Wang,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ASTE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29199D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

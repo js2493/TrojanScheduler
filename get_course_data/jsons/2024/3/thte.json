@@ -1,0 +1,331 @@
+[
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "107",
+        "course_name": "Foundations of Vocal Performance",
+        "units": "(2.0 units, max 4)",
+        "description": "Exploration of the foundations of vocal technique in a group setting, with an emphasis on musical theatre repertoire.",
+        "sections": [
+            {
+                "section": "63300D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 2,
+                "registered": "5 of 20",
+                "instructor": "Melissa Treinkman",
+                "location": "MCC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "201A",
+        "course_name": "Acting for Musical Theatre",
+        "units": "(4.0 units)",
+        "description": "Analysis and investigation of role interpretation and character development by working on two or more scenes from the same play. Introduction of techniques to unlock objectives based on the text.",
+        "sections": [
+            {
+                "section": "63305D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "15 of 18",
+                "instructor": "Laura Flanagan",
+                "location": "MCC107"
+            },
+            {
+                "section": "63306R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "15 of 18",
+                "instructor": "Jenni Barber",
+                "location": "MCC112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "201B",
+        "course_name": "Acting for Musical Theatre",
+        "units": "(4.0 units)",
+        "description": "Continuation of analysis and investigation of role interpretation and character development by working on two or more scenes from the same play. Introduction of techniques to unlock objectives for character creation.",
+        "sections": [
+            {
+                "section": "63320D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "9 of 18",
+                "instructor": "Ashley Eskew",
+                "location": "MCC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "205",
+        "course_name": "Musicianship for Musical Theatre Actors I",
+        "units": "(1.0 unit)",
+        "description": "Introduction to the basic musicianship and ear training essential for a Musical Theatre performer.",
+        "sections": [
+            {
+                "section": "63301D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "15 of 20",
+                "instructor": "Anthony Lucca",
+                "location": "MCC107"
+            },
+            {
+                "section": "63318R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "206A",
+        "course_name": "Movement for Musical Theatre",
+        "units": "(4.0 units)",
+        "description": "Introduction to foundational skills in musical theatre movement, including safe alignment and a movement vocabulary.",
+        "sections": [
+            {
+                "section": "63302D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 810,
+                "days": 0,
+                "registered": "13 of 20",
+                "instructor": "Sarah Anindo Marshall",
+                "location": "PED207"
+            },
+            {
+                "section": "63316R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 18",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "300",
+        "course_name": "Script and Score",
+        "units": "(2.0 units)",
+        "description": "Introduction and development of techniques needed to transition from the script to score. Beginning with an exploration of Broadway's \"Golden Age\" and the examination of Sondheim and his contemporaries.",
+        "sections": [
+            {
+                "section": "63307D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "12 of 20",
+                "instructor": "Anthony Lucca,Jared Gertner",
+                "location": "MCC112"
+            },
+            {
+                "section": "63309R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 18",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "306",
+        "course_name": "Movement for Musical Theatre II",
+        "units": "(4.0 units)",
+        "description": "Movement for Musical Theatre, practicing and refining techniques and social dance forms in a studio setting.",
+        "sections": [
+            {
+                "section": "63312D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Sarah Anindo Marshall",
+                "location": "PED207"
+            },
+            {
+                "section": "63314R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "354",
+        "course_name": "Musical Theatre Individual Instruction",
+        "units": "(1.0 units, max 6)",
+        "description": "Introduction to foundational healthy vocal performance/singing skills needed to sustain a career in the musical theatre.",
+        "sections": [
+            {
+                "section": "63317D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "35 of 40",
+                "instructor": "Melissa Treinkman",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "403",
+        "course_name": "Contemporary Scene Into Song",
+        "units": "(2.0 units)",
+        "description": "Exploration of popular music styles and their direct application to professional musical theatre.",
+        "sections": [
+            {
+                "section": "63303D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "9 of 18",
+                "instructor": "Jenni Barber,Doug Peck,Jennifer Lin",
+                "location": "MCC109"
+            },
+            {
+                "section": "63304R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 18",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "408",
+        "course_name": "Movie Musical Development",
+        "units": "(2.0 units)",
+        "description": "Survey and analysis of musical films from the 1960s to the present towards the creation of an original musical project.",
+        "sections": [
+            {
+                "section": "63310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "5 of 20",
+                "instructor": "Doug Peck",
+                "location": "MCC109"
+            },
+            {
+                "section": "63311R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 20",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "420",
+        "course_name": "Musical Theatre Repertoire",
+        "units": "(2.0 units)",
+        "description": "Development of a broad range of vocal book material to reflect the versatility of the performer.",
+        "sections": [
+            {
+                "section": "63315D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "9 of 20",
+                "instructor": "Sarah Anindo Marshall",
+                "location": "DAB213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "THTE",
+        "course_num": "498",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Studies in selected areas of theatre art. Intensive practice in role and script interpretation and its psychological relationship to the audience.",
+        "sections": [
+            {
+                "section": "63313D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "118 of 140",
+                "instructor": "Laura Flanagan",
+                "location": "THH201"
+            }
+        ]
+    }
+]

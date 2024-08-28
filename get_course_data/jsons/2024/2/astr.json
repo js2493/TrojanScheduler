@@ -1,0 +1,152 @@
+[
+    {
+        "term": "20242",
+        "department": "ASTR",
+        "course_number": "100",
+        "course_name": "The Universe",
+        "units": "(4.0 units)",
+        "description": "Survey of the universe: planets, satellites, comets, stars, nebulae, galaxies. Practical component includes planetary observations and dark-sky field trip. Not available for major credit.",
+        "sections": [
+            {
+                "section": "50800R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "45 of 72",
+                "instructor": "Aaron Wirthwein",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50802R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "17 of 18",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50803R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "10 of 18",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50807R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50801R",
+                "session": "070",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "45 of 90",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTR",
+        "course_number": "104",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for ASTR 100Lxg for transfer students with equivalent lecture credit from another institution. For transfer students only. Departmental approval. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50820D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTR",
+        "course_number": "200",
+        "course_name": "Life in the Universe",
+        "units": "(4.0 units)",
+        "description": "Survey of the prospects for life in our solar system and beyond, based on the evolution of life on Earth.",
+        "sections": [
+            {
+                "section": "50830R",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "36 of 72",
+                "instructor": "Vahe Peroomian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50832R",
+                "session": "076",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 24",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50833R",
+                "session": "076",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 24",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTR",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "50850D",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

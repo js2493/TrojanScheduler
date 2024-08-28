@@ -1,0 +1,109 @@
+[
+    {
+        "term": "20243",
+        "department": "NAUT",
+        "course_num": "301A",
+        "course_name": "Seamanship and Navigation",
+        "units": "(2.0 units)",
+        "description": "An experiential approach to sailing and seafaring, introducing offshore sailing theory and techniques, navigation, and basic oceanography as relevant to seamanship, leadership and communication skills.",
+        "sections": [
+            {
+                "section": "41860R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "48 of 48",
+                "instructor": "Lars Harding",
+                "location": "DMC152"
+            },
+            {
+                "section": "41861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "23 of 48",
+                "instructor": "John K Ugoretz",
+                "location": "DMC102"
+            },
+            {
+                "section": "41862R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "31 of 44",
+                "instructor": "Paul Prioleau",
+                "location": "GFS207"
+            },
+            {
+                "section": "41863R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "40 of 40",
+                "instructor": "David Monk",
+                "location": "GFS207"
+            },
+            {
+                "section": "41864R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "39 of 40",
+                "instructor": "Lars Harding",
+                "location": "PED300"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NAUT",
+        "course_num": "301B",
+        "course_name": "Seamanship and Navigation",
+        "units": "(2.0 units)",
+        "description": "An experiential approach to sailing and seafaring, introducing offshore sailing theory and techniques, navigation, and basic oceanography as relevant to seamanship, leadership and communication skills.",
+        "sections": [
+            {
+                "section": "41865R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "10 of 25",
+                "instructor": "Lars Harding",
+                "location": "PED300"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NAUT",
+        "course_num": "302A",
+        "course_name": "Advanced Seamanship and Navigation",
+        "units": "(2.0 units)",
+        "description": "Responsibilities and operations commanding an offshore sailing vessel including sailing theory and advanced techniques, advanced navigation, ships engineering and oceanography relevant to seamanship.",
+        "sections": [
+            {
+                "section": "41866R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "15 of 25",
+                "instructor": "Lars Harding",
+                "location": "PED300"
+            }
+        ]
+    }
+]

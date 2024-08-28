@@ -1,0 +1,2247 @@
+[
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "203",
+        "course_name": "Principles of Microeconomics",
+        "units": "(4.0 units)",
+        "description": "Behavior of firms and consumers, functions of the price system, competition and monopoly, labor markets, poverty, government regulation, international trade, and the environment.",
+        "sections": [
+            {
+                "section": "26022R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 915,
+                "days": 20,
+                "registered": "157 of 157",
+                "instructor": "Brijesh Pinto",
+                "location": "SGM101"
+            },
+            {
+                "section": "26024R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "26026R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "26028R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "26030R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "28 of 28",
+                "instructor": "",
+                "location": "DMC200"
+            },
+            {
+                "section": "26032R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "DMC256"
+            },
+            {
+                "section": "26038R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "26320R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1005,
+                "days": 20,
+                "registered": "108 of 108",
+                "instructor": "Hao Yin",
+                "location": "GFS106"
+            },
+            {
+                "section": "26321R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "26322R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "26323R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "DMC256"
+            },
+            {
+                "section": "26324R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "27 of 28",
+                "instructor": "",
+                "location": "DMC210"
+            },
+            {
+                "section": "26001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "108 of 108",
+                "instructor": "Yilmaz Kocer",
+                "location": "MRF340"
+            },
+            {
+                "section": "26002R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "26003R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "VHE206"
+            },
+            {
+                "section": "26006R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "26010R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "205",
+        "course_name": "Principles of Macroeconomics",
+        "units": "(4.0 units)",
+        "description": "Unemployment, inflation and output determination and links.Effects of government taxation and spending on growth, investment,saving, consumption, and trade.",
+        "sections": [
+            {
+                "section": "26044R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "69 of 108",
+                "instructor": "Lodovico Pizzati",
+                "location": "GFS106"
+            },
+            {
+                "section": "26046R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "15 of 27",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "26048R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "21 of 27",
+                "instructor": "",
+                "location": "DMC210"
+            },
+            {
+                "section": "26058R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "23 of 27",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "26059R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "10 of 27",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "26062R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 915,
+                "days": 10,
+                "registered": "106 of 108",
+                "instructor": "Jaime Meza",
+                "location": "THH101"
+            },
+            {
+                "section": "26065R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "VHE210"
+            },
+            {
+                "section": "26072R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "26076R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 27",
+                "instructor": "",
+                "location": "VHE210"
+            },
+            {
+                "section": "26078R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "27 of 28",
+                "instructor": "",
+                "location": "GFS107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "303",
+        "course_name": "Intermediate Microeconomic Theory",
+        "units": "(4.0 units)",
+        "description": "Decision-making by business firms, consumer preferences and behavior, uncertainty, competition, monopoly, labor and resource markets, efficient resource allocation, externalities, and government policy.",
+        "sections": [
+            {
+                "section": "26082R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "60 of 61",
+                "instructor": "Yilmaz Kocer",
+                "location": "GFS118"
+            },
+            {
+                "section": "26083R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Ergin Bayrak",
+                "location": "THH116"
+            },
+            {
+                "section": "26085R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Ergin Bayrak",
+                "location": "VPD105"
+            },
+            {
+                "section": "26328R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "59 of 59",
+                "instructor": "Hao Yin",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "305",
+        "course_name": "Intermediate Macroeconomic Theory",
+        "units": "(4.0 units)",
+        "description": "The determinants of aggregate income, employment, and inflation;economic fluctuations; fiscal and monetary policy; financialmarkets; the national debt.",
+        "sections": [
+            {
+                "section": "26087R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "59 of 59",
+                "instructor": "Jaime Meza",
+                "location": "SOSB46"
+            },
+            {
+                "section": "26088R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "25 of 59",
+                "instructor": "Robert Dekle",
+                "location": "SOSB4"
+            },
+            {
+                "section": "26090R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "43 of 59",
+                "instructor": "Lodovico Pizzati",
+                "location": "THH114"
+            },
+            {
+                "section": "26092R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "36 of 36",
+                "instructor": "Ladan Masoudie",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "317",
+        "course_name": "Introduction to Statistics for Economists",
+        "units": "(4.0 units)",
+        "description": "Introduction to statistical methods appropriate for analyzing economic data: probability theory, random variables and probability distributions, sampling, estimation, statistical inference.",
+        "sections": [
+            {
+                "section": "26093R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "64 of 64",
+                "instructor": "Lodovico Pizzati",
+                "location": "SOSB4"
+            },
+            {
+                "section": "26094R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Manochehr Rashidian",
+                "location": "KAP146"
+            },
+            {
+                "section": "26096R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "59 of 59",
+                "instructor": "Manochehr Rashidian",
+                "location": "THH114"
+            },
+            {
+                "section": "26334R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Lodovico Pizzati",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "318",
+        "course_name": "Introduction to Econometrics",
+        "units": "(4.0 units)",
+        "description": "Application of statistical methods to economic data: estimating economic relationships using regression analysis, testing hypotheses involving economic behavior, forecasting economic variables.",
+        "sections": [
+            {
+                "section": "26136R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "54 of 55",
+                "instructor": "Manochehr Rashidian",
+                "location": "GFS101"
+            },
+            {
+                "section": "26311R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "28 of 29",
+                "instructor": "",
+                "location": "DMC200"
+            },
+            {
+                "section": "26319R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "26336R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "61 of 61",
+                "instructor": "Italo Lopez Garcia",
+                "location": "GFS116"
+            },
+            {
+                "section": "26315R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "31 of 31",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "26316R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "DMC200"
+            },
+            {
+                "section": "26338D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "52 of 52",
+                "instructor": "Adam Kaufman",
+                "location": "DMC150"
+            },
+            {
+                "section": "26317D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "28 of 28",
+                "instructor": "",
+                "location": "DMC256"
+            },
+            {
+                "section": "26318R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "DMC210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "343",
+        "course_name": "Economic Development of East Asia",
+        "units": "(4.0 units)",
+        "description": "Contemporary economic problems of East Asian countries: management, labor, technology, trade, investment. Determinants of their high growth rates in the late 20th century.",
+        "sections": [
+            {
+                "section": "26110R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "34 of 40",
+                "instructor": "Takahiro Miyao",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "344",
+        "course_name": "Economic Development of Sub-Saharan Africa",
+        "units": "(4.0 units)",
+        "description": "Contemporary economic problems of sub-Saharan economies: policies and endowments. Focus on issues of poverty, agriculture, health, macroeconomy and political economy.",
+        "sections": [
+            {
+                "section": "26111D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "John Strauss",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "351",
+        "course_name": "Microeconomics for Business",
+        "units": "(4.0 units)",
+        "description": "Development and business applications of: theory of the firm; theory of the consumer; inter-temporaldecisions; decisions under risk; market failures; industrial and enterprise structure. Prerequisites: MATH 118 or MATH 125 or MATH 126 or MATH 226. Not for major credit for: Economics, Economics/Mathematics, Social Sciences (Economics). Duplicates credit in BUAD 351.",
+        "sections": [
+            {
+                "section": "26000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "78 of 80",
+                "instructor": "Rahsan Akbulut",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26004R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "78 of 78",
+                "instructor": "Rahsan Akbulut",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26007R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "78 of 78",
+                "instructor": "Matthew Hill",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26008R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "78 of 78",
+                "instructor": "Joao Antunes Ramos",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26307R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "78 of 78",
+                "instructor": "Joao Antunes Ramos",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26308R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "78 of 78",
+                "instructor": "Joao Antunes Ramos",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26310R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "78 of 78",
+                "instructor": "Litong Zhang",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26345R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "78 of 78",
+                "instructor": "Matthew Hill",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26348R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "78 of 78",
+                "instructor": "Matthew Hill",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26349R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "78 of 78",
+                "instructor": "Alejandro Martinez marquina",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26375R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "78 of 78",
+                "instructor": "Alejandro Martinez marquina",
+                "location": "JFFLL125"
+            },
+            {
+                "section": "26379R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "78 of 78",
+                "instructor": "Alejandro Martinez marquina",
+                "location": "JFFLL125"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "352",
+        "course_name": "Macroeconomics for Business",
+        "units": "(4.0 units)",
+        "description": "Theoretical development and significance to business and markets of economic growth; inflation;unemployment; monetary and fiscal policy; business cycles; savings and investment; exchange rates. Corequisite: ECON 351. Recommended preparation: introductory economics course, high school math, and algebra. Not for major credit for: Economics, Economics/Mathematics, Social Sciences (Economics). Duplicates credit in BUAD 352.",
+        "sections": [
+            {
+                "section": "26051R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "77 of 77",
+                "instructor": "Fatemeh Nazarian",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26052R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "77 of 77",
+                "instructor": "Fatemeh Nazarian",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26053R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "77 of 77",
+                "instructor": "Andrii Parkhomenko,Diego Daruich",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "78 of 78",
+                "instructor": "Andrii Parkhomenko,Diego Daruich",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26057R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Diego Daruich,Andrii Parkhomenko",
+                "location": "JFF414"
+            },
+            {
+                "section": "26060R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "77 of 77",
+                "instructor": "Diego Daruich,Andrii Parkhomenko",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26346R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Andrii Parkhomenko,Diego Daruich",
+                "location": "JFF236"
+            },
+            {
+                "section": "26347R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "77 of 77",
+                "instructor": "Vincenzo Quadrini",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "26350R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "78 of 77",
+                "instructor": "Vincenzo Quadrini",
+                "location": "JFFLL105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "357",
+        "course_name": "Money, Credit, and Banking",
+        "units": "(4.0 units)",
+        "description": "The money, bond, stock, and other financial markets; portfolio choice; determinants of asset prices and interest rates; inflation; interactions between financial markets and government policies.",
+        "sections": [
+            {
+                "section": "26119R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "53 of 53",
+                "instructor": "John Bellows",
+                "location": "THH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "366",
+        "course_name": "Urban Economics",
+        "units": "(4.0 units)",
+        "description": "Urban trends and problems, including changing urban form and function, urban public finance, housing, renewal, poverty, race, transportation, and the environment.",
+        "sections": [
+            {
+                "section": "26122R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "55 of 55",
+                "instructor": "Matthew Kahn",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "404",
+        "course_name": "Games and Economics",
+        "units": "(4.0 units)",
+        "description": "Analysis of strategic economic interactions. Topics include bargaining, insurance, patents, voting, environment depletion, strategic trade, learning, reputation, strikes, corporate takeovers, and the provision of public goods.",
+        "sections": [
+            {
+                "section": "26132R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "49 of 49",
+                "instructor": "Juan Carrillo",
+                "location": "KAP156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "420",
+        "course_name": "Experimental Economics",
+        "units": "(4.0 units)",
+        "description": "Examination of economic theories and patterns of behavior useful in building new theories. Prerequisite ECON-303; Recommended preparation: ECON-317.",
+        "sections": [
+            {
+                "section": "26139R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Juan Carrillo",
+                "location": "KAP148"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "434",
+        "course_name": "Economic Analysis of Law",
+        "units": "(4.0 units)",
+        "description": "Common law and property; rationing of justice; resource allocation between prevention and enforcement; division of decision making between public and private sectors.",
+        "sections": [
+            {
+                "section": "26144R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "13 of 36",
+                "instructor": "Ed Mc Caffery",
+                "location": "DMC211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "450",
+        "course_name": "International Trade",
+        "units": "(4.0 units)",
+        "description": "Determinants and economic consequences of international trade patterns; effects of trade restrictions and trading blocs; trade negotiations and arrangements.",
+        "sections": [
+            {
+                "section": "26148R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "49 of 49",
+                "instructor": "Terrie Walmsley",
+                "location": "KAP156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "452",
+        "course_name": "International Finance",
+        "units": "(4.0 units)",
+        "description": "Consequences of trade deficits; theories of capital and currency markets, exchange rate regimes, and international monetary coordination.",
+        "sections": [
+            {
+                "section": "26152R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "38 of 49",
+                "instructor": "Mark Moore",
+                "location": "GFS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "457",
+        "course_name": "Financial Markets",
+        "units": "(4.0 units)",
+        "description": "General equilibrium analysis of economics with financial markets; decision making under uncertainty; methods of risk reduction; portfolio theory and valuation of securities; efficiency of security markets.",
+        "sections": [
+            {
+                "section": "26154R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "30 of 49",
+                "instructor": "Marianne Andries,John Bellows",
+                "location": "KAP156"
+            },
+            {
+                "section": "26155R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Steven Sapra",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "460",
+        "course_name": "Economic Applications of Machine Learning",
+        "units": "(4.0 units)",
+        "description": "A capstone course that introduces state-of-the-art estimation methods for high-dimensional data.",
+        "sections": [
+            {
+                "section": "26157D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "58 of 59",
+                "instructor": "Dong Woo Hahm",
+                "location": "VPD105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "474",
+        "course_name": "Economic Consulting and Applied Managerial Economics",
+        "units": "(4.0 units)",
+        "description": "Economic consulting and managerial economic methods applied in real world problems. Economic methods to analyze issues of intellectual property, environmental damage, trademark infringement, brand value, and consumer demand.",
+        "sections": [
+            {
+                "section": "26161R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "48 of 49",
+                "instructor": "Jeffrey Dubin",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "475",
+        "course_name": "Topics in Philosophy, Politics and Economics",
+        "units": "(4.0 units)",
+        "description": "The analysis of public policy debates combining the different tools and perspectives of philosophy, political science and economic theory.",
+        "sections": [
+            {
+                "section": "49586R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 30",
+                "instructor": "Dmitri Gallow",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "480",
+        "course_name": "Economics of Industrial Organization",
+        "units": "(4.0 units)",
+        "description": "Pricing and resource allocation in imperfectly competitive markets; monopoly regulation, collusion, cartels, mergers and antitrust; patents and development incentives; industry case studies.",
+        "sections": [
+            {
+                "section": "26162R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "9 of 49",
+                "instructor": "Ziyi Qiu",
+                "location": "THH116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Supervised individual research. Not available for graduate credit. Requires departmental approval.",
+        "sections": [
+            {
+                "section": "26168D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "495",
+        "course_name": "Honors Thesis",
+        "units": "(4.0 units)",
+        "description": "Individual research supervised by a faculty advisor. Successful completion required for departmental honors degree.",
+        "sections": [
+            {
+                "section": "26170D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "500",
+        "course_name": "Microeconomic Analysis and Policy",
+        "units": "(4.0 units)",
+        "description": "Theories of the household and the firm; product and factor markets; perfect and imperfect competition; welfare criteria.",
+        "sections": [
+            {
+                "section": "26173D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "49 of 49",
+                "instructor": "Brijesh Pinto",
+                "location": "ZHS163"
+            },
+            {
+                "section": "26174D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "18 of 34",
+                "instructor": "Daniel Bennett",
+                "location": "SGM601"
+            },
+            {
+                "section": "26175D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "14 of 49",
+                "instructor": "Ergin Bayrak",
+                "location": "THH208"
+            },
+            {
+                "section": "26179D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "15 of 16",
+                "instructor": "Daniel Bennett",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "501",
+        "course_name": "Macroeconomic Analysis and Policy",
+        "units": "(4.0 units)",
+        "description": "Theories of aggregate economic activity; design and use of macroeconometric models; stabilization and control of inflation, unemployment, and growth.",
+        "sections": [
+            {
+                "section": "26109D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "5 of 8",
+                "instructor": "Jaime Meza",
+                "location": "ZHS252"
+            },
+            {
+                "section": "26177D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "31 of 37",
+                "instructor": "Jaime Meza",
+                "location": "ZHS252"
+            },
+            {
+                "section": "26178D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "32 of 32",
+                "instructor": "Ladan Masoudie",
+                "location": "DMC211"
+            },
+            {
+                "section": "26219D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "2 of 45",
+                "instructor": "Matthew Delventhal",
+                "location": "ZHS163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "504",
+        "course_name": "Game Theory with Economic and Financial Applications",
+        "units": "(4.0 units)",
+        "description": "Applying game theory to economic and financial markets and interactions in a diverse set of examples like reputation, herding, bubbles and crashes, auctions, strategic information revelation and information accumulation in markets. Witnessing the wide range of applications that is amenable to game theoretical analysis.",
+        "sections": [
+            {
+                "section": "26180D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "2 of 6",
+                "instructor": "Yilmaz Kocer",
+                "location": "KAP163"
+            },
+            {
+                "section": "26181D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "28 of 40",
+                "instructor": "Yilmaz Kocer",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "508",
+        "course_name": "Neurofinance",
+        "units": "(4.0 units)",
+        "description": "Investigate human behavior in Economics. Use neuroscience as a new lens on financial decision-making; focus on specific topics in behavioral and neuro-finance.",
+        "sections": [
+            {
+                "section": "26183D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Giorgio Coricelli",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "513",
+        "course_name": "Practice of Econometrics",
+        "units": "(4.0 units)",
+        "description": "Application of econometric tools using standard econometric software packages for microcomputers; empirical applications to selected economic problems of estimation and inference.",
+        "sections": [
+            {
+                "section": "26169D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "2 of 7",
+                "instructor": "Manochehr Rashidian",
+                "location": "LVL17"
+            },
+            {
+                "section": "26185D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "38 of 38",
+                "instructor": "Manochehr Rashidian",
+                "location": "LVL17"
+            },
+            {
+                "section": "26186D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "32 of 49",
+                "instructor": "Dong Woo Hahm",
+                "location": "SSL202"
+            },
+            {
+                "section": "26279D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "35 of 45",
+                "instructor": "Ivo Steijn",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "515",
+        "course_name": "Time Series Analysis",
+        "units": "(4.0 units)",
+        "description": "Understanding and implementing models commonly used in time series econometrics. Emphasis is placed on intuition and application. Assists students understanding how to use time series data to test hypotheses and serve as an introduction to the ideas and techniques of forecasting.",
+        "sections": [
+            {
+                "section": "26187D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "46 of 46",
+                "instructor": "Ratika Narag",
+                "location": "SOSB4"
+            },
+            {
+                "section": "26191D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "3 of 5",
+                "instructor": "Ratika Narag",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "564",
+        "course_name": "Introduction to Market Design",
+        "units": "(4.0 units)",
+        "description": "Introduction to market design; combined use of economic theory, experiments and empirical analysis; analyze and engineer market rules and institutions.",
+        "sections": [
+            {
+                "section": "26209D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "42 of 42",
+                "instructor": "Nicolas Lambert",
+                "location": "GFS207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "570",
+        "course_name": "Big Data Econometrics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the theory and practice of causal econometrics in modern settings of large-scale data. Major algorithms from machine learning focused on methodology and applications.",
+        "sections": [
+            {
+                "section": "26201D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "54 of 59",
+                "instructor": "Dong Woo Hahm",
+                "location": "LVL17"
+            },
+            {
+                "section": "26342D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "1 of 7",
+                "instructor": "",
+                "location": "LVL17"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "571",
+        "course_name": "Economics of Digital Platforms",
+        "units": "(4.0 units)",
+        "description": "Introduces the novel business model and important features associated with digital platforms and analyzes firms various competitive behavior and anticompetitive conducts in the digital space.",
+        "sections": [
+            {
+                "section": "26251D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "49 of 49",
+                "instructor": "Ziyi Qiu",
+                "location": "ZHS252"
+            },
+            {
+                "section": "26252D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "10 of 45",
+                "instructor": "Ziyi Qiu",
+                "location": "LVL16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "577",
+        "course_name": "Foundations of Financial Economics",
+        "units": "(4.0 units)",
+        "description": "Broad training in theoretical and empirical finance. Choice under uncertainty; equilibrium asset pricing; static portfolio choice; factor pricing models, asset allocation; the Black-Scholes-Merton Formula.",
+        "sections": [
+            {
+                "section": "26202D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "21 of 35",
+                "instructor": "Steven Sapra",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "581",
+        "course_name": "Industrial Organization, Innovation and Applications",
+        "units": "(4.0 units)",
+        "description": "Explores topics in industrial organization by examining models of competitive, oligopolistic and monopolistic markets. Emphasizes innovation and technology through incentives, intellectual property rights, royalty rate determination and economic methods.",
+        "sections": [
+            {
+                "section": "26208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "46 of 49",
+                "instructor": "Ziyi Qiu",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "584",
+        "course_name": "Economic Consulting and Applied Econometrics",
+        "units": "(4.0 units)",
+        "description": "Economic methods to analyze issues of intellectual property, environmental damage, trademark infringement, brand value and consumer demand, using an applied econometric approach.",
+        "sections": [
+            {
+                "section": "26205D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "38 of 45",
+                "instructor": "Jeffrey Dubin",
+                "location": "DMC102"
+            },
+            {
+                "section": "26343D",
+                "session": "266",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "6 of 10",
+                "instructor": "Jeffrey Dubin",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "585",
+        "course_name": "Advanced Economics Consulting and Antitrust Methods",
+        "units": "(4.0 units)",
+        "description": "Advanced methods used in applied economics and consulting. Topics are case based.",
+        "sections": [
+            {
+                "section": "26204D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "15 of 49",
+                "instructor": "Jeffrey Dubin",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26206D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 10,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching the Liberal Arts",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within college disciplines. Intended for teaching assistants in Dornsife College. Open only to doctoral students in Economics. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26207D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "13 of 21",
+                "instructor": "Ergin Bayrak",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. Students must have a specific job/internship offer. Job must be related to students major. The internship must be located at an off-campus facility. Students are individually supervised by faculty. Students must have been in F-1 student status for at least one academic year in a degree-seeking program before they can apply for CPT, with a cumulative 3.0 GPA. Course does not apply to degree credit. Open only to graduate students.",
+        "sections": [
+            {
+                "section": "26305D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "601",
+        "course_name": "Microeconomic Theory I",
+        "units": "(4.0 units)",
+        "description": "Optimization of the consumer and the firm; duality and imputed value; perfect and imperfect competition in product and factor markets.",
+        "sections": [
+            {
+                "section": "26216D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "12 of 19",
+                "instructor": "Nicolas Lambert,Jonathan Libgober",
+                "location": "DMC254"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "602",
+        "course_name": "Macroeconomic Theory I",
+        "units": "(4.0 units)",
+        "description": "Aggregate demand, supply and government policy; theories of economic growth and business cycles; static and dynamic implications of government policies.",
+        "sections": [
+            {
+                "section": "26217D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "10 of 21",
+                "instructor": "Caroline Betts,Monica Morlacco",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "608",
+        "course_name": "Advanced Neuroeconomics",
+        "units": "(4.0 units)",
+        "description": "Advanced methodology of neuroeconomics including neural activity, memory, value and reward systems, emotions and risk.",
+        "sections": [
+            {
+                "section": "26227D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "Giorgio Coricelli",
+                "location": "KAP150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "611",
+        "course_name": "Probability and Statistics for Economists",
+        "units": "(4.0 units)",
+        "description": "Introduction to probability theory and statistical inference to prepare students for graduate courses in econometrics and economic theory; probability, random variables, distributions, estimation, testing, asymptotics.",
+        "sections": [
+            {
+                "section": "26231D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "12 of 20",
+                "instructor": "Grigory Franguridi",
+                "location": "SOSB52"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "620",
+        "course_name": "Experimental Methods I",
+        "units": "(4.0 units)",
+        "description": "Experimental methods of and design of computer-based experiments. Use of standard software for data collection in individual decision-making experiments and games.",
+        "sections": [
+            {
+                "section": "26246D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "3 of 15",
+                "instructor": "Isabelle Brocas",
+                "location": "KAP335"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "642",
+        "course_name": "Poverty, Human Resources and Economic Development",
+        "units": "(4.0 units)",
+        "description": "Household production models and intra-household models of behavior and their empirical implementation, focus on poverty, human resource investments and their interaction with public policies. Prerequisites: ECON 501 and ECON 609.",
+        "sections": [
+            {
+                "section": "26250D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "1 of 15",
+                "instructor": "John Strauss",
+                "location": "KAP305"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "650",
+        "course_name": "International Trade Theory",
+        "units": "(4.0 units)",
+        "description": "General equilibrium theory applied to theory and practice of commercial policy, economic growth, and trade. Prerequisites: ECON-500 or ECON-601.",
+        "sections": [
+            {
+                "section": "26256D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "3 of 15",
+                "instructor": "Thomas Chaney,Monica Morlacco",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "659",
+        "course_name": "Economics of Financial Markets I",
+        "units": "(4.0 units)",
+        "description": "Equilibrium model of finance economy; absence of arbitrage; complete and incomplete markets; asset pricing theory: representative agent pricing, Capital Asset Pricing Model, martingale property of security prices. Prerequisite: ECON-601.",
+        "sections": [
+            {
+                "section": "26266D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "3 of 45",
+                "instructor": "Michael Magill",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "671",
+        "course_name": "Economics of Labor and Human Capital",
+        "units": "(4.0 units)",
+        "description": "A human capital interpretation of labor demand and supply; wage determination, differentials, and discrimination; job turnover and occupational mobility; unions and collective bargaining. Prerequisites: ECON-500 or ECON-601.",
+        "sections": [
+            {
+                "section": "26269D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "8 of 25",
+                "instructor": "Simon Quach",
+                "location": "KAP335"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "680",
+        "course_name": "Industrial Organization",
+        "units": "(4.0 units)",
+        "description": "Decision making, economic behavior and organization in firms; types of competition and market structure; property rights, nonprofit decision making. Prerequisite: ECON-500 or ECON-601.",
+        "sections": [
+            {
+                "section": "26274D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Guofu Tan",
+                "location": "KAP335"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "686A",
+        "course_name": "Empirical Methods in Economics",
+        "units": "(4.0 units)",
+        "description": "Think about and design empirical studies in economics using cutting-edge approaches to causal inference -- experiments, quasi-experiments, non-parametrics and semi-parametrics.",
+        "sections": [
+            {
+                "section": "26281D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "11 of 20",
+                "instructor": "Timothy Armstrong,Simon Quach,Daniel Bennett",
+                "location": "KAP305"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "687",
+        "course_name": "Urban Economics",
+        "units": "(4.0 units)",
+        "description": "Analyze theoretical forces leading to agglomeration in cities and evidence that supporting these mechanisms empirically. Topics: sorting within and across cities, transportation, housing regulation, segregation and inequality, environmental justice.",
+        "sections": [
+            {
+                "section": "26277D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "7 of 15",
+                "instructor": "Paulina Oliva",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "690",
+        "course_name": "Seminar in Economic Theory",
+        "units": "(2.0 units, max 8)",
+        "description": "Current research in economic theory presented by faculty, students, and outside scholars. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26280D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Guofu Tan",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "691",
+        "course_name": "Seminar in Econometrics",
+        "units": "(2.0 units, max 8)",
+        "description": "Current research in econometrics presented by faculty, students, and outside scholars. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26282D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1020,
+                "days": 32,
+                "registered": "3 of 15",
+                "instructor": "Timothy Armstrong",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "692",
+        "course_name": "Seminar in Economic Development",
+        "units": "(2.0 units, max 8)",
+        "description": "Current research in international, regional, and urban development economics presented by faculty, students, and outside scholars. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26284D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 930,
+                "days": 8,
+                "registered": "13 of 15",
+                "instructor": "Jeffrey Weaver",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "693",
+        "course_name": "Seminar in Applied Economics and Public Policy",
+        "units": "(2.0 units, max 8)",
+        "description": "Current research in applied microeconomics, macroeconomics, and public policy presented by faculty, students, and outside scholars. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26286D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 16,
+                "registered": "2 of 15",
+                "instructor": "Juan Carrillo",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "694",
+        "course_name": "Seminar in Dynamic Economics",
+        "units": "(2.0 units, max 8)",
+        "description": "Topics in dynamic economics involving business fluctuations, economic growth and development, microeconomic adjustments and market mechanisms; related quantitative and qualitative methods; empirical research involving economic change. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26288D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1020,
+                "days": 16,
+                "registered": "4 of 15",
+                "instructor": "Robert Dekle,Monica Morlacco",
+                "location": "KAP319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "696",
+        "course_name": "Empirical Microeconomics Seminar",
+        "units": "(2.0 units, max 8)",
+        "description": "Presentations on current research in empirical microeconomics by outstanding scholars from leading Economics departments and faculty at USC. Open only to Economics Ph.D. students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26296D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 930,
+                "days": 4,
+                "registered": "9 of 49",
+                "instructor": "Paulina Oliva",
+                "location": "SSL202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "700",
+        "course_name": "Research on Frontier Economics",
+        "units": "(2.0 units, max 8)",
+        "description": "Examination of various frontier research topics of economics through critical discussions of research papers that study the most recent economic research agendas.",
+        "sections": [
+            {
+                "section": "26292D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 8,
+                "registered": "9 of 15",
+                "instructor": "Jeffrey Weaver",
+                "location": "KAP305"
+            },
+            {
+                "section": "26293D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 16,
+                "registered": "5 of 15",
+                "instructor": "Simon Quach",
+                "location": "KAP335"
+            },
+            {
+                "section": "26295D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "Timothy Armstrong",
+                "location": "KAP335"
+            },
+            {
+                "section": "26297D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 8,
+                "registered": "3 of 15",
+                "instructor": "Robert Dekle,Monica Morlacco",
+                "location": "KAP319"
+            },
+            {
+                "section": "26299D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Jonathan Libgober",
+                "location": "KAP305"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "715",
+        "course_name": "Advanced Topics in Econometrics",
+        "units": "(4.0 units)",
+        "description": "Time-series methods; aggregation; structural models and methods such as factor analysis and multiple indicator models; various special topics.",
+        "sections": [
+            {
+                "section": "26294D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "1 of 10",
+                "instructor": "Timothy Armstrong,Hyungsik Roger Moon",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26298D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 19",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26300D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 24",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26302D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26304D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ECON",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26306D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

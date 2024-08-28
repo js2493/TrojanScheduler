@@ -1,0 +1,76 @@
+[
+    {
+        "term": "20242",
+        "department": "PPDE",
+        "course_number": "506",
+        "course_name": "Professional Residency in Public Administration",
+        "units": "(1.0 unit)",
+        "description": "Skills in written reporting, professional briefings and social media for public administrators; effective engagement for stakeholders and constituencies; research, analysis and reporting on current policy or management cases",
+        "sections": [
+            {
+                "section": "51072D",
+                "session": "596",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 20",
+                "instructor": "Nicolle Halbur",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPDE",
+        "course_number": "507",
+        "course_name": "Capstone Residency in Public Administration",
+        "units": "(1.0 unit)",
+        "description": "Development of enhanced skills in issue framing and options analysis in public administration for internal and external audiences.",
+        "sections": [
+            {
+                "section": "51074D",
+                "session": "598",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 20",
+                "instructor": "Dora Kingsley Vertenten,Tara Blanc",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "51075D",
+                "session": "598",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "18 of 20",
+                "instructor": "Dora Kingsley Vertenten,Tara Blanc",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PPDE",
+        "course_number": "628",
+        "course_name": "Introduction to Lean Health Care",
+        "units": "(2.0 units)",
+        "description": "Performance improvement methods and principles in health care; how Lean, Six-Sigma, and Human Centered Design (HCD) methodologies are applied to health care organizations to improve quality and efficiency.",
+        "sections": [
+            {
+                "section": "51052R",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 30",
+                "instructor": "Trent Lim",
+                "location": "TBA"
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "term": "20242",
+        "department": "GDEN",
+        "course_number": "710",
+        "course_name": "Knowledge Assessment for GDEN Students",
+        "units": "(1.0 unit)",
+        "description": "Review of topics explored in the previous courses of the program, including lectures and practical demonstrations or simulations and examinations of overall discipline knowledge.",
+        "sections": [
+            {
+                "section": "23440D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "23442D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Glenn Clark",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GDEN",
+        "course_number": "712B",
+        "course_name": "Capstone Research Project for GDEN Students",
+        "units": "(0.5 units)",
+        "description": "Production and defense of a research plan that demonstrates significant understanding of a topic in geriatric dentistry.",
+        "sections": [
+            {
+                "section": "23446D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Reyes Enciso,Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GDEN",
+        "course_number": "712D",
+        "course_name": "Capstone Research Project for GDEN Students",
+        "units": "(0.5 units)",
+        "description": "Production and defense of a research plan that demonstrates significant understanding of a topic in geriatric dentistry.",
+        "sections": [
+            {
+                "section": "23447D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Glenn Clark,Reyes Enciso",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GDEN",
+        "course_number": "713",
+        "course_name": "Common Systemic Conditions in Older Patients",
+        "units": "(2.0 units)",
+        "description": "Lectures on topics pertinent to the aging patient that highlight the differences between aging physiologic changes and disease caused conditions most common to this demographic. Open only to Master and Professional Dental students.",
+        "sections": [
+            {
+                "section": "23430D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Raymond Choi,Piedad Suarez,Nazanin Sharifi,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "23432D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "23451D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

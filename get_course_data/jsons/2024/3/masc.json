@@ -1,0 +1,867 @@
+[
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "110",
+        "course_name": "Materials Science",
+        "units": "(4.0 units)",
+        "description": "Chemical bonding and structure in crystalline, amorphous and molecular solids; tendency and mechanisms for chemical change; homogeneous and heterogeneous equilibria.",
+        "sections": [
+            {
+                "section": "32100D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "66 of 68",
+                "instructor": "Ken-ichi Nomura",
+                "location": "ZHS352"
+            },
+            {
+                "section": "32101D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "47 of 56",
+                "instructor": "Zhenglu Li",
+                "location": "ZHS352"
+            },
+            {
+                "section": "32102R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 2,
+                "registered": "32 of 32",
+                "instructor": "",
+                "location": "DMC203"
+            },
+            {
+                "section": "32104R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 4,
+                "registered": "29 of 30",
+                "instructor": "",
+                "location": "DMC101"
+            },
+            {
+                "section": "32106D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 8,
+                "registered": "33 of 33",
+                "instructor": "",
+                "location": "THH106"
+            },
+            {
+                "section": "32108R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 16,
+                "registered": "18 of 30",
+                "instructor": "",
+                "location": "WPH203"
+            },
+            {
+                "section": "32118D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "17 of 17",
+                "instructor": "",
+                "location": "PCE103"
+            },
+            {
+                "section": "32120R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "PCE103"
+            },
+            {
+                "section": "32122R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "PCE103"
+            },
+            {
+                "section": "32124R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "PCE103"
+            },
+            {
+                "section": "32128R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "PCE103"
+            },
+            {
+                "section": "32130R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "PCE103"
+            },
+            {
+                "section": "32126R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "PCE103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "310",
+        "course_name": "Materials Behavior and Processing",
+        "units": "(4.0 units)",
+        "description": "Mechanical behavior of metals, polymers, ceramics, and composites. Structure-process-property relationships. Mechanical testing, stress-strain relationships, microstructural characteristics and analysis. Material failure (fracture, fatigue, creep) and degradation.",
+        "sections": [
+            {
+                "section": "32110D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "34 of 34",
+                "instructor": "Lessa Grunenfelder",
+                "location": "KAP148"
+            },
+            {
+                "section": "32131D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "41 of 50",
+                "instructor": "Lessa Grunenfelder",
+                "location": "SSL202"
+            },
+            {
+                "section": "32117R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32139R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "5 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32109R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32113R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32119R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32123R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32125R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "334",
+        "course_name": "Mechanical Behavior of Materials",
+        "units": "(4.0 units)",
+        "description": "Basic material science, atomic bonding, crystalline structures, structural and mechanical behavior and characterization of metals, concrete, wood, composites and asphalt.",
+        "sections": [
+            {
+                "section": "29636R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "32 of 36",
+                "instructor": "Bora Gencturk",
+                "location": "KAP145"
+            },
+            {
+                "section": "29638R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "9 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            },
+            {
+                "section": "29640R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "7 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            },
+            {
+                "section": "29641R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 2,
+                "registered": "9 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            },
+            {
+                "section": "29642R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "7 of 9",
+                "instructor": "",
+                "location": "KAPB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "471",
+        "course_name": "Applied Quantum Mechanics for Engineers",
+        "units": "(4.0 units)",
+        "description": "Introductory quantum mechanics and applications. Schrodinger equation, atomic and molecular processes, time-dependent perturbation theory. Applications to lasers, solid-state demos and gaseous devices.",
+        "sections": [
+            {
+                "section": "30554R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "9 of 25",
+                "instructor": "Stephen Cronin",
+                "location": "DMC211"
+            },
+            {
+                "section": "30556R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "9 of 25",
+                "instructor": "",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "475",
+        "course_name": "Physical Properties of Polymers",
+        "units": "(4.0 units)",
+        "description": "Introduction to polymer physical properties and characterization, relationship to synthesis techniques and processing techniques, natural and synthetic materials, property optimization and modern applications.",
+        "sections": [
+            {
+                "section": "29452D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "7 of 30",
+                "instructor": "Malancha Gupta",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "503",
+        "course_name": "Thermodynamics of Materials",
+        "units": "(4.0 units)",
+        "description": "Classical thermodynamics, chemical potential, pure phases and mixtures; interphase relationships; binary and ternary solutions; free energy and activity; galvanic cell, electrochemical potential and Pourbaix diagram.",
+        "sections": [
+            {
+                "section": "32140D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "6 of 15",
+                "instructor": "Paulo Branicio",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32142R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "16 of 56",
+                "instructor": "Paulo Branicio",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "505",
+        "course_name": "Crystals and Anisotropy",
+        "units": "(4.0 units)",
+        "description": "Stereographic projection; Laue back reflection method; crystal orientation; line and planar crystalline defects; tensors; susceptibility; permeability and permittivity; stress and strain; piezoelectricity; elasticity.",
+        "sections": [
+            {
+                "section": "32144R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "11 of 31",
+                "instructor": "Steve Nutt",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "507",
+        "course_name": "Micro- and Nano-Fabrication Technology",
+        "units": "(4.0 units)",
+        "description": "Physical basis of technologies for the fabrication of micro- and nano-scale devices. Thin-film deposition, etching, and material modification processes; pattern transfer methods.",
+        "sections": [
+            {
+                "section": "30773R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "40 of 40",
+                "instructor": "Wei Wu",
+                "location": "THH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "512",
+        "course_name": "Thin Film Science and Technology",
+        "units": "(4.0 units)",
+        "description": "Application of thin film science and technology; vapor phase growth of thin films, their characterization, properties and applications.",
+        "sections": [
+            {
+                "section": "32146R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "9 of 15",
+                "instructor": "Jayakanth Ravichandran",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "515",
+        "course_name": "Basics of Machine Learning for Materials",
+        "units": "(4.0 units)",
+        "description": "Introduction to machine learning, basics of python programming and data science tools; hands-on projects of materials and process modeling based on machine learning methods.",
+        "sections": [
+            {
+                "section": "32147R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "8 of 25",
+                "instructor": "Ken-ichi Nomura",
+                "location": "GFS107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "520",
+        "course_name": "Mathematical Methods for Deep Learning",
+        "units": "(4.0 units)",
+        "description": "Understanding deep learning: for students in engineering, physical and life sciences and computer science with mathematical background.",
+        "sections": [
+            {
+                "section": "32127R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 24",
+                "instructor": "Rajiv Kalia",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "534",
+        "course_name": "Materials Characterization",
+        "units": "(4.0 units)",
+        "description": "Characterization of solid structure by X-ray diffraction, electron microscopy, atomic force and tunneling microscopy and elemental analysis by photoemission, X-ray fluorescence, Auger, energy loss spectroscopies.",
+        "sections": [
+            {
+                "section": "32177R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "14 of 40",
+                "instructor": "Yu-Tsun Shao",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "539",
+        "course_name": "Engineering Quantum Mechanics",
+        "units": "(4.0 units)",
+        "description": "Quantum mechanics for engineering majors who work with solid-state devices, quantum electronics, and photonics. Schroedinger equation, perturbation theory, electronic and optical processes.",
+        "sections": [
+            {
+                "section": "30702R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 40",
+                "instructor": "Tony Levi",
+                "location": "VPD110"
+            },
+            {
+                "section": "30733R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "13 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "551",
+        "course_name": "Mechanical Behavior of Engineering Materials",
+        "units": "(4.0 units)",
+        "description": "Mechanical properties of materials; macroscopic mechanical behavior related to structure and microstructure of the material; elementary dislocation theory related to basic strengthening mechanisms; fatigue and fracture; nanomaterials.",
+        "sections": [
+            {
+                "section": "32189D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "23 of 40",
+                "instructor": "Corinne Packard",
+                "location": "OHE100D"
+            },
+            {
+                "section": "32190D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Corinne Packard",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "575",
+        "course_name": "Basics of Atomistic Simulation of Materials",
+        "units": "(4.0 units)",
+        "description": "Introduction to atomistic modeling and simulations of materials usingMolecular Dynamics and Monte Carlo methods, basic concepts and how tocharacterize materials properties.",
+        "sections": [
+            {
+                "section": "32159D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "3 of 15",
+                "instructor": "Ken-ichi Nomura",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32157D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "10 of 30",
+                "instructor": "Ken-ichi Nomura",
+                "location": "OHE120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32154D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Andrea Hodge",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "32156D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "32158D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "32160D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "598",
+        "course_name": "Materials Science Seminar",
+        "units": "(1.0 units, max 2)",
+        "description": "Seminar in Materials Science research.",
+        "sections": [
+            {
+                "section": "32175D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 4,
+                "registered": "6 of 37",
+                "instructor": "",
+                "location": "ZHS352"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "32164D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 30",
+                "instructor": "Andrea Hodge",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32166D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32168D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32170D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32172D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MASC",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "32174D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "120",
+        "course_name": "General Biology: Organismal Biology and Evolution",
+        "units": "(4.0 units)",
+        "description": "In-depth survey of key topics related to advances in our knowledge of the diversity of life and evolution; origin of life; eukaryotes/prokaryotes; ecology.",
+        "sections": [
+            {
+                "section": "13004R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 30,
+                "registered": "8 of 40",
+                "instructor": "Raffaella Ghittoni,Trond Sigurdsen",
+                "location": "ZHS163"
+            },
+            {
+                "section": "13005R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Eliza Kirsch",
+                "location": "ZHS363"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "220",
+        "course_name": "General Biology: Cell Biology and Physiology",
+        "units": "(4.0 units)",
+        "description": "In-depth survey of key topics related to advances in our knowledge of cellular biology and physiology; cell composition/metabolism; gene action; organism structure and function. Recommended preparation: high school chemistry; BISC 120L or BISC 121L.",
+        "sections": [
+            {
+                "section": "13012R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 60,
+                "registered": "7 of 20",
+                "instructor": "Rita Barakat",
+                "location": "HNB100"
+            },
+            {
+                "section": "13141R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Elizabeth Beachem",
+                "location": "ZHS369"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "312",
+        "course_name": "Molecular Biochemistry",
+        "units": "(4.0 units)",
+        "description": "Structure and function of biological macromolecules; major metabolic pathways including glycolysis and photosynthesis. DNA replication, repair, and recombination; gene expression, regulation and epigenetics.",
+        "sections": [
+            {
+                "section": "13523R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 475,
+                "end_time": 600,
+                "days": 30,
+                "registered": "25 of 25",
+                "instructor": "Nancy Castro",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "428",
+        "course_name": "The Biology of Health from a Global Perspective",
+        "units": "(4.0 units, max 8)",
+        "description": "Prevention and surveillance of infectious and chronic diseases from a global public health and systems perspective.",
+        "sections": [
+            {
+                "section": "13428D",
+                "session": "101",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 24",
+                "instructor": "Nancy Castro",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "13490D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Christa Bancroft",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Lecture and discussion in specialized areas of the biological sciences. Students cannot register more than twice for this course. Not open to freshmen and sophomores. Recommended preparation: BISC 220L or BISC 221L, BISC 320L, BISC 325 and BISC 330L.",
+        "sections": [
+            {
+                "section": "13499R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 30,
+                "registered": "0 of 12",
+                "instructor": "Cameron Egan",
+                "location": "DMC204"
+            },
+            {
+                "section": "13500R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 10,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "ZHS361"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "13590D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Ian Ehrenreich",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "13596D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ian Ehrenreich",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "13790D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 200",
+                "instructor": "Ian Ehrenreich",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "13792D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "13794D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

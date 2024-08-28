@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20243",
+        "department": "SURG",
+        "course_num": "701A",
+        "course_name": "Seminar: Advanced Oral Surgery",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Problems in advanced oral surgery and hospital oral surgery including student presentations and critique of clinical cases.",
+        "sections": [
+            {
+                "section": "24502D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SURG",
+        "course_num": "702A",
+        "course_name": "Seminar: Review of the Oral Surgery Literature",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Critical analysis of recent oral surgery and other related literature.",
+        "sections": [
+            {
+                "section": "24503D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SURG",
+        "course_num": "708A",
+        "course_name": "Orthagnothic Surgery",
+        "units": "(2.0 units)",
+        "description": "Surgical planning and treatment of patients with skeletal deformaties.",
+        "sections": [
+            {
+                "section": "24504D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SURG",
+        "course_num": "761B",
+        "course_name": "Clinic: Advanced Oral Surgery",
+        "units": "(1.0-10.0 units)",
+        "description": "Clinical evaluation and surgical treatment of dento-alveolar disease in out-patient clinic.",
+        "sections": [
+            {
+                "section": "24505D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SURG",
+        "course_num": "763B",
+        "course_name": "Clinic: Advanced Hospital Oral Surgery and Anesthesia",
+        "units": "(1.0-10.0 units)",
+        "description": "Surgical treatment of patients and service in medical anesthesia at the LAC/USC Medical Center.",
+        "sections": [
+            {
+                "section": "24506D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Nam Cho",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

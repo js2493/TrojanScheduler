@@ -1,0 +1,234 @@
+[
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "500",
+        "course_name": "Principles of Emergency Management",
+        "units": "(2.0 units)",
+        "description": "Explores the historical development of emergency management as a distinct discipline in the United States and abroad, including theories, terminology and international coordination.",
+        "sections": [
+            {
+                "section": "83000D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "10 of 30",
+                "instructor": "Mitch Saruwatari,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "505",
+        "course_name": "Emergency Management Policies and Regulations",
+        "units": "(2.0 units)",
+        "description": "Examines policies, regulations, politics and budgets that impact emergency management domestically and internationally in the government, non-profit and private sectors.",
+        "sections": [
+            {
+                "section": "83010D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "15 of 30",
+                "instructor": "Meghan McPherson,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "510",
+        "course_name": "Social and Cultural Competency in Emergency Management",
+        "units": "(2.0 units)",
+        "description": "Explores how emergency management practices and community interactions can help address social, economic and cultural inequities while building increased resilience.",
+        "sections": [
+            {
+                "section": "83020D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "12 of 30",
+                "instructor": "Susan Fitzgerald,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "515",
+        "course_name": "Emergency Management Administration",
+        "units": "(2.0 units)",
+        "description": "Examines the administrative functions of an emergency manager, including project management, policy implementation, acquisition of funding and managing diverse teams.",
+        "sections": [
+            {
+                "section": "83030D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "13 of 30",
+                "instructor": "Lydia Watts,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "520",
+        "course_name": "Critical Decision-Making in Emergency Management",
+        "units": "(2.0 units)",
+        "description": "Explores how to manage and assess information to limit risk and make ethical, critical decisions under both steady-state and crisis situations.",
+        "sections": [
+            {
+                "section": "83040D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Kevin Mcgowan",
+                "location": ""
+            },
+            {
+                "section": "83041D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "26 of 30",
+                "instructor": "Monique Lewis,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "525",
+        "course_name": "Emergency Management and Disaster Planning",
+        "units": "(2.0 units)",
+        "description": "Examines the necessary components of deliberate and crisis action plans that are used to prepare for, respond to, and recover from disasters.",
+        "sections": [
+            {
+                "section": "83050D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Mitch Saruwatari",
+                "location": ""
+            },
+            {
+                "section": "83051D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "20 of 30",
+                "instructor": "David Kang,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "540",
+        "course_name": "Emergency Management Communication",
+        "units": "(2.0 units)",
+        "description": "Creating inclusive and credible messages of risk across the disaster life cycle through a variety of methods.",
+        "sections": [
+            {
+                "section": "83080D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "16 of 30",
+                "instructor": "Kevin Mcgowan,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "545",
+        "course_name": "Driving Successful Outcomes in Emergency Management",
+        "units": "(2.0 units)",
+        "description": "Explores how effective emergency management leaders develop trust, avoid ethical pitfalls, strengthen partnerships and integrate equity throughout the disaster life cycle.",
+        "sections": [
+            {
+                "section": "83090D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "17 of 30",
+                "instructor": "Helen Chavez,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "550",
+        "course_name": "Equity and Resilience in Emergency Management",
+        "units": "(2.0 units)",
+        "description": "Examines equity and resilience in emergency management as they pertain to areas such as planning, mitigation, disaster logistics and supply chains.",
+        "sections": [
+            {
+                "section": "83100D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "21 of 30",
+                "instructor": "Jill Ramaker,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EM",
+        "course_number": "555",
+        "course_name": "Emergency Management Capstone",
+        "units": "(2.0 units)",
+        "description": "Demonstrate knowledge and skills developed throughout the emergency management program in an integrated way.",
+        "sections": [
+            {
+                "section": "83110D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Tiffany Danko,Michael Chen,Jenny Lee,Christopher Montante,Nicolas Perez",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

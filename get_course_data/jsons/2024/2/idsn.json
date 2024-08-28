@@ -1,0 +1,212 @@
+[
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "515",
+        "course_name": "Professional Practices Residential",
+        "units": "(2.0 units, max 4)",
+        "description": "One-week off-campus residential. Applied, intensive workshop format focused on solutions for real-world problems with input from industry experts.",
+        "sections": [
+            {
+                "section": "34062D",
+                "session": "549",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 1020,
+                "days": 0,
+                "registered": "22 of 30",
+                "instructor": "Matthew Manos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "523",
+        "course_name": "User Experience Design",
+        "units": "(4.0 units)",
+        "description": "Fundamental methods, concepts and techniques necessary to design useful, functional and delightful mobile and web products.",
+        "sections": [
+            {
+                "section": "34077R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1035,
+                "end_time": 1160,
+                "days": 10,
+                "registered": "20 of 25",
+                "instructor": "Chris Swain",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "525",
+        "course_name": "Business Essentials",
+        "units": "(3.0 units)",
+        "description": "Overview of general business and management concepts and techniques that builds theoretical and analytical fluency and identifies and examines leadership and managerial challenges.",
+        "sections": [
+            {
+                "section": "34083R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1265,
+                "days": 8,
+                "registered": "10 of 25",
+                "instructor": "Aswin Pranam",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "528",
+        "course_name": "Using Intellectual Property Laws to Protect Your Products and Ideas",
+        "units": "(2.0 units)",
+        "description": "The second of a two-course sequence explaining issues of copyrights, trademarks and patents that underly ownership of an idea or product.",
+        "sections": [
+            {
+                "section": "34085R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1035,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "7 of 25",
+                "instructor": "Michael Overing",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "529",
+        "course_name": "Marketing Strategy for Startups",
+        "units": "(3.0 units)",
+        "description": "A focus on ideal marketing strategies for early-stage startups seeking to build communities of early adopters and beta testers for products, services, and systems.",
+        "sections": [
+            {
+                "section": "34091R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1035,
+                "end_time": 1225,
+                "days": 4,
+                "registered": "21 of 25",
+                "instructor": "Jay Clewis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "545",
+        "course_name": "Integrative Project",
+        "units": "(3.0 units)",
+        "description": "Faculty-mentored project. Demonstrate individual and simultaneous skills and competency across fields and within cross-functional, cross-disciplinary teams.",
+        "sections": [
+            {
+                "section": "34113R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1295,
+                "days": 16,
+                "registered": "8 of 25",
+                "instructor": "Chris Swain,Aaron Siegel",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "546",
+        "course_name": "Integrative Studio",
+        "units": "(2.0 units, max 4)",
+        "description": "A project-based course that uses human-centered design research and methodologies to identify and explore a specific problem space or context.",
+        "sections": [
+            {
+                "section": "34116R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1295,
+                "days": 16,
+                "registered": "6 of 25",
+                "instructor": "Jay Clewis,Jean-Michel Arnoult",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "550",
+        "course_name": "Opportunity and Uncertainty",
+        "units": "(4.0 units)",
+        "description": "Discipline-specific, cross-disciplinary and shared approaches to recognizing/analyzing opportunities, identifying/framing problems and developing/iterating solutions. Techniques gleaned from entrepreneurship, creative practices, critical thinking methods, ethnography, systems theory.",
+        "sections": [
+            {
+                "section": "34123D",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1035,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "Jay Clewis",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "560",
+        "course_name": "Narrative and Storytelling",
+        "units": "(4.0 units)",
+        "description": "Discipline-specific, cross-disciplinary and shared approaches to exploring visual, written and spoken storytelling using digital modalities. Topics include communication theory, narrative structures and content creation.",
+        "sections": [
+            {
+                "section": "34142R",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": 1035,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "9 of 25",
+                "instructor": "Robert Checchi",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "IDSN",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units, which may be applied to the degree, to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "34172D",
+                "session": "068",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Michael Crowley",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

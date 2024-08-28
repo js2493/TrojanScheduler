@@ -1,0 +1,34 @@
+[
+    {
+        "term": "20242",
+        "department": "PTHL",
+        "course_number": "701",
+        "course_name": "Clinicopathologic Conference",
+        "units": "(0.0-12.0 units, max 4)",
+        "description": "Clinicopathologic correlation of diseases of the head and neck. Seminar, 1 hour. Presented at LAC/USC Medical Center.",
+        "sections": [
+            {
+                "section": "24350D",
+                "session": "023",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Audrey Boros",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24351D",
+                "session": "028",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 5",
+                "instructor": "Audrey Boros",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

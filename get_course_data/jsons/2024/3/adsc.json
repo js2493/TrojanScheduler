@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20243",
+        "department": "ADSC",
+        "course_num": "501",
+        "course_name": "Foundations in Addiction Science",
+        "units": "(4.0 units)",
+        "description": "Transdisciplinary study of addiction science bridging the gap between science, practice and policy. Explores facets of addiction and applies theories to the study of addiction.",
+        "sections": [
+            {
+                "section": "50251R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 2,
+                "registered": "23 of 30",
+                "instructor": "Adam Leventhal,Jennifer Lewis",
+                "location": "SSB103E"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADSC",
+        "course_num": "505A",
+        "course_name": "Research Methods in Addiction Science",
+        "units": "(4.0 units)",
+        "description": "Introduces research in addiction sciences through directed readings, live lectures and development of an independent research project.",
+        "sections": [
+            {
+                "section": "50253R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 4,
+                "registered": "5 of 30",
+                "instructor": "Jessica Barrington-Trimis",
+                "location": "SSB103E"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ADSC",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "50255R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Jessica Barrington-Trimis,Terry Church,Dayoung Bae,Adam Leventhal,Jennifer Lewis",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

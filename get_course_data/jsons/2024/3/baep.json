@@ -1,0 +1,965 @@
+[
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "423",
+        "course_name": "Management of Small Businesses",
+        "units": "(4.0 units)",
+        "description": "Strategic, organizational, financial, and human issues facing the small business.",
+        "sections": [
+            {
+                "section": "14350R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "43 of 46",
+                "instructor": "Glenn Fox",
+                "location": "JFF416"
+            },
+            {
+                "section": "14352R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "46 of 46",
+                "instructor": "Glenn Fox",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "450",
+        "course_name": "Fundamentals of Entrepreneurship",
+        "units": "(4.0 units)",
+        "description": "Starting and managing one's own business: developing a viable concept, organizing the enterprise, market and financial planning, and controlling the organization. (Duplicates credit in BAEP 451)",
+        "sections": [
+            {
+                "section": "14354R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "47 of 55",
+                "instructor": "ShiaoFong Yin",
+                "location": "JFF414"
+            },
+            {
+                "section": "14358R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "53 of 55",
+                "instructor": "Jennifer Walske",
+                "location": "JFF414"
+            },
+            {
+                "section": "14360R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "55 of 55",
+                "instructor": "Albert Napoli",
+                "location": "JFF414"
+            },
+            {
+                "section": "14364R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "35 of 48",
+                "instructor": "Audra Quinn",
+                "location": "JFF414"
+            },
+            {
+                "section": "14366R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "43 of 55",
+                "instructor": "Audra Quinn",
+                "location": "JFF414"
+            },
+            {
+                "section": "14368R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "32 of 30",
+                "instructor": "",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "452",
+        "course_name": "Feasibility Analysis",
+        "units": "(4.0 units)",
+        "description": "Students develop, analyze, and validate entrepreneurial concepts (including marketing, operational, and financial considerations) using customer feedback and risk assessment to conclude worthiness to pursue.",
+        "sections": [
+            {
+                "section": "14370R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "44 of 46",
+                "instructor": "Albert Napoli",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "453",
+        "course_name": "Venture Management",
+        "units": "(4.0 units)",
+        "description": "Design and application of organization structures and systems in management of new ventures.",
+        "sections": [
+            {
+                "section": "14372R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "46 of 48",
+                "instructor": "Christopher Harrer",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "455",
+        "course_name": "Founder's Dilemmas",
+        "units": "(4.0 units)",
+        "description": "Prepares potential founders, hires, and investors for the decisions they will face both before and during their involvement with new ventures.",
+        "sections": [
+            {
+                "section": "14374R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "28 of 45",
+                "instructor": "Audra Quinn",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "460",
+        "course_name": "Seminar in Entrepreneurship",
+        "units": "(2.0 units, max 4)",
+        "description": "Perspectives into the art and science of entrepreneurship under the guidance of a master instructor. Specific topics vary.",
+        "sections": [
+            {
+                "section": "14376R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "Ben Van De Bunt,Laura Fox",
+                "location": "BRI8"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "465",
+        "course_name": "Digital Playbook for Entrepreneurs: Creating a Tech Startup",
+        "units": "(2.0 units)",
+        "description": "Learn to use digital tools and technologies, such as social media, mobile, cloud computing, and e-commerce, to start and grow entrepreneurial ventures.",
+        "sections": [
+            {
+                "section": "14380R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "48 of 48",
+                "instructor": "Anthony Borquez",
+                "location": "JFF416"
+            },
+            {
+                "section": "14382R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "60 of 60",
+                "instructor": "Anthony Borquez",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "472",
+        "course_name": "The Science of Peak Performance",
+        "units": "(2.0 units)",
+        "description": "Ingrains expertise and application of the science of peak performance, broadens preparation for personal challenge, and builds business-centered critical thinking and applied analytical skills.",
+        "sections": [
+            {
+                "section": "14384R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "58 of 60",
+                "instructor": "Glenn Fox",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "473",
+        "course_name": "Sales Mindset for Entrepreneurs",
+        "units": "(2.0 units)",
+        "description": "The sales planning decisions that entrepreneurs make, including how to accelerate startup revenue, what metrics drive success and how to build great sales teams.",
+        "sections": [
+            {
+                "section": "14386R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "60 of 60",
+                "instructor": "Colin Coggins,Garrett Brown",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "475",
+        "course_name": "Entertainment Entrepreneurship",
+        "units": "(2.0 units)",
+        "description": "Explore the current entrepreneurial trends and opportunities in the entertainment industry and uncover the key success factors for entrepreneurs in this industry.",
+        "sections": [
+            {
+                "section": "14388R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "36 of 36",
+                "instructor": "Michael Napoliello",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "476",
+        "course_name": "Green Entrepreneurship",
+        "units": "(2.0 units)",
+        "description": "Provides future innovators and entrepreneurs with the tools they will need to spot opportunities and design compelling, environmentally friendly product/service offerings.",
+        "sections": [
+            {
+                "section": "14390R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Jeremy Dann",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "477",
+        "course_name": "Entrepreneurial Imagination: Past, Present and Future",
+        "units": "(4.0 units)",
+        "description": "A case-based study of entrepreneurs and entrepreneurial endeavors over time to understand how the past can inform the successful launch of new ventures.",
+        "sections": [
+            {
+                "section": "14437R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "23 of 36",
+                "instructor": "Dan Wadhwani",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "480",
+        "course_name": "Entrepreneurial Family Business",
+        "units": "(4.0 units)",
+        "description": "Explores the dynamics of family and privately held businesses. Exploring generational and extended family issues, opportunities and obstacles faced in today's environment.",
+        "sections": [
+            {
+                "section": "14392R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "52 of 60",
+                "instructor": "Albert Napoli",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "491",
+        "course_name": "Introduction to Social Entrepreneurship",
+        "units": "(4.0 units)",
+        "description": "Analysis of social enterprise models from micro-finance to job development. Analysis of basic issues regarding the difference between socially responsible companies, for-profit, and non-profit-run enterprises.",
+        "sections": [
+            {
+                "section": "14394R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 36",
+                "instructor": "Jessica Jackley",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "495",
+        "course_name": "Practicum in Business Issues (Internship)",
+        "units": "(1.0 unit)",
+        "description": "Combined classroom discussion and field application of business theories and practices; part-time internship employment. Project to be jointly defined by student, employer and professor. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14395D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "497",
+        "course_name": "Field Project in Entrepreneurship",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Individual or team projects solving real problems for an enterprise. Situation analyses; research proposal composition; field research techniques; statistical analysis; oral and written presentations. Open only to Juniors and Seniors. Graded Credit/No Credit.",
+        "sections": [
+            {
+                "section": "14397D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Current developments in the field of entrepreneurship: topics to be selected each semester.",
+        "sections": [
+            {
+                "section": "14355R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "551",
+        "course_name": "Introduction to New Ventures",
+        "units": "(3.0 units)",
+        "description": "Study and development of analytical and conceptual skills in the management of new enterprises and new ventures within large organizations. Duplicates credit in BAEP 549, GSBA 535, GSBA 550, and GSBA 550ab.",
+        "sections": [
+            {
+                "section": "14441D",
+                "session": "693",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 1080,
+                "days": 0,
+                "registered": "69 of 70",
+                "instructor": "Elissa Grossman,",
+                "location": "JFFLL125"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "552",
+        "course_name": "Venture Feasibility",
+        "units": "(3.0 units)",
+        "description": "Assess the viability of and develop potential new business opportunities through the application of analytic frameworks and field research. Duplicates credit in BAEP 556 and BAEP 566.",
+        "sections": [
+            {
+                "section": "14406R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "54 of 54 (3 on waitlist)",
+                "instructor": "Hovig Tchalian",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "553",
+        "course_name": "Cases in New Venture Management",
+        "units": "(1.5-3.0 units)",
+        "description": "Cases and readings expose students to the challenges of developing long-range strategies for entrepreneurial ventures. Case work emphasizes developing new industries, growth through strategic alliances, and issues involved in the long-term strategic positioning of emerging companies.",
+        "sections": [
+            {
+                "section": "14408R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "38 of 58",
+                "instructor": "Christopher Harrer",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "555",
+        "course_name": "Founder's Dilemmas: Anticipate and Avoid Startup Pitfalls",
+        "units": "(3.0 units)",
+        "description": "Delves into founders' early decisions about when and whether to found, co-founders, hires, and investors that tend to get them into trouble down the road.",
+        "sections": [
+            {
+                "section": "14409R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30 (8 on waitlist)",
+                "instructor": "Dan Wadhwani",
+                "location": "JKP104"
+            },
+            {
+                "section": "14413D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "15 of 15 (5 on waitlist)",
+                "instructor": "Dan Wadhwani",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "556",
+        "course_name": "Technology Feasibility",
+        "units": "(3.0 units)",
+        "description": "Assess the viability of and develop potential technology business opportunities through the application of analytic frameworks and field research. Duplicates credit in BAEP 552 and BAEP 566.",
+        "sections": [
+            {
+                "section": "14412R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "54 of 54 (10 on waitlist)",
+                "instructor": "Hovig Tchalian",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "559",
+        "course_name": "Investing in New Ventures",
+        "units": "(3.0 units)",
+        "description": "Focus on the entrepreneurial skill set applied to new venture opportunities. Taught from the business plan reader's point of view; focus on selecting opportunities, structuring the relationship, adding value and realizing the value of that investment.",
+        "sections": [
+            {
+                "section": "14418R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "48 of 48",
+                "instructor": "Carmen Palafox",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "561",
+        "course_name": "Entrepreneurship in Innovative Industries: Life Sciences",
+        "units": "(1.5 units)",
+        "description": "The challenges of new venture creation in the biotechnology, medical device, and healthcare areas; experience, evaluate, and analyze profits of current impact in the life sciences.",
+        "sections": [
+            {
+                "section": "14420R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 8,
+                "registered": "18 of 44",
+                "instructor": "Molly Schmid",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "565",
+        "course_name": "Venture Lab",
+        "units": "(3.0 units)",
+        "description": "Interact with startups and venture capitalists to develop skills and processes to source deals, perform diligence, evaluate investments, draft investment memoranda and manage portfolio companies.",
+        "sections": [
+            {
+                "section": "14422D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "33 of 33 (8 on waitlist)",
+                "instructor": "Shane Kelly",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "566",
+        "course_name": "Cases in Feasibility Analysis for Social Ventures",
+        "units": "(3.0 units)",
+        "description": "Deploy analytic frameworks and conduct fieldwork to evaluate the real-world potential of new business concepts with a specific focus on new social ventures. Recommended preparation: BAEP 589 or BAEP 591. Duplicates credit in BAEP 552 and BAEP 556.",
+        "sections": [
+            {
+                "section": "14424R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "40 of 45",
+                "instructor": "Jennifer Walske",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "571",
+        "course_name": "Social Innovation Design",
+        "units": "(3.0 units)",
+        "description": "Use innovative problem-solving approaches to design radically affordable solutions to challenges faced by under-resourced communities. Engage in early-stage market and rapid prototyping.",
+        "sections": [
+            {
+                "section": "14426D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "40 of 45",
+                "instructor": "Jessica Jackley",
+                "location": "JFF414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "572",
+        "course_name": "Performance Mindset for Business",
+        "units": "(1.5 units)",
+        "description": "Develop a performance mindset to better the ability to integrate challenges and define personal growth in startups and innovative organizations.",
+        "sections": [
+            {
+                "section": "14414D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "12 of 12 (4 on waitlist)",
+                "instructor": "Glenn Fox",
+                "location": "JFF417"
+            },
+            {
+                "section": "14430R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "23 of 23 (8 on waitlist)",
+                "instructor": "Glenn Fox",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "575",
+        "course_name": "Entrepreneurship in the Media and Entertainment Industry",
+        "units": "(1.5 units)",
+        "description": "Introduction to the ever-evolving field of media and entertainment with a focus on entrepreneurial opportunities within the industry.",
+        "sections": [
+            {
+                "section": "14433R",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "23 of 34",
+                "instructor": "Sherry Gunther Shugerman",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "577",
+        "course_name": "The Entrepreneurial CEO: The Real World of Leading Startups",
+        "units": "(1.5 units)",
+        "description": "Practical tools for entrepreneurial leaders to manage themselves, hire and manage people in their growing start-ups (and beyond), and make decisions in fast-changing environments.",
+        "sections": [
+            {
+                "section": "14415D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 2,
+                "registered": "16 of 16 (1 on waitlist)",
+                "instructor": "Geraldine Coppola Martin",
+                "location": "JKP112"
+            },
+            {
+                "section": "14436R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 2,
+                "registered": "30 of 30",
+                "instructor": "Geraldine Coppola Martin",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "585",
+        "course_name": "Seminar: The Entrepreneurial Mindset",
+        "units": "(1.5 units)",
+        "description": "Explore the art and science of entrepreneurship under the guidance of a master entrepreneur.",
+        "sections": [
+            {
+                "section": "14416D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "5 of 7",
+                "instructor": "",
+                "location": "HOH114"
+            },
+            {
+                "section": "14417D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "HOH114"
+            },
+            {
+                "section": "14428R",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "11 of 11 (8 on waitlist)",
+                "instructor": "Paul Orfalea",
+                "location": "HOH114"
+            },
+            {
+                "section": "14429R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "8 of 8 (3 on waitlist)",
+                "instructor": "Paul Orfalea",
+                "location": "HOH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14444D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "592",
+        "course_name": "Field Research in Business Entrepreneurship",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Individual or team projects studying the business practices of an entrepreneurial industry, company, government agency, country, etc. Proposal, data collection, analyses, and written report. (Recommended preparation: completion of required MBA, MAcc, MBT, MKT, MSEI or MSSE course work)",
+        "sections": [
+            {
+                "section": "14445D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "593",
+        "course_name": "Independent Research in Business Entrepreneurship",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required.",
+        "sections": [
+            {
+                "section": "14446D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "595",
+        "course_name": "Internship in Business Entrepreneurship",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest. (Curricular Practical Training.) Recommended preparation: completion of required MBA, MAcc, MBT, MKT, MSEI, or MSSE coursework.",
+        "sections": [
+            {
+                "section": "14411D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "14447D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "596",
+        "course_name": "Research Practicum in Business Entrepreneurship",
+        "units": "(0.5-2.0 units, max 8)",
+        "description": "Hands-on practical experience working with a faculty member in the Lloyd Greif Center for Entrepreneurial Studies on an ongoing research project.",
+        "sections": [
+            {
+                "section": "14448D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "597",
+        "course_name": "Consulting Project in Business Entrepreneurship",
+        "units": "(0.5-5.0 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Open only to Master and Doctoral Students",
+        "sections": [
+            {
+                "section": "14449D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BAEP",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.5-3.0 units, max 9)",
+        "description": "Current developments in the field of entrepreneurship: topics to be selected each semester.",
+        "sections": [
+            {
+                "section": "14432R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "22 of 46",
+                "instructor": "Jared Grusd",
+                "location": "ACC310"
+            },
+            {
+                "section": "14434R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "22 of 46",
+                "instructor": "Albert Napoli",
+                "location": "JKP202"
+            }
+        ]
+    }
+]

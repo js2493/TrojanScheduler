@@ -1,0 +1,385 @@
+[
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "325",
+        "course_name": "Digital Cinematography",
+        "units": "(3.0 units)",
+        "description": "The craft of cinematography for digital media; includes lectures, on-set video production exercises, and scene studies.",
+        "sections": [
+            {
+                "section": "17818D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 20,
+                "registered": "16 of 21",
+                "instructor": "Philip Schwartz",
+                "location": "SCESTG2"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "332",
+        "course_name": "The Art of Motion Picture Editing",
+        "units": "(2.0 units)",
+        "description": "Analyzing and deconstructing all the elements of the art of creatively manipulating visual images through editing.",
+        "sections": [
+            {
+                "section": "17807D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 10,
+                "registered": "5 of 18",
+                "instructor": "Bartholomew Burcham",
+                "location": "SCA203"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "392",
+        "course_name": "Filmmaking Intensive",
+        "units": "(4.0 units)",
+        "description": "The basic technical and aesthetic concepts underlying motion picture production and an exploration of visual language.",
+        "sections": [
+            {
+                "section": "17812D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 42,
+                "registered": "21 of 21",
+                "instructor": "Bonnie Blake,Sam Rocco",
+                "location": "SCA316"
+            },
+            {
+                "section": "17813D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "15 of 21",
+                "instructor": "Petra Haffter,James Okeeffe",
+                "location": "SCA310"
+            },
+            {
+                "section": "17814D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "20 of 21",
+                "instructor": "Todd Louiso,Jeremy Royce",
+                "location": "SCA316"
+            },
+            {
+                "section": "17846D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 42,
+                "registered": "21 of 21",
+                "instructor": "Robert Kositchek,Seth Koury",
+                "location": "SCA310"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "405",
+        "course_name": "Studio Producing and Directing",
+        "units": "(4.0 units)",
+        "description": "Understanding the craft and art of directing in the studio system, and developing a working methodology for creative producing.",
+        "sections": [
+            {
+                "section": "17823D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 30,
+                "registered": "21 of 21",
+                "instructor": "David Maquiling",
+                "location": "SCA209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "410",
+        "course_name": "Non-Fiction Filmmaking",
+        "units": "(4.0 units)",
+        "description": "Conceiving, researching, writing, producing, directing, and editing an original non-fiction work and exploring practical training in techniques of non-fiction film.",
+        "sections": [
+            {
+                "section": "17820D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 20,
+                "registered": "12 of 18",
+                "instructor": "Doug Blush",
+                "location": "SCA203"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "411",
+        "course_name": "Directing the Short Film",
+        "units": "(4.0 units)",
+        "description": "An overview of the concerns, functions and responsibilities of the director. Casting, producing and directing an individual short film project.",
+        "sections": [
+            {
+                "section": "17845D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 800,
+                "days": 10,
+                "registered": "16 of 21",
+                "instructor": "Temitayo Lanre-Amos",
+                "location": "SCA214"
+            },
+            {
+                "section": "17849D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 800,
+                "days": 20,
+                "registered": "19 of 21",
+                "instructor": "Ashley York",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "413",
+        "course_name": "Digital Editing",
+        "units": "(4.0 units)",
+        "description": "Introduction to non-linear editing techniques, hardware, digitizing, logging, and special effects, using the AVID Media Composer editing system.",
+        "sections": [
+            {
+                "section": "17816D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "9 of 18",
+                "instructor": "Rommel Villa Barriga",
+                "location": "SCAB134"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "419",
+        "course_name": "Inside the Business of Film and Television",
+        "units": "(4.0 units)",
+        "description": "An overview of the contemporary studio system, independent films, and television, including script analysis, pitching, optioning properties, the marketplace, representation, career management, and networking.",
+        "sections": [
+            {
+                "section": "17829D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1260,
+                "days": 20,
+                "registered": "14 of 50",
+                "instructor": "Kim Sherman",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "478",
+        "course_name": "Horror Film Analysis and Production",
+        "units": "(4.0 units)",
+        "description": "The fundamentals of horror filmmaking, analysis of horror as a genre and professional opportunities in the entertainment industry.",
+        "sections": [
+            {
+                "section": "17831D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 800,
+                "days": 20,
+                "registered": "13 of 21",
+                "instructor": "Sean Keller",
+                "location": "SCA316"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Prerequisite: consent of instructor.",
+        "sections": [
+            {
+                "section": "17800D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17805D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17806D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "495",
+        "course_name": "Internship in Cinematic Arts",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "On-the-job film, television, and interactive industry experience in the areas of interest of the individual student. Requires departmental approval.",
+        "sections": [
+            {
+                "section": "17832D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 85",
+                "instructor": "Victoria Esquer",
+                "location": "ONLINE"
+            },
+            {
+                "section": "17833D",
+                "session": "293",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Victoria Esquer",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17835D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "46 of 85",
+                "instructor": "Victoria Esquer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17802D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17803D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Michael Renov",
+                "location": "OFFICE"
+            },
+            {
+                "section": "17804D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Michael Renov",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CNTV",
+        "course_number": "595",
+        "course_name": "Professional Practicum",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Film, media, archival and interactive industry experience in areas of interest to the individual student, and development of a personal brand. Requires departmental approval.",
+        "sections": [
+            {
+                "section": "17841D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 50",
+                "instructor": "Ryan Turf",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

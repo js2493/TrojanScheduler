@@ -1,0 +1,131 @@
+[
+    {
+        "term": "20243",
+        "department": "MDA",
+        "course_num": "250",
+        "course_name": "Internship for Liberal Arts: Work and Career -- Theory and Practice",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Students explore different understandings of work and career in American society while testing theories in an actual work setting.",
+        "sections": [
+            {
+                "section": "42289D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 40",
+                "instructor": "Steve Posner",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDA",
+        "course_num": "300",
+        "course_name": "The Dornsife Toolkit",
+        "units": "(2.0 units, max 8)",
+        "description": "An opportunity to acquire an intellectual skill in a small group setting.",
+        "sections": [
+            {
+                "section": "42210R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Stephanie Eggert",
+                "location": "DMC161"
+            },
+            {
+                "section": "42211R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "8 of 25",
+                "instructor": "Kambiz Akhavan",
+                "location": "DMC160"
+            },
+            {
+                "section": "42212R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Lodovico Pizzati",
+                "location": "DMC160"
+            },
+            {
+                "section": "42213D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "2 of 1",
+                "instructor": "",
+                "location": "DMC160"
+            },
+            {
+                "section": "42214R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Helaine Lopes",
+                "location": "DMC160"
+            },
+            {
+                "section": "42215R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "5 of 25",
+                "instructor": "Andrzej Rutkowski",
+                "location": "DMC160"
+            },
+            {
+                "section": "42216R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "3 of 25",
+                "instructor": "Amanda Hobmeier",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDA",
+        "course_num": "333",
+        "course_name": "Colloquium in Armenian Studies: Social and Cultural Issues",
+        "units": "(2.0 units, max 4)",
+        "description": "Analysis of political, social, and cultural issues by the instructor and visiting lecturers with expertise in specific areas of the Armenian Republic and Diaspora community.",
+        "sections": [
+            {
+                "section": "42292R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "8 of 25",
+                "instructor": "Shushan Karapetian",
+                "location": "DMC209"
+            }
+        ]
+    }
+]

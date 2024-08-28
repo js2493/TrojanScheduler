@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20243",
+        "department": "PBHS",
+        "course_num": "301",
+        "course_name": "Science and Practice of Building Resilience",
+        "units": "(4.0 units)",
+        "description": "Promotes learning principles and skills that enhance resilience to effectively navigate common stressors throughout a professional career through course lecture, group discussion, reflection and practice.",
+        "sections": [
+            {
+                "section": "70500R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "17 of 20",
+                "instructor": "Michelle Dexter",
+                "location": "THH207"
+            }
+        ]
+    }
+]

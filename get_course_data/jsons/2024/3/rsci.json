@@ -1,0 +1,476 @@
+[
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "506",
+        "course_name": "Auditing Principles",
+        "units": "(3.0 units)",
+        "description": "Audit requirements mandated by the FDA and other international regulatory agencies, including internal, external, regulatory agency, third party, GMP, GLP, ISO 13485/QSR and supplier audits.",
+        "sections": [
+            {
+                "section": "49106D",
+                "session": "695",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 50",
+                "instructor": "Susan Bain,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "507",
+        "course_name": "Quality Systems and Statistical Process Control",
+        "units": "(2.0 units)",
+        "description": "Fundamentals and applications of Statistical Process Control (SPC) in development and monitoring of manufacturing processes; includes SPC in root cause analysis and CAPA.",
+        "sections": [
+            {
+                "section": "49107D",
+                "session": "679",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 50",
+                "instructor": "Susan Bain,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "511",
+        "course_name": "Introduction to Medical Product Regulation",
+        "units": "(3.0 units)",
+        "description": "Introduction to regulatory environments surrounding medical product development, manufacturing and marketing; operation of federal, state and international regulatory bodies.",
+        "sections": [
+            {
+                "section": "49111D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "26 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "513",
+        "course_name": "Regulation of Medical Devices and Diagnostics",
+        "units": "(3.0 units)",
+        "description": "Development and testing of new medical products according to U.S. and international regulatory requirements.",
+        "sections": [
+            {
+                "section": "49113D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "30 of 50",
+                "instructor": "Susan Bain,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "516",
+        "course_name": "Medical Products and the Law",
+        "units": "(3.0 units)",
+        "description": "Legal issues affecting intellectual property, medical product development, marketing and safety, taught through case studies and lectures.",
+        "sections": [
+            {
+                "section": "49102D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "37 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "517",
+        "course_name": "Structure and Management of Clinical Trials",
+        "units": "(4.0 units)",
+        "description": "Development and execution of clinical trials: bioethical principles, good clinical practices, project management and documentation.",
+        "sections": [
+            {
+                "section": "49103D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "57 of 60",
+                "instructor": "Tony Succar,Nancy Pire-Smerkanich,Terry Church,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "518",
+        "course_name": "Writing Regulatory Drug Submissions",
+        "units": "(3.0 units)",
+        "description": "Developing form and content for investigational drug applications, new drug applications, biologic licensing applications to FDA; common technical documents; considerations of writing style.",
+        "sections": [
+            {
+                "section": "49105D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "19 of 50",
+                "instructor": "Nancy Pire-Smerkanich,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "521",
+        "course_name": "Seminars in Regulatory Science",
+        "units": "(1.0 units, max 6)",
+        "description": "Current problems in regulatory affairs, legal management, preclinical and clinical testing, scientific evaluation and quality assurance. (Duplicates credit in former MPTX 521.) Graded CR/NC. Recommended preparation: undergraduate degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post secondary training and industry experience; enrollment in MS Regulatory Science program.",
+        "sections": [
+            {
+                "section": "49121D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Chiaoyun Kuo,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "49122D",
+                "session": "695",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 50",
+                "instructor": "Susan Bain,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "526",
+        "course_name": "Chemistry Manufacturing and Controls",
+        "units": "(3.0 units)",
+        "description": "Provides a firm foundation in the domestic and international CMC process, from concept to commercialization of new active pharmaceutical ingredients and products.",
+        "sections": [
+            {
+                "section": "48201D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 50",
+                "instructor": "Roger Clemens,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "533",
+        "course_name": "Safety Evaluation during Drug Development",
+        "units": "(3.0 units)",
+        "description": "Safety pharmacology/toxicology requirements mandated by FDA and other regulatory agencies to move a new chemical entity from discovery stage to market approval",
+        "sections": [
+            {
+                "section": "49133D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 50",
+                "instructor": "Hovhannes Gukasyan,Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49115D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49116D",
+                "session": "679",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training in Regulatory Science",
+        "units": "(1.0 units, max 4)",
+        "description": "Part-time or full-time practical work experience in Regulatory Science. The internship must be located at an off-campus facility. Students are individually supervised by faculty. Graded CR/NC. Recommended preparation: Undergraduate or professional degree in pharmacy, medicine or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience; enrollment in MS (Regulatory Science).",
+        "sections": [
+            {
+                "section": "49100D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49101D",
+                "session": "679",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "605",
+        "course_name": "Managing Organizations and Human Resources",
+        "units": "(3.0 units)",
+        "description": "Theory and practice of personnel management, organizational structure and industrial relations in small, growing enterprises and large global companies typical of pharmaceutical and medical device sectors Recommended preparation: Undergraduate or professional degree in pharmacy, medical or independent health sciences, engineering or equivalent mix of post-secondary training and industry experience.",
+        "sections": [
+            {
+                "section": "49140D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "630",
+        "course_name": "Directed Field-Research Project",
+        "units": "(6.0 units)",
+        "description": "Research/policy analysis conducted under preceptor supervision in an industrial or governmental setting.",
+        "sections": [
+            {
+                "section": "48204D",
+                "session": "626",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "790",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied towards the degree to be determined by the department. Graded CR/NC",
+        "sections": [
+            {
+                "section": "49118D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Dissertation research required for completion of doctoral degree in Regulatory Science.",
+        "sections": [
+            {
+                "section": "49145D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Dissertation research required for completion of doctoral degree in Regulatory Science.",
+        "sections": [
+            {
+                "section": "49146D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Dissertation research required for completion of doctoral degree in Regulatory Science.",
+        "sections": [
+            {
+                "section": "49147D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Dissertation research required for completion of doctoral degree in Regulatory Science.",
+        "sections": [
+            {
+                "section": "49148D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Dissertation research required for completion of doctoral degree in Regulatory Science.",
+        "sections": [
+            {
+                "section": "49149D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RSCI",
+        "course_num": "800",
+        "course_name": "Studies for the Qualifying Exam",
+        "units": "(0.0 units)",
+        "description": "Preparation for the qualifying exam. Graded CR/NC",
+        "sections": [
+            {
+                "section": "49144D",
+                "session": "436",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 50",
+                "instructor": "Eunjoo Pacifici",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

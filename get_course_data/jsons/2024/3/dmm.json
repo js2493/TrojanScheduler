@@ -1,0 +1,452 @@
+[
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "500",
+        "course_name": "Principles and Theories of Digital Media Management",
+        "units": "(2.0 units)",
+        "description": "Explores the digital media environment, its sociohistorical evolution and the impact of digital technologies and media on practices within cultural and business ecosystems.",
+        "sections": [
+            {
+                "section": "20200D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "21 of 30",
+                "instructor": "Joseph Itaya",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20201D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "21 of 30",
+                "instructor": "Joseph Itaya",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20202D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "Joseph Itaya",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "505",
+        "course_name": "Digital Audience Research and Analysis",
+        "units": "(2.0 units)",
+        "description": "Explores research methodologies and digital audience analytics, evaluating online audience needs and wants and focusing on data-driven and ethical decision making.",
+        "sections": [
+            {
+                "section": "20205D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "Mahta Emrani",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20206D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "Mahta Emrani",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20207D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "22 of 30",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "510",
+        "course_name": "Digital Media Buying, Measurement and Analytics",
+        "units": "(2.0 units)",
+        "description": "Examines digital media advertising sales technologies: digital advertising, media buying, digital asset performance measurement and data collection methodologies used for business planning.",
+        "sections": [
+            {
+                "section": "20210D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "13 of 30",
+                "instructor": "Slade Smith",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20211D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Slade Smith",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20212D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Anika Jackson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20213D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "13 of 30",
+                "instructor": "Anika Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "515",
+        "course_name": "Digital Content, Production and Distribution",
+        "units": "(2.0 units)",
+        "description": "Explores the evolution of digital media content, content categories in digital media, innovations in content production techniques and technologies and the digital distribution revolution.",
+        "sections": [
+            {
+                "section": "20215D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Jeffrey Thompson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20216D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "13 of 30",
+                "instructor": "Jeffrey Thompson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20217D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "Anika Jackson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20218D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "13 of 30",
+                "instructor": "Anika Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "520",
+        "course_name": "Strategic Digital Media Marketing",
+        "units": "(2.0 units)",
+        "description": "Case studies and examples to ideate, create and evaluate cutting-edge techniques used to implement long-range strategies for ethical digital media management and marketing.",
+        "sections": [
+            {
+                "section": "20221D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Styles Akira",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20222D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Misha Kouzeh",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "525",
+        "course_name": "Digital Media Leadership",
+        "units": "(2.0 units)",
+        "description": "Examines personal leadership principles and practices applicable to digital media, focused on leading within organizations, building diverse, high-performing teams and delivering digital media initiatives.",
+        "sections": [
+            {
+                "section": "20225D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Misha Kouzeh",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20226D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Joseph Itaya",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "530",
+        "course_name": "Managing Digital Media Teams and Projects",
+        "units": "(2.0 units)",
+        "description": "Covers the principles and skills needed to manage teams and projects within the digital media environment and achieve organizational goals through strategic planning.",
+        "sections": [
+            {
+                "section": "20230D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "20 of 30",
+                "instructor": "Caroline Leach",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20231D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "21 of 30",
+                "instructor": "Ken Sterling",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "535",
+        "course_name": "Digital Content Direction",
+        "units": "(2.0 units)",
+        "description": "Covers principles and strategies for directing digital content across platforms to achieve organizational objectives beyond creating awareness, informing or entertaining.",
+        "sections": [
+            {
+                "section": "20235D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "19 of 30",
+                "instructor": "Styles Akira",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20236D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "20 of 30",
+                "instructor": "Styles Akira",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "540",
+        "course_name": "Developing Effective User Engagement Strategies",
+        "units": "(2.0 units)",
+        "description": "Covers strategies to balance the needs of creating a user experience and content with the ethical imperatives of fostering equity, diversity and inclusion.",
+        "sections": [
+            {
+                "section": "20240D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 4,
+                "registered": "20 of 30",
+                "instructor": "Raymond Lutzky",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20241D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 4,
+                "registered": "15 of 30",
+                "instructor": "Raymond Lutzky",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "545",
+        "course_name": "Digital Platforms: Disruptions and Directions",
+        "units": "(2.0 units)",
+        "description": "Explores how the platform economy is disrupting traditional marketplaces and industries with new, digital technologies and ways for optimizing outcomes from those changes.",
+        "sections": [
+            {
+                "section": "20245D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "Erik Deutsch",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20246D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 4,
+                "registered": "14 of 30",
+                "instructor": "Erik Deutsch",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "550",
+        "course_name": "Digital Media Innovation and Entrepreneurship",
+        "units": "(2.0 units)",
+        "description": "Covers management of digital media innovation within digital media organizations and new entrepreneurial ventures, and ways for alleviating challenges to equity and diversity.",
+        "sections": [
+            {
+                "section": "20250D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 8,
+                "registered": "18 of 30",
+                "instructor": "Ken Sterling",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20251D",
+                "session": "748",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "16 of 30",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DMM",
+        "course_num": "555",
+        "course_name": "Digital Media Management Capstone",
+        "units": "(2.0 units)",
+        "description": "Students create an innovative idea or initiative that solves a problem or achieves a goal within a digital media organization or business unit.",
+        "sections": [
+            {
+                "section": "20255D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "18 of 30",
+                "instructor": "Ken Sterling",
+                "location": "ONLINE"
+            },
+            {
+                "section": "20256D",
+                "session": "758",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "15 of 30",
+                "instructor": "Ken Sterling",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "term": "20242",
+        "department": "EDCO",
+        "course_number": "503",
+        "course_name": "Ethical and Legal Issues in Counseling",
+        "units": "(3.0 units)",
+        "description": "Examination of current legal, ethical, and other professional issues in the practice of counseling and psychotherapy.",
+        "sections": [
+            {
+                "section": "27098D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "13 of 25",
+                "instructor": "Tamara Barron",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EDCO",
+        "course_number": "541",
+        "course_name": "Theories in Counseling",
+        "units": "(3.0 units)",
+        "description": "Theory, research, and practice of psychological counseling. Includes laboratory experience.",
+        "sections": [
+            {
+                "section": "27094D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 16,
+                "registered": "17 of 22",
+                "instructor": "Tiffany Fuller",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27101D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "22 of 22",
+                "instructor": "Gregoire Francois",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EDCO",
+        "course_number": "574",
+        "course_name": "School Counseling Practicum",
+        "units": "(2.0 units)",
+        "description": "Supervised practice in school counseling.",
+        "sections": [
+            {
+                "section": "27090D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27110D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27159D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 4,
+                "registered": "8 of 12",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27174D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 8,
+                "registered": "10 of 12",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

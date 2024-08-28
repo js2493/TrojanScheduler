@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "SCDC",
+        "course_number": "441",
+        "course_name": "National Security Decision Making",
+        "units": "(4.0 units)",
+        "description": "Examines U.S. decision making and current and future complexities of a rapidly evolving national and international security environment.",
+        "sections": [
+            {
+                "section": "71000D",
+                "session": "993",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "0 of 20",
+                "instructor": "Andrew Peek",
+                "location": ""
+            }
+        ]
+    }
+]

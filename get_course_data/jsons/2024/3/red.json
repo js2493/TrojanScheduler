@@ -1,0 +1,660 @@
+[
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "200",
+        "course_name": "Introduction to Real Estate",
+        "units": "(4.0 units)",
+        "description": "Basic understanding of the real estate industry, the process of real estate development and investment, and the key players involved.",
+        "sections": [
+            {
+                "section": "51667D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "33 of 39",
+                "instructor": "Austin Maddux",
+                "location": "ACC201"
+            },
+            {
+                "section": "51668R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "95 of 95",
+                "instructor": "John Loper",
+                "location": "RGL101"
+            },
+            {
+                "section": "51670R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "52 of 55",
+                "instructor": "Scott Trafford",
+                "location": "VPD105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "201",
+        "course_name": "Real Estate Career Seminar",
+        "units": "(2.0 units)",
+        "description": "Career assessment and preparation; real estate industry overview; reflection on experiences.",
+        "sections": [
+            {
+                "section": "51681D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Steven Helmholz",
+                "location": "RGL215"
+            },
+            {
+                "section": "51682D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "24 of 24",
+                "instructor": "Yunia Lubega",
+                "location": "VPD107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "301",
+        "course_name": "Real Estate Internship Seminar",
+        "units": "(1.0 unit)",
+        "description": "Real estate development skills for practice; internship seminar; leadership, group dynamics and presentation skills; application of management; organizational diversity; reflection on experiences.",
+        "sections": [
+            {
+                "section": "51645D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Esther Lanier",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "325",
+        "course_name": "Introduction to Finance in Cities",
+        "units": "(4.0 units)",
+        "description": "Basic understanding of public finance, public debt, public-private joint ventures, time value of money, present value, risk and return, discounted cash flows, leverage and taxes.",
+        "sections": [
+            {
+                "section": "51669R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "28 of 32",
+                "instructor": "John Loper",
+                "location": "VPD116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "351",
+        "course_name": "Land Use Regulation",
+        "units": "(4.0 units)",
+        "description": "Land use planning and zoning; community and government relations; environmental regulation.",
+        "sections": [
+            {
+                "section": "51646R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "Holly White",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "362",
+        "course_name": "Real Estate Development Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Real estate overview; evolution of cities and neighborhoods; product types; introduction to valuation.",
+        "sections": [
+            {
+                "section": "51651R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "22 of 40",
+                "instructor": "Jorge De la Roca",
+                "location": "VPD112"
+            },
+            {
+                "section": "51653R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "Jorge De la Roca",
+                "location": "VPD112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "375",
+        "course_name": "Real Estate Development Analysis",
+        "units": "(4.0 units)",
+        "description": "Real estate development feasibility and analysis; underwriting local fundamentals including neighborhood and city change, real estate capital flows.",
+        "sections": [
+            {
+                "section": "51644R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "20 of 20",
+                "instructor": "Moussa Diop",
+                "location": "RGL219"
+            },
+            {
+                "section": "51650R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "John Loper",
+                "location": "VPD110"
+            },
+            {
+                "section": "51652R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 20",
+                "instructor": "Moussa Diop",
+                "location": "VPD110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "398",
+        "course_name": "Shaping Cities Through Real Estate",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Cities and urban form created through various real estate product types. Case studies and site visits.",
+        "sections": [
+            {
+                "section": "51662R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "28 of 28",
+                "instructor": "",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "51663R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "30 of 30",
+                "instructor": "Bret Nielsen",
+                "location": "VPDLL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "417",
+        "course_name": "History of Planning and Development",
+        "units": "(4.0 units)",
+        "description": "Historical evolution of planning and development. How changing modes of planning and development have shaped the built landscape throughout the century.",
+        "sections": [
+            {
+                "section": "51654R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "Cara Mullio",
+                "location": "RGL100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "425",
+        "course_name": "Designing Livable Communities",
+        "units": "(4.0 units)",
+        "description": "Theories and concepts of livable communities and good city form; case studies of historical and current best practices; field visits; collaborative design project.",
+        "sections": [
+            {
+                "section": "51656R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "22 of 22",
+                "instructor": "Elizabeth Falletta",
+                "location": "RGL209"
+            },
+            {
+                "section": "51657R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "Naomi Neville",
+                "location": "RGL209"
+            },
+            {
+                "section": "51664R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "22 of 23",
+                "instructor": "Kate Nelischer",
+                "location": "VPD106"
+            },
+            {
+                "section": "51671R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "Kate Nelischer",
+                "location": "RGL209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "435",
+        "course_name": "Analyzing Real Estate Markets",
+        "units": "(4.0 units)",
+        "description": "Macro and micro-analysis of urban property markets; demographics; location choice; regulation",
+        "sections": [
+            {
+                "section": "51658R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Mark Zikakis",
+                "location": "VPD106"
+            },
+            {
+                "section": "51659R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Mary Lynne Boorn",
+                "location": "VPD112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "437",
+        "course_name": "Advanced Finance and Investment for Real Estate Development",
+        "units": "(4.0 units)",
+        "description": "Advanced real estate principles. Underwriting property valuation and deal structure including risk and return. Debt and equity markets; difference between development and existing assets.",
+        "sections": [
+            {
+                "section": "51660D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "22 of 22",
+                "instructor": "Christian Redfearn",
+                "location": "VPD110"
+            },
+            {
+                "section": "51665R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "18 of 22",
+                "instructor": "Spencer Couts",
+                "location": "VPD107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "51661D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "509",
+        "course_name": "Market Analysis for Real Estate",
+        "units": "(4.0 units)",
+        "description": "Explores macro and micro aspects of residential, retail, office, and industrial markets and examines methodologies for analyzing such markets for real estate development/investment purposes.",
+        "sections": [
+            {
+                "section": "51600D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "40 of 40",
+                "instructor": "Mary Lynne Boorn",
+                "location": "RGL100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "510",
+        "course_name": "Real Estate Practice and Principles",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles of real estate analysis; economics; capital markets; development decision making; relationships between real estate markets and federal, state and local government policies; property value.",
+        "sections": [
+            {
+                "section": "51602R",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "29 of 30",
+                "instructor": "Joel Bryant",
+                "location": "VPD106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "511",
+        "course_name": "Foundations of Real Estate Analysis",
+        "units": "(4.0 units)",
+        "description": "Principles of real estate analysis; captial markets; importance of uncertainty and metrics of risk; investments; valuation techniques; use of debty and equity, leases, taxes;",
+        "sections": [
+            {
+                "section": "51603R",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "8 of 30",
+                "instructor": "Ben Feingold",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "542",
+        "course_name": "Finance of Real Estate Development",
+        "units": "(4.0 units)",
+        "description": "Theory and methods of real estate finance and investment. Real estate investment analysis, real estate entities, taxation; introduction to securization of real estate equities, debt.",
+        "sections": [
+            {
+                "section": "51605D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Spencer Couts",
+                "location": "RGL219"
+            },
+            {
+                "section": "51606R",
+                "session": "038",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "23 of 25",
+                "instructor": "Iain Gulin",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "544",
+        "course_name": "Real Estate Capital Markets",
+        "units": "(2.0 units)",
+        "description": "Explore structure, instruments and institutions of real estate capital markets. Consider linkages between real estate and capital markets. Asses role of Real Estate Investment Trusts.",
+        "sections": [
+            {
+                "section": "51607D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "37 of 37",
+                "instructor": "Shlomi Ronen",
+                "location": "RGL100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "547",
+        "course_name": "Project Management and Construction",
+        "units": "(2.0 units)",
+        "description": "Managing the building phase of development. Architectural and engineering aspects of construction management for the real estate developer.",
+        "sections": [
+            {
+                "section": "51617D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "20 of 30",
+                "instructor": "Robert Little",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "562",
+        "course_name": "Legal Issues in Real Estate Development",
+        "units": "(4.0 units)",
+        "description": "Ownership and transfer of real estate; formation and enforcement of contracts; business associations; environmental regulation; taxation of property transfers; acquiring, financing, leasing of commercial property.",
+        "sections": [
+            {
+                "section": "51609D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 2,
+                "registered": "28 of 30",
+                "instructor": "Keith Allen-Niesen",
+                "location": "RGL215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "563",
+        "course_name": "Introduction to the Asset Management of Real Estate",
+        "units": "(2.0 units)",
+        "description": "Overview of institutional asset management: creating and implementing investment and portfolio strategies through the development, acquisition, underwriting, and operational stages of the investment, asset disposition.",
+        "sections": [
+            {
+                "section": "51610D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "15 of 20",
+                "instructor": "Stanley Iezman",
+                "location": "RGL100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "574",
+        "course_name": "Building Typologies",
+        "units": "(2.0 units)",
+        "description": "The exploration of categories of building types, including retail, industrial, residential, office, and institutional, using key examples or case studies from each.",
+        "sections": [
+            {
+                "section": "51612D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "Nicholas Zaharov",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "51613D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "9 of 20",
+                "instructor": "Nicholas Zaharov",
+                "location": "VPDLL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "51614D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Malisos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RED",
+        "course_num": "598",
+        "course_name": "Real Estate Product Development",
+        "units": "(2.0-4.0 units, max 12)",
+        "description": "An evaluation of various real estate development product types. Case studies and site visits.",
+        "sections": [
+            {
+                "section": "51616D",
+                "session": "038",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "7 of 20",
+                "instructor": "Lionel Uhry",
+                "location": "DMC206"
+            }
+        ]
+    }
+]

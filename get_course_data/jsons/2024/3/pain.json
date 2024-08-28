@@ -1,0 +1,351 @@
+[
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "401",
+        "course_name": "Where is the Pain: Mind-Body Interface and Pain Physiology",
+        "units": "(4.0 units)",
+        "description": "An introduction to the physiological and psychological components of pain, and pharmacological and non-pharmacological management strategies. Cultural and social aspects of chronic pain are covered.",
+        "sections": [
+            {
+                "section": "70107R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "70290D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "701",
+        "course_name": "Pharmacotherapeutics for Pain",
+        "units": "(2.0 units)",
+        "description": "Introduction into the complex area of treatment with opioids and other pharmacological options.",
+        "sections": [
+            {
+                "section": "70108D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 14",
+                "instructor": "Melissa Durham,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70115D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Melissa Durham,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "702",
+        "course_name": "Pain Classification and Diagnosis - Part 1",
+        "units": "(2.0 units)",
+        "description": "Introduction of pain classification and diagnosis to familiarize the student with a standardized approach to painful conditions.",
+        "sections": [
+            {
+                "section": "70109D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Reed Levine,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70116D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Reed Levine,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "703",
+        "course_name": "Psychological Aspects of the Pain Experience: Individual and Family",
+        "units": "(2.0 units)",
+        "description": "Explore the psychological and social perspectives that influence chronic pain, reinforcing the need to look beyond the initial physical diagnosis.",
+        "sections": [
+            {
+                "section": "70110D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Faye Weinstein,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70117D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Faye Weinstein,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "708",
+        "course_name": "Opioids",
+        "units": "(1.0 unit)",
+        "description": "Explores opioid therapeutics including proper use, dosing, side effects and its management, use in special populations, and legal/ethical considerations for prescribers and dispensers.",
+        "sections": [
+            {
+                "section": "70101D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 12",
+                "instructor": "Melissa Durham,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "709",
+        "course_name": "Pain Classification and Diagnosis - Part 2",
+        "units": "(2.0 units)",
+        "description": "Knowledge and ability to recognize fine differences in various common pain conditions.",
+        "sections": [
+            {
+                "section": "70102D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Reed Levine,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "710",
+        "course_name": "Advanced Pain Physiology and Neuroscience",
+        "units": "(1.0 unit)",
+        "description": "Advanced neurophysiology of pain including immunology and epigenetics, neuropathic pain, inflammation, with a series of lectures and sessions to analyze clinical cases.",
+        "sections": [
+            {
+                "section": "70111D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Jack Berger,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "711",
+        "course_name": "Research Methodology",
+        "units": "(2.0 units)",
+        "description": "Conduct a systematic review, research question, searching the literature, summarizing the evidence and interpreting the findings.",
+        "sections": [
+            {
+                "section": "70103D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Dana Milstein,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "712A",
+        "course_name": "Pain Medicine Capstone",
+        "units": "(0.5 units)",
+        "description": "Collaborative research project or supervised internship (practicum) incorporating a service learning approach.",
+        "sections": [
+            {
+                "section": "70104D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "712C",
+        "course_name": "Pain Medicine Capstone",
+        "units": "(0.5 units)",
+        "description": "Collaborative research project or supervised internship (practicum) incorporating a service learning approach.",
+        "sections": [
+            {
+                "section": "70114D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "2 of 6",
+                "instructor": "Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "713A",
+        "course_name": "Case Studies",
+        "units": "(0.5 units)",
+        "description": "Multiple elements including weekly online discussions of cases; learning need assignments; defense of an 18 cases or scenarios e-Portfolio.",
+        "sections": [
+            {
+                "section": "70105D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "713C",
+        "course_name": "Case Studies",
+        "units": "(0.5 units)",
+        "description": "Multiple elements including weekly online discussions of cases; learning need assignments; defense of an 18 cases or scenarios e-Portfolio.",
+        "sections": [
+            {
+                "section": "70118D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "718",
+        "course_name": "Complementary Approaches",
+        "units": "(2.0 units)",
+        "description": "Treatment options in pain management; framework for integrative models of care.",
+        "sections": [
+            {
+                "section": "70106D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Armaity Austin,Steven Richeimer,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70283D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 3",
+                "instructor": "Armaity Austin,Steven Richeimer,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PAIN",
+        "course_num": "722",
+        "course_name": "Palliative Care in End of Life",
+        "units": "(1.0 unit)",
+        "description": "Key concepts in palliative medicine and hospice care, ranging from management of common symptoms, to best practices in communication with patients and their families.",
+        "sections": [
+            {
+                "section": "70282D",
+                "session": "800",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Steven Richeimer,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

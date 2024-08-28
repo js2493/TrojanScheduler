@@ -1,0 +1,1398 @@
+[
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "424",
+        "course_name": "Business Forecasting",
+        "units": "(4.0 units)",
+        "description": "A variety of forecasting techniques used by a variety of businesses. Emphasis on learning to apply these techniques to real data.",
+        "sections": [
+            {
+                "section": "16219R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Lorena Martin",
+                "location": "JFFLL103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "431",
+        "course_name": "Digital Innovation as Competitive Advantage",
+        "units": "(4.0 units)",
+        "description": "Implementing transformative digital technologies. Strategies to complete with ERP, blockchain, cloud, cryptocurrency, fintech, insurtech, API economy, digital platforms/ecosystems, open data, AI and ML.",
+        "sections": [
+            {
+                "section": "16215R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "28 of 36",
+                "instructor": "Inge Lindholm",
+                "location": "ACC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "435",
+        "course_name": "Enterprise Data Architecture",
+        "units": "(4.0 units)",
+        "description": "Management of enterprise data architecture including data structures, conceptual data modeling, logical data modeling, structured query language (SQL), and physical optimization of high performance data architecture. Duplicates credit in former IOM 435.",
+        "sections": [
+            {
+                "section": "16230R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "37 of 46",
+                "instructor": "Yola Katsargyri",
+                "location": "JFFLL103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "455",
+        "course_name": "Project Management",
+        "units": "(4.0 units)",
+        "description": "Topics related to project management in a variety of industries such as real estate projects, new product launch, plant location, etc.",
+        "sections": [
+            {
+                "section": "16236R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "37 of 41",
+                "instructor": "Kathy Takayama",
+                "location": "BRI202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "462",
+        "course_name": "Managing a Small Business on the Internet",
+        "units": "(2.0 units)",
+        "description": "Foundational knowledge for managing a small business on the internet including strategies, tools, and resources integrated with hands-on skills for developing a small business website. Duplicates credit in former IOM-462.",
+        "sections": [
+            {
+                "section": "16242R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "46 of 46",
+                "instructor": "Richard Selby",
+                "location": "JFFLL103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "464",
+        "course_name": "Deep Learning for AI and Business Applications",
+        "units": "(4.0 units)",
+        "description": "Basics of deep learning technologies for AI and utilizing current technologies in deep learning that are reshaping and driving the modern business with Big Data.",
+        "sections": [
+            {
+                "section": "16325R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "37 of 46",
+                "instructor": "Austin Pollok",
+                "location": "ACC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics reflecting current trends and recent developments in data sciences, information systems, operations management, and statistics. May be repeated only if topic is different.",
+        "sections": [
+            {
+                "section": "16338R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 41",
+                "instructor": "Cosimo Arnesano",
+                "location": "BRI202"
+            },
+            {
+                "section": "16345R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "18 of 30",
+                "instructor": "Grace Gu",
+                "location": "HOH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "505",
+        "course_name": "Sustainable Supply Chains",
+        "units": "(1.5 units)",
+        "description": "Sustainability concepts and frameworks, design for environment, closed-loop supply chains, sustainability in sourcing, green facilities, renewable energy, facility location and transportation decisions, strategic sustainability implementation.",
+        "sections": [
+            {
+                "section": "16283R",
+                "session": "175",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "42 of 42",
+                "instructor": "Christopher Gopal",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16284D",
+                "session": "175",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "14 of 18",
+                "instructor": "Christopher Gopal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "506",
+        "course_name": "Sourcing and Supplier Management",
+        "units": "(1.5 units)",
+        "description": "Factors to consider when making sourcing decisions (costs, prices, ethics, globalization); impact of sourcing on other activities such as product design or inventory management.",
+        "sections": [
+            {
+                "section": "16282D",
+                "session": "277",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "8 of 23",
+                "instructor": "Alireza Kabirian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16297R",
+                "session": "277",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "36 of 36",
+                "instructor": "Alireza Kabirian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16299R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "23 of 23 (9 on waitlist)",
+                "instructor": "Alireza Kabirian",
+                "location": "BRI202"
+            },
+            {
+                "section": "16309D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "18 of 18 (1 on waitlist)",
+                "instructor": "Alireza Kabirian",
+                "location": "BRI202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "521",
+        "course_name": "Smart City Tactics, Technologies and Operations",
+        "units": "(3.0 units)",
+        "description": "Application of modern smart city technologies, data tools and digital strategy to solve real-world urban challenges, such as public safety, transportation, health and environmental sustainability.",
+        "sections": [
+            {
+                "section": "16244R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "44 of 53",
+                "instructor": "Ted Ross",
+                "location": "JKP212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "522",
+        "course_name": "Applied Time Series Analysis for Forecasting",
+        "units": "(1.5-3.0 units)",
+        "description": "Survey of forecasting and time series methods. Models for stationary and nonstationary time series; ARIMA model identification, estimation, and forecast development. Seasonal and dynamic models. Web registration open only to graduate business and accounting students. Duplicates credit in former IOM 522. Recommended preparation: (GSBA 506a and GSBA 506b) or GSBA 524 or (GSBA 516 and GSBA 545).",
+        "sections": [
+            {
+                "section": "16240R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "53 of 53 (2 on waitlist)",
+                "instructor": "Inga Maslova",
+                "location": "JKP204"
+            },
+            {
+                "section": "16241R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "40 of 47",
+                "instructor": "Inga Maslova",
+                "location": "JFF239"
+            },
+            {
+                "section": "16249R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "23 of 53",
+                "instructor": "Matteo Sesia",
+                "location": "JKP212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "528",
+        "course_name": "Blended Data Business Analytics for Efficient Decisions",
+        "units": "(3.0 units)",
+        "description": "Build Analytical Models for Classification, Clustering and Association Problems. Leverage third party \"Big Data\" for enriching and monetizing data. Develop data mining and business analysis.",
+        "sections": [
+            {
+                "section": "16221R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "40 of 41 (1 on waitlist)",
+                "instructor": "Feng Chen",
+                "location": "BRI5"
+            },
+            {
+                "section": "16227R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "30 of 30 (6 on waitlist)",
+                "instructor": "Feng Chen",
+                "location": "BRI5"
+            },
+            {
+                "section": "16228D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "5 of 12",
+                "instructor": "Feng Chen",
+                "location": "BRI5"
+            },
+            {
+                "section": "16269R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "37 of 37 (4 on waitlist)",
+                "instructor": "Cosimo Arnesano",
+                "location": "JKP210"
+            },
+            {
+                "section": "16270D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "12 of 13",
+                "instructor": "Cosimo Arnesano",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "529",
+        "course_name": "Advanced Regression Analysis",
+        "units": "(3.0 units)",
+        "description": "Computer-assisted analysis of business data; advanced multiple regression analysis, survey analysis, ANOVA testing for Marketing-type applications and Times Series Analysis methods will be covered.",
+        "sections": [
+            {
+                "section": "16248R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "33 of 49",
+                "instructor": "Dawn Porter",
+                "location": "JFF233"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "545",
+        "course_name": "Statistical Computing and Data Visualization",
+        "units": "(1.5-3.0 units)",
+        "description": "Data cleaning and reshaping; good vs. bad graphics; univariate, bivariate, trivariate, hypervariate and time series graphics; interactive graphics; web-related computing.",
+        "sections": [
+            {
+                "section": "16234D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "47 of 60",
+                "instructor": "Francis Pereira",
+                "location": "JKP212"
+            },
+            {
+                "section": "16235D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "52 of 60",
+                "instructor": "Francis Pereira",
+                "location": "JKP212"
+            },
+            {
+                "section": "16250D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "51 of 60",
+                "instructor": "Austin Pollok",
+                "location": "JKP212"
+            },
+            {
+                "section": "16275D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "52 of 60",
+                "instructor": "Austin Pollok",
+                "location": "JKP212"
+            },
+            {
+                "section": "16278D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Ash Pahwa",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "547",
+        "course_name": "Spreadsheet Modeling for Business Insights",
+        "units": "(3.0 units)",
+        "description": "Application of decision analysis, simulation and optimization techniques to managerial problems. Learn how to create and present useful spreadsheet models to analyze practical business models.",
+        "sections": [
+            {
+                "section": "16267D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "54 of 54 (2 on waitlist)",
+                "instructor": "Hiroshi Ochiumi",
+                "location": "JKP104"
+            },
+            {
+                "section": "16276D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "31 of 54",
+                "instructor": "Hiroshi Ochiumi",
+                "location": "JKP102"
+            },
+            {
+                "section": "16280R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "49 of 49 (45 on waitlist)",
+                "instructor": "Murat Bayiz",
+                "location": "JKP102"
+            },
+            {
+                "section": "16281D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "5 of 5 (2 on waitlist)",
+                "instructor": "Murat Bayiz",
+                "location": "JKP102"
+            },
+            {
+                "section": "16304R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "48 of 46 (1 on waitlist)",
+                "instructor": "Hiroshi Ochiumi",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16317D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "4 of 5",
+                "instructor": "Hiroshi Ochiumi",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "550",
+        "course_name": "Applying Analytics to Human Capital in Business",
+        "units": "(1.5 units)",
+        "description": "Human capital measurement and metrics, predictive analytics tools and methods, reporting standards and core analytic study methods with advanced visualization and storytelling.",
+        "sections": [
+            {
+                "section": "16243R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "43 of 43 (2 on waitlist)",
+                "instructor": "Jeff Higgins",
+                "location": "JKP112"
+            },
+            {
+                "section": "16246D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "2 of 6",
+                "instructor": "Jeff Higgins",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "552",
+        "course_name": "SQL Databases for Business Analysts",
+        "units": "(1.5 units)",
+        "description": "SQL; relational database systems; data storage; data manipulation; data aggregation.",
+        "sections": [
+            {
+                "section": "16186D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 4,
+                "registered": "46 of 60",
+                "instructor": "Yola Katsargyri",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "16292D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 16,
+                "registered": "46 of 60",
+                "instructor": "Yola Katsargyri",
+                "location": "JFFLL105"
+            },
+            {
+                "section": "16295D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 4,
+                "registered": "46 of 60",
+                "instructor": "Yola Katsargyri",
+                "location": "JKP210"
+            },
+            {
+                "section": "16296R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 64,
+                "registered": "33 of 48",
+                "instructor": "Joydeep Banerjee",
+                "location": "JKP204"
+            },
+            {
+                "section": "16302D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 16,
+                "registered": "45 of 60",
+                "instructor": "Yola Katsargyri",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "556",
+        "course_name": "Business Models for Digital Platforms",
+        "units": "(3.0 units)",
+        "description": "Managing Business models in digital platform ecosystems; designing new products and services for digital platforms; establishing digital platform leadership; assessing emerging niches in digital spaces.",
+        "sections": [
+            {
+                "section": "16328R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "41 of 41",
+                "instructor": "Inge Lindholm",
+                "location": "JKP102"
+            },
+            {
+                "section": "16330R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "41 of 41 (4 on waitlist)",
+                "instructor": "Grace Gu",
+                "location": "BRI202"
+            },
+            {
+                "section": "16331R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "41 of 41 (3 on waitlist)",
+                "instructor": "Inge Lindholm",
+                "location": "ACC303"
+            },
+            {
+                "section": "16333R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "42 of 41 (4 on waitlist)",
+                "instructor": "Grace Gu",
+                "location": "BRI5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "557A",
+        "course_name": "Global Supply Chain Management in International Settings",
+        "units": "(1.5 units)",
+        "description": "Study of global logistics infrastructures - water, rail, road, and air - through readings, team research and presentation, international site visits, and final written report. Open only to Global Supply Chain Management majors. Duplicates credit in former IOM 557a.",
+        "sections": [
+            {
+                "section": "16306D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "55 of 55 (1 on waitlist)",
+                "instructor": "Nick Vyas",
+                "location": "JKP202"
+            },
+            {
+                "section": "16307D",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "36 of 55",
+                "instructor": "Nick Vyas",
+                "location": "JKP202"
+            },
+            {
+                "section": "16311D",
+                "session": "175",
+                "type": "Lecture",
+                "start_time": 1200,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "29 of 40",
+                "instructor": "Nick Vyas",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "557B",
+        "course_name": "Global Supply Chain Management in International Settings",
+        "units": "(1.5 units)",
+        "description": "The influence of value-added services and regulatory issues on suppliers and supply chains. Readings, team research and presentation, site visits (LA), and final written report. Open only to Global Supply Chain Management majors. Duplicates credit in former IOM 557b.",
+        "sections": [
+            {
+                "section": "16290R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 2,
+                "registered": "38 of 50",
+                "instructor": "Nick Vyas",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "16298R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "50 of 50",
+                "instructor": "Nick Vyas",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "16300D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "36 of 50",
+                "instructor": "Nick Vyas",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "560",
+        "course_name": "Text Analytics and Natural Language Processing",
+        "units": "(1.5 units)",
+        "description": "Acquire, analyze, visualize and perform natural language processing (NLP) on text data. Apply Python, machine learning packages, statistical methodology and computer code to business decision-making.",
+        "sections": [
+            {
+                "section": "16285R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "41 of 41 (6 on waitlist)",
+                "instructor": "Ash Pahwa",
+                "location": "BRI202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "562",
+        "course_name": "Fraud Analytics",
+        "units": "(3.0 units)",
+        "description": "Fraud detection model systems; identify normal vs. outlying behavior; malicious adversaries; complex datasets; supervised and unsupervised fraud statistical models; measures of model efficacy.",
+        "sections": [
+            {
+                "section": "16289R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "31 of 41",
+                "instructor": "Ash Pahwa",
+                "location": "BRI202"
+            },
+            {
+                "section": "16294R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "53 of 54 (8 on waitlist)",
+                "instructor": "Stephen Coggeshall",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "565",
+        "course_name": "Supply Chain Analytics",
+        "units": "(3.0 units)",
+        "description": "Analytics for supply chain planning. Data-driven decision making, solving real-world problems, utilizing scalable technology, current industry best practices and inventory/network optimization.",
+        "sections": [
+            {
+                "section": "16340R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 64,
+                "registered": "14 of 14 (13 on waitlist)",
+                "instructor": "Tathagata Dasgupta",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16341D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 64,
+                "registered": "18 of 42",
+                "instructor": "Tathagata Dasgupta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "568",
+        "course_name": "Healthcare Analytics",
+        "units": "(1.5 units)",
+        "description": "Healthcare analytics challenges, opportunities, real vs. speculation vs. hype. Hands-on analysis of healthcare data. Presentation of actionable business strategy insights and recommendations.",
+        "sections": [
+            {
+                "section": "16271R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 2,
+                "registered": "52 of 53 (4 on waitlist)",
+                "instructor": "Cosimo Arnesano",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "570",
+        "course_name": "The Analytics Edge: Data, Models, and Effective Decisions",
+        "units": "(3.0 units)",
+        "description": "Decision making under uncertainty using real data applying the most advanced optimization, statistical and probability methods. Duplicates credit in former IOM 570.",
+        "sections": [
+            {
+                "section": "16273D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "53 of 60",
+                "instructor": "Mike Nguyen",
+                "location": "JKP212"
+            },
+            {
+                "section": "16274D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "52 of 60",
+                "instructor": "Mike Nguyen",
+                "location": "JKP210"
+            },
+            {
+                "section": "16291D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "49 of 60",
+                "instructor": "Peng Shi",
+                "location": "JKP212"
+            },
+            {
+                "section": "16293D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "56 of 60",
+                "instructor": "Peng Shi",
+                "location": "JKP212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "573",
+        "course_name": "Data Analytics Driven Dynamic Strategy and Execution",
+        "units": "(3.0 units)",
+        "description": "Achieving and enhancing competitive advantage through applications of data analytics, continuous insight discovery, strategy formulation and execution for the next generation of corporate leaders.",
+        "sections": [
+            {
+                "section": "16303R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "13 of 20",
+                "instructor": "Saeed Mohasseb",
+                "location": "ACC312"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "575",
+        "course_name": "Driving Business Transformation with GenAI and ML",
+        "units": "(3.0 units)",
+        "description": "Modernize cloud and big data platforms. Build and Implement long-term GenAI/ML strategies for business transformations using LLMs in the Cloud.",
+        "sections": [
+            {
+                "section": "16305R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 64,
+                "registered": "60 of 60 (6 on waitlist)",
+                "instructor": "Xin Tong",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "578",
+        "course_name": "Fundamentals of Sports Performance Analytics",
+        "units": "(1.5 units)",
+        "description": "Statistical models for pro sports industry business application. Effectively communicate findings for practical actionable results. Sports science data protocol.",
+        "sections": [
+            {
+                "section": "16288R",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "38 of 53",
+                "instructor": "Lorena Martin",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "579",
+        "course_name": "Advanced Sports Performance Analytics",
+        "units": "(1.5 units)",
+        "description": "Implement supervised and unsupervised machine learning models to a specific sports performance analytics scenario. Help assess and predict performance.",
+        "sections": [
+            {
+                "section": "16301R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 54",
+                "instructor": "Lorena Martin",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "580",
+        "course_name": "Project Management",
+        "units": "(3.0 units)",
+        "description": "Applications of systems theory and concepts, matrix organizational structures, PERT/CPM project modeling, and management information systems to the management of complex and critical projects.",
+        "sections": [
+            {
+                "section": "16286R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "51 of 52 (15 on waitlist)",
+                "instructor": "Murat Bayiz",
+                "location": "JKP102"
+            },
+            {
+                "section": "16287R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 51 (15 on waitlist)",
+                "instructor": "Murat Bayiz",
+                "location": "JKP204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "581",
+        "course_name": "Supply Chain Management",
+        "units": "(3.0 units)",
+        "description": "Issues in supply chain management. Supply chain performance and dynamics. Tools for planning, control and coordination. Supply chain design and strategy. Recommended preparation: GSBA 504b or GSBA 534.",
+        "sections": [
+            {
+                "section": "16329R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "41 of 41 (6 on waitlist)",
+                "instructor": "Alireza Kabirian",
+                "location": "BRI202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "584",
+        "course_name": "Global Operations Management",
+        "units": "(1.5 units)",
+        "description": "Exposure to issues crucial to the globalization of operations and their successful/unsuccessful operations management approaches in several countries and industries.",
+        "sections": [
+            {
+                "section": "16245R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "34 of 41",
+                "instructor": "K. Kumar",
+                "location": "BRI202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "585",
+        "course_name": "Data-Driven Consulting",
+        "units": "(1.5 units)",
+        "description": "Hands-on application of descriptive, predictive and prescriptive analytics to a unique business problem. Use business intelligence, programming and available tools to implement analytics-based solutions.",
+        "sections": [
+            {
+                "section": "16251R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "28 of 30 (19 on waitlist)",
+                "instructor": "Austin Pollok",
+                "location": "BRI202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "588",
+        "course_name": "Supply Chain Finance",
+        "units": "(3.0 units)",
+        "description": "Combines finance and supply chain management. Assess financial opportunities, finance fragmentation, challenges, optimizing working capital and managing risk in supply chain finance.",
+        "sections": [
+            {
+                "section": "16326R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "21 of 21 (2 on waitlist)",
+                "instructor": "Christopher Gopal",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16343D",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "9 of 39",
+                "instructor": "Christopher Gopal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-5.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. Open only to master's students. Duplicates credit in former IOM-590.",
+        "sections": [
+            {
+                "section": "16308D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "592",
+        "course_name": "Field Research in Data Sciences or Operations",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Individual or team projects studying the practices of an industry, company, government agency, country, geographic region, etc. Proposal, data collection, analyses, and written report. Graded CR/NC. Recommended preparation: completion of required M.B.A, M.Acc., or M.B.T. courses. Open only to graduate students. Duplicates credit in former IOM-592.",
+        "sections": [
+            {
+                "section": "16310D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "593",
+        "course_name": "Independent Research in Data Sciences or Operations",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16312D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 18",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "595",
+        "course_name": "Internship in Data Sciences or Operations",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the student's area of interest (Curricular Practical Training). Recommended preparation: completion of required MBA, MSGSCM, or MSBA courses.",
+        "sections": [
+            {
+                "section": "16314D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 100",
+                "instructor": "Dawn Porter,Nick Vyas",
+                "location": "OFFICE"
+            },
+            {
+                "section": "16319D",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Dawn Porter",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "596",
+        "course_name": "Research Practicum in Data Sciences or Operations",
+        "units": "(0.5-2.0 units, max 8)",
+        "description": "Hands-on practical experience working with a Marshall faculty member in the Data Sciences and Operations Department on an ongoing research project. Graded CR/NC. Recommended preparation: completion of all required courses in the student's program. Open only to graduate students. Duplicates credit in the former IOM-596.",
+        "sections": [
+            {
+                "section": "16316D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "597",
+        "course_name": "Consulting Project in Data Sciences or Operations",
+        "units": "(0.5-5.0 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Open only to graduate business students.",
+        "sections": [
+            {
+                "section": "16318D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 35",
+                "instructor": "Nick Vyas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Selected topics reflecting current trends and recent developments in data sciences, operations management, supply chain management and/or decision support systems.",
+        "sections": [
+            {
+                "section": "16313R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "49 of 49 (4 on waitlist)",
+                "instructor": "Georgios Petropoulos",
+                "location": "JKP210"
+            },
+            {
+                "section": "16315R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "46 of 53",
+                "instructor": "Georgios Petropoulos",
+                "location": "JKP210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "603",
+        "course_name": "Causal Inference with Modern Machine Learning Methods",
+        "units": "(3.0 units)",
+        "description": "A comprehensive introduction to advanced machine-learning tools specifically designed for causal inference.",
+        "sections": [
+            {
+                "section": "16334D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Yingying Fan",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "621",
+        "course_name": "Research Forum",
+        "units": "(1.0 units, max 4)",
+        "description": "Seminar. Review and discuss current research in Data Sciences and Operations. Presentations by faculty, visiting researchers, and advanced students. Open to Marshall Ph.D. students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16332R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "4 of 15",
+                "instructor": "Vishal Gupta",
+                "location": "HOH506"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "670",
+        "course_name": "Current Research in Operations Management",
+        "units": "(1.5-3.0 units, max 6)",
+        "description": "Critique of the current research-based literature in operations management to include scheduling, forecasting, MRP, technology planning, inventory management, and facilities location and layout. Duplicates credit in former IOM 670.",
+        "sections": [
+            {
+                "section": "16229R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "3 of 15",
+                "instructor": "Somya Singhvi",
+                "location": "HOH506"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DSO",
+        "course_num": "699",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Exploration of emerging topics, literature and research techniques in contemporary data sciences, operations management, supply chain management, and/or decision support systems.",
+        "sections": [
+            {
+                "section": "16335R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "7 of 15",
+                "instructor": "Paat Rusmevichientong",
+                "location": "ACC312"
+            }
+        ]
+    }
+]

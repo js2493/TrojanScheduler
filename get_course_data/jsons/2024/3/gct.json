@@ -1,0 +1,837 @@
+[
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "125",
+        "course_name": "Arts of Asia: Antiquity to 1300",
+        "units": "(4.0 units)",
+        "description": "An introduction to the major art forms and monuments of religious art in India, Southeast Asia, China and Japan from prehistory to1300.",
+        "sections": [
+            {
+                "section": "11838R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Sonya Lee",
+                "location": "DMC150"
+            },
+            {
+                "section": "11839R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jiyoon Park",
+                "location": "DMC161"
+            },
+            {
+                "section": "11840R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jiyoon Park",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "135",
+        "course_name": "Peoples and Cultures of the Americas",
+        "units": "(4.0 units)",
+        "description": "An introduction to cultures and people in the Americas; the social, historical, economic and cultural formations that together make up the Latino/a American imaginary.",
+        "sections": [
+            {
+                "section": "10320R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Shawn McDaniel",
+                "location": "SGM101"
+            },
+            {
+                "section": "10321R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "10322R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SOSB41"
+            },
+            {
+                "section": "10323R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH112"
+            },
+            {
+                "section": "10324R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "10326R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SOSB48"
+            },
+            {
+                "section": "10328R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "140",
+        "course_name": "Mesoamerican Cosmovision and Culture",
+        "units": "(4.0 units)",
+        "description": "An exploration of the nature and contributions of pre-Columbian high civilizations (Maya, Aztecs, etc.) and their descendants as they resist and assimilate to the modern world.",
+        "sections": [
+            {
+                "section": "10601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Eric Heller",
+                "location": "THH102"
+            },
+            {
+                "section": "10602R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "THH112"
+            },
+            {
+                "section": "10603R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "THH112"
+            },
+            {
+                "section": "10604R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "GFS104"
+            },
+            {
+                "section": "10605R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "263",
+        "course_name": "Exploring Culture through Film",
+        "units": "(4.0 units)",
+        "description": "Concepts of social anthropology, using filmic representations of societies throughout the world. Gateway course for the Anthropology major.",
+        "sections": [
+            {
+                "section": "10660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "97 of 97",
+                "instructor": "Xochitl Ruiz,Brodie Quinn,Shaoyu Tang",
+                "location": "GFS106"
+            },
+            {
+                "section": "10661R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Brodie Quinn",
+                "location": "KAP167"
+            },
+            {
+                "section": "10662R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Brodie Quinn",
+                "location": "KAP166"
+            },
+            {
+                "section": "10663R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Shaoyu Tang",
+                "location": "KAP164"
+            },
+            {
+                "section": "10664R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Shaoyu Tang",
+                "location": "KAP164"
+            },
+            {
+                "section": "10665R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "97 of 98",
+                "instructor": "Jennifer Cool,Grace Simbulan,Guanyizhuo Yao",
+                "location": "WPHB27"
+            },
+            {
+                "section": "10666R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Grace Simbulan",
+                "location": "GFS108"
+            },
+            {
+                "section": "10667D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "20 of 21",
+                "instructor": "Guanyizhuo Yao",
+                "location": "THH207"
+            },
+            {
+                "section": "10668R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "32 of 32",
+                "instructor": "Guanyizhuo Yao",
+                "location": "WPH107"
+            },
+            {
+                "section": "10669R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Grace Simbulan",
+                "location": "THH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "316",
+        "course_name": "Native Americans in American Public Life",
+        "units": "(4.0 units)",
+        "description": "Role of Native Americans in American public life from colonial times to the present; Native American societies and governments and their relations to the U.S.",
+        "sections": [
+            {
+                "section": "10680R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "79 of 100",
+                "instructor": "Tok Thompson",
+                "location": "THH102"
+            },
+            {
+                "section": "10681R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH110"
+            },
+            {
+                "section": "10682R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH112"
+            },
+            {
+                "section": "10683R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            },
+            {
+                "section": "10684R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "5 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "382",
+        "course_name": "Zen and Daoism in Asian Literature",
+        "units": "(4.0 units)",
+        "description": "Studies of the presence and influence of Zen Buddhism and Daoism in Asian literature, with a focus on China and Japan.",
+        "sections": [
+            {
+                "section": "22050D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 49",
+                "instructor": "Jason Webb",
+                "location": "THH210"
+            },
+            {
+                "section": "22051R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jason Webb",
+                "location": "THH121"
+            },
+            {
+                "section": "22052R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jason Webb",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EALC",
+        "course_num": "344",
+        "course_name": "Korean Culture from Ancient to Modern Times",
+        "units": "(4.0 units)",
+        "description": "The history of Korean literature and culture from the ancient to the modern era. Recommended preparation: HIST 105g.",
+        "sections": [
+            {
+                "section": "25565R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "48 of 49",
+                "instructor": "Sunyoung Park",
+                "location": "SOSB2"
+            },
+            {
+                "section": "25566R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Caitlyn Chung",
+                "location": "THH217"
+            },
+            {
+                "section": "25568R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Caitlyn Chung",
+                "location": "THH214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EALC",
+        "course_num": "350",
+        "course_name": "Chinese Civilization",
+        "units": "(4.0 units)",
+        "description": "Characteristics and aspects of Chinese civilization;interpretation of philosophy, literature, religion, art, music.Conducted in English.",
+        "sections": [
+            {
+                "section": "25307R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 40,
+                "registered": "48 of 49",
+                "instructor": "Bettine Birge",
+                "location": "DMC150"
+            },
+            {
+                "section": "25308R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "23 of 24",
+                "instructor": "Di Wang",
+                "location": "WPH101"
+            },
+            {
+                "section": "25309R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Di Wang",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "150",
+        "course_name": "East Asian Societies",
+        "units": "(4.0 units)",
+        "description": "Main patterns of change in modern China, Japan, and Korea;historical framework and the insights of geography, economics,political science, and other disciplines.",
+        "sections": [
+            {
+                "section": "25800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "198 of 200",
+                "instructor": "Kin Tak Raymond Tsang",
+                "location": "THH201"
+            },
+            {
+                "section": "25802R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC209"
+            },
+            {
+                "section": "25804R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "KDC241"
+            },
+            {
+                "section": "25807R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Zerui Pan",
+                "location": "KDC241"
+            },
+            {
+                "section": "25810R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC211"
+            },
+            {
+                "section": "25812R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "25816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Zerui Pan",
+                "location": "DMC200"
+            },
+            {
+                "section": "25820R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH214"
+            },
+            {
+                "section": "25821R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37107R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Brett Sheehan",
+                "location": "SGM101"
+            },
+            {
+                "section": "37108R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ruohan Zhou",
+                "location": "DMC160"
+            },
+            {
+                "section": "37109R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ruohan Zhou",
+                "location": "DMC154"
+            },
+            {
+                "section": "37111R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sharon Salgado Martinez",
+                "location": "DMC211"
+            },
+            {
+                "section": "37112R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sharon Salgado Martinez",
+                "location": "DMC201"
+            },
+            {
+                "section": "37113R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kurt Woolford",
+                "location": "KAP167"
+            },
+            {
+                "section": "37114R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kurt Woolford",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "137",
+        "course_name": "Introduction to Islam",
+        "units": "(4.0 units)",
+        "description": "Introduction to Islam, emphasizing its historical and cultural development since the seventh century C.E., and the basic teachings of Islam.",
+        "sections": [
+            {
+                "section": "60094R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Sherman Jackson",
+                "location": "THH301"
+            },
+            {
+                "section": "60095R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Abdur-Rahman Muhammad",
+                "location": "SOSB37"
+            },
+            {
+                "section": "60096R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Yusuf Lenfest",
+                "location": "THHB10"
+            },
+            {
+                "section": "60097R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Abdur-Rahman Muhammad",
+                "location": "THH217"
+            },
+            {
+                "section": "60098R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Yusuf Lenfest",
+                "location": "THHB10"
+            },
+            {
+                "section": "60099R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Mohammad Ali",
+                "location": "THH121"
+            },
+            {
+                "section": "60100R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Mohammad Ali",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "330",
+        "course_name": "Russian Thought and Civilization",
+        "units": "(4.0 units)",
+        "description": "Russian cultural identity from its beginnings until today. The Eastern Orthodox tradition, its traumatic confrontation with Western culture, and their continuous interaction.",
+        "sections": [
+            {
+                "section": "60231R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "Dmitrii Kuznetsov",
+                "location": "DMC105"
+            },
+            {
+                "section": "60232R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "Dmitrii Kuznetsov",
+                "location": "WPH203"
+            },
+            {
+                "section": "60228R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Peter Winsky",
+                "location": "VPD116"
+            }
+        ]
+    }
+]

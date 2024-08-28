@@ -1,0 +1,160 @@
+[
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "515",
+        "course_name": "Global Health Modules, HIV/AIDS",
+        "units": "(2.0 units)",
+        "description": "HIV epidemiology, basic biology of transmission and pathophysiology, associated opportunistic infections, and challenges to providing care in the developing world, including government responses.",
+        "sections": [
+            {
+                "section": "41354D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "6 of 30",
+                "instructor": "Noah Wald-Dickler",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "530C",
+        "course_name": "Foundation of Medicine: Anatomy, Physiology, and Pathology",
+        "units": "(4.0 units)",
+        "description": "Continues material from MEDS-530a and MEDS-530b, covering human anatomy (gross anatomy, histology, radiographic anatomy), physiology (cellular physiology, organ systems) and pathology (general, systemic, cellular pathology).",
+        "sections": [
+            {
+                "section": "41448D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 10,
+                "registered": "10 of 30",
+                "instructor": "Mansour Rostami",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "554",
+        "course_name": "Clinical Medicine and Healthcare Delivery in Panama",
+        "units": "(2.0 units)",
+        "description": "A two-week course providing students with hands-on experience in the practice of rural medicine as they gain exposure to the various socio-economic factors present in Bocas del Toro, Panama. Recommended preparation: MEDS 500, MEDS 501, MEDS 510, MEDS 511, MEDS 514, MEDS 515. Open only to Global Medicine majors.",
+        "sections": [
+            {
+                "section": "41351D",
+                "session": "117",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 4",
+                "instructor": "Benjamin La Brot",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "575",
+        "course_name": "Introduction to Healthcare in Resource-Limited Settings",
+        "units": "(2.0 units)",
+        "description": "Introduction to tactics, tools, and directives commonly used in global health crises and resource-poor settings with an emphasis on strategic thinking and planning to enable situation-specific solutions to be implemented.",
+        "sections": [
+            {
+                "section": "41356D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "4 of 30",
+                "instructor": "Benjamin La Brot",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "579",
+        "course_name": "Healthcare Challenges and Dynamics in Japan",
+        "units": "(2.0 units)",
+        "description": "Two-week study abroad course exploring the health care system and accompanying care provision in Japan.",
+        "sections": [
+            {
+                "section": "41375D",
+                "session": "473",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 4",
+                "instructor": "Navid Pour-Ghasemi,Ryan Seuffert",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "583",
+        "course_name": "SARS-CoV-2 Outbreak in the United Kingdom",
+        "units": "(2.0 units)",
+        "description": "Critical examination of the SARS-CoV-2 Outbreak in the United Kingdom including the geographic spread of the disease, pathology of respiratory illness and evaluation of the delivery of acute and primary health care in the context of the U.K.'s public health infrastructure.",
+        "sections": [
+            {
+                "section": "41442D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 20,
+                "registered": "7 of 30",
+                "instructor": "Kim Turner",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MEDS",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41353D",
+                "session": "651",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Benjamin La Brot,Navid Pour-Ghasemi",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41364D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Navid Pour-Ghasemi,Benjamin La Brot",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

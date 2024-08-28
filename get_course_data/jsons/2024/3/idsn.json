@@ -1,0 +1,565 @@
+[
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "510",
+        "course_name": "Integrative Practices Residential",
+        "units": "(2.0 units)",
+        "description": "One-week campus residential. Introduction to program themes, content, concepts, theories and processes. Opportunity to build skills and meet cohort, with an emphasis on team building.",
+        "sections": [
+            {
+                "section": "34060D",
+                "session": "075",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 1020,
+                "days": 0,
+                "registered": "53 of 60",
+                "instructor": "Matthew Manos,Stephen Child",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "515",
+        "course_name": "Professional Practices Residential",
+        "units": "(2.0 units, max 4)",
+        "description": "One-week off-campus residential. Applied, intensive workshop format focused on solutions for real-world problems with input from industry experts.",
+        "sections": [
+            {
+                "section": "34062D",
+                "session": "551",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 30",
+                "instructor": "Yihyun Lim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "520",
+        "course_name": "Design Essentials",
+        "units": "(3.0 units)",
+        "description": "Overview of design language, process and product. Build fluency in applying core visual principles and design-based problem-solving techniques. Explore historical and contemporary design issues.",
+        "sections": [
+            {
+                "section": "34072D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "31 of 33",
+                "instructor": "Emily Schneider",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "521",
+        "course_name": "Designing Brand Identity for Startups",
+        "units": "(2.0 units)",
+        "description": "Introduction to branding; brand design and development of a brand identity; brand attributes; visual aspects; social and ethical implications; curation of brand identity.",
+        "sections": [
+            {
+                "section": "34075D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "27 of 27",
+                "instructor": "Stephen Child",
+                "location": "IYH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "524",
+        "course_name": "Physical Product Design",
+        "units": "(4.0 units)",
+        "description": "Initial design and development of consumer products; from ideation through visualization, market research, and prototyping to ready-to-market solutions; 3D modeling and 3D printing.",
+        "sections": [
+            {
+                "section": "34079D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "14 of 25",
+                "instructor": "Grant Delgatty",
+                "location": "IYH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "525",
+        "course_name": "Business Essentials",
+        "units": "(3.0 units)",
+        "description": "Overview of general business and management concepts and techniques that builds theoretical and analytical fluency and identifies and examines leadership and managerial challenges.",
+        "sections": [
+            {
+                "section": "34084D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "21 of 25",
+                "instructor": "Scott Armanini",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "529",
+        "course_name": "Marketing Strategy for Startups",
+        "units": "(3.0 units)",
+        "description": "A focus on ideal marketing strategies for early-stage startups seeking to build communities of early adopters and beta testers for products, services, and systems.",
+        "sections": [
+            {
+                "section": "34091D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "5 of 25",
+                "instructor": "Jay Clewis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "530",
+        "course_name": "Technology Essentials",
+        "units": "(3.0 units)",
+        "description": "Overview of core information technology concepts, methods, and frameworks. Develop aptitude in using tools, applications and systems; learn basic programming languages and methodologies.",
+        "sections": [
+            {
+                "section": "34093D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "12 of 30",
+                "instructor": "John Bruneau",
+                "location": "IYH210"
+            },
+            {
+                "section": "34198D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 32,
+                "registered": "4 of 25",
+                "instructor": "John Bruneau",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "538",
+        "course_name": "Extended Reality Technologies",
+        "units": "(2.0 units)",
+        "description": "Provides context for creating augmented and virtual reality by examining the technologies that enable them and the perspectives for new applications in virtual and physical spaces.",
+        "sections": [
+            {
+                "section": "34094D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 32,
+                "registered": "23 of 30",
+                "instructor": "Carsten Becker",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "539",
+        "course_name": "Extended Reality Development",
+        "units": "(4.0 units)",
+        "description": "Overview of modern XR programming practices; 3D UX, physics forces, animations, behaviors, visual effects and spatial audio; advancements in XR hardware and software APIs.",
+        "sections": [
+            {
+                "section": "34110D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "John Bruneau",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "540",
+        "course_name": "Processes and Perspectives",
+        "units": "(4.0 units)",
+        "description": "Discipline-specific, cross-disciplinary and shared approaches to products, services, projects, systems, organizational development. Topics include creative and user-focused perspectives, feasibility analytics, lean startup techniques.",
+        "sections": [
+            {
+                "section": "34080D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "24 of 28",
+                "instructor": "Yihyun Lim",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34101D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "33 of 33",
+                "instructor": "Davina Wolter",
+                "location": "IYH212/213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "542",
+        "course_name": "Machine Intelligence",
+        "units": "(4.0 units)",
+        "description": "Concepts and applications of artificial intelligence and machine learning; topics include agents, knowledge representation, classification systems, training models, decision trees, decision trees and ensemble learning",
+        "sections": [
+            {
+                "section": "34197D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "Michael Crowley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "544",
+        "course_name": "Transformative Artificial Intelligence in Society",
+        "units": "(4.0 units)",
+        "description": "Building modern AI applications with a focus on societal impact; fostering critical thinking in AI development; emphasizing ethical considerations in AI integration.",
+        "sections": [
+            {
+                "section": "34199D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "12 of 25",
+                "instructor": "Alexander Titus",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "545",
+        "course_name": "Integrative Project",
+        "units": "(3.0 units)",
+        "description": "Faculty-mentored project. Demonstrate individual and simultaneous skills and competency across fields and within cross-functional, cross-disciplinary teams.",
+        "sections": [
+            {
+                "section": "34112D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1260,
+                "days": 8,
+                "registered": "8 of 25",
+                "instructor": "Chris Swain,Aaron Siegel",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "550",
+        "course_name": "Opportunity and Uncertainty",
+        "units": "(4.0 units)",
+        "description": "Discipline-specific, cross-disciplinary and shared approaches to recognizing/analyzing opportunities, identifying/framing problems and developing/iterating solutions. Techniques gleaned from entrepreneurship, creative practices, critical thinking methods, ethnography, systems theory.",
+        "sections": [
+            {
+                "section": "34121D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "11 of 25",
+                "instructor": "Jay Clewis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "560",
+        "course_name": "Narrative and Storytelling",
+        "units": "(4.0 units)",
+        "description": "Discipline-specific, cross-disciplinary and shared approaches to exploring visual, written and spoken storytelling using digital modalities. Topics include communication theory, narrative structures and content creation.",
+        "sections": [
+            {
+                "section": "34142D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1220,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "Jay Clewis",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "581",
+        "course_name": "Introduction to the Global Fashion System",
+        "units": "(2.0 units)",
+        "description": "Analysis of the current fashion system exploring strategic interventions within existing models to imagine future systemic change; examines the role of seasonal structures.",
+        "sections": [
+            {
+                "section": "34169D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 740,
+                "days": 64,
+                "registered": "16 of 25",
+                "instructor": "Keanan Duffty",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "585",
+        "course_name": "Capstone",
+        "units": "(4.0 units)",
+        "description": "Faculty-mentored, applied project with individual and team components. Implement a prototype solution to a problem. Deploy relevant tools, methods and processes learned throughout the program.",
+        "sections": [
+            {
+                "section": "34170D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "11 of 25",
+                "instructor": "Jay Clewis,Jean-Michel Arnoult",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units, which may be applied to the degree, to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "34181D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Matthew Manos",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34182D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Davina Wolter",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34183D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Jean-Michel Arnoult",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34184D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Grant Delgatty",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34185D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Michael Crowley",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34186D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "John Bruneau",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34187D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Yihyun Lim",
+                "location": "ONLINE"
+            },
+            {
+                "section": "34188D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Aaron Siegel",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IDSN",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Selected topics in design, business and technology.",
+        "sections": [
+            {
+                "section": "34100D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Stephen Child",
+                "location": ""
+            },
+            {
+                "section": "34102D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Grant Delgatty",
+                "location": ""
+            },
+            {
+                "section": "34103D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "John Bruneau",
+                "location": ""
+            },
+            {
+                "section": "34106D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Michael Crowley",
+                "location": ""
+            },
+            {
+                "section": "34108D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Alexander Titus",
+                "location": ""
+            }
+        ]
+    }
+]

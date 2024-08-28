@@ -1,0 +1,278 @@
+[
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "203",
+        "course_name": "Digital Tools for Design",
+        "units": "(2.0 units)",
+        "description": "Exploration of the processes of germination, ideation and application/execution in design integrated with computer usage.",
+        "sections": [
+            {
+                "section": "33259D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "213",
+        "course_name": "Digital Tools in 3D Design",
+        "units": "(2.0 units)",
+        "description": "3D digital modeling, rendering, digital capture and production methods for product, package and environmental design.",
+        "sections": [
+            {
+                "section": "33258R",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 920,
+                "days": 10,
+                "registered": "4 of 15",
+                "instructor": "Ginamahre Fulton",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "303",
+        "course_name": "Web Design",
+        "units": "(2.0 units)",
+        "description": "A workshop-based course that focuses on software applications in design and web design.",
+        "sections": [
+            {
+                "section": "33257R",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 20,
+                "registered": "5 of 15",
+                "instructor": "Ginamahre Fulton",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "419",
+        "course_name": "Professional Internship in the Arts",
+        "units": "(2.0 units, max 4)",
+        "description": "An experiential/academic opportunity in a museum, gallery, community cultural center or related facility. Lectures, seminars, written analysis and working internship.",
+        "sections": [
+            {
+                "section": "33291D",
+                "session": "126",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33292D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33293D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "520",
+        "course_name": "Individual Studies",
+        "units": "(2.0 units, max 8)",
+        "description": "Investigation of creative problems through various design media.",
+        "sections": [
+            {
+                "section": "33364D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "550",
+        "course_name": "Advancement",
+        "units": "(2.0 units)",
+        "description": "A preparatory workshop to prepare students advancing to candidacy.",
+        "sections": [
+            {
+                "section": "33360D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 20",
+                "instructor": "Suzanne Lacy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "33363D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33365D",
+                "session": "124",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33366D",
+                "session": "126",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Bruno Lemgruber",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "591",
+        "course_name": "Field Internship Experience",
+        "units": "(2.0 units)",
+        "description": "Supervised internship in a design firm, or with an independent designer, on projects and research specific to design practice.",
+        "sections": [
+            {
+                "section": "33294D",
+                "session": "126",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            },
+            {
+                "section": "33295D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33361D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "33359D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Suzanne Lacy",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "DES",
+        "course_number": "594Z",
+        "course_name": "Master's thesis",
+        "units": "(0.0 units)",
+        "description": "Credit upon acceptance of master's thesis.",
+        "sections": [
+            {
+                "section": "33362D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

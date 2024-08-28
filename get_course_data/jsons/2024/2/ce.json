@@ -1,0 +1,235 @@
+[
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "501",
+        "course_name": "Construction Practices",
+        "units": "(4.0 units)",
+        "description": "Systems, processes, and constraints governing the initiation, direction, engineering, and delivery of major construction projects. Professional construction management, responsibilities, and practice.",
+        "sections": [
+            {
+                "section": "29601R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1270,
+                "days": 20,
+                "registered": "4 of 30",
+                "instructor": "Henry Koffman",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29602D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1270,
+                "days": 20,
+                "registered": "5 of 10",
+                "instructor": "Henry Koffman",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "529",
+        "course_name": "Finite Element Analysis",
+        "units": "(4.0 units)",
+        "description": "Basic concepts; variational methods; isoparametric formulation; plane stress; plane strain; axisymmetric structures; plates and shells; structural dynamics; stability and buckling; computer applications; nonlinear analysis.",
+        "sections": [
+            {
+                "section": "29603R",
+                "session": "905",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 20,
+                "registered": "2 of 20",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "OHE100D"
+            },
+            {
+                "section": "29604D",
+                "session": "942",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 20,
+                "registered": "14 of 18",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29605R",
+                "session": "905",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "29606D",
+                "session": "942",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 18",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29610D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Felipe De Barros",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29620D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Felipe De Barros",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29630D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29640D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29650D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29660D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CE",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29670D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

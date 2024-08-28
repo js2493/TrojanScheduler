@@ -1,0 +1,224 @@
+[
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "541A",
+        "course_name": "Producing Workshop",
+        "units": "(4.0 units)",
+        "description": "Hands-on workshops in creative and physical filmmaking. Open to PFTM students only. Duplicates credit in CTPR 504 and CMPP-541.",
+        "sections": [
+            {
+                "section": "19568D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "22 of 24",
+                "instructor": "Sharon Greene",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "548",
+        "course_name": "Introduction to Producing for Television",
+        "units": "(2.0 units)",
+        "description": "An introduction to the creative and business aspects of producing for television. Open only to PFTM students.",
+        "sections": [
+            {
+                "section": "19564D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "22 of 24",
+                "instructor": "Jeff Hegedus",
+                "location": "SCI207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "550",
+        "course_name": "Script Analysis for the Producer",
+        "units": "(2.0 units)",
+        "description": "Detailed evaluation of completed scripts and of the producer's role in bringing them to fruition. Open to PFTM students only.",
+        "sections": [
+            {
+                "section": "19551D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Jessica Sharzer",
+                "location": "SCA203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "561",
+        "course_name": "Motion Picture and Television Marketing",
+        "units": "(2.0 units)",
+        "description": "Analysis and preparation of film and television show marketing campaigns from creative concept to targeting across various media. Open to PFTM students only.",
+        "sections": [
+            {
+                "section": "19552D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 8,
+                "registered": "13 of 24",
+                "instructor": "Marisa Liston,Andre Caraco,Sharon Merle-Lieberman",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "563",
+        "course_name": "Producing Symposium",
+        "units": "(1.0 unit)",
+        "description": "Lectures on creative aspects of producing. Open to PFTM students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19554D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "22 of 24",
+                "instructor": "Edward Saxon",
+                "location": "RZC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "565",
+        "course_name": "Scheduling and Budgeting",
+        "units": "(4.0 units)",
+        "description": "Concept and preparation of a complete schedule and budget. Open to PFTM students only.",
+        "sections": [
+            {
+                "section": "19555D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 4,
+                "registered": "13 of 24",
+                "instructor": "Afnahn Khan",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "566",
+        "course_name": "Finance",
+        "units": "(2.0 units)",
+        "description": "Seminar of financial aspects of film industry and methods of financing films. Open to PFTM students only.",
+        "sections": [
+            {
+                "section": "19557D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 16,
+                "registered": "13 of 24",
+                "instructor": "Stuart Pollok",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "571",
+        "course_name": "Producing the Screenplay",
+        "units": "(2.0 units)",
+        "description": "Workshop for the creation and development of a screenplay or teleplay. Open to PFTM students only.",
+        "sections": [
+            {
+                "section": "19559D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 2,
+                "registered": "5 of 8",
+                "instructor": "Michael Lane",
+                "location": "SCA216"
+            },
+            {
+                "section": "19561D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 2,
+                "registered": "5 of 8",
+                "instructor": "",
+                "location": "SCI209"
+            },
+            {
+                "section": "19562D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 2,
+                "registered": "2 of 8",
+                "instructor": "Barry Levy",
+                "location": "SCB304"
+            },
+            {
+                "section": "19563D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1170,
+                "end_time": 1350,
+                "days": 2,
+                "registered": "2 of 6",
+                "instructor": "Ian Deitchman",
+                "location": "SCA245"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CMPP",
+        "course_num": "589A",
+        "course_name": "Graduate Film Business Seminar",
+        "units": "(2.0 units)",
+        "description": "Economics of the entertainment industry, including entertainment law, and rights acquisition. Includes weekly film screening.",
+        "sections": [
+            {
+                "section": "19567D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "22 of 24",
+                "instructor": "Jeffrey Korchek,",
+                "location": "SCA203"
+            }
+        ]
+    }
+]

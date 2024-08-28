@@ -1,0 +1,204 @@
+[
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "712C",
+        "course_name": "Capstone Research Project for GDEN Students",
+        "units": "(0.5 units)",
+        "description": "Production and defense of a research plan that demonstrates significant understanding of a topic in geriatric dentistry.",
+        "sections": [
+            {
+                "section": "23447D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 3",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Reyes Enciso,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "715",
+        "course_name": "Geriatric Dentistry Issues",
+        "units": "(2.0 units)",
+        "description": "Common geriatric dentistry topics including epidemiology of oral diseases, common dental diseases, their management and prevention protocols for older adult patients. Open only to Master and Professional Dental students.",
+        "sections": [
+            {
+                "section": "23448D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Lisa Hou,Roseann Mulligan,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "722",
+        "course_name": "Internal Medicine and Systemic Disease for Dental Residents",
+        "units": "(2.0 units)",
+        "description": "Seminars on common systemic diseases and the potential interactions with oral disease and treatment",
+        "sections": [
+            {
+                "section": "24002D",
+                "session": "367",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Mehdi Mohammadi,Anette Vistoso Monreal,Roseann Mulligan,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24018D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Mehdi Mohammadi,Lisa Hou,Roseann Mulligan,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24021D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Mehdi Mohammadi,Glenn Clark,Anette Vistoso Monreal,Lisa Hou,Roseann Mulligan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24026D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "725",
+        "course_name": "Epidemiology, Nutrition and Aging for Dental Residents",
+        "units": "(2.0 units)",
+        "description": "Seminars on the various mucosal, cutaneous, gingival and salivary diseases and lesions in the oral and maxillofacial region.",
+        "sections": [
+            {
+                "section": "24020D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24027D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24048D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Roseann Mulligan,Lisa Hou,Mehdi Mohammadi,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "730",
+        "course_name": "OFPM Case Portfolio Preparation for Dental Residents",
+        "units": "(0.5 units, max 1)",
+        "description": "Examination of clinical cases of geriatric patients with orofacial pain and oral lesions through online conferences in preparation, development and defense of portfolio of multiple cases.",
+        "sections": [
+            {
+                "section": "23433D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Roseann Mulligan,Piedad Suarez,Nazanin Sharifi,Lisa Hou",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "731",
+        "course_name": "GDEN Case Portfolio Preparation for Dental Residents",
+        "units": "(0.5 units, max 1)",
+        "description": "Examination of clinical cases of geriatric patients with complex medical conditions through online conferences in preparation, development and defense of portfolio of multiple cases.",
+        "sections": [
+            {
+                "section": "23436D",
+                "session": "100",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Roseann Mulligan,Piedad Suarez,Nazanin Sharifi,Lisa Hou,Mehdi Mohammadi,Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GDEN",
+        "course_num": "733",
+        "course_name": "Research Methodology",
+        "units": "(2.0 units)",
+        "description": "A coordinated approach to understanding, critically assessing and applying the principles of scientific inquiry through the study of clinically relevant, discipline specific literature.",
+        "sections": [
+            {
+                "section": "23440D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 20",
+                "instructor": "Reyes Enciso,Glenn Clark,Anette Vistoso Monreal",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

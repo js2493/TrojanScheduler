@@ -1,0 +1,3485 @@
+[
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "040",
+        "course_name": "Basic Mathematical Skills",
+        "units": "(4.0 units)",
+        "description": "Review of Algebra. Real numbers, linear equations and inequalities, functions, graphs, systems of equations, exponents, polynomials, factoring, rational expressions, radicals, quadratic equations and solutions. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39407R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "30 of 30",
+                "instructor": "Aykut Arslan",
+                "location": "THH214"
+            },
+            {
+                "section": "39408R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "KAP148"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "108",
+        "course_name": "Contemporary Precalculus",
+        "units": "(4.0 units)",
+        "description": "Equations and inequalities; functions; graphs; polynomial and rational functions; exponential, logarithmic, and trigonometric function; analytic geometry.",
+        "sections": [
+            {
+                "section": "39403R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "36 of 49",
+                "instructor": "Victoria Chebotaeva",
+                "location": "DMC100"
+            },
+            {
+                "section": "39401R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "39402R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "11 of 24",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "39406R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Victoria Chebotaeva",
+                "location": "DMC152"
+            },
+            {
+                "section": "39404R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39405R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "114",
+        "course_name": "Foundations of Statistics",
+        "units": "(4.0 units)",
+        "description": "An introduction to the basic tools of statistics. Descriptive statistics; probability; expected value; normal approximation sampling; chance models; tests of significance. Recommended preparation: MATH 040x or math placement exam. Not available for major credit to Math students.",
+        "sections": [
+            {
+                "section": "39410R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Alvin Jin",
+                "location": "WPHB28"
+            },
+            {
+                "section": "39411R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39412R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39413R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "45 of 49",
+                "instructor": "Alvin Jin",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "39414R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "39415R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "21 of 24",
+                "instructor": "",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "117",
+        "course_name": "Introduction to Mathematics for Business and Economics",
+        "units": "(4.0 units)",
+        "description": "Functions, graphs, polynomial and rational functions, exponential and logarithmic functions, matrices, systems of linear equations.",
+        "sections": [
+            {
+                "section": "39419R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "46 of 49",
+                "instructor": "James Alcala",
+                "location": "KAP146"
+            },
+            {
+                "section": "39420R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39421R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39422R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "40 of 49",
+                "instructor": "James Alcala",
+                "location": "LVL17"
+            },
+            {
+                "section": "39423R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39424R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 24",
+                "instructor": "",
+                "location": "KAP113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "118",
+        "course_name": "Calculus for Business and Economics",
+        "units": "(4.0 units)",
+        "description": "Derivatives and extrema. The definite integral and u-substitutions. Functions of several variables and their extrema; constrained optimization.",
+        "sections": [
+            {
+                "section": "39429R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Jared Warner",
+                "location": "ZHS163"
+            },
+            {
+                "section": "39430R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "39431R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "39432R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Jared Warner",
+                "location": "SOSB44"
+            },
+            {
+                "section": "39433R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC201"
+            },
+            {
+                "section": "39434R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "DMC201"
+            },
+            {
+                "section": "39435R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Spencer Gerhardt",
+                "location": "DMC156"
+            },
+            {
+                "section": "39436R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39437R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39438R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Kayla Orlinsky",
+                "location": "SGM601"
+            },
+            {
+                "section": "39439R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "39440R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "39441R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "38 of 49",
+                "instructor": "Kayla Orlinsky",
+                "location": "SGM601"
+            },
+            {
+                "section": "39442R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "14 of 25",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39443R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39444R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Jared Warner",
+                "location": "ZHS163"
+            },
+            {
+                "section": "39445R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39446R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39450R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Boyang Su",
+                "location": "ZHS252"
+            },
+            {
+                "section": "39451R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS222"
+            },
+            {
+                "section": "39452R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "GFS222"
+            },
+            {
+                "section": "39453R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Boyang Su",
+                "location": "KDC235"
+            },
+            {
+                "section": "39454R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39455R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39492R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Spencer Gerhardt",
+                "location": "WPHB28"
+            },
+            {
+                "section": "39493R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39494R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "125",
+        "course_name": "Calculus I",
+        "units": "(4.0 units)",
+        "description": "Limits; continuity, derivatives and applications; antiderivatives; the fundamental theorem of calculus; exponential and logarithmic functions.",
+        "sections": [
+            {
+                "section": "39456D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "",
+                "location": "DMC150"
+            },
+            {
+                "section": "39457R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "39458R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "39495R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "48 of 48",
+                "instructor": "Guillaume Dreyer",
+                "location": "LVL16"
+            },
+            {
+                "section": "39496R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39497R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39462D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "43 of 49",
+                "instructor": "Pranava Jayanti",
+                "location": "KAP144"
+            },
+            {
+                "section": "39463R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "39464R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "18 of 24",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "39465R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Calum Rickard",
+                "location": "THH114"
+            },
+            {
+                "section": "39466R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39467R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39468D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Guillermo Reyes Souto",
+                "location": "GFS101"
+            },
+            {
+                "section": "39469R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "39470R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "39471R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Felicia Tabing",
+                "location": "DMC152"
+            },
+            {
+                "section": "39472R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39473R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP166"
+            },
+            {
+                "section": "39474R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Abhishek Balakrishna",
+                "location": "SOSB4"
+            },
+            {
+                "section": "39475R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39476R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39477R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Pranava Jayanti",
+                "location": "KAP146"
+            },
+            {
+                "section": "39478R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "39479R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "39480D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Christian Geske",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "39481R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "39482R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP141"
+            },
+            {
+                "section": "39486D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Christian Geske",
+                "location": "SOSB4"
+            },
+            {
+                "section": "39487R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH112"
+            },
+            {
+                "section": "39488R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP141"
+            },
+            {
+                "section": "39489R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Felicia Tabing",
+                "location": "DMC152"
+            },
+            {
+                "section": "39490R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "39491R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "39498R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "48 of 48",
+                "instructor": "Calum Rickard",
+                "location": "WPHB28"
+            },
+            {
+                "section": "39499R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            },
+            {
+                "section": "39522R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "126",
+        "course_name": "Calculus II",
+        "units": "(4.0 units)",
+        "description": "A continuation of MATH 125: trigonometric functions; applications of integration; techniques of integration; indeterminate forms; infinite series; Taylor series; polar coordinates.",
+        "sections": [
+            {
+                "section": "39500R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Yinan Shen",
+                "location": "KAP156"
+            },
+            {
+                "section": "39501R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP141"
+            },
+            {
+                "section": "39502R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP146"
+            },
+            {
+                "section": "39504D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Guillermo Reyes Souto",
+                "location": "THH116"
+            },
+            {
+                "section": "39505D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "39506D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "39512R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Zhengye Zhou",
+                "location": "THH114"
+            },
+            {
+                "section": "39513R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "39514R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "THH213"
+            },
+            {
+                "section": "39516R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Zhengye Zhou",
+                "location": "DMC100"
+            },
+            {
+                "section": "39517R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "THH215"
+            },
+            {
+                "section": "39518R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "39519R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Guillermo Reyes Souto",
+                "location": "GFS101"
+            },
+            {
+                "section": "39520R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39521R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "129",
+        "course_name": "Calculus II for Engineers and Scientists",
+        "units": "(4.0 units)",
+        "description": "Trigonometric functions; applications of integration; techniques of integration; indeterminate forms; infinite series; Taylor series; polar coordinates. Engineering and physics applications. Prerequisite: MATH 125. (Duplicates credit in MATH 126 and MATH 127)",
+        "sections": [
+            {
+                "section": "39524D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "27 of 49",
+                "instructor": "Mohammed Ziane",
+                "location": "KAP146"
+            },
+            {
+                "section": "39525D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "15 of 24",
+                "instructor": "",
+                "location": "THH215"
+            },
+            {
+                "section": "39526D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "12 of 25",
+                "instructor": "",
+                "location": "THH215"
+            },
+            {
+                "section": "39527D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "40 of 49",
+                "instructor": "Mohammed Ziane",
+                "location": "LVL16"
+            },
+            {
+                "section": "39528D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP137"
+            },
+            {
+                "section": "39529D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "208",
+        "course_name": "Elementary Probability and Statistics",
+        "units": "(4.0 units)",
+        "description": "Descriptive statistics, probability, discrete and continuous random variables, expectation and variance, sampling, Central Limit Theorem, estimation, hypothesis testing, correlation and regression. Emphasis on health science. Prerequisite: MATH 118xg or MATH 125.",
+        "sections": [
+            {
+                "section": "39530R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "19 of 49",
+                "instructor": "Weixuan Xia",
+                "location": "SLH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "225",
+        "course_name": "Linear Algebra and Linear Differential Equations",
+        "units": "(4.0 units)",
+        "description": "Matrices, systems of linear equations, vector spaces, linear transformations, eigenvalues, systems of linear differential equations.",
+        "sections": [
+            {
+                "section": "39538R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "48 of 49",
+                "instructor": "Yifeng Huang",
+                "location": "SOSB44"
+            },
+            {
+                "section": "39539R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "ZHS360"
+            },
+            {
+                "section": "39540R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "ZHS360"
+            },
+            {
+                "section": "39541D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "54 of 54",
+                "instructor": "Nathaniel Emerson",
+                "location": "LVL17"
+            },
+            {
+                "section": "39542R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "29 of 29",
+                "instructor": "",
+                "location": "KAP145"
+            },
+            {
+                "section": "39543R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP158"
+            },
+            {
+                "section": "39544R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Wenyuan Li",
+                "location": "SOSB44"
+            },
+            {
+                "section": "39545R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SOSB37"
+            },
+            {
+                "section": "39546R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "THH215"
+            },
+            {
+                "section": "39547R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Wenyuan Li",
+                "location": "LVL16"
+            },
+            {
+                "section": "39548R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP137"
+            },
+            {
+                "section": "39549R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP137"
+            },
+            {
+                "section": "39550R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Nathaniel Emerson",
+                "location": "DMC100"
+            },
+            {
+                "section": "39551R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39552R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "39535R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "48 of 49",
+                "instructor": "Kayla Orlinsky",
+                "location": "DMC156"
+            },
+            {
+                "section": "39536R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH108"
+            },
+            {
+                "section": "39537R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "226",
+        "course_name": "Calculus III",
+        "units": "(4.0 units)",
+        "description": "Vectors, vector valued functions; differential and integral calculus of functions of several variables; Green's theorem, Divergence theorem, Stoke's theorem.",
+        "sections": [
+            {
+                "section": "39553R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Anne Dranowski",
+                "location": "SOSB4"
+            },
+            {
+                "section": "39554R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "39555R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "39556D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Christian Geske",
+                "location": "KDC235"
+            },
+            {
+                "section": "39557R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "SOSB37"
+            },
+            {
+                "section": "39558R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "SOSB37"
+            },
+            {
+                "section": "39559D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "32 of 49",
+                "instructor": "Guillaume Dreyer",
+                "location": "LVL16"
+            },
+            {
+                "section": "39560R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "39561R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "13 of 24",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "39565R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Anne Dranowski",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "39566R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "39567R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "39568R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Guillaume Dreyer",
+                "location": "WPHB27"
+            },
+            {
+                "section": "39569R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "DMC111"
+            },
+            {
+                "section": "39570R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC111"
+            },
+            {
+                "section": "39574D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Fedor Malikov",
+                "location": "SGM601"
+            },
+            {
+                "section": "39575R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "39576R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "229",
+        "course_name": "Calculus III for Engineers and Scientists",
+        "units": "(4.0 units)",
+        "description": "A continuation of 129; vectors, vector valued functions; differential and integral calculus of functions of several variables; Greens theorem. Engineering and physics applications. Prerequisite: MATH 126, or MATH 127, or MATH 129.(Duplicates credit in MATH 226 and MATH 227)",
+        "sections": [
+            {
+                "section": "39580D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Nathaniel Emerson",
+                "location": "LVL17"
+            },
+            {
+                "section": "39581R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP147"
+            },
+            {
+                "section": "39582R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP147"
+            },
+            {
+                "section": "39586D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "50 of 50 (54 on waitlist)",
+                "instructor": "Takahiro Sakai",
+                "location": "ZHS159"
+            },
+            {
+                "section": "39587R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "39588R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "245",
+        "course_name": "Mathematics of Physics and Engineering I",
+        "units": "(4.0 units)",
+        "description": "First-order differential equations; second-order linear differential equations; determinants and matrices; systems of linear differential equations; Laplace transforms.",
+        "sections": [
+            {
+                "section": "39598D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "48 of 49",
+                "instructor": "Ramtin Sheikhhassani",
+                "location": "THH116"
+            },
+            {
+                "section": "39599D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "39600D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "39602D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "46 of 49",
+                "instructor": "Ramtin Sheikhhassani",
+                "location": "GFS101"
+            },
+            {
+                "section": "39603R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "",
+                "location": "GFS229"
+            },
+            {
+                "section": "39604R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP145"
+            },
+            {
+                "section": "39606D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "48 of 49",
+                "instructor": "Calum Rickard",
+                "location": "SOSB44"
+            },
+            {
+                "section": "39607R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP164"
+            },
+            {
+                "section": "39608R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "KAP164"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "290",
+        "course_name": "Mathematical Reasoning and Problem Solving",
+        "units": "(4.0 units)",
+        "description": "Preparation for reading and writing proofs with applications from major branches of mathematics, focusing on axiomatic structures and transformations that preserve structure.",
+        "sections": [
+            {
+                "section": "39610R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "26 of 27",
+                "instructor": "Cymra Haskell",
+                "location": "THH118"
+            },
+            {
+                "section": "39612R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "26 of 27",
+                "instructor": "",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "307",
+        "course_name": "Statistical Inference and Data Analysis I",
+        "units": "(4.0 units)",
+        "description": "Probability, counting, independence, distributions, random variables, simulation, expectation, variance, covariance, transformations, law of large numbers, Central limit theorem, estimation, efficiency, maximum likelihood, Cramer-Rao bound, bootstrap.",
+        "sections": [
+            {
+                "section": "39615R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "23 of 30",
+                "instructor": "Paul Tokorcheck",
+                "location": "KAP140"
+            },
+            {
+                "section": "39616R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "23 of 30",
+                "instructor": "",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "395",
+        "course_name": "Seminar in Problem Solving",
+        "units": "(2.0 units, max 8)",
+        "description": "Systematic approach to solving non-standard and competition level math problems on inequalities, infinite sums and products, combinatorics, number theory and games.",
+        "sections": [
+            {
+                "section": "39620R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 20",
+                "instructor": "Richard Arratia",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "407",
+        "course_name": "Probability Theory",
+        "units": "(4.0 units)",
+        "description": "Probability spaces. Main families of discrete and continuous distributions and relations among them. Moments, characteristic functions, sequences of random variables, laws of large numbers, Central Limit Theorem.",
+        "sections": [
+            {
+                "section": "39625D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "47 of 49",
+                "instructor": "Evgeni Dimitrov",
+                "location": "DMC102"
+            },
+            {
+                "section": "39626R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 20,
+                "registered": "22 of 24",
+                "instructor": "",
+                "location": "DMC105"
+            },
+            {
+                "section": "39627R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "39629D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Richard Arratia",
+                "location": "KAP146"
+            },
+            {
+                "section": "39630R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "39631R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "39632D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Jason Fulman",
+                "location": "KAP144"
+            },
+            {
+                "section": "39633R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39634R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "39621R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Jason Fulman",
+                "location": "SOSB44"
+            },
+            {
+                "section": "39622R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "DMC207"
+            },
+            {
+                "section": "39623R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "39624D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "45 of 48",
+                "instructor": "Anne Dranowski",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "39628R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "39661R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "22 of 24",
+                "instructor": "",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "408",
+        "course_name": "Mathematical Statistics",
+        "units": "(4.0 units)",
+        "description": "Principles for testing hypotheses and estimation, confidence intervals, methods of moments, maximum likelihood, information inequality, likelihood ratio tests, goodness of fit and nonparametric methods.",
+        "sections": [
+            {
+                "section": "39635R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "49 of 49",
+                "instructor": "Ricardo Mancera",
+                "location": "THH114"
+            },
+            {
+                "section": "39636R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "DMC161"
+            },
+            {
+                "section": "39637R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC161"
+            },
+            {
+                "section": "39638R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "34 of 49",
+                "instructor": "Ricardo Mancera",
+                "location": "SOSB4"
+            },
+            {
+                "section": "39639R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "",
+                "location": "THH213"
+            },
+            {
+                "section": "39640R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 24",
+                "instructor": "",
+                "location": "DMC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "410",
+        "course_name": "Fundamental Concepts of Modern Algebra",
+        "units": "(4.0 units)",
+        "description": "Sets; relations; groups; homomorphisms; symmetric groups; Abelian groups; Sylow's theorems; introduction to rings and fields.",
+        "sections": [
+            {
+                "section": "39641R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "16 of 30",
+                "instructor": "Daniele Garzoni",
+                "location": "DMC200"
+            },
+            {
+                "section": "39642R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "16 of 30",
+                "instructor": "",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "425A",
+        "course_name": "Fundamental Concepts of Analysis",
+        "units": "(4.0 units)",
+        "description": "The real number system, metric spaces, limits, continuity, derivatives and integrals, infinite series.",
+        "sections": [
+            {
+                "section": "39645R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "35 of 35",
+                "instructor": "Claire Levaillant",
+                "location": "KAP148"
+            },
+            {
+                "section": "39646R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "35 of 35",
+                "instructor": "",
+                "location": "KAP147"
+            },
+            {
+                "section": "39647R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "27 of 35",
+                "instructor": "Christopher Kuo",
+                "location": "KAP148"
+            },
+            {
+                "section": "39648R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 4,
+                "registered": "27 of 35",
+                "instructor": "",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "430",
+        "course_name": "Theory of Numbers",
+        "units": "(4.0 units)",
+        "description": "Introduction to the theory of numbers, including prime factorization, congruences, primitive roots, N-th power residues, number theoretic functions and certain diophantine equations.",
+        "sections": [
+            {
+                "section": "39650R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "28 of 40",
+                "instructor": "Claire Levaillant",
+                "location": "KAP163"
+            },
+            {
+                "section": "39651R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "40 of 40",
+                "instructor": "Fedor Malikov",
+                "location": "THH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "432",
+        "course_name": "Applied Combinatorics",
+        "units": "(4.0 units)",
+        "description": "Mathematical induction, counting principles, arrangements, selections, binomial coefficients, generating functions, recurrence relations, inclusion-exclusion, symmetric groups, graphs, Euler and Hamiltonian circuits, trees, graph algorithms; applications.",
+        "sections": [
+            {
+                "section": "39653R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "36 of 36",
+                "instructor": "Yifeng Huang",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "434",
+        "course_name": "Euclidean and Non-Euclidean Geometries",
+        "units": "(4.0 units)",
+        "description": "The Euclidean plane and its isometries. Models for the hyperbolic metric, isometries, linear fractional maps, geodesics. Spherical geometry.",
+        "sections": [
+            {
+                "section": "39655R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "19 of 25",
+                "instructor": "Juhi Jang",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "440",
+        "course_name": "Topology",
+        "units": "(4.0 units)",
+        "description": "Cardinals, topologies, separation axioms. Compactness, metrizability, function spaces; completeness; Jordan curve theorem.",
+        "sections": [
+            {
+                "section": "39660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "12 of 35",
+                "instructor": "Soham Chanda",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "445",
+        "course_name": "Mathematics of Physics and Engineering II",
+        "units": "(4.0 units)",
+        "description": "Vector field theory; theorems of Gauss, Green, and Stokes; Fourier series and integrals; complex variables; linear partial differential equations; series solutions of ordinary differential equations.",
+        "sections": [
+            {
+                "section": "39673R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "23 of 34",
+                "instructor": "Sergey Lototsky",
+                "location": "SLH100"
+            },
+            {
+                "section": "39675R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "23 of 34",
+                "instructor": "",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "446",
+        "course_name": "Data Science with Python",
+        "units": "(4.0 units)",
+        "description": "Python implementations of: data collection, data wrangling, exploratory data analysis, dimensionality reduction, unsupervised / supervised learning, clustering, classification, common predictive statistical / machine learning algorithms, model validation.",
+        "sections": [
+            {
+                "section": "39691R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "17 of 25",
+                "instructor": "Steven Heilman",
+                "location": "VHE206"
+            },
+            {
+                "section": "39692R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "16 of 30",
+                "instructor": "",
+                "location": "GFS222"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "447",
+        "course_name": "Mathematics of Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Mathematical aspects of Machine Learning. PAC Learning, VC-dimension and complexity. Linear predictors (regression, perceptron, SVM). Convex learning and gradient descent. Neural networks and backpropagation.",
+        "sections": [
+            {
+                "section": "39676R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "18 of 40",
+                "instructor": "Spencer Gerhardt",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "458",
+        "course_name": "Numerical Methods",
+        "units": "(4.0 units)",
+        "description": "Rounding errors in digital computation; solution of linear algebraic systems; Newton's method for nonlinear systems; matrix eigenvalues; polynomial approximation; numerical integration; numerical solution of ordinary differential equations.",
+        "sections": [
+            {
+                "section": "39679D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "40 of 40",
+                "instructor": "Cymra Haskell",
+                "location": "WPH207"
+            },
+            {
+                "section": "39680R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "VPD107"
+            },
+            {
+                "section": "39681R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "SOSB37"
+            },
+            {
+                "section": "39682D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "38 of 49",
+                "instructor": "Cymra Haskell",
+                "location": "KAP146"
+            },
+            {
+                "section": "39683R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            },
+            {
+                "section": "39684R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "",
+                "location": "THHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "467",
+        "course_name": "Theory and Computational Methods for Optimization",
+        "units": "(4.0 units)",
+        "description": "Methods for static, dynamic, unconstrained, constrained optimization. Gradient, conjugate gradient, penalty methods. Lagrange multipliers, least squares, linear, nonlinear dynamic programming. Application to control and estimation.",
+        "sections": [
+            {
+                "section": "39685R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "25 of 30",
+                "instructor": "Nicolai Haydn",
+                "location": "DMC205"
+            },
+            {
+                "section": "39686R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 20,
+                "registered": "25 of 30",
+                "instructor": "",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "39690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Sheel Ganatra",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "502A",
+        "course_name": "Numerical Analysis",
+        "units": "(3.0 units)",
+        "description": "Computational linear algebra; solution of general nonlinear systems of equations; approximation theory using functional analysis; numerical solution of ordinary and partial differential equations.",
+        "sections": [
+            {
+                "section": "39700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "9 of 25",
+                "instructor": "Gary Rosen",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "505A",
+        "course_name": "Applied Probability",
+        "units": "(3.0 units)",
+        "description": "Populations, permutations, combinations, random variables, distribution and density functions, conditional probability and expectation,; binomial, poisson, and normal distributions; laws of large numbers, central limit theorem. Prerequisite: Consent of Instructor.",
+        "sections": [
+            {
+                "section": "39710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "31 of 45",
+                "instructor": "Joshua Swanson",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "507A",
+        "course_name": "Theory of Probability",
+        "units": "(3.0 units)",
+        "description": "a: Probability spaces; distributions and characteristic functions; laws of large numbers, central limit problems; stable and infinitely divisible laws; conditional distributions. b: Dependence, martingales, ergodic theorems, second-order random functions, harmonic analysis, Markov processes.",
+        "sections": [
+            {
+                "section": "39720R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "11 of 30",
+                "instructor": "Igor Kukavica",
+                "location": "KAP148"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "509",
+        "course_name": "Stochastic Differential Equations",
+        "units": "(3.0 units)",
+        "description": "Brownian motion, stochastic integrals, the Ito formula, stochastic differential equations, analysis of diffusion processes, Girsanov transformation, Feynmann-Kac formula, applications.",
+        "sections": [
+            {
+                "section": "39725R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 915,
+                "days": 40,
+                "registered": "7 of 25",
+                "instructor": "Jin Ma",
+                "location": "VPD107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "510A",
+        "course_name": "Algebra",
+        "units": "(3.0 units)",
+        "description": "Groups: Sylow theorems, simple, solvable, nilpotent, and linear groups; group extensions, free groups, finitely-generated abelian groups. Fields: Galois correspondence, algebraic extensions, finite fields, cyclotomic fields",
+        "sections": [
+            {
+                "section": "39730R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "12 of 30",
+                "instructor": "Aravind Asok",
+                "location": "KAP145"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "511A",
+        "course_name": "Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Major parametric and non-parametric statistical tools used in biomedical research, computer packages including SAS. Includes laboratory. Lecture, 2 hours; laboratory, 2 hours.",
+        "sections": [
+            {
+                "section": "41103D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 8,
+                "registered": "49 of 55",
+                "instructor": "Donald Barkauskas",
+                "location": "MCH256"
+            },
+            {
+                "section": "41101D",
+                "session": "046",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 640,
+                "days": 8,
+                "registered": "15 of 35",
+                "instructor": "Donald Barkauskas",
+                "location": "MCH256"
+            },
+            {
+                "section": "41108D",
+                "session": "046",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "34 of 35",
+                "instructor": "Donald Barkauskas",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "511B",
+        "course_name": "Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for analysis of categorical data including dichotomous, ordinal, multinomial and count data, using Stata package. Includes laboratory.",
+        "sections": [
+            {
+                "section": "41070D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 865,
+                "days": 4,
+                "registered": "28 of 40",
+                "instructor": "Sue Ingles",
+                "location": "SSB114"
+            },
+            {
+                "section": "41079D",
+                "session": "046",
+                "type": "Lab",
+                "start_time": 870,
+                "end_time": 990,
+                "days": 4,
+                "registered": "28 of 40",
+                "instructor": "Sue Ingles",
+                "location": "SSB114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "512",
+        "course_name": "Financial Informatics and Simulation (Computer Labs and Prac",
+        "units": "(3.0 units)",
+        "description": "Experimental laboratory trading for financial markets using double auctions: handling statistical packages for data analysis. Practical training in virtual market environments, using financial trading system software.",
+        "sections": [
+            {
+                "section": "40097R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "4 of 25",
+                "instructor": "Ricardo Mancera",
+                "location": "KAP163"
+            },
+            {
+                "section": "40098R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "40099R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "513",
+        "course_name": "Lie Theory",
+        "units": "(3.0 units)",
+        "description": "Introduction to complex semisimple Lie algebras including classification via root systems, Cartan and Borel subalgebras, and the classification of representations via dominant weights.",
+        "sections": [
+            {
+                "section": "39731R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "11 of 20",
+                "instructor": "Cris Negron",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "525A",
+        "course_name": "Real Analysis",
+        "units": "(3.0 units)",
+        "description": "a: Measure and integration over abstract measure spaces, Radon-Nikodym theorem, Fubini's theorem, convergence theorems, differentiation. Prerequisite: 425ab. b: Metric spaces, contraction principle, category, Banach spaces, Riesz representation theorem, properties of Lp, Hilbert spaces, orthogonal expansions, Fourier series and transforms, convolutions. Prerequisite: 525a.",
+        "sections": [
+            {
+                "section": "39735R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "28 of 35",
+                "instructor": "Juhi Jang",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "530A",
+        "course_name": "Stochastic Calculus and Mathematical Finance",
+        "units": "(3.0 units)",
+        "description": "Stochastic processes revisited, Brownian motion, Martingale theory, stochastic differential equations, Feynman-Kac formula, binomial models, basic concepts in arbitrage pricing theory, equivalent Martingale measure. Recommended preparation: Math-225, Math-407. Duplicates credit in the former MATH-503.",
+        "sections": [
+            {
+                "section": "39737R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 915,
+                "days": 40,
+                "registered": "24 of 40",
+                "instructor": "Jianfeng Zhang",
+                "location": "GFS116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "532",
+        "course_name": "Combinatorial Analysis",
+        "units": "(3.0 units)",
+        "description": "Inversion formulas, generating functions and recursions, partitions, Stirling numbers, distinct representatives, Ramsey's theorem, graph theory, block designs, difference sets, finite geometrics, Latin squares, Hadamard matrices.",
+        "sections": [
+            {
+                "section": "39740R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "8 of 25",
+                "instructor": "Harold Williams",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "540",
+        "course_name": "Topology",
+        "units": "(3.0 units)",
+        "description": "Initial and final topologies, function spaces, algebras in C(Y), homotopy, fundamental group, fiber spaces and bundles, smashes, loop spaces, groups of homotopy classes, cw- complexes. Prerequisite: 440.",
+        "sections": [
+            {
+                "section": "39745R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "8 of 20",
+                "instructor": "Julian Chaidez",
+                "location": "KAP414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "541B",
+        "course_name": "Introduction to Mathematical Statistics",
+        "units": "(3.0 units)",
+        "description": "Hypotheses testing, Neyman-Pearson lemma, generalized likelihood ratio procedures, confidence intervals, consistency, power, jackknife and bootstrap. Monte Carlo Markov chain methods, hidden Markov models.",
+        "sections": [
+            {
+                "section": "39750R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "9 of 30",
+                "instructor": "Xiaohui Chen",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "547",
+        "course_name": "Mathematical Foundations of Statistical Learning Theory",
+        "units": "(3.0 units)",
+        "description": "Binary classification, empirical risk minimization, support vector machines, voting algorithms and AdaBoost, Vapnik-Chervonenkis combinatorics, concentration-of-measure inequalities, sparse recovery problems, high-dimensional convex geometry.",
+        "sections": [
+            {
+                "section": "39752R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "6 of 30",
+                "instructor": "Stanislav Minsker",
+                "location": "KAP414"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "550",
+        "course_name": "Statistical Consulting and Data Analysis",
+        "units": "(3.0 units)",
+        "description": "Coverage of modern statistical methods as applied to practical consulting and data analysis, and the use of the R statistical language.",
+        "sections": [
+            {
+                "section": "39753R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "11 of 30",
+                "instructor": "Larry Goldstein",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "555A",
+        "course_name": "Partial Differential Equations",
+        "units": "(3.0 units)",
+        "description": "Second-order partial differential equations of elliptic, parabolic, and hyperbolic type; in particular, potential and wave equations.",
+        "sections": [
+            {
+                "section": "39755R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "12 of 25",
+                "instructor": "Nicolai Haydn",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "577",
+        "course_name": "Computational Molecular Biology Laboratory",
+        "units": "(2.0 units)",
+        "description": "Practical experience in computational molecular biology applications. Mathematical and statistical software packages relevant to genomic analysis. Retrieval and analysis of genomic data from databases.",
+        "sections": [
+            {
+                "section": "12956D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "21 of 26",
+                "instructor": "Geoffrey Fudenberg,Adam MacLean",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39775D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Sheel Ganatra",
+                "location": "OFFICE"
+            },
+            {
+                "section": "39776D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 20",
+                "instructor": "Jin Ma",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "39780R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "39781R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39782R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "595",
+        "course_name": "Practicum in Teaching the Liberal Arts: Mathematics",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within college disciplines. Intended for teaching assistants in Dornsife College. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39784R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "7 of 25",
+                "instructor": "Sami Assaf",
+                "location": "KAP113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "39786D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "635",
+        "course_name": "Topics in Differential Geometry",
+        "units": "(3.0 units, max 12)",
+        "description": "Topics to be chosen from the following: geometry of complex manifolds, relations between topology and curvature, homogeneous spaces, symmetric spaces, geometry of submanifolds.",
+        "sections": [
+            {
+                "section": "39803R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 20",
+                "instructor": "Kyler Siegel",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "702",
+        "course_name": "Seminar in Numerical Analysis",
+        "units": "(3.0 units)",
+        "description": "Seminar in Numerical Analysis",
+        "sections": [
+            {
+                "section": "39805D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "705",
+        "course_name": "Seminar in Probability",
+        "units": "(3.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "39806D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "710",
+        "course_name": "Seminar in Algebra",
+        "units": "(3.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "39807D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Aravind Asok",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "725",
+        "course_name": "Seminar in Analysis",
+        "units": "(3.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "39808D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "733",
+        "course_name": "Seminar in Combinatorics",
+        "units": "(3.0 units)",
+        "description": "Topics in combinatorics",
+        "sections": [
+            {
+                "section": "39820D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Sami Assaf",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "735",
+        "course_name": "Seminar in Differential Geometry",
+        "units": "(3.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "39809D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "740",
+        "course_name": "Seminar in Topology",
+        "units": "(3.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "39810D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBD"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "741",
+        "course_name": "Seminar in Statistics",
+        "units": "(3.0 units)",
+        "description": "Seminar in statistics.",
+        "sections": [
+            {
+                "section": "39804D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "755",
+        "course_name": "Seminar in Partial Differential Equations",
+        "units": "(3.0 units)",
+        "description": "Seminar in Partial Differential Equations",
+        "sections": [
+            {
+                "section": "39801D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "39811D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 20",
+                "instructor": "Sheel Ganatra",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39816D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39817D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39818D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MATH",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "39819D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

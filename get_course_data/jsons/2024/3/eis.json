@@ -1,0 +1,87 @@
+[
+    {
+        "term": "20243",
+        "department": "EIS",
+        "course_num": "370",
+        "course_name": "Ethical Issues in Artificial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Ethical issues in artificial intelligence including algorithmic bias and interpretability, data privacy and control, autonomous systems and relationships with AI entities.",
+        "sections": [
+            {
+                "section": "28400R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "9 of 25",
+                "instructor": "Elisa Warford",
+                "location": "VHE214"
+            },
+            {
+                "section": "28401R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "15 of 25",
+                "instructor": "Elisa Warford",
+                "location": "WPHB30"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EIS",
+        "course_num": "502",
+        "course_name": "Writing Skills for Engineering PhD Students",
+        "units": "(2.0 units)",
+        "description": "Writing of engineering curriculum- and research-related projects for PhD students. Focus is on conference papers, dissertations and proposals, journal articles and other forms.",
+        "sections": [
+            {
+                "section": "28403R",
+                "session": "900",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "9 of 15",
+                "instructor": "Elizabeth Fife",
+                "location": "HED103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EIS",
+        "course_num": "503",
+        "course_name": "Oral Communication Skills for Engineering PhD Students",
+        "units": "(2.0 units)",
+        "description": "Academic and professional presentation skills for PhD students. Preparation for qualifying exams, conference paper presentations and other forms of oral communication. Use of visual aids and poster displays included. Graded CR/NC. Not available for degree credit to master's students.",
+        "sections": [
+            {
+                "section": "28405R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "5 of 15",
+                "instructor": "Elizabeth Fife",
+                "location": "HED103"
+            },
+            {
+                "section": "28406R",
+                "session": "900",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "1 of 15",
+                "instructor": "Elizabeth Fife",
+                "location": "HED103"
+            }
+        ]
+    }
+]

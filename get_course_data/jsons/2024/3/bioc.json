@@ -1,0 +1,307 @@
+[
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "511",
+        "course_name": "Foundations for Molecular Medicine",
+        "units": "(4.0 units)",
+        "description": "Structure, function and metabolism of nucleic acids, proteins, carbohydrates and lipids and related regulatory mechanism including transcription factor and upstream signaling pathways initiated at the cell membrane.",
+        "sections": [
+            {
+                "section": "40445D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "23 of 50",
+                "instructor": "Yifan Liu,Sita Reddy,Mark Frey,Judd Rice,Ansgar Siemer,Jian Xu,Dechen Lin",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "581",
+        "course_name": "Toolbox for Biochemistry and Molecular Biology",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Explores the principles and applications of traditional and state-of-the-art methods in molecular biology, biochemistry and cell biology with intensive problem-solving exercises in class.",
+        "sections": [
+            {
+                "section": "40362D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 40",
+                "instructor": "Pragna Patel",
+                "location": "ONLINE"
+            },
+            {
+                "section": "40425D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 10,
+                "registered": "13 of 50",
+                "instructor": "Pragna Patel",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "582",
+        "course_name": "Exploring the Path from Data to Publication",
+        "units": "(2.0 units)",
+        "description": "Reviews best practices for research questions(s), experimental design, data analysis, manuscript review process and publication. Teaches hands-on analysis and oral/written presentation of various data types.",
+        "sections": [
+            {
+                "section": "40351D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 8,
+                "registered": "15 of 40",
+                "instructor": "Pragna Patel",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master of science degree. Maximum units which may be applied to the degree will be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40365D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 30",
+                "instructor": "Judd Rice",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40370D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 25",
+                "instructor": "Judd Rice",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40375D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Judd Rice",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40380D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Judd Rice",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "40366D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Judd Rice",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40386D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 95",
+                "instructor": "Yali Dou",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40383D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "Yali Dou",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40395D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 40",
+                "instructor": "Yali Dou",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40405D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Yali Dou",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40410D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Yali Dou",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BIOC",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40415D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20243",
+        "department": "FDN",
+        "course_num": "430",
+        "course_name": "Materiality and Construction",
+        "units": "(4.0 units)",
+        "description": "Exploration of textiles and materials in the creation of garments and other forms of wearable designs.",
+        "sections": [
+            {
+                "section": "33898R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 1060,
+                "days": 32,
+                "registered": "10 of 25",
+                "instructor": "Haven Lin-Kirk",
+                "location": "IFT122"
+            }
+        ]
+    }
+]

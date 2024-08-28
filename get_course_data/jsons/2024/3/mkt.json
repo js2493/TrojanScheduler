@@ -1,0 +1,893 @@
+[
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "401",
+        "course_name": "Marketing Research for Consumer Insights",
+        "units": "(4.0 units)",
+        "description": "Develop hands-on marketing research skills to actively collect data that informs marketing decisions. Emphasis on the effective application of different methods and data to improve decisions. Duplicates credit in the former MKT 470.",
+        "sections": [
+            {
+                "section": "16507R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 48",
+                "instructor": "Kristin Diehl",
+                "location": "JFF316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "402",
+        "course_name": "Introduction to Marketing Analytics",
+        "units": "(4.0 units)",
+        "description": "Analyze marketing data and develop actionable insights to guide marketing decisions. Apply statistical tools, machine learning, and economic analysis to digital marketing problems.",
+        "sections": [
+            {
+                "section": "16508R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "47 of 48",
+                "instructor": "Yanhao Wei",
+                "location": "JFF322"
+            },
+            {
+                "section": "16509R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Dina Mayzlin",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "405",
+        "course_name": "Marketing Communication and Promotion Strategy",
+        "units": "(4.0 units)",
+        "description": "Develop skills for effective marketing communication and promotion. Consider objectives and components of a strategic plan (including marketplace analysis, research, campaign development, and media planning).",
+        "sections": [
+            {
+                "section": "16470R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Arianna Uhalde",
+                "location": "JFF316"
+            },
+            {
+                "section": "16472R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Arianna Uhalde",
+                "location": "JFF316"
+            },
+            {
+                "section": "16474R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "410",
+        "course_name": "Professional Selling",
+        "units": "(4.0 units)",
+        "description": "Principles of business-to-business selling and its function in marketing strategy and the marketing mix. Explore professional selling as a career option.",
+        "sections": [
+            {
+                "section": "16476R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 48",
+                "instructor": "Meg Carrington-Griffin Simons",
+                "location": "JFF316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "425",
+        "course_name": "Digital Marketing Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Examine the changing world of the connected consumer. Gain introductory knowledge about consumers online and digital marketing tactics across industries.",
+        "sections": [
+            {
+                "section": "16477R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Kristen Schiele",
+                "location": "JFF316"
+            },
+            {
+                "section": "16478R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Kristen Schiele",
+                "location": "JFF316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "428",
+        "course_name": "Social Media Strategy for Business",
+        "units": "(4.0 units)",
+        "description": "Examine the use of social media for business across industries. Understand theories and frameworks for strategic content creation and posting as technology and platforms evolve.",
+        "sections": [
+            {
+                "section": "16480R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Elena Hansen",
+                "location": "ACC310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "445",
+        "course_name": "New Product Development and Branding",
+        "units": "(4.0 units)",
+        "description": "Learn how marketers create new brands, products and services. Discuss and examine creative ideation, research and development, brand image management and legal issues in branding.",
+        "sections": [
+            {
+                "section": "16494R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "37 of 39",
+                "instructor": "Diane Badame",
+                "location": "ACC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "450",
+        "course_name": "Consumer Behavior and Marketing",
+        "units": "(4.0 units)",
+        "description": "Examine diverse consumers behavior including acquisition, usage and disposition of products. Understand the psychological, social and cultural influences that drive consumers decisions.",
+        "sections": [
+            {
+                "section": "16498R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Stephanie Tully",
+                "location": "JFF322"
+            },
+            {
+                "section": "16500R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "23 of 48",
+                "instructor": "Susan Dobscha",
+                "location": "JFF322"
+            },
+            {
+                "section": "16502R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "47 of 48",
+                "instructor": "Stephanie Tully",
+                "location": "JFF322"
+            },
+            {
+                "section": "16503R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Kristin Diehl",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "461",
+        "course_name": "Marketing in the Entertainment Industry",
+        "units": "(4.0 units)",
+        "description": "Examine the marketing of products and brands in the entertainment industry (including movies, TV shows, music and video games).",
+        "sections": [
+            {
+                "section": "16504R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Franco De Cesare",
+                "location": "JFF322"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "465",
+        "course_name": "Multicultural Marketing",
+        "units": "(4.0 units)",
+        "description": "Examine how marketers adapt the marketing mix to serve consumers from diverse cultures, considering differing social norms and regulations across the global marketplace.",
+        "sections": [
+            {
+                "section": "16505R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Ariela Turndorf",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "479",
+        "course_name": "Sports Marketing",
+        "units": "(4.0 units)",
+        "description": "Examine the marketing mix (i.e., product, price, place and promotion) across the global sports industry, including leagues, teams, athletes, events and apparel and equipment companies.",
+        "sections": [
+            {
+                "section": "16510R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "47 of 48",
+                "instructor": "Arianna Uhalde",
+                "location": "JFF236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "488",
+        "course_name": "Marketing Capstone: From Strategy to Execution",
+        "units": "(4.0 units)",
+        "description": "Apply knowledge of marketing to various case studies. Understand challenging decisions marketers must make and offer recommendations after thorough analysis. Recommended during student's senior year.",
+        "sections": [
+            {
+                "section": "16512R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "Joseph Priester",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "512",
+        "course_name": "Customer Insights and Analysis",
+        "units": "(3.0 units)",
+        "description": "Use of marketing research techniques and technologies such as databases and statistical tools to collect, analyze and act upon customer information.",
+        "sections": [
+            {
+                "section": "16522R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "54 of 54 (9 on waitlist)",
+                "instructor": "Larry Vincent",
+                "location": "JKP112"
+            },
+            {
+                "section": "16523D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "Larry Vincent",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "525",
+        "course_name": "Consumer Behavior",
+        "units": "(3.0 units)",
+        "description": "Analyze theories of consumer behavior and their relevance to the modern marketplace; examine psychological, social, and cultural factors influencing consumers across contexts.",
+        "sections": [
+            {
+                "section": "16524D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "11 of 15",
+                "instructor": "Kristin Diehl",
+                "location": "JKP102"
+            },
+            {
+                "section": "16525R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "39 of 39",
+                "instructor": "Kristin Diehl",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "528",
+        "course_name": "Sales Management: The Art and Science of Sales",
+        "units": "(3.0 units)",
+        "description": "Emphasis on creating a sales strategy, planning and delivery of sales presentations, and techniques to persuade people to change their opinions in face-to-face meetings.",
+        "sections": [
+            {
+                "section": "16528R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 16,
+                "registered": "31 of 54",
+                "instructor": "Meg Carrington-Griffin Simons",
+                "location": "JKP104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "530",
+        "course_name": "New Product Development",
+        "units": "(3.0 units)",
+        "description": "Systematic approach to product development and management; processes, techniques, and concepts firms use to develop, test, and introduce products and to manage products over their lifecycle.",
+        "sections": [
+            {
+                "section": "16530R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "43 of 54",
+                "instructor": "Dennis Schorr",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "533",
+        "course_name": "Brand Strategy and Management",
+        "units": "(1.5-3.0 units)",
+        "description": "Analyze the behavioral foundations of brands and brand development; explore various marketing tools and tactics for brand development and management.",
+        "sections": [
+            {
+                "section": "16531R",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "28 of 54",
+                "instructor": "Diane Badame",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "551",
+        "course_name": "From Strategy to Execution: User Experience (UX) and Design",
+        "units": "(3.0 units)",
+        "description": "Explores the dynamic relationship between user experience (UX) and marketing strategy. Students utilize UX design principles to address product and marketing challenges.",
+        "sections": [
+            {
+                "section": "16534R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "42 of 42 (2 on waitlist)",
+                "instructor": "Kristen Schiele",
+                "location": "BRI5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "560",
+        "course_name": "Marketing Strategy",
+        "units": "(3.0 units)",
+        "description": "Design and implementation of marketing strategies applied to domestic and global business challenges that span multiple industries complimented by a consumer packaged goods marketing strategic plan project.",
+        "sections": [
+            {
+                "section": "16544D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "16 of 19",
+                "instructor": "Joseph Priester",
+                "location": "JKP104"
+            },
+            {
+                "section": "16545R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "8 of 33",
+                "instructor": "Joseph Priester",
+                "location": "JKP202"
+            },
+            {
+                "section": "16568R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "22 of 33",
+                "instructor": "Joseph Priester",
+                "location": "JKP104"
+            },
+            {
+                "section": "16569D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "15 of 19",
+                "instructor": "Joseph Priester",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "566",
+        "course_name": "Decision Making Using Marketing Analytics",
+        "units": "(3.0 units)",
+        "description": "Applications and models of marketing-related data analyses to the development of data-driven marketing strategies and making data-driven marketing decisions.",
+        "sections": [
+            {
+                "section": "16546D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "12 of 13",
+                "instructor": "Lan Luo",
+                "location": "JKP104"
+            },
+            {
+                "section": "16547R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "40 of 40 (11 on waitlist)",
+                "instructor": "Lan Luo",
+                "location": "JKP104"
+            },
+            {
+                "section": "16550R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "40 of 40 (10 on waitlist)",
+                "instructor": "Lan Luo",
+                "location": "JKP104"
+            },
+            {
+                "section": "16563D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "14 of 14 (2 on waitlist)",
+                "instructor": "Lan Luo",
+                "location": "JKP104"
+            },
+            {
+                "section": "16564R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "34 of 34",
+                "instructor": "Dennis Schorr",
+                "location": "JKP102"
+            },
+            {
+                "section": "16565D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Dennis Schorr",
+                "location": "JKP102"
+            },
+            {
+                "section": "16566R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 930,
+                "days": 64,
+                "registered": "36 of 52",
+                "instructor": "Dennis Schorr",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "568",
+        "course_name": "Geographic Information Systems Applications in Marketing",
+        "units": "(3.0 units)",
+        "description": "Fundamentals of geographic information systems; location analytics and spatial thinking as they relate to data-driven decision-making in marketing strategy and tactics.",
+        "sections": [
+            {
+                "section": "16551R",
+                "session": "372",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "51 of 75",
+                "instructor": "Miriam Burgos,Beth Wellman",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "586",
+        "course_name": "Fashion, Luxury and Lifestyle Marketing",
+        "units": "(3.0 units)",
+        "description": "Examination of marketing issues and challenges within a variety of business settings in the fashion, luxury goods and lifestyle sectors in the global marketplace.",
+        "sections": [
+            {
+                "section": "16549R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 2,
+                "registered": "70 of 78",
+                "instructor": "Diane Badame",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "589",
+        "course_name": "CMO on Shareholder Value",
+        "units": "(1.5 units)",
+        "description": "Provide an understanding of the role of the Chief Marketing Officer (CMO) in a variety of industries and how he or she influences shareholder value.",
+        "sections": [
+            {
+                "section": "16548R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "17 of 60",
+                "instructor": "Diane Badame",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16554D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sivaramakrishnan Siddarth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "592",
+        "course_name": "Field Research in Marketing",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Individual or team projects studying the marketing practices of an industry, company, government agency, country, geographic region, etc. Proposal, data collection, analyses, and written report. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16555D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sivaramakrishnan Siddarth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "593",
+        "course_name": "Independent Research in Marketing",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16556D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Sivaramakrishnan Siddarth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "595",
+        "course_name": "Internship in Marketing",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the field of marketing. (Curricular Practical Training.) Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16557D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sivaramakrishnan Siddarth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "596",
+        "course_name": "Research Practicum in Marketing",
+        "units": "(0.5-2.0 units, max 8)",
+        "description": "Hands-on practical experience working with a Marshall faculty member in the Marketing Department on an ongoing research project. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16558D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sivaramakrishnan Siddarth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "597",
+        "course_name": "Consulting Project in Marketing",
+        "units": "(0.5-5.0 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Graded CR/NC",
+        "sections": [
+            {
+                "section": "16561D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sivaramakrishnan Siddarth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Examination of current literature and emerging and timely topics in marketing, social marketing, consumerism, macromarketing, marketing of individuals, organizations, and ideas.",
+        "sections": [
+            {
+                "section": "16562R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Davide Proserpio",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "613",
+        "course_name": "Marketing Models in Consumer and Business-to-Business Markets",
+        "units": "(3.0 units)",
+        "description": "Modeling research on marketing with a focus on channel structure, franchising and sales force compensation, innovation and diffusion, inter-store competition, sales promotions, and market segmentation. Open to students in the doctoral program in business administration only.",
+        "sections": [
+            {
+                "section": "16576R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "2 of 10",
+                "instructor": "Anthony Dukes,Yanhao Wei",
+                "location": "HOH506"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "621",
+        "course_name": "Research Forum",
+        "units": "(1.0 units, max 4)",
+        "description": "Seminar. Review and discuss current research in Marketing. Presentations by faculty, visiting researchers, and advanced students. Open to Marshall Ph.D. students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16578R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Yanhao Wei",
+                "location": "HOH506"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MKT",
+        "course_num": "699",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 8)",
+        "description": "Exploration of emerging topics, literature and research techniques in contemporary marketing.",
+        "sections": [
+            {
+                "section": "16580R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "1 of 10",
+                "instructor": "Dinesh Puranam",
+                "location": "ACC312"
+            }
+        ]
+    }
+]

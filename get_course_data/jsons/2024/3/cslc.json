@@ -1,0 +1,286 @@
+[
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "501",
+        "course_name": "Introduction to Comparative Media Studies",
+        "units": "(4.0 units)",
+        "description": "Ways of thinking about the differences and relations among different cultural media: literature, film, video, manga/comics, \u00e2\u20ac\u0153new media,\u00e2\u20ac\u009d and so forth.",
+        "sections": [
+            {
+                "section": "22074D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "11 of 15",
+                "instructor": "Jennifer Wild",
+                "location": "THH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "502",
+        "course_name": "Introduction to Literary Theory",
+        "units": "(4.0 units)",
+        "description": "Major developments in twentieth-century literary criticism, with special attention to theoretical work of the past three decades. (Duplicates credit in former COLT 502)",
+        "sections": [
+            {
+                "section": "22075D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Devin Griffiths",
+                "location": "THH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Graded CR/NC. Duplicates credit in former COLT 590.",
+        "sections": [
+            {
+                "section": "22085D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least on semester of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "22077D",
+                "session": "089",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22078D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 3",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "600",
+        "course_name": "Professional Development I: Publication",
+        "units": "(2.0 units)",
+        "description": "Preparation of book and article manuscripts for publication and placement in presses and journals; revising dissertations for publication; preparing papers for conferences. Students produce an article manuscript ready for submission to a journal. Duplicates credit in former COLT-603. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "22087D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 8",
+                "instructor": "Antonia Szabari",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "620",
+        "course_name": "Seminar in Literature, Culture and Thought",
+        "units": "(4.0 units, max 12)",
+        "description": "Varying focus on social and political thought, psychoanalysis, and philosophy in relation to literary and cultural analysis.",
+        "sections": [
+            {
+                "section": "22090D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "4 of 12",
+                "instructor": "Neetu Khanna",
+                "location": "THH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "700",
+        "course_name": "Professional Development II: Writing the Prospectus",
+        "units": "(2.0 units)",
+        "description": "Methodology of writing a dissertation prospectus; a structured workshop environment for completing a prospectus.",
+        "sections": [
+            {
+                "section": "22089D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "7 of 15",
+                "instructor": "Lydie Moudileno",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the doctorate. Maximum units that may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "22094D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "22095D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "22096D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "22097D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 10",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "22098D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSLC",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "22099D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 12",
+                "instructor": "Olivia C Harrison",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

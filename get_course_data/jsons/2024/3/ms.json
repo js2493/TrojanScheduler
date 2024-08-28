@@ -1,0 +1,151 @@
+[
+    {
+        "term": "20243",
+        "department": "MS",
+        "course_num": "101",
+        "course_name": "Foundations of Officership",
+        "units": "(1.0 unit)",
+        "description": "Introduces students to issues and competencies that are central to a commissioned officer's responsibilities. Establish framework for understanding officership, leadership, and Army values followed and \"life skills\" such as physical fitness and time management.",
+        "sections": [
+            {
+                "section": "41810R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 8,
+                "registered": "28 of 50",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "GFS101"
+            },
+            {
+                "section": "41812R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 420,
+                "end_time": 590,
+                "days": 32,
+                "registered": "28 of 35",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MS",
+        "course_num": "201",
+        "course_name": "Individual Leadership Studies",
+        "units": "(2.0 units)",
+        "description": "Students identify successful leadership characteristics through observation of others and self through experiential learning exercises. Students record observed traits (good and bad) in a dimensional leadership journal and discuss observations in small group settings.",
+        "sections": [
+            {
+                "section": "41820R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "20 of 30",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "41822R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 420,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 35",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MS",
+        "course_num": "301",
+        "course_name": "Leadership and Problem Solving",
+        "units": "(3.0 units)",
+        "description": "Students conduct self-assessment of leadership style, develop personal fitness regimen, and learn to plan and conduct individual/small unit tactical training while testing reasoning and problem-solving techniques. Students receive direct feedback on leadership abilities.",
+        "sections": [
+            {
+                "section": "41830R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "19 of 30",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "GFS222"
+            },
+            {
+                "section": "41835R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 420,
+                "end_time": 590,
+                "days": 32,
+                "registered": "19 of 30",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MS",
+        "course_num": "401",
+        "course_name": "Leadership and Management",
+        "units": "(3.0 units)",
+        "description": "Develops student proficiency in planning and executing complex operations, fuctioning as a member of a staff, and mentoring subordinates. Students explore training management, methods of effective staff collaboration, and developmental counseling techniques.",
+        "sections": [
+            {
+                "section": "41840R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "18 of 60",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "GFS101"
+            },
+            {
+                "section": "41845R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 420,
+                "end_time": 590,
+                "days": 32,
+                "registered": "17 of 35",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Individual research and readings",
+        "sections": [
+            {
+                "section": "41800D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 7",
+                "instructor": "Marvin Polk III,Daniel Kim,Joshua Weisbecker",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "29120R",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Mike Gruntman,David Barnhart,Dan Erwin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "580",
+        "course_name": "Orbital Mechanics I",
+        "units": "(3.0 units)",
+        "description": "Physical principles; two-body and central force motion; trajectory correction maneuvers; position and velocity in conic orbits; Lambert's problem; celestial mechanics; orbital perturbations.",
+        "sections": [
+            {
+                "section": "28490R",
+                "session": "901",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 10,
+                "registered": "8 of 35",
+                "instructor": "Ryan Park",
+                "location": "OHE100C"
+            },
+            {
+                "section": "28491D",
+                "session": "909",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1280,
+                "days": 10,
+                "registered": "33 of 45",
+                "instructor": "Ryan Park",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "585",
+        "course_name": "Spacecraft Attitude Control",
+        "units": "(3.0 units)",
+        "description": "Review of attitude dynamics, gravity gradient stabilization, attitude stabilization with a spin, attitude maneuvers, control using momentum exchange devices, momentum-biased stabilization, reaction thruster control. Recommended preparation: a course in dynamics",
+        "sections": [
+            {
+                "section": "29149R",
+                "session": "902",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 10,
+                "registered": "5 of 10",
+                "instructor": "Henryk Flashner",
+                "location": "OHE120"
+            },
+            {
+                "section": "29179D",
+                "session": "910",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 10,
+                "registered": "14 of 20",
+                "instructor": "Henryk Flashner",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the division. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29181D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Mike Gruntman,Dan Erwin,David Barnhart,Joseph Wang,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29184D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "690",
+        "course_name": "Directed Research",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Laboratory studies of specific problems by candidates for the degree Engineer in Astronautical Engineering. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29189D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,Joseph Wang,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the division. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29194D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Mike Gruntman,Dan Erwin,Joseph Wang,Azad Madni",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29195D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTE",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29199D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

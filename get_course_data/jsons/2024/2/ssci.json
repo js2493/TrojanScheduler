@@ -1,0 +1,416 @@
+[
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "397",
+        "course_name": "Spatial Sciences Internship",
+        "units": "(2.0-4.0 units, max 12)",
+        "description": "Intensive experience in local public agency, private firm, or nonprofit agency engaged in applied geospatial analysis, modeling and mapping work.",
+        "sections": [
+            {
+                "section": "35626D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 3",
+                "instructor": "John Wilson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Open only to juniors and seniors. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "35737D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 3",
+                "instructor": "Diana Ter-Ghazaryan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "578",
+        "course_name": "The Practice of Geospatial Leadership",
+        "units": "(4.0 units)",
+        "description": "The geospatial value proposition and the qualities and skills leaders will need to help their geospatial information management groups and organizations achieve success. Recommended preparation: SSCI 581.",
+        "sections": [
+            {
+                "section": "35760D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "5 of 40",
+                "instructor": "John Wilson",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35761D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 20,
+                "registered": "1 of 20",
+                "instructor": "John Wilson",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "581",
+        "course_name": "Concepts for Spatial Thinking",
+        "units": "(4.0 units)",
+        "description": "The unique characteristics and importance of spatial information as they relate to the evolving science, technology, and applications of Geographic Information Systems.",
+        "sections": [
+            {
+                "section": "35691D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "9 of 40",
+                "instructor": "Katherine Lester",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35692D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Katherine Lester",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "582",
+        "course_name": "Spatial Databases",
+        "units": "(4.0 units)",
+        "description": "Design, implementation, and interrogation of relational, object-oriented and other types of geospatial databases. Recommended preparation: SSCI 581.",
+        "sections": [
+            {
+                "section": "35723D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "9 of 40",
+                "instructor": "Jennifer Swift",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35807D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "6 of 20",
+                "instructor": "Jennifer Swift",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "583",
+        "course_name": "Spatial Analysis and Modeling",
+        "units": "(4.0 units)",
+        "description": "Provides the knowledge and skills necessary to investigate the spatial patterns which result from social and physical processes operating at or near the Earth's surface.",
+        "sections": [
+            {
+                "section": "35808D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "1 of 20",
+                "instructor": "Katherine Lester",
+                "location": "AHF145A"
+            },
+            {
+                "section": "35809D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "5 of 40",
+                "instructor": "Katherine Lester",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "587",
+        "course_name": "Spatial Data Acquisition",
+        "units": "(4.0 units)",
+        "description": "Role of global positioning systems, maps, geocoding, and other kinds of sensors as geospatial data sources. Includes field data acquisition excursion on Catalina Island. Recommended preparation: SSCI-581. Duplicates credit in former GEOG 587.",
+        "sections": [
+            {
+                "section": "35715D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "8 of 40",
+                "instructor": "Guoping Huang",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35716D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "2 of 20",
+                "instructor": "Guoping Huang",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree in cognate fields. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35724D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35740D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "0 of 10",
+                "instructor": "Darren Ruddell",
+                "location": "AHF145D"
+            },
+            {
+                "section": "35741D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "3 of 40",
+                "instructor": "Darren Ruddell",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35751D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Elisabeth Sedano",
+                "location": "OFFICE"
+            },
+            {
+                "section": "35754D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "35755D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "Guoping Huang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35758D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 3",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "35759D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Elisabeth Sedano",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "596",
+        "course_name": "Internship in Spatial Sciences",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Part-time or full-time practical work experience in the student's field of study at an off-campus facility under faculty direction.",
+        "sections": [
+            {
+                "section": "35693D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "601A",
+        "course_name": "Population, Health and Place Research Practicum",
+        "units": "(2.0 units, max 4)",
+        "description": "The use of population science, public health, and spatial science theory and practice to advance our understanding of one or more aspects of human well-being. Prerequisite: SSCI 600. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "35790D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "4 of 10",
+                "instructor": "Robert Vos",
+                "location": "DMC107"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "601B",
+        "course_name": "Population, Health and Place Research Practicum",
+        "units": "(2.0 units, max 4)",
+        "description": "The use of population science, public health, and spatial science theory and practice to advance our understanding of one or more aspects of human well-being. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "35791D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 10,
+                "registered": "5 of 10",
+                "instructor": "Robert Vos",
+                "location": "DMC107"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SSCI",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctoral degree. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "35725D",
+                "session": "705",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "Robert Vos",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

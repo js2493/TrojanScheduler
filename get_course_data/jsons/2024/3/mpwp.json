@@ -1,0 +1,1328 @@
+[
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "153",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46630D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "BMH100"
+            },
+            {
+                "section": "46633D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "0 of 12",
+                "instructor": "Yehuda Gilad,",
+                "location": "MUS105"
+            },
+            {
+                "section": "46636D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "2 of 12",
+                "instructor": "Catherine Karoly",
+                "location": "MUS303"
+            },
+            {
+                "section": "46639D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Julie Landsman",
+                "location": "AES138A"
+            },
+            {
+                "section": "46642D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "0 of 12",
+                "instructor": "Joel Timm",
+                "location": "MUS303"
+            },
+            {
+                "section": "46645D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "3 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "AES138A"
+            },
+            {
+                "section": "46648D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS204"
+            },
+            {
+                "section": "46651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "0 of 15",
+                "instructor": "Terry Cravens",
+                "location": "AES138A"
+            },
+            {
+                "section": "46654D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "0 of 15",
+                "instructor": "Thomas Hooten,",
+                "location": "MUS106"
+            },
+            {
+                "section": "46657D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "0 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "253",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "BMH100"
+            },
+            {
+                "section": "46693D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "1 of 12",
+                "instructor": "Yehuda Gilad,",
+                "location": "MUS105"
+            },
+            {
+                "section": "46696D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "1 of 12",
+                "instructor": "Catherine Karoly",
+                "location": "MUS303"
+            },
+            {
+                "section": "46699D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Julie Landsman",
+                "location": "AES138A"
+            },
+            {
+                "section": "46702D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "0 of 12",
+                "instructor": "Joel Timm",
+                "location": "MUS303"
+            },
+            {
+                "section": "46705D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "AES138A"
+            },
+            {
+                "section": "46708D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "2 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS204"
+            },
+            {
+                "section": "46711D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "1 of 15",
+                "instructor": "Terry Cravens",
+                "location": "AES138A"
+            },
+            {
+                "section": "46714D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "0 of 15",
+                "instructor": "Thomas Hooten,",
+                "location": "MUS106"
+            },
+            {
+                "section": "46717D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "0 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors. Recommended preparation: MPWP 101",
+        "sections": [
+            {
+                "section": "46720D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "MUS317"
+            },
+            {
+                "section": "46723D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Yehuda Gilad",
+                "location": "MUS317"
+            },
+            {
+                "section": "46726D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Catherine Karoly",
+                "location": "MUS317"
+            },
+            {
+                "section": "46729D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Julie Landsman",
+                "location": "MUS317"
+            },
+            {
+                "section": "46732D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joel Timm",
+                "location": "MUS317"
+            },
+            {
+                "section": "46735D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "MUS317"
+            },
+            {
+                "section": "46738D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS317"
+            },
+            {
+                "section": "46741D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Terry Cravens",
+                "location": "MUS317"
+            },
+            {
+                "section": "46744D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Thomas Hooten,Jennifer Marotta",
+                "location": "MUS317"
+            },
+            {
+                "section": "46747D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principal instrument for music minor and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "46750D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "MUS317"
+            },
+            {
+                "section": "46753D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Yehuda Gilad",
+                "location": "MUS317"
+            },
+            {
+                "section": "46756D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Catherine Karoly",
+                "location": "MUS317"
+            },
+            {
+                "section": "46759D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Julie Landsman",
+                "location": "MUS317"
+            },
+            {
+                "section": "46762D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joel Timm",
+                "location": "MUS317"
+            },
+            {
+                "section": "46765D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "MUS317"
+            },
+            {
+                "section": "46768D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS317"
+            },
+            {
+                "section": "46771D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Terry Cravens",
+                "location": "MUS317"
+            },
+            {
+                "section": "46774D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Thomas Hooten,Jennifer Marotta",
+                "location": "MUS317"
+            },
+            {
+                "section": "46777D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "353",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46780D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "BMH100"
+            },
+            {
+                "section": "46783D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "0 of 12",
+                "instructor": "Yehuda Gilad,",
+                "location": "MUS105"
+            },
+            {
+                "section": "46786D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "2 of 12",
+                "instructor": "Catherine Karoly",
+                "location": "MUS303"
+            },
+            {
+                "section": "46789D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "Julie Landsman",
+                "location": "AES138A"
+            },
+            {
+                "section": "46792D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "2 of 12",
+                "instructor": "Joel Timm",
+                "location": "MUS303"
+            },
+            {
+                "section": "46795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "AES138A"
+            },
+            {
+                "section": "46798D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS204"
+            },
+            {
+                "section": "46801D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "0 of 15",
+                "instructor": "Terry Cravens",
+                "location": "AES138A"
+            },
+            {
+                "section": "46804D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "0 of 15",
+                "instructor": "Thomas Hooten,",
+                "location": "MUS106"
+            },
+            {
+                "section": "46807D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "440",
+        "course_name": "Drum Set for Classical Percussionists",
+        "units": "(1.0 units, max 2)",
+        "description": "A progressive course for Classical Percussion majors as it pertains to drum set in the symphony orchestra and other classical settings. Open only to Percussion, and Performance (Wind Instrument or Percussion).",
+        "sections": [
+            {
+                "section": "46815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "6 of 8",
+                "instructor": "Aaron Serfaty",
+                "location": "TMCG122B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "453",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46850D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "BMH100"
+            },
+            {
+                "section": "46853D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "1 of 12",
+                "instructor": "Yehuda Gilad,",
+                "location": "MUS105"
+            },
+            {
+                "section": "46856D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "1 of 12",
+                "instructor": "Catherine Karoly",
+                "location": "MUS303"
+            },
+            {
+                "section": "46859D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Julie Landsman",
+                "location": "AES138A"
+            },
+            {
+                "section": "46862D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "2 of 12",
+                "instructor": "Joel Timm",
+                "location": "MUS303"
+            },
+            {
+                "section": "46865D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "AES138A"
+            },
+            {
+                "section": "46868D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS204"
+            },
+            {
+                "section": "46871D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "1 of 15",
+                "instructor": "Terry Cravens",
+                "location": "AES138A"
+            },
+            {
+                "section": "46874D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Thomas Hooten,",
+                "location": "MUS106"
+            },
+            {
+                "section": "46877D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "46886D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "46890D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "MUS317"
+            },
+            {
+                "section": "46893D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Yehuda Gilad",
+                "location": "MUS317"
+            },
+            {
+                "section": "46896D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Catherine Karoly",
+                "location": "MUS317"
+            },
+            {
+                "section": "46899D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Julie Landsman",
+                "location": "MUS317"
+            },
+            {
+                "section": "46902D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joel Timm",
+                "location": "MUS317"
+            },
+            {
+                "section": "46905D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "MUS317"
+            },
+            {
+                "section": "46908D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS317"
+            },
+            {
+                "section": "46911D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Terry Cravens",
+                "location": "MUS317"
+            },
+            {
+                "section": "46914D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Thomas Hooten,Jennifer Marotta",
+                "location": "MUS317"
+            },
+            {
+                "section": "46917D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "551",
+        "course_name": "Individual Instrument Performance Class III",
+        "units": "(1.0 units, max 2)",
+        "description": "Solo and orchestra repertoire, professional preparation, reed making, and other matters appropriate to group study. Intended for M.M. wind and percussion majors.",
+        "sections": [
+            {
+                "section": "46924D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "AES138A"
+            },
+            {
+                "section": "46927D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "0 of 15",
+                "instructor": "Terry Cravens",
+                "location": "AES138A"
+            },
+            {
+                "section": "46930D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "1 of 12",
+                "instructor": "Yehuda Gilad,",
+                "location": "MUS105"
+            },
+            {
+                "section": "46933D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS204"
+            },
+            {
+                "section": "46936D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "2 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "BMH100"
+            },
+            {
+                "section": "46939D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "0 of 12",
+                "instructor": "Joel Timm",
+                "location": "MUS303"
+            },
+            {
+                "section": "46942D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "2 of 15",
+                "instructor": "Thomas Hooten,Jennifer Marotta",
+                "location": "MUS106"
+            },
+            {
+                "section": "46945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "BMH100"
+            },
+            {
+                "section": "46948D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "0 of 12",
+                "instructor": "Catherine Karoly",
+                "location": "MUS303"
+            },
+            {
+                "section": "46951D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "2 of 15",
+                "instructor": "Julie Landsman",
+                "location": "AES138A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46984D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "MUS317"
+            },
+            {
+                "section": "46987D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Yehuda Gilad",
+                "location": "MUS317"
+            },
+            {
+                "section": "46990D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Catherine Karoly",
+                "location": "MUS317"
+            },
+            {
+                "section": "46993D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 15",
+                "instructor": "Julie Landsman",
+                "location": "MUS317"
+            },
+            {
+                "section": "46996D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Joel Timm",
+                "location": "MUS317"
+            },
+            {
+                "section": "46999D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "MUS317"
+            },
+            {
+                "section": "47002D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS317"
+            },
+            {
+                "section": "47005D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Terry Cravens",
+                "location": "MUS317"
+            },
+            {
+                "section": "47008D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Thomas Hooten,Jennifer Marotta",
+                "location": "MUS317"
+            },
+            {
+                "section": "47011D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "554",
+        "course_name": "Graduate Certificate Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Graduate Certificate students.",
+        "sections": [
+            {
+                "section": "47015D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 30",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47020D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for D.M.A. Performance majors.",
+        "sections": [
+            {
+                "section": "47030D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Shawn Mouser",
+                "location": "MUS317"
+            },
+            {
+                "section": "47033D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Yehuda Gilad",
+                "location": "MUS317"
+            },
+            {
+                "section": "47036D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Catherine Karoly",
+                "location": "MUS317"
+            },
+            {
+                "section": "47039D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Julie Landsman",
+                "location": "MUS317"
+            },
+            {
+                "section": "47042D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Joel Timm",
+                "location": "MUS317"
+            },
+            {
+                "section": "47045D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Joseph Pereira",
+                "location": "MUS317"
+            },
+            {
+                "section": "47048D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Sal Lozano",
+                "location": "MUS317"
+            },
+            {
+                "section": "47051D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Terry Cravens",
+                "location": "MUS317"
+            },
+            {
+                "section": "47054D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Thomas Hooten,Jennifer Marotta",
+                "location": "MUS317"
+            },
+            {
+                "section": "47057D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Douglas Tornquist",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "754",
+        "course_name": "Artist Diploma Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Artist Diploma students.",
+        "sections": [
+            {
+                "section": "47060D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPWP",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the deparment. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47065D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sharon Lavery",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

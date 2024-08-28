@@ -1,0 +1,1235 @@
+[
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "498",
+        "course_name": "Summer Institute in Biostatistics",
+        "units": "(2.0 units)",
+        "description": "Provides undergraduate students in the mathematical or biological sciences with training in fundamental concepts in biostatistics and an introduction to various specialized topics in biostatistics, with a focus on research in heart and lung disease.",
+        "sections": [
+            {
+                "section": "41064R",
+                "session": "107",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 960,
+                "days": 62,
+                "registered": "14 of 20",
+                "instructor": "Kimberly Siegmund,Juan Pablo Lewinger",
+                "location": "SSB116"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "501",
+        "course_name": "Foundations in Health Education and Promotion",
+        "units": "(4.0 units)",
+        "description": "Overview and application of behavioral theories to the field of health education and promotion. Examines the determinants of health behavior and strategies for change at the individual, group and community level.",
+        "sections": [
+            {
+                "section": "41190D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 25",
+                "instructor": "Armine Lulejian",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "504",
+        "course_name": "Quality in Health Care",
+        "units": "(4.0 units)",
+        "description": "Examines quality assessment at different levels of the health care system including health plans, physicians, hospital and integrated system performance.",
+        "sections": [
+            {
+                "section": "41204D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 25",
+                "instructor": "Almaas Shaikh",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "508",
+        "course_name": "Health Service Delivery in the U.S.",
+        "units": "(4.0 units)",
+        "description": "Historical development of the American health care system; determinants of health care utilization; role of health care providers; health policy; public health services; and health care finance.",
+        "sections": [
+            {
+                "section": "41222D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 25",
+                "instructor": "Taona Haderlein",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41226D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 25",
+                "instructor": "Jakub Hlavka",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "510",
+        "course_name": "Principles of Biostatistics",
+        "units": "(4.0 units)",
+        "description": "Concepts of biostatistics; appropriate uses and common misuses of health statistics; practice in the application of statistical procedures; introduction to statistical software including EXCEL, SPSS, nQuery. Laboratory.",
+        "sections": [
+            {
+                "section": "41200D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 20",
+                "instructor": "Melissa Wilson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41213D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Ming Li",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41053D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 16,
+                "registered": "21 of 40",
+                "instructor": "Richard Watanabe",
+                "location": "SSB117"
+            },
+            {
+                "section": "41056D",
+                "session": "046",
+                "type": "Lab",
+                "start_time": 905,
+                "end_time": 1015,
+                "days": 16,
+                "registered": "21 of 40",
+                "instructor": "Richard Watanabe",
+                "location": "SSB117"
+            },
+            {
+                "section": "41073D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 660,
+                "days": 32,
+                "registered": "37 of 40",
+                "instructor": "Zhanghua Chen",
+                "location": "MCH256"
+            },
+            {
+                "section": "41071D",
+                "session": "046",
+                "type": "Lab",
+                "start_time": 665,
+                "end_time": 785,
+                "days": 32,
+                "registered": "37 of 40",
+                "instructor": "Zhanghua Chen",
+                "location": "MCH256"
+            },
+            {
+                "section": "41202D",
+                "session": "407",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 20",
+                "instructor": "Melissa Wilson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41215D",
+                "session": "407",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Ming Li",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "511A",
+        "course_name": "Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Major parametric and non-parametric statistical tools used in biomedical research, computer packages including SAS. Includes laboratory. Lecture, 2 hours; laboratory, 2 hours.",
+        "sections": [
+            {
+                "section": "41198D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 25",
+                "instructor": "Lu Zhang",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41194D",
+                "session": "407",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 25",
+                "instructor": "Lu Zhang",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "511B",
+        "course_name": "Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for analysis of categorical data including dichotomous, ordinal, multinomial and count data, using Stata package. Includes laboratory.",
+        "sections": [
+            {
+                "section": "41101D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 28",
+                "instructor": "Sue Ingles",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41102D",
+                "session": "407",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 28",
+                "instructor": "Sue Ingles",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "512",
+        "course_name": "Principles of Epidemiology",
+        "units": "(4.0 units)",
+        "description": "Terminology/uses of epidemiology and demography; sources/uses of population data; types of epidemiologic studies; risk assessment; common sources of bias in population studies; principles of screening. Recommended preparation: algebra",
+        "sections": [
+            {
+                "section": "41057D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 780,
+                "days": 4,
+                "registered": "26 of 44",
+                "instructor": "Roberta McKean-Cowdin",
+                "location": "SSB114"
+            },
+            {
+                "section": "41228D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 25",
+                "instructor": "Jaime Reyes Sanchez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41229D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 25",
+                "instructor": "Intira Sriprasert",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "516B",
+        "course_name": "Statistical Problem Solving",
+        "units": "(1.0 unit)",
+        "description": "An overview of the tools used by statisticians for solving statistical problems. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41054D",
+                "session": "045",
+                "type": "Lecture-Lab",
+                "start_time": 990,
+                "end_time": 1050,
+                "days": 2,
+                "registered": "1 of 15",
+                "instructor": "Trevor Pickering",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "521",
+        "course_name": "Pre-Departure Training to Optimize Global Health Experiences",
+        "units": "(1.0 unit)",
+        "description": "A comprehensive pre-departure training course intended to enhance the learning experience for all KSOM learners participating in global health (STEGHs).",
+        "sections": [
+            {
+                "section": "41176D",
+                "session": "020",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 25",
+                "instructor": "Taylor Burkholder",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "528",
+        "course_name": "Program Design and Evaluation",
+        "units": "(4.0 units)",
+        "description": "Core concepts, methods and values of public health program planning and evaluation, including community needs assessment, writing objectives, designing health promotion programs, process and outcome evaluation.",
+        "sections": [
+            {
+                "section": "41205D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 25",
+                "instructor": "Lucia Florindez",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41231D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "19 of 25",
+                "instructor": "Lucia Florindez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "529",
+        "course_name": "Environmental Health: An Epidemiological Approach",
+        "units": "(4.0 units)",
+        "description": "An overview of environmental health, identifying issues in assessing effects of exposure on health and potential interventions for reducing adverse health risks. Prerequisite: PM-512",
+        "sections": [
+            {
+                "section": "41061D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 775,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Khandaker Islam",
+                "location": "SSB115"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "530",
+        "course_name": "Biological Basis of Disease",
+        "units": "(4.0 units)",
+        "description": "With a physiological overview, dfferentiates genetic and environmental disease; emphasis on the relationships between lifestyle, behavior, and health.",
+        "sections": [
+            {
+                "section": "41066D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1075,
+                "days": 20,
+                "registered": "20 of 30",
+                "instructor": "Sheela Rao",
+                "location": "SSB116"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "537",
+        "course_name": "Chronic Disease Epidemiology",
+        "units": "(4.0 units)",
+        "description": "Overview of causative factors and demographic distribution of major chronic diseases in the western world. Epidemiologic concepts, methods and research design as applied to chronic disease prevention will be emphasized. Prerequisite: PM 512.",
+        "sections": [
+            {
+                "section": "41153D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 30",
+                "instructor": "Victoria Cortessis",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41208D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 30",
+                "instructor": "Victoria Cortessis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "547",
+        "course_name": "Public Health Policy and Politics",
+        "units": "(4.0 units)",
+        "description": "Examination of major policy issues in the U.S. health care delivery system to understand policy options in reforming health care and reducing health care disparities.",
+        "sections": [
+            {
+                "section": "41218D",
+                "session": "407",
+                "type": "Lecture-Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 25",
+                "instructor": "Martin Gallegos",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "560",
+        "course_name": "Statistical Programming With R",
+        "units": "(2.0 units)",
+        "description": "The contents include: R objects, control structure, data input and output, subsetting objects, data manipulation and aggregations, character manipulation, graphics, and writing user-defined functions. Recommended preparation: Knowledge of one programming language other than R or a half-year experience programming in R.",
+        "sections": [
+            {
+                "section": "41108D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 2,
+                "registered": "19 of 20",
+                "instructor": "Arthur Li",
+                "location": "SSB116"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "563",
+        "course_name": "Organizing and Mobilizing Communities for Public Health",
+        "units": "(4.0 units)",
+        "description": "Survey of effective community organizing and mobilization efforts in the U.S. and abroad, using participatory, organizational, community empowerment and public-private partnership models.",
+        "sections": [
+            {
+                "section": "41211D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 25",
+                "instructor": "Mariam Davtyan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41212D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 25",
+                "instructor": "Jane Steinberg",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "574",
+        "course_name": "Programming In Modern Statistical Software",
+        "units": "(2.0 units)",
+        "description": "Programming using SAS Software, including branching, sub-setting, PDV, looping, by-group processing, array, combining data functions, ODS, and macros.",
+        "sections": [
+            {
+                "section": "41083D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 2,
+                "registered": "11 of 30",
+                "instructor": "Arthur Li",
+                "location": "SSB116"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "576",
+        "course_name": "Global Health Research and Programs",
+        "units": "(4.0 units)",
+        "description": "Introduction to the core concepts and methods of planning and implementing health-related programs and research in resource-constrained settings.",
+        "sections": [
+            {
+                "section": "41217D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 25",
+                "instructor": "Kelika Konda",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "577",
+        "course_name": "Global Health, Law and Human Rights: Concepts and Methods",
+        "units": "(1.0-4.0 units)",
+        "description": "Highlights the complex interactions between global health, law and human rights, emphasizing the use of human rights in public health thinking and practice.",
+        "sections": [
+            {
+                "section": "41203D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 25",
+                "instructor": "Jonathan Cohen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "579",
+        "course_name": "Statistical Analysis of High-Dimensional Data",
+        "units": "(4.0 units)",
+        "description": "Overview of statistical issues and solutions to high dimensional data analysis. Use of Bioconductor and R, with applications in molecular biology. Recommended preparation: PM 511a.",
+        "sections": [
+            {
+                "section": "41077R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1020,
+                "days": 8,
+                "registered": "23 of 30",
+                "instructor": "Kimberly Siegmund",
+                "location": "SSB114"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "589",
+        "course_name": "Global Health Policy in Action: Geneva Course",
+        "units": "(4.0 units)",
+        "description": "Investigates the way health is organized and administered at the global level by integrating students directly into the World Health Assembly (WHA), the decision-making body of the World Health Organization.",
+        "sections": [
+            {
+                "section": "41241D",
+                "session": "019",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 62,
+                "registered": "11 of 25",
+                "instructor": "Sofia Gruskin,Laura Ferguson",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41085D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 35",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41133D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41142D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Amie Hwang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41090R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 35",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41092R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41082R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "595",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty.",
+        "sections": [
+            {
+                "section": "41107D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41155D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 4",
+                "instructor": "Amie Hwang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "596",
+        "course_name": "Practicum in Public Health",
+        "units": "(1.0 unit)",
+        "description": "Applied practical experience through field placement in federal, state, and/or local public health agencies/organizations, including community-based organizations; research and school-based settings.",
+        "sections": [
+            {
+                "section": "41091D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 20",
+                "instructor": "Jane Steinberg",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41219D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "79 of 80",
+                "instructor": "Jane Steinberg",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "597",
+        "course_name": "Capstone in Public Health",
+        "units": "(1.0 unit)",
+        "description": "Provides the culminating, integrative learning experience for students enrolled in the Master of Public Health program.",
+        "sections": [
+            {
+                "section": "41093D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 655,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Bruce Burkemper",
+                "location": "SSB110"
+            },
+            {
+                "section": "41210D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 27",
+                "instructor": "Mellissa Withers",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41220D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "26 of 28",
+                "instructor": "Mellissa Withers",
+                "location": "ONLINE"
+            },
+            {
+                "section": "41240D",
+                "session": "407",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 25",
+                "instructor": "Mellissa Withers",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "606",
+        "course_name": "Health Data Science Practicum",
+        "units": "(3.0 units)",
+        "description": "Analysis of an external medical research or healthcare industry dataset; project/presentation based.",
+        "sections": [
+            {
+                "section": "41058D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 960,
+                "days": 4,
+                "registered": "2 of 10",
+                "instructor": "David Conti,Jesse Goodrich",
+                "location": "SSB111"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "612C",
+        "course_name": "Clinical Translational Research (CTR)",
+        "units": "(4.0 units)",
+        "description": "Multidisciplinary approach to clinical and translational research.",
+        "sections": [
+            {
+                "section": "41154D",
+                "session": "557",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "8 of 12",
+                "instructor": "Cecilia Patino Sutton",
+                "location": "SSB110"
+            },
+            {
+                "section": "41156D",
+                "session": "466",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "1 of 5",
+                "instructor": "Cecilia Patino Sutton",
+                "location": "SSB110"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "690A",
+        "course_name": "Directed Research in Health Behavior",
+        "units": "(2.0 units)",
+        "description": "Independent research at an advanced level on a problem in the field of Health Behavior. Recommended preparation PM 604. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41167D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "690B",
+        "course_name": "Directed Research in Health Behavior",
+        "units": "(2.0 units)",
+        "description": "Independent research at an advanced level on a problem in the field of Health Behavior. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41170D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "690C",
+        "course_name": "Directed Research in Health Behavior",
+        "units": "(2.0 units)",
+        "description": "Independent research at an advanced level on a problem in the field of Health Behavior. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41173D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "690D",
+        "course_name": "Directed Research in Health Behavior",
+        "units": "(2.0 units)",
+        "description": "Independent research at an advanced level on a problem in the field of Health Behavior.",
+        "sections": [
+            {
+                "section": "41178D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "690Z",
+        "course_name": "Directed Research In Health Behavior",
+        "units": "(0.0 units)",
+        "description": "Independent research at an advanced level on a problem in the field of health behavior. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41180D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "756",
+        "course_name": "Research Seminar in Health Behavior",
+        "units": "(1.0 units, max 6)",
+        "description": "Short seminar presentations and discussions on issues accompanying the development of the field of health behavior and implementation of research in this field. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41182D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 25",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research applicable to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41122D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 35",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41236D",
+                "session": "557",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41186D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41128R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41189D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41132R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41197D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41135D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41136R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41140R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41195D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PM",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "41144R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Kimberly Siegmund",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41196D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Jennifer Unger",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

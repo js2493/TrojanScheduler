@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20243",
+        "department": "NIIN",
+        "course_num": "500",
+        "course_name": "Neuroimaging and Systems Neuroscience",
+        "units": "(3.0 units)",
+        "description": "Detailed overview of neuroanatomy, neurophysiology, and neural systems with an emphasis on human neuroanatomy and imaging. Examples from clinical cases and their consequences will be explored.",
+        "sections": [
+            {
+                "section": "40200R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "17 of 30",
+                "instructor": "Katherine Lawrence,",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NIIN",
+        "course_num": "510",
+        "course_name": "Fundamentals of Human Neuroimaging",
+        "units": "(3.0 units)",
+        "description": "Survey of anatomical and functional neuroimaging approaches and their use to explore the healthy as well as diseased human brain. Open only to Neuroimaging and Informatics majors.",
+        "sections": [
+            {
+                "section": "40201R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 660,
+                "days": 2,
+                "registered": "15 of 30",
+                "instructor": "Kay Jann",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NIIN",
+        "course_num": "530",
+        "course_name": "Neuroimaging Data Acquisition w/ Magnetic Resonance Imaging",
+        "units": "(3.0 units)",
+        "description": "Introduces the various approaches used to image the living brain using MR-based techniques. Covers neuroimaging scanning technologies, pulse sequence design, and sources of image artifact. Recommended preparation: familiarity with Matlab. Open only to Neuroimaging and Informatics majors.",
+        "sections": [
+            {
+                "section": "40203R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Danny Wang,Andres Saucedo",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NIIN",
+        "course_num": "540",
+        "course_name": "Neuroimaging Data Processing Methods",
+        "units": "(3.0 units)",
+        "description": "Comprehensive investigation of data processing methods, software strategies, and workflow design and execution methodologies.",
+        "sections": [
+            {
+                "section": "40205R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 660,
+                "days": 4,
+                "registered": "18 of 30",
+                "instructor": "Neda Jahanshad,",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "NIIN",
+        "course_num": "597",
+        "course_name": "Current Topics in Neuroimaging Informatics",
+        "units": "(1.0 unit)",
+        "description": "Leading researchers in the areas of basic and clinical brain imaging, computational methods, and informatics formally discuss their work for which students provide written critical review and comment.",
+        "sections": [
+            {
+                "section": "40204R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 780,
+                "days": 4,
+                "registered": "19 of 30",
+                "instructor": "Lauren Salminen",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

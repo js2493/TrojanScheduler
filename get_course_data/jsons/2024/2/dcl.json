@@ -1,0 +1,706 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "101",
+        "course_name": "Race and Class in Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Analysis of race and the economic, political, gender, and social dimensions of contemporary Los Angeles including topics such as residential segregation, economic inequality, and city politics.",
+        "sections": [
+            {
+                "section": "10310D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "24 of 29",
+                "instructor": "Chrisshonna Nieva",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "135",
+        "course_name": "Peoples and Cultures of the Americas",
+        "units": "(4.0 units)",
+        "description": "An introduction to cultures and people in the Americas; the social, historical, economic and cultural formations that together make up the Latino/a American imaginary.",
+        "sections": [
+            {
+                "section": "10320D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 28,
+                "registered": "26 of 30",
+                "instructor": "Alicia Chavez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "200",
+        "course_name": "Introduction to American Studies and Ethnicity",
+        "units": "(4.0 units)",
+        "description": "Introduction to American studies and ethnic studies. Provides an overview of major theories, concepts, and issues.",
+        "sections": [
+            {
+                "section": "10347D",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "25 of 30",
+                "instructor": "Alicia Chavez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "205",
+        "course_name": "Introduction to American Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Examines the relation between U.S. national culture, race, and popular culture.",
+        "sections": [
+            {
+                "section": "10360R",
+                "session": "070",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "26 of 29",
+                "instructor": "Joshua Mitchell",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "285",
+        "course_name": "African American Popular Culture",
+        "units": "(4.0 units)",
+        "description": "Examines history of popular cultural forms such as literature, music, dance, theater, and visual arts produced by and about African Americans.",
+        "sections": [
+            {
+                "section": "10399D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "28 of 28",
+                "instructor": "Lanita Jacobs",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "301",
+        "course_name": "America, the Frontier, and the New West",
+        "units": "(4.0 units)",
+        "description": "Introduction to an interdisciplinary study of American political, cultural and social life with a particular emphasis on the Western United States as a region. Recommended preparation: HIST 200, ENGL 263",
+        "sections": [
+            {
+                "section": "10408D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 14,
+                "registered": "29 of 28",
+                "instructor": "Chris Finley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ANTH",
+        "course_number": "338",
+        "course_name": "Food in Culture and Society",
+        "units": "(4.0 units)",
+        "description": "An introduction to the field of food studies, as a historical and cross-disciplinary study of the place of food in culture and society.",
+        "sections": [
+            {
+                "section": "10628D",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 665,
+                "days": 30,
+                "registered": "23 of 24",
+                "instructor": "Xochitl Ruiz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTR",
+        "course_number": "100",
+        "course_name": "The Universe",
+        "units": "(4.0 units)",
+        "description": "Survey of the universe: planets, satellites, comets, stars, nebulae, galaxies. Practical component includes planetary observations and dark-sky field trip. Not available for major credit.",
+        "sections": [
+            {
+                "section": "50800R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "45 of 72",
+                "instructor": "Aaron Wirthwein",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50802R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "17 of 18",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50803R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "10 of 18",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50807R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50801R",
+                "session": "070",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "45 of 90",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ASTR",
+        "course_number": "200",
+        "course_name": "Life in the Universe",
+        "units": "(4.0 units)",
+        "description": "Survey of the prospects for life in our solar system and beyond, based on the evolution of life on Earth.",
+        "sections": [
+            {
+                "section": "50830R",
+                "session": "076",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "36 of 72",
+                "instructor": "Vahe Peroomian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50832R",
+                "session": "076",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 24",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50833R",
+                "session": "076",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 24",
+                "instructor": "Joseph Vandiver",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "120",
+        "course_name": "General Biology: Organismal Biology and Evolution",
+        "units": "(4.0 units)",
+        "description": "In-depth survey of key topics related to advances in our knowledge of the diversity of life and evolution; origin of life; eukaryotes/prokaryotes; ecology.",
+        "sections": [
+            {
+                "section": "13004R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 30,
+                "registered": "8 of 40",
+                "instructor": "Raffaella Ghittoni,Trond Sigurdsen",
+                "location": "ZHS163"
+            },
+            {
+                "section": "13005R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Eliza Kirsch",
+                "location": "ZHS363"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BISC",
+        "course_number": "220",
+        "course_name": "General Biology: Cell Biology and Physiology",
+        "units": "(4.0 units)",
+        "description": "In-depth survey of key topics related to advances in our knowledge of cellular biology and physiology; cell composition/metabolism; gene action; organism structure and function. Recommended preparation: high school chemistry; BISC 120L or BISC 121L.",
+        "sections": [
+            {
+                "section": "13012R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 60,
+                "registered": "7 of 20",
+                "instructor": "Rita Barakat",
+                "location": "HNB100"
+            },
+            {
+                "section": "13141R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Elizabeth Beachem",
+                "location": "ZHS369"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "105A",
+        "course_name": "General Chemistry",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles and laws of chemistry; laboratory work emphasizes quantitative procedures. Prerequisite to all more advanced courses in chemistry. Lecture, 3 hours; laboratory and discussion, 4 hours. Quiz, 1 hour.",
+        "sections": [
+            {
+                "section": "17205R",
+                "session": "110",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 30,
+                "registered": "8 of 60",
+                "instructor": "Thomas Bertolini",
+                "location": "GFS106"
+            },
+            {
+                "section": "17208R",
+                "session": "110",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "8 of 12",
+                "instructor": "Catherine Skibo",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17207R",
+                "session": "110",
+                "type": "Quiz",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "8 of 60",
+                "instructor": "",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "176",
+        "course_name": "Los Angeles: the City, the Novel, the Movie",
+        "units": "(4.0 units)",
+        "description": "An exploration of the culture, vibrance, heritage, mythology, variety, and pathology of a city that was born in hopes and captured the worlds imagination. Duplicates credit in ARLT 101g.",
+        "sections": [
+            {
+                "section": "32750R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 80",
+                "instructor": "Thomas Gustafson",
+                "location": "SOSB2"
+            },
+            {
+                "section": "32751R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "14 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32752R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "32753R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32754R",
+                "session": "051",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENGL",
+        "course_number": "371",
+        "course_name": "Literary Genres and Film",
+        "units": "(4.0 units)",
+        "description": "Literary studies in the relationship between fiction and drama and their adaptation as films.",
+        "sections": [
+            {
+                "section": "32632D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "15 of 18",
+                "instructor": "Brighde Mullins",
+                "location": "DMC110"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37115D",
+                "session": "051",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 28,
+                "registered": "18 of 19",
+                "instructor": "Brett Sheehan",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "125",
+        "course_name": "Calculus I",
+        "units": "(4.0 units)",
+        "description": "Limits; continuity, derivatives and applications; antiderivatives; the fundamental theorem of calculus; exponential and logarithmic functions.",
+        "sections": [
+            {
+                "section": "39412R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 62,
+                "registered": "7 of 30",
+                "instructor": "Nathaniel Emerson",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MATH",
+        "course_number": "226",
+        "course_name": "Calculus III",
+        "units": "(4.0 units)",
+        "description": "Vectors, vector valued functions; differential and integral calculus of functions of several variables; Green's theorem, Divergence theorem, Stoke's theorem.",
+        "sections": [
+            {
+                "section": "39430R",
+                "session": "054",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 62,
+                "registered": "14 of 30",
+                "instructor": "Cymra Haskell",
+                "location": "KAP163"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "135A",
+        "course_name": "Physics for the Life Sciences",
+        "units": "(4.0 units)",
+        "description": "Fundamental laws and principles of physics emphasizing areasrelated to life sciences. Prerequisite for Biological Sciences,Medicine, Dentistry, Pharmacy. Lecture, 4 hrs.; Lab, 3 hrs.",
+        "sections": [
+            {
+                "section": "50310R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "31 of 93",
+                "instructor": "Aaron Wirthwein",
+                "location": "SLH200"
+            },
+            {
+                "section": "50312R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 20,
+                "registered": "8 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50314D",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50315D",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50316R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "23 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50311R",
+                "session": "050",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "31 of 96",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHYS",
+        "course_number": "151",
+        "course_name": "Fundamentals of Physics I: Mechanics and Thermodynamics",
+        "units": "(4.0 units)",
+        "description": "Gateway to the majors and minors in Physics and Astronomy. Statics and dynamics of particles and rigid bodies, conservation principles, gravitation, simple harmonic oscillators, thermodynamics, heat engines, entropy.",
+        "sections": [
+            {
+                "section": "50330R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "17 of 32",
+                "instructor": "Christopher Gould",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50332R",
+                "session": "070",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "17 of 32",
+                "instructor": "Gokhan Esirgen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "50331R",
+                "session": "070",
+                "type": "Quiz",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "17 of 32",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "100",
+        "course_name": "Introduction to Psychology",
+        "units": "(4.0 units)",
+        "description": "Introduction to psychological science, including historical and contemporary approaches. Behavior examined from biological, cognitive, social, developmental, and personality perspectives. Disorders and treatments.",
+        "sections": [
+            {
+                "section": "52400R",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "Clayton Stephenson",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "274",
+        "course_name": "Statistics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the use of statistics in psychology: basic ideas in measurement; frequency distributions; descriptive statistics; concepts and procedures in statistical inference.",
+        "sections": [
+            {
+                "section": "52452R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Bryan Shilowich",
+                "location": "SGM601"
+            },
+            {
+                "section": "52451R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 860,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Bryan Shilowich",
+                "location": "SGM631"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "353",
+        "course_name": "Close Relationships",
+        "units": "(4.0 units)",
+        "description": "Scientific perspective of close relationships: intimate relationships, friendships and others, evolutionary and biological bases of attraction and love, historical, social , cultural influences. Prerequisite: PSYC 100. (Duplicates credit in PSYC 359)",
+        "sections": [
+            {
+                "section": "52558R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 10,
+                "registered": "12 of 25",
+                "instructor": "Miranda Barone",
+                "location": "SGM226"
+            }
+        ]
+    }
+]

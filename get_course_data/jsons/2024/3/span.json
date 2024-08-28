@@ -1,0 +1,1072 @@
+[
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "120",
+        "course_name": "Spanish I",
+        "units": "(4.0 units)",
+        "description": "For students with limited proficiency in Spanish. Practice in listening comprehension, oral communication, elementary reading and writing.",
+        "sections": [
+            {
+                "section": "62001D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Martin Ocon-Gamarra",
+                "location": "DMC259"
+            },
+            {
+                "section": "62003D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 0,
+                "registered": "18 of 19",
+                "instructor": "Jamie Fudacz",
+                "location": "THH121"
+            },
+            {
+                "section": "62005D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jaclyn Cohen-Steinberg",
+                "location": "THH207"
+            },
+            {
+                "section": "62007D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Jamie Fudacz",
+                "location": "THH203"
+            },
+            {
+                "section": "62009D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Martin Ocon-Gamarra",
+                "location": "THH203"
+            },
+            {
+                "section": "62013D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Karen Perez",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "150",
+        "course_name": "Spanish II",
+        "units": "(4.0 units)",
+        "description": "Continuation of Spanish 110 or 120; increased emphasis on listening comprehension, oral expression, reading and writing.",
+        "sections": [
+            {
+                "section": "62027R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "62029R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jaclyn Cohen-Steinberg",
+                "location": "DMC106"
+            },
+            {
+                "section": "62031R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Leah Kemp",
+                "location": "THH213"
+            },
+            {
+                "section": "62033R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ivette Gomez",
+                "location": "DMC210"
+            },
+            {
+                "section": "62035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Maura Crowley",
+                "location": "WPH206"
+            },
+            {
+                "section": "62039R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Maura Crowley",
+                "location": "THH209"
+            },
+            {
+                "section": "62041R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Karen Perez",
+                "location": "WPHB30"
+            },
+            {
+                "section": "62043R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "David Zarazua",
+                "location": "DMC105"
+            },
+            {
+                "section": "62045R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Lorena Gallego",
+                "location": "THH121"
+            },
+            {
+                "section": "62047R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Liana Stepanyan",
+                "location": "DMC109"
+            },
+            {
+                "section": "62049R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Liana Stepanyan",
+                "location": "DMC109"
+            },
+            {
+                "section": "62051R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Jaclyn Cohen-Steinberg",
+                "location": "DMC106"
+            },
+            {
+                "section": "62053R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Karen Perez",
+                "location": "THH213"
+            },
+            {
+                "section": "62055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Jamie Fudacz",
+                "location": "THH203"
+            },
+            {
+                "section": "62059R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Maria Mercedes Fages Agudo",
+                "location": "THH112"
+            },
+            {
+                "section": "62060R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Miguel Morales Pulgar",
+                "location": "DMC256"
+            },
+            {
+                "section": "62061R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Franchesca Rotger",
+                "location": "THH106"
+            },
+            {
+                "section": "62062R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "DMC259"
+            },
+            {
+                "section": "62063R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "DMC108"
+            },
+            {
+                "section": "62064R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "David Zarazua",
+                "location": "DMC206"
+            },
+            {
+                "section": "62065R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Maria Mercedes Fages Agudo",
+                "location": "THH115"
+            },
+            {
+                "section": "62066R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "THH106"
+            },
+            {
+                "section": "62068R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Leah Kemp",
+                "location": "THH214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "220",
+        "course_name": "Spanish III",
+        "units": "(4.0 units)",
+        "description": "Continuation of SPAN 150; intensive work in listening comprehension, oral communication, reading, and writing with emphasis on free expression; readings related to Hispanic culture and civilization. Prereq: SPAN 150 or equivalent.",
+        "sections": [
+            {
+                "section": "62071R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Consuelo Siguenza-Ortiz",
+                "location": "THH207"
+            },
+            {
+                "section": "62073R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 40,
+                "registered": "16 of 19",
+                "instructor": "Gayle Fiedler-Vierma",
+                "location": "DMC108"
+            },
+            {
+                "section": "62075R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "",
+                "location": "DMC260"
+            },
+            {
+                "section": "62077R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "17 of 19",
+                "instructor": "Lorena Gallego",
+                "location": "THH121"
+            },
+            {
+                "section": "62079R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ivette Gomez",
+                "location": "THH121"
+            },
+            {
+                "section": "62081R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Anahit Hakoupian",
+                "location": "THH217"
+            },
+            {
+                "section": "62085R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "LVL3V"
+            },
+            {
+                "section": "62087R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Ivette Gomez",
+                "location": "DMC210"
+            },
+            {
+                "section": "62091R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "17 of 19",
+                "instructor": "Anahit Hakoupian",
+                "location": "THH217"
+            },
+            {
+                "section": "62093R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "2 of 19",
+                "instructor": "",
+                "location": "THH214"
+            },
+            {
+                "section": "62095R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 0,
+                "registered": "1 of 19",
+                "instructor": "",
+                "location": "THH217"
+            },
+            {
+                "section": "62097R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Liana Stepanyan",
+                "location": "LVL3Y"
+            },
+            {
+                "section": "62099R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Maura Crowley",
+                "location": "WPH202"
+            },
+            {
+                "section": "62101R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "19 of 19",
+                "instructor": "Consuelo Siguenza-Ortiz",
+                "location": "THH207"
+            },
+            {
+                "section": "62103R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "10 of 19",
+                "instructor": "Marie Enright",
+                "location": "DMC206"
+            },
+            {
+                "section": "62111R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Andrea Parra",
+                "location": "THH214"
+            },
+            {
+                "section": "62115R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 40,
+                "registered": "15 of 19",
+                "instructor": "Gayle Fiedler-Vierma",
+                "location": "DMC108"
+            },
+            {
+                "section": "62117R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "THH121"
+            },
+            {
+                "section": "62119R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Sarah Portnoy",
+                "location": "LVL3V"
+            },
+            {
+                "section": "62123R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Gayle Fiedler-Vierma",
+                "location": "THH121"
+            },
+            {
+                "section": "62125R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Anahit Hakoupian",
+                "location": "THH214"
+            },
+            {
+                "section": "62130R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Leah Kemp",
+                "location": "DMC110"
+            },
+            {
+                "section": "62131R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Marie Enright",
+                "location": "DMC256"
+            },
+            {
+                "section": "62132R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Lorena Gallego",
+                "location": "THH115"
+            },
+            {
+                "section": "62134R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "12 of 19",
+                "instructor": "",
+                "location": "DMC259"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "240",
+        "course_name": "Spanish IV",
+        "units": "(4.0 units)",
+        "description": "Intensive review of Spanish grammar with emphasis on four skills. Audio-visual materials and readings related to Hispanic culture and civilization.",
+        "sections": [
+            {
+                "section": "62137R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "8 of 16",
+                "instructor": "Andrea Parra",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "260",
+        "course_name": "Advanced Spanish: Arts and Sciences",
+        "units": "(4.0 units)",
+        "description": "Development of students' oral and writing skills using literary and scientific materials; grammar review. Duplicates credit in the former SPAN 266.",
+        "sections": [
+            {
+                "section": "62200R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "7 of 15",
+                "instructor": "Marie Enright",
+                "location": ""
+            },
+            {
+                "section": "62201R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "11 of 15",
+                "instructor": "",
+                "location": "DMC204"
+            },
+            {
+                "section": "62204R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "7 of 15",
+                "instructor": "Maria Mercedes Fages Agudo",
+                "location": "SOSB38"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "270",
+        "course_name": "Spanish for Heritage Speakers",
+        "units": "(4.0 units)",
+        "description": "Culture-based course designed for Spanish speakers not formally trained in the language. Review language and grammar and hone presentational skills.",
+        "sections": [
+            {
+                "section": "62240R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "3 of 19",
+                "instructor": "",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "280",
+        "course_name": "Conversational Spanish",
+        "units": "(2.0 units, max 4)",
+        "description": "Discussions of short films, cultural and literary texts and other activities designed to improve conversational skills. Prerequisite: SPAN 220. Not for credit for Spanish majors.",
+        "sections": [
+            {
+                "section": "62275R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "17 of 19",
+                "instructor": "",
+                "location": "THH117"
+            },
+            {
+                "section": "62277R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "3 of 19",
+                "instructor": "",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "290",
+        "course_name": "Introduction to Latin American and Iberian Studies",
+        "units": "(4.0 units)",
+        "description": "Introduction to the cultural history of Spain, Portugal and Latin America with a focus on literature and visual works from the early-modern period to the twenty-first century.",
+        "sections": [
+            {
+                "section": "62279R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "99 of 99",
+                "instructor": "Samuel Steinberg",
+                "location": "GFS106"
+            },
+            {
+                "section": "62282R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Catherine Bedoya",
+                "location": "DMC161"
+            },
+            {
+                "section": "62283R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Catherine Bedoya",
+                "location": "DMC161"
+            },
+            {
+                "section": "62284R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Pascual Brodsky",
+                "location": "DMC160"
+            },
+            {
+                "section": "62285R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Pascual Brodsky",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "301",
+        "course_name": "Introduction to Literature and Film",
+        "units": "(4.0 units)",
+        "description": "Introduction to critical reading and interpretation of poetry, narrative fiction, drama and film from Spain and Latin America.",
+        "sections": [
+            {
+                "section": "62280R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Natalia Perez",
+                "location": "THH115"
+            },
+            {
+                "section": "62281R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "14 of 19",
+                "instructor": "Natalia Perez",
+                "location": "SOSB38"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "302",
+        "course_name": "Screen Cultures: From Film to the Internet",
+        "units": "(4.0 units)",
+        "description": "A survey of Spanish and Latin American cinema from the silent film era to the present, acquainting students with various critical and theoretical approaches to cinema studies. Conducted in Spanish.",
+        "sections": [
+            {
+                "section": "62213R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "14 of 20",
+                "instructor": "Noraeden Mora Mendez",
+                "location": "DMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "310",
+        "course_name": "Structure of Spanish",
+        "units": "(4.0 units)",
+        "description": "A systematic study of the structure of Spanish. Topics include fundamental aspects of the sound system; word classes; sentences and their meaning; linguistic change and variation; standard and colloquial usage.",
+        "sections": [
+            {
+                "section": "62118R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Martin Ocon-Gamarra",
+                "location": "DMC211"
+            },
+            {
+                "section": "62216R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "11 of 15",
+                "instructor": "David Zarazua",
+                "location": "THH117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "315",
+        "course_name": "Advanced Grammar and Translation",
+        "units": "(4.0 units)",
+        "description": "Contrastive study of Spanish and English structures designed to explore the similarities and differences between the two languages and to familiarize students with translation techniques. Emphasis on a variety of text types with the aim of increasing linguistic and cultural appreciation of the Spanish language.",
+        "sections": [
+            {
+                "section": "62221R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "11 of 15",
+                "instructor": "Marianna Chodorowska-Pilch",
+                "location": "THH113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "316",
+        "course_name": "Spanish for the Professions",
+        "units": "(4.0 units)",
+        "description": "The language and culture of a particular area of study or profession, such as medicine and healthcare, political and social sciences, business and the law. Limited to 4 units for major or minor credit.",
+        "sections": [
+            {
+                "section": "62223R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "11 of 15",
+                "instructor": "Consuelo Siguenza-Ortiz",
+                "location": "THH207"
+            },
+            {
+                "section": "62225R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 19",
+                "instructor": "Karen Perez",
+                "location": "GFS111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "382",
+        "course_name": "The Aesthetics of Violence in Latin America",
+        "units": "(4.0 units)",
+        "description": "An exploration of representations of violence and violent representations in Latin American narrative, poetry, music and film.",
+        "sections": [
+            {
+                "section": "62272R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "2 of 19",
+                "instructor": "Noraeden Mora Mendez",
+                "location": "DMC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "385",
+        "course_name": "The Culture of Food in Hispanic Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Experiential learning and project-based course designed to familiarize students with the food culture of Hispanic Los Angeles. Students create Spanish language blogs about their experiences.",
+        "sections": [
+            {
+                "section": "62276D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Sarah Portnoy",
+                "location": "WPH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "420",
+        "course_name": "Spanish Language Acquisition",
+        "units": "(4.0 units)",
+        "description": "A study of the bilingual acquisition of Spanish and English by children, and of Spanish as a second language by adults; focus on linguisitic, psychological and social factors.",
+        "sections": [
+            {
+                "section": "62347R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "4 of 19",
+                "instructor": "Goretti Prieto Botana",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "483",
+        "course_name": "Gender and Sexuality",
+        "units": "(4.0 units)",
+        "description": "An examination of gender, sexuality, and power in Iberian and Latin American literatures and cultures. Conducted in Spanish.",
+        "sections": [
+            {
+                "section": "62365D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "15 of 19",
+                "instructor": "Natalia Perez",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "545",
+        "course_name": "20th and 21st Century Latin American Literature and Culture",
+        "units": "(4.0 units, max 8)",
+        "description": "Study of cultural currents, authors, literary texts, films and other media in Latin America in the twentieth and twenty-first centuries.",
+        "sections": [
+            {
+                "section": "62311D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Samuel Steinberg",
+                "location": "DMC103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "592",
+        "course_name": "Practicum in Teaching Spanish",
+        "units": "(2.0 units)",
+        "description": "Approaches and techniques in the teaching of Spanish and/or Portuguese as a second language.Open only to Master and Doctoral students in Comparative Literature, Comparative Culture in Literature and Studies (Spanish and Latin American Studies), Linguistics (Hispanic Linguistics) and Spanish.",
+        "sections": [
+            {
+                "section": "62292D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "0 of 8",
+                "instructor": "Goretti Prieto Botana",
+                "location": "THH221"
+            }
+        ]
+    }
+]

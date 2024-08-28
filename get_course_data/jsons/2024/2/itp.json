@@ -1,0 +1,139 @@
+[
+    {
+        "term": "20242",
+        "department": "ITP",
+        "course_number": "104",
+        "course_name": "Introduction to Web Development",
+        "units": "(2.0 units)",
+        "description": "Web publishing using HTML, CSS and other Web technologies. Concepts and theory of Web site creation, page layout and production. Introduction to advanced topics.",
+        "sections": [
+            {
+                "section": "31820R",
+                "session": "162",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1085,
+                "days": 20,
+                "registered": "22 of 60",
+                "instructor": "Zune Nguyen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ITP",
+        "course_number": "115",
+        "course_name": "Programming in Python",
+        "units": "(2.0 units)",
+        "description": "Introduction to Python; intended for students without prior programming experience.",
+        "sections": [
+            {
+                "section": "31821R",
+                "session": "059",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1145,
+                "days": 20,
+                "registered": "21 of 60",
+                "instructor": "Gregory Pohlner",
+                "location": "GFS118"
+            },
+            {
+                "section": "31822R",
+                "session": "059",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 665,
+                "days": 20,
+                "registered": "8 of 60",
+                "instructor": "Sinan Seymen",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ITP",
+        "course_number": "125",
+        "course_name": "From Hackers to CEOs: Introduction to Information Security",
+        "units": "(2.0 units)",
+        "description": "Introductory course in computer security. Fundamentals of information security management. Threats to information integrity. Ethical hacking concerns and practice. Policies and Procedures.",
+        "sections": [
+            {
+                "section": "31823R",
+                "session": "925",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 730,
+                "days": 64,
+                "registered": "18 of 30",
+                "instructor": "Joseph Greenfield",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ITP",
+        "course_number": "216",
+        "course_name": "Applied Python",
+        "units": "(2.0 units)",
+        "description": "Development of practical Python programming skills through project-based applications; \"Pythonic\" ways of solving problems in modern computational domains.",
+        "sections": [
+            {
+                "section": "31824R",
+                "session": "059",
+                "type": "Lecture-Lab",
+                "start_time": 1170,
+                "end_time": 1235,
+                "days": 20,
+                "registered": "10 of 60",
+                "instructor": "Gregory Pohlner",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ITP",
+        "course_number": "259",
+        "course_name": "Basics of Artificial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Concepts and techniques in artificial intelligence; approaches in artificial narrow intelligence; applications of AI that are already changing society; ethical and social questions in AI.",
+        "sections": [
+            {
+                "section": "31827R",
+                "session": "162",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 800,
+                "days": 84,
+                "registered": "19 of 60",
+                "instructor": "Nitin Kale,Sinan Seymen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ITP",
+        "course_number": "359",
+        "course_name": "Applied Neural Networks",
+        "units": "(4.0 units)",
+        "description": "Design, build, and train applied neural networks to solve real-world problems; implement neural networks for machine vision, image recognition, and object detection and tracking.",
+        "sections": [
+            {
+                "section": "31829R",
+                "session": "162",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 42,
+                "registered": "15 of 60",
+                "instructor": "Nitin Kale,Sinan Seymen",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

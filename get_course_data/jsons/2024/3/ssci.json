@@ -1,0 +1,1259 @@
+[
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "135",
+        "course_name": "Maps in the Digital World",
+        "units": "(4.0 units)",
+        "description": "The role of formal reasoning, abstract representation and empirical analysis in building maps for sharing knowledge across the physical, life and social sciences and humanities.",
+        "sections": [
+            {
+                "section": "35619R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "50 of 50",
+                "instructor": "Katherine Lester",
+                "location": "SOSB2"
+            },
+            {
+                "section": "35661R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC257"
+            },
+            {
+                "section": "35662R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "165",
+        "course_name": "Sustainability Science in the City",
+        "units": "(4.0 units)",
+        "description": "The influence of sustainability science on public policy and vice versa in the context of social/ethical theories, analytical methods and solutions.",
+        "sections": [
+            {
+                "section": "35628R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "115 of 120",
+                "instructor": "Robert Vos",
+                "location": "MRF340"
+            },
+            {
+                "section": "35629R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "David Flores Moctezuma",
+                "location": "THH205"
+            },
+            {
+                "section": "35630R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "David Flores Moctezuma",
+                "location": "SGM226"
+            },
+            {
+                "section": "35631R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "19 of 20",
+                "instructor": "Junhong Duan",
+                "location": "THH113"
+            },
+            {
+                "section": "35632R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Junhong Duan",
+                "location": "DMC202"
+            },
+            {
+                "section": "35633R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "17 of 20",
+                "instructor": "Junhong Duan",
+                "location": "KAP138"
+            },
+            {
+                "section": "35634R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "David Flores Moctezuma",
+                "location": "DMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "175",
+        "course_name": "Food, Health and Place",
+        "units": "(4.0 units)",
+        "description": "The role of food systems in human nutrition and environmental health, and system transformations needed to achieve good health, equity and sustainability.",
+        "sections": [
+            {
+                "section": "35645R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Kayla de la Haye",
+                "location": "DMC102"
+            },
+            {
+                "section": "35650R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH121"
+            },
+            {
+                "section": "35654R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "201",
+        "course_name": "Principles of Geodesign",
+        "units": "(4.0 units)",
+        "description": "Foundations of geodesign combining place-making, design, collective action, and the science of location-based information to improve human interaction with the functioning of the Earth.",
+        "sections": [
+            {
+                "section": "35712R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "8 of 30",
+                "instructor": "Bita Minaravesh",
+                "location": "MRF229"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "214",
+        "course_name": "Human Populations and Natural Hazards",
+        "units": "(4.0 units)",
+        "description": "Introduction to the complex relationship between human development and natural hazards, which are increasingly causing damage and displacement to human populations throughout the world.",
+        "sections": [
+            {
+                "section": "35635R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Diana Ter-Ghazaryan",
+                "location": "THH102"
+            },
+            {
+                "section": "35620R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "DMC155"
+            },
+            {
+                "section": "35621R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "THHB10"
+            },
+            {
+                "section": "35636R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "WPH203"
+            },
+            {
+                "section": "35651R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "WPH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "265",
+        "course_name": "The Water Planet",
+        "units": "(4.0 units)",
+        "description": "An exploration of earth's water, ranging from water properties, chemistry, and pollution, to groundwater dynamics, watershed processes, and oceanic-atmospheric circulation. Implications for past and future societies. Lecture and laboratory.",
+        "sections": [
+            {
+                "section": "35637R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "John Wilson",
+                "location": "KAP158"
+            },
+            {
+                "section": "35641R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "35642R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "301",
+        "course_name": "Maps and Spatial Reasoning",
+        "units": "(4.0 units)",
+        "description": "Role of maps and spatial reasoning in the production and use of geographic information for representing and analyzing human and environmental activities and events.",
+        "sections": [
+            {
+                "section": "35646R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "27 of 40",
+                "instructor": "Bita Minaravesh",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "35648R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "14 of 20",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "35649R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "13 of 20",
+                "instructor": "",
+                "location": "THHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "313",
+        "course_name": "Global Geodesign and Stakeholder Engagement",
+        "units": "(2.0 units)",
+        "description": "Concepts, practices and contexts of public engagement and their importance to the geodesign process.",
+        "sections": [
+            {
+                "section": "35622R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 8,
+                "registered": "3 of 20",
+                "instructor": "Guoping Huang",
+                "location": "THH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "381",
+        "course_name": "Statistics for the Spatial Sciences",
+        "units": "(4.0 units)",
+        "description": "Conceptual foundations and techniques of statistics and how they can be used with geographic data to produce actionable information across spatial science domains.",
+        "sections": [
+            {
+                "section": "35798R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 40,
+                "registered": "16 of 30",
+                "instructor": "Katherine Lester",
+                "location": "SOSB52"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "382",
+        "course_name": "Geographic Information Science: Spatial Analytics",
+        "units": "(4.0 units)",
+        "description": "The various ways in which geography can be used to acquire, represent, organize, analyze, model and visualize information. Laboratories are organized around ArcGIS software suite.",
+        "sections": [
+            {
+                "section": "35653R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "6 of 20",
+                "instructor": "Katherine Lester",
+                "location": "WPHB26"
+            },
+            {
+                "section": "35658R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "6 of 20",
+                "instructor": "Katherine Lester",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "397",
+        "course_name": "Spatial Sciences Internship",
+        "units": "(2.0-4.0 units, max 12)",
+        "description": "Intensive experience in local public agency, private firm, or nonprofit agency engaged in applied geospatial analysis, modeling and mapping work.",
+        "sections": [
+            {
+                "section": "35626D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "John Wilson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "401",
+        "course_name": "Geospatial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Introduction to basic geospatial intelligence knowledge and related practical applications that assist in informing decision-making in a variety of human security settings.",
+        "sections": [
+            {
+                "section": "35773R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "6 of 20",
+                "instructor": "Darren Ruddell",
+                "location": "THH117"
+            },
+            {
+                "section": "35774R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "6 of 20",
+                "instructor": "Darren Ruddell",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "402",
+        "course_name": "Geospatial Technology Management for Sustainability Science",
+        "units": "(4.0 units)",
+        "description": "Principles and techniques for leveraging geospatial technologies and information in support of sustainability, with emphasis on coupling human and natural systems for global sustainable development.",
+        "sections": [
+            {
+                "section": "35777R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "9 of 20",
+                "instructor": "Bita Minaravesh",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Open only to juniors and seniors. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "35727D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Diana Ter-Ghazaryan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "572",
+        "course_name": "GIS and Landscape Architecture",
+        "units": "(2.0 units)",
+        "description": "The use of GIS, spatial analysis, modeling, and 2- and 3-D mapping to support landscape architecture projects that span multiple spatiotemporal scales.",
+        "sections": [
+            {
+                "section": "35624D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "4 of 20",
+                "instructor": "Guoping Huang",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35625D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "0 of 20",
+                "instructor": "Guoping Huang",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "574",
+        "course_name": "Spatial Econometrics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the theoretical foundations, methods, and software systems for spatial econometrics using a variety of use cases.",
+        "sections": [
+            {
+                "section": "35786D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 40,
+                "registered": "21 of 25",
+                "instructor": "An-Min Wu",
+                "location": "AHF145A"
+            },
+            {
+                "section": "35788D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 40,
+                "registered": "3 of 40",
+                "instructor": "An-Min Wu",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "575",
+        "course_name": "Spatial Data Science",
+        "units": "(4.0 units)",
+        "description": "Introduce the spatial data scientific approach to issues and present a holistic generalizable analysis pipeline.",
+        "sections": [
+            {
+                "section": "35781D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "24 of 30",
+                "instructor": "Yi Qi",
+                "location": "AHF145A"
+            },
+            {
+                "section": "35784D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "5 of 40",
+                "instructor": "Yi Qi",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "577",
+        "course_name": "Human Security and Disaster Management",
+        "units": "(4.0 units)",
+        "description": "The relationship between human security (population growth, urbanization, conflict) and disasters, both man-made and natural, where complex emergencies are impactful to human populations.",
+        "sections": [
+            {
+                "section": "35685D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "1 of 20",
+                "instructor": "Darren Ruddell",
+                "location": "AHF145D"
+            },
+            {
+                "section": "35686D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "4 of 40",
+                "instructor": "Darren Ruddell",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "579",
+        "course_name": "Geospatial Intelligence Tradecraft",
+        "units": "(4.0 units)",
+        "description": "Typical geospatial intelligence tasks and their use in military operations, national and homeland security, international relief work and disaster management. Recommended preparation: SSCI-581.",
+        "sections": [
+            {
+                "section": "35687D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "5 of 40",
+                "instructor": "Diana Ter-Ghazaryan",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35688D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "2 of 20",
+                "instructor": "Diana Ter-Ghazaryan",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "581",
+        "course_name": "Concepts for Spatial Thinking",
+        "units": "(4.0 units)",
+        "description": "The unique characteristics and importance of spatial information as they relate to the evolving science, technology, and applications of Geographic Information Systems.",
+        "sections": [
+            {
+                "section": "35691D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "11 of 40",
+                "instructor": "Siqin Wang",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35892D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "29 of 50",
+                "instructor": "Siqin Wang",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "582",
+        "course_name": "Spatial Databases",
+        "units": "(4.0 units)",
+        "description": "Design, implementation, and interrogation of relational, object-oriented and other types of geospatial databases. Recommended preparation: SSCI 581.",
+        "sections": [
+            {
+                "section": "35807D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 40,
+                "registered": "2 of 40",
+                "instructor": "An-Min Wu",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35808D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 40,
+                "registered": "4 of 20",
+                "instructor": "An-Min Wu",
+                "location": "AHF145D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "583",
+        "course_name": "Spatial Analysis and Modeling",
+        "units": "(4.0 units)",
+        "description": "Provides the knowledge and skills necessary to investigate the spatial patterns which result from social and physical processes operating at or near the Earth's surface.",
+        "sections": [
+            {
+                "section": "35785D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "8 of 20",
+                "instructor": "Laura Loyola",
+                "location": "AHF145D"
+            },
+            {
+                "section": "35787D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "3 of 40",
+                "instructor": "Laura Loyola",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "586",
+        "course_name": "GIS Programming and Customization",
+        "units": "(4.0 units)",
+        "description": "Design, coding, and implementation of GIS-based software and models using the Python programming language. Recommended preparation: SSCI 582. Duplicates credit in former GEOG 586.",
+        "sections": [
+            {
+                "section": "35711D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "3 of 20",
+                "instructor": "Jennifer Swift",
+                "location": "AHF145D"
+            },
+            {
+                "section": "35713D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "3 of 40",
+                "instructor": "Jennifer Swift",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "587",
+        "course_name": "Spatial Data Acquisition",
+        "units": "(4.0 units)",
+        "description": "Role of global positioning systems, maps, geocoding, and other kinds of sensors as geospatial data sources. Includes field data acquisition excursion on Catalina Island. Recommended preparation: SSCI-581. Duplicates credit in former GEOG 587.",
+        "sections": [
+            {
+                "section": "35715D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "7 of 40",
+                "instructor": "Laura Loyola",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35716D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "3 of 20",
+                "instructor": "Laura Loyola",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "588",
+        "course_name": "Remote Sensing for GIS",
+        "units": "(4.0 units)",
+        "description": "Principles of remote sensing, satellite systems, and role of remote sensing data in GIS applications. Recommended preparation: SSCI 581.",
+        "sections": [
+            {
+                "section": "35719D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 18,
+                "registered": "8 of 20",
+                "instructor": "Yi Qi",
+                "location": "AHF145D"
+            },
+            {
+                "section": "35720D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 18,
+                "registered": "3 of 40",
+                "instructor": "Yi Qi",
+                "location": "AHF145D & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "589",
+        "course_name": "Cartography and Visualization",
+        "units": "(4.0 units)",
+        "description": "Principles of visual perception, spatial cognition and cartographic design and their contributions to the maps, animations, virtual reality and multimedia displays produced with modern GIS. Recommended preparation: SSCI 581.",
+        "sections": [
+            {
+                "section": "35723D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 10,
+                "registered": "9 of 40",
+                "instructor": "Guoping Huang",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35724D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 10,
+                "registered": "1 of 20",
+                "instructor": "Guoping Huang",
+                "location": "AHF145A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree in cognate fields. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35893D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "591",
+        "course_name": "Web and Mobile GIS",
+        "units": "(4.0 units)",
+        "description": "Design and implementation of locally served and cloud-based geospatial web applications. Construction of web maps, mashups and Volunteered Geographic Information interfaces.",
+        "sections": [
+            {
+                "section": "35729D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Jennifer Swift",
+                "location": "AHF145D"
+            },
+            {
+                "section": "35730D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "3 of 40",
+                "instructor": "Jennifer Swift",
+                "location": "DENDornsife"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35741D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "3 of 20",
+                "instructor": "Darren Ruddell",
+                "location": "DENDornsife"
+            },
+            {
+                "section": "35742D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "0 of 10",
+                "instructor": "Darren Ruddell",
+                "location": "AHF145D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35749D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 7",
+                "instructor": "Elisabeth Sedano",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "35753D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Elisabeth Sedano",
+                "location": "OFFICE"
+            },
+            {
+                "section": "35754D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            },
+            {
+                "section": "35755D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "596",
+        "course_name": "Internship in Spatial Sciences",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Part-time or full-time practical work experience in the student's field of study at an off-campus facility under faculty direction.",
+        "sections": [
+            {
+                "section": "35799D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "600",
+        "course_name": "The Geography of Life and Death",
+        "units": "(4.0 units)",
+        "description": "Meaning and significance of place and role of social, natural, and built environments in disease occurrence in different places and populations. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "35782D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 2,
+                "registered": "3 of 10",
+                "instructor": "John Wilson",
+                "location": "WPH204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "681",
+        "course_name": "Advanced Quantitative Methods for Population, Health and Pla",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of temporal and spatiotemporal data analysis; modern methods for evaluating, managing, and visualizing spatiotemporal data; hands-on use cases.",
+        "sections": [
+            {
+                "section": "35623D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "4 of 15",
+                "instructor": "Siqin Wang",
+                "location": "LVL3V"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "693",
+        "course_name": "Practicum in Teaching the Liberal Arts",
+        "units": "(2.0 units)",
+        "description": "Principles of pedagogy for teaching the liberal arts, focusing on issues and technologies for spatial thinking. Required for first-semester teaching assistants in spatial sciences.",
+        "sections": [
+            {
+                "section": "35793D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "4 of 10",
+                "instructor": "Robert Vos",
+                "location": "WPH204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctoral degree. Maximum units which may be applied to the degree to be determined by the department. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "35891D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 5",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Open only to doctoral students in Population, Health, and Place major. Graded: IP/CR/NC.",
+        "sections": [
+            {
+                "section": "35779D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Open only to doctoral students in Population, Health, and Place major. Graded: IP/CR/NC.",
+        "sections": [
+            {
+                "section": "35778D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 7",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Open only to doctoral students in Population, Health, and Place major. Graded: IP/CR/NC.",
+        "sections": [
+            {
+                "section": "35752D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 6",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Open only to doctoral students in Population, Health, and Place major. Graded: IP/CR/NC.",
+        "sections": [
+            {
+                "section": "35757D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 6",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Open only to doctoral students in Population, Health, and Place major. Graded: IP/CR/NC.",
+        "sections": [
+            {
+                "section": "35758D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Darren Ruddell",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

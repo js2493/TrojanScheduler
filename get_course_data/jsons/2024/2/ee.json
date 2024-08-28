@@ -1,0 +1,578 @@
+[
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "450",
+        "course_name": "Introduction to Computer Networks",
+        "units": "(4.0 units)",
+        "description": "Network architectures; layered protocols, network service interface; local, wide area, wireless networks; Internet protocols; link protocols; addressing; routing; flow control; software defined network; multimedia networks.",
+        "sections": [
+            {
+                "section": "30502R",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 995,
+                "days": 10,
+                "registered": "16 of 30",
+                "instructor": "Shahin Nazarian",
+                "location": "OHE100B"
+            },
+            {
+                "section": "30506D",
+                "session": "900",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 995,
+                "days": 10,
+                "registered": "10 of 15",
+                "instructor": "Shahin Nazarian",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30504R",
+                "session": "054",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "17 of 30",
+                "instructor": "",
+                "location": "OHE100B"
+            },
+            {
+                "section": "30508D",
+                "session": "900",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "9 of 15",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30470R",
+                "session": "054",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "17 of 30",
+                "instructor": "",
+                "location": "GFS207"
+            },
+            {
+                "section": "30473D",
+                "session": "900",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1200,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "30445D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Richard Leahy,Tony Levi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "494B",
+        "course_name": "Undergraduate Thesis",
+        "units": "(2.0 units)",
+        "description": "For the undergraduate degree. Credit on acceptance of thesis. IP (EE 494a) or letter grade (EE 494b).",
+        "sections": [
+            {
+                "section": "30446R",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Bhaskar Krishnamachari,Michelle Povinelli",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "503",
+        "course_name": "Probability for Electrical and Computer Engineers",
+        "units": "(4.0 units)",
+        "description": "Rigorous coverage of probability, discrete and continuous random variables, functions of multiple random variables, covariance, correlation, random sequences, Markov chains, estimation, and introduction to statistics. Duplicates credit in former EE 464 and EE 465.",
+        "sections": [
+            {
+                "section": "30401R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 2,
+                "registered": "11 of 30",
+                "instructor": "Brandon Franzke",
+                "location": "OHE120"
+            },
+            {
+                "section": "30403D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 970,
+                "days": 2,
+                "registered": "10 of 15",
+                "instructor": "Brandon Franzke",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30402R",
+                "session": "908",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "11 of 30",
+                "instructor": "",
+                "location": "OHE120"
+            },
+            {
+                "section": "30404D",
+                "session": "913",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "10 of 15",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "505",
+        "course_name": "Analog, Mixed-Signal, and RF Integrated-Circuit Tape-Out",
+        "units": "(4.0 units)",
+        "description": "Complete systematic tape-out flow including schematic design, simulation, layout and post-layout verification of analog, mixed-signal or radio-frequency integrated circuits.",
+        "sections": [
+            {
+                "section": "30468R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 845,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "Susan Schober",
+                "location": "OHE230"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "538",
+        "course_name": "Computing Principles for Electrical Engineers",
+        "units": "(2.0 units)",
+        "description": "Survey of computing principles and practice of software design: object-oriented and non object-oriented, testing, template libraries, time-space complexity, data structures, algorithms, and dynamic programming.",
+        "sections": [
+            {
+                "section": "30512D",
+                "session": "913",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1055,
+                "days": 32,
+                "registered": "5 of 20",
+                "instructor": "Arash Saifhashemi",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30514R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1055,
+                "days": 32,
+                "registered": "12 of 40",
+                "instructor": "Arash Saifhashemi",
+                "location": "OHE100C"
+            },
+            {
+                "section": "30513D",
+                "session": "913",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 8,
+                "registered": "5 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30515R",
+                "session": "908",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 8,
+                "registered": "12 of 40",
+                "instructor": "",
+                "location": "RTH115"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "559",
+        "course_name": "Machine Learning I: Supervised Methods",
+        "units": "(4.0 units)",
+        "description": "Distribution-free and probabilistic methods for supervised classification and regression; learning algorithms; optimization techniques; feature-space transformations; parametric and nonparametric methods; Bayes decision theory; artificial neural networks.",
+        "sections": [
+            {
+                "section": "30585R",
+                "session": "906",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 28,
+                "registered": "5 of 30",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "OHE120"
+            },
+            {
+                "section": "30589D",
+                "session": "911",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 28,
+                "registered": "2 of 20",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30587R",
+                "session": "906",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "5 of 30",
+                "instructor": "",
+                "location": "OHE120"
+            },
+            {
+                "section": "30590R",
+                "session": "911",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "2 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "560",
+        "course_name": "Digital System Design",
+        "units": "(4.0 units)",
+        "description": "Hardware System Design and implementation, FPGAs, HDL design, timing, FIFOs, Cache, CAMs, SSRAMs, OoO/multi-threaded CPU design, cache coherency, clock-domain crossing, bus protocols. Prerequisite: EE 457.",
+        "sections": [
+            {
+                "section": "30460D",
+                "session": "179",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1000,
+                "days": 20,
+                "registered": "42 of 42",
+                "instructor": "Mark Redekopp",
+                "location": "OHE100C"
+            },
+            {
+                "section": "30462D",
+                "session": "190",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1000,
+                "days": 20,
+                "registered": "7 of 10",
+                "instructor": "Mark Redekopp",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30461R",
+                "session": "179",
+                "type": "Lab",
+                "start_time": 810,
+                "end_time": 930,
+                "days": 32,
+                "registered": "5 of 30",
+                "instructor": "",
+                "location": "SSL202"
+            },
+            {
+                "section": "30463R",
+                "session": "179",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 8,
+                "registered": "38 of 45",
+                "instructor": "",
+                "location": "OHE100C"
+            },
+            {
+                "section": "30464D",
+                "session": "190",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 8,
+                "registered": "6 of 10",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30474D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 100",
+                "instructor": "Richard Leahy,Tony Levi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30451D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "For the Master's Degree. Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30452R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "For the Master's Degree. Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30779R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30454D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "39 of 100",
+                "instructor": "Richard Leahy,Tony Levi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30455D",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30456R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30457R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30477R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "EE",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30459R",
+                "session": "908",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

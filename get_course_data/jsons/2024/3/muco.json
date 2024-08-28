@@ -1,0 +1,1154 @@
+[
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "101",
+        "course_name": "Fundamentals of Music Theory",
+        "units": "(2.0 units)",
+        "description": "An introductory course in music theory required for those majors in need of remedial training, and available to the general student who wishes to develop music writing skills. Not available for credit to B.M. and B.A. music majors. Recommended preparation: ability to read music",
+        "sections": [
+            {
+                "section": "42703R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 10,
+                "registered": "4 of 25",
+                "instructor": "Mark Weiser",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "130A",
+        "course_name": "Basics of Music Theory",
+        "units": "(3.0 units)",
+        "description": "Introduction to music theory; scales, intervals, principles of common practice and popular music harmony; melodic, harmonic, and structural analysis; 20th-century developments. Not available for credit to BM majors.",
+        "sections": [
+            {
+                "section": "42710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Mark Weiser",
+                "location": "MUS303"
+            },
+            {
+                "section": "42711R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "Eric N. Pham",
+                "location": "MUS303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "131A",
+        "course_name": "Harmony in Popular Music",
+        "units": "(2.0 units)",
+        "description": "Study of harmony used in the popular music idiom, as well as diminished chord patterns, modulation techniques, basic modal theory, and principles of melodic construction. Prerequisite: MUCO 133b.",
+        "sections": [
+            {
+                "section": "42716D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "16 of 16 (1 on waitlist)",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            },
+            {
+                "section": "42717D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "15 of 16",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "132A",
+        "course_name": "Aural Skills I",
+        "units": "(2.0 units)",
+        "description": "Sight-singing, dictation, related keyboard application.",
+        "sections": [
+            {
+                "section": "42722D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 20",
+                "instructor": "Ryan McWilliams",
+                "location": "TMCG156"
+            },
+            {
+                "section": "42723D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Ryan McWilliams",
+                "location": "TMCG156"
+            },
+            {
+                "section": "42724D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "10 of 10",
+                "instructor": "Ryan McWilliams",
+                "location": "TMCG156"
+            },
+            {
+                "section": "42725D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "22 of 26",
+                "instructor": "Juan-Pablo Contreras",
+                "location": "MUS303"
+            },
+            {
+                "section": "42726D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "9 of 13",
+                "instructor": "Juan-Pablo Contreras",
+                "location": "MUS303"
+            },
+            {
+                "section": "42727D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "13 of 13",
+                "instructor": "Juan-Pablo Contreras",
+                "location": "MUS303"
+            },
+            {
+                "section": "42728D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "18 of 20",
+                "instructor": "Eric N. Pham",
+                "location": "BMH200"
+            },
+            {
+                "section": "42729D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Eric N. Pham",
+                "location": "BMH200"
+            },
+            {
+                "section": "42730D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Eric N. Pham",
+                "location": "BMH200"
+            },
+            {
+                "section": "42731D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "19 of 22",
+                "instructor": "Duncan Tuomi",
+                "location": "MUS204"
+            },
+            {
+                "section": "42732D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "8 of 11",
+                "instructor": "Duncan Tuomi",
+                "location": "MUS204"
+            },
+            {
+                "section": "42733D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "11 of 11",
+                "instructor": "Duncan Tuomi",
+                "location": "MUS204"
+            },
+            {
+                "section": "42734D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 10,
+                "registered": "22 of 26",
+                "instructor": "Guang Yang",
+                "location": "TMCG128"
+            },
+            {
+                "section": "42735D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "9 of 13",
+                "instructor": "Guang Yang",
+                "location": "TMCG128"
+            },
+            {
+                "section": "42736D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "13 of 13",
+                "instructor": "Guang Yang",
+                "location": "TMCG128"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "133A",
+        "course_name": "Theory I",
+        "units": "(3.0 units)",
+        "description": "a: Notation, scales, intervals; introduction to counterpoint; harmonic principles of the common practice period; analysis, written work. b: Continuation of 133a; elements of form; application of analysis to performance. Concurrent registration in Aural Skills required.",
+        "sections": [
+            {
+                "section": "42768D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "19 of 20",
+                "instructor": "Ryan McWilliams",
+                "location": "TMCG156"
+            },
+            {
+                "section": "42769D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "22 of 26",
+                "instructor": "Chris Roze",
+                "location": "MUS303"
+            },
+            {
+                "section": "42770D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "18 of 20",
+                "instructor": "Eric N. Pham",
+                "location": "BMH200"
+            },
+            {
+                "section": "42771D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "23 of 26",
+                "instructor": "Duncan Tuomi",
+                "location": "MUS204"
+            },
+            {
+                "section": "42772D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "22 of 26",
+                "instructor": "Guang Yang",
+                "location": "TMCG128"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "137A",
+        "course_name": "Composition I",
+        "units": "(4.0 units)",
+        "description": "Beginning exercises in composing, initial composition projects, study, lectures and class discussions of selected compositions from the repertory.",
+        "sections": [
+            {
+                "section": "42789D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "4 of 12",
+                "instructor": "Veronika Krausas",
+                "location": "MUS319"
+            },
+            {
+                "section": "42790D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 32,
+                "registered": "4 of 12",
+                "instructor": "Veronika Krausas",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "140",
+        "course_name": "Music for Dancers",
+        "units": "(2.0 units)",
+        "description": "Practical understanding and perception of music coupled with the ability to follow a score and understand the work in relation to dance.",
+        "sections": [
+            {
+                "section": "42795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "28 of 30",
+                "instructor": "Kyle de Tarnowsky",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "221A",
+        "course_name": "Composition for Non-Majors",
+        "units": "(2.0 units)",
+        "description": "Introduction to the composition of concert music. Includes set exercises, free composition, study of selected compositions. Intended for interested, qualified students not majoring in composition. Not available for degree credit to composition majors. Recommended preparation: MUCO 130bx or MUCO 133b",
+        "sections": [
+            {
+                "section": "42805D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "6 of 16",
+                "instructor": "Nicolas Benavides",
+                "location": "MUS303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "232A",
+        "course_name": "Aural Skills II",
+        "units": "(2.0 units)",
+        "description": "Continuation of 132ab.",
+        "sections": [
+            {
+                "section": "42809D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 22 (1 on waitlist)",
+                "instructor": "Guang Yang",
+                "location": "MUS303"
+            },
+            {
+                "section": "42810D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "10 of 11 (1 on waitlist)",
+                "instructor": "Guang Yang",
+                "location": "MUS303"
+            },
+            {
+                "section": "42811D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "9 of 11",
+                "instructor": "Guang Yang",
+                "location": "MUS303"
+            },
+            {
+                "section": "42812D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 22",
+                "instructor": "Ryan McWilliams",
+                "location": "MUS204"
+            },
+            {
+                "section": "42813D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "9 of 11",
+                "instructor": "Ryan McWilliams",
+                "location": "MUS204"
+            },
+            {
+                "section": "42814D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "10 of 11",
+                "instructor": "Ryan McWilliams",
+                "location": "MUS204"
+            },
+            {
+                "section": "42815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 10,
+                "registered": "14 of 16",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            },
+            {
+                "section": "42816D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "7 of 8",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            },
+            {
+                "section": "42817D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "7 of 8",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            },
+            {
+                "section": "42818D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "16 of 16 (3 on waitlist)",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            },
+            {
+                "section": "42819D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "8 of 8 (1 on waitlist)",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            },
+            {
+                "section": "42820D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "8 of 8 (9 on waitlist)",
+                "instructor": "Dan Caputo",
+                "location": "TMCG150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "233A",
+        "course_name": "Theory II",
+        "units": "(3.0 units)",
+        "description": "a: Analysis of representative pieces from the classic and romantic periods; exercises in composition. b: Survey of 20th century developments; composition utilizing 20th century techniques.",
+        "sections": [
+            {
+                "section": "42854D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "18 of 21",
+                "instructor": "Chris Roze",
+                "location": "MUS303"
+            },
+            {
+                "section": "42856D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 20 (5 on waitlist)",
+                "instructor": "Veronika Krausas",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "237A",
+        "course_name": "Composition II",
+        "units": "(4.0 units)",
+        "description": "Composition in shorter forms, continuation of score analysis and listening assignments.",
+        "sections": [
+            {
+                "section": "42880D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "8 of 12",
+                "instructor": "Ted Hearne",
+                "location": "MUS319"
+            },
+            {
+                "section": "42881D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 32,
+                "registered": "8 of 12",
+                "instructor": "Ted Hearne",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "300",
+        "course_name": "Theory Review",
+        "units": "(1.0 unit)",
+        "description": "Review of materials covered in Theory I and II. For students whose entrance examination in music theory indicates the need for further study.",
+        "sections": [
+            {
+                "section": "42910D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "4 of 20",
+                "instructor": "Neal Desby",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "321",
+        "course_name": "Composition for Non-Majors II",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Individual instruction in composition for non-composition majors. Continuation of MUCO 221abx. Not open to B.M. in Composition majors.",
+        "sections": [
+            {
+                "section": "42916D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Mark Weiser",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "333",
+        "course_name": "Aural Skills Review",
+        "units": "(1.0 unit)",
+        "description": "Review of the materials covered in Aural Skills I, II, III. For students whose entrance examination in aural skills indicates the need for further study.",
+        "sections": [
+            {
+                "section": "42920D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "5 of 20",
+                "instructor": "Neal Desby",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "336A",
+        "course_name": "Orchestration II",
+        "units": "(2.0 units)",
+        "description": "Intermediate exercises in orchestration, including scoring for chamber ensembles and orchestra; study of the history of orchestration.",
+        "sections": [
+            {
+                "section": "42930D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "Juan-Pablo Contreras",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "337A",
+        "course_name": "Composition III",
+        "units": "(2.0 units)",
+        "description": "Individual instruction in composition; preparation for the senior recital.",
+        "sections": [
+            {
+                "section": "42940D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 8",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "42941D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 32,
+                "registered": "6 of 8",
+                "instructor": "Donald Crockett",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "339",
+        "course_name": "Orchestration Review",
+        "units": "(1.0 unit)",
+        "description": "Review of materials covered in elementary orchestration; for students whose entrance examination in orchestration indicates a need for further study.",
+        "sections": [
+            {
+                "section": "42955D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "3 of 12",
+                "instructor": "Juan-Pablo Contreras",
+                "location": "MUS319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "437A",
+        "course_name": "Composition IV",
+        "units": "(2.0 units)",
+        "description": "Individual instruction in composition; preparation for the senior recital.",
+        "sections": [
+            {
+                "section": "43015D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            },
+            {
+                "section": "43016D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 32,
+                "registered": "5 of 15",
+                "instructor": "Donald Crockett",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not avaliable for graduate credit.",
+        "sections": [
+            {
+                "section": "43055D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "501",
+        "course_name": "Introduction to the Analysis of Tonal Music",
+        "units": "(2.0 units)",
+        "description": "Survey of common practice period (1650-1900) approaches to phrase design, tonal organization and type-forms (binary, ternary, rondo, sonata.)",
+        "sections": [
+            {
+                "section": "43065D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "6 of 20",
+                "instructor": "Mark Weiser",
+                "location": "MUS303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "502",
+        "course_name": "Introduction to the Analysis of Post-Tonal Music",
+        "units": "(2.0 units)",
+        "description": "Introductory survey of 20th/21st century approaches to the organization of pitch (serial, modal, extended tonal, etc.), rhythm, texture and form.",
+        "sections": [
+            {
+                "section": "43070D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "14 of 20",
+                "instructor": "Mark Weiser",
+                "location": "MUS303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "521",
+        "course_name": "Composition for Non-Majors III",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Individual instruction in composition. Not open to graduate students in composition. Prerequisite: submission of portfolio of musical compositions.",
+        "sections": [
+            {
+                "section": "43079D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Mark Weiser",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "531",
+        "course_name": "Advanced Analysis of Tonal Music: Reduction",
+        "units": "(2.0 units)",
+        "description": "Consideration of recent developments in music theory and their application to the analysis of tonal music, focusing on techniques of musical reduction.",
+        "sections": [
+            {
+                "section": "43091D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Chris Roze",
+                "location": "MUS319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "535",
+        "course_name": "Advanced Analysis of Post-Tonal Music: Beyond Pitch",
+        "units": "(2.0 units)",
+        "description": "Compositional departures from conventional notions of pitch and harmony; application and critiques of non-pitch-based analytical techniques for post-tonal music.",
+        "sections": [
+            {
+                "section": "43103D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "3 of 12",
+                "instructor": "Brian Head",
+                "location": "MUS319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "537",
+        "course_name": "Advanced Composition I",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "For graduates with evidence of preparation for advanced work.",
+        "sections": [
+            {
+                "section": "43109D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "550",
+        "course_name": "Teaching Music Theory",
+        "units": "(2.0 units)",
+        "description": "Comparative study of curricula, text materials, and teaching strategies in music theory.",
+        "sections": [
+            {
+                "section": "43126D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "4 of 12",
+                "instructor": "Brian Head",
+                "location": "MUS319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43138D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "592",
+        "course_name": "Selected Topics in Graduate Composition",
+        "units": "(2.0 units, max 8)",
+        "description": "Seminar for graduate students in composition that addresses aesthetic, technical and analytical issues from a composer's perspective. Open only to theory and composition majors.",
+        "sections": [
+            {
+                "section": "43142D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "7 of 12",
+                "instructor": "Camae Dennis",
+                "location": "MUS319"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "637",
+        "course_name": "Advanced Composition II",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Continuation of MUCO 537. For students holding the M.M. degree in composition.",
+        "sections": [
+            {
+                "section": "43170D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "737",
+        "course_name": "Advanced Composition III",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Continuation of MUCO 637.",
+        "sections": [
+            {
+                "section": "43175D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43185D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43190D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43192D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43194D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43196D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUCO",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "43198D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Donald Crockett",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

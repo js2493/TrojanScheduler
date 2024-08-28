@@ -1,0 +1,2076 @@
+[
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "105",
+        "course_name": "Introduction to Industrial and Systems Engineering",
+        "units": "(2.0 units)",
+        "description": "A combination of plant tours, laboratory experiences, and lecture are used to introduce the philosophy, subject matter, aims, goals, and techniques of industrial and systems engineering.",
+        "sections": [
+            {
+                "section": "31600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "38 of 40",
+                "instructor": "Shinyi Wu",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "150",
+        "course_name": "Solving Engineering Problems using Python",
+        "units": "(4.0 units)",
+        "description": "Engineering examples are used as a platform to introduce computer programming skills for problem solving; critical thinking skills.",
+        "sections": [
+            {
+                "section": "31550D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "8 of 25",
+                "instructor": "Ragheb Raad",
+                "location": "GFS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "220",
+        "course_name": "Foundations of Probability Modeling",
+        "units": "(4.0 units)",
+        "description": "Techniques for modeling uncertainty: discrete and continuous random variables, probability distributions, expectations and conditional probability; Poisson processes, Markov chains and queuing decision models.",
+        "sections": [
+            {
+                "section": "31518D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "21 of 32",
+                "instructor": "Kristin Sahyouni",
+                "location": "THH110"
+            },
+            {
+                "section": "31638D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "22 of 35",
+                "instructor": "Camilo Hernandez",
+                "location": "ZHS163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "225",
+        "course_name": "Foundations of Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Sampling distributions; confidence intervals and hypothesis testing; analysis of variance; regression; data aggregation; prediction and classification.",
+        "sections": [
+            {
+                "section": "31526D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "18 of 35",
+                "instructor": "Kurt Palmer",
+                "location": "DMC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "232",
+        "course_name": "Manufacturing Processes",
+        "units": "(4.0 units)",
+        "description": "Manufacturing engineering and technology, and the interrelationship between manufacturing processes, product design and material properties.",
+        "sections": [
+            {
+                "section": "31603D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "20 of 35",
+                "instructor": "Yong Chen",
+                "location": "DMC157"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "315",
+        "course_name": "Engineering Project Management",
+        "units": "(4.0 units)",
+        "description": "Managing a project intended to create an engineered system. Methods, processes, tools. Lessons-learned from actual practice. Case studies from real projects. Presentations by student teams.",
+        "sections": [
+            {
+                "section": "31516D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 41",
+                "instructor": "Yalda Khashe",
+                "location": "VHE217"
+            },
+            {
+                "section": "31683D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "20 of 22",
+                "instructor": "Yalda Khashe",
+                "location": "GER206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "330",
+        "course_name": "Optimization",
+        "units": "(4.0 units)",
+        "description": "Modeling, solution analysis and applications of complex decision problems using linear, dynamic and integer optimization.",
+        "sections": [
+            {
+                "section": "31605D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "32 of 35",
+                "instructor": "Niloufar Izadinia",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "349",
+        "course_name": "Enterprise Data Analytics",
+        "units": "(4.0 units)",
+        "description": "Methodology to store, organize, cleanse, harmonize and stage enterprise data for analytics. Report, visualize, slice and dice, forecast and predict trends.",
+        "sections": [
+            {
+                "section": "31905R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "96 of 120",
+                "instructor": "Mike Lee",
+                "location": "SGM101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "370",
+        "course_name": "Human Factors in Work and Systems Design",
+        "units": "(4.0 units)",
+        "description": "Role of humans in technological systems; human-systems integration; ergonomics; anthropometry and workstation design; work methods and measurement; human error, safety and accident analysis.",
+        "sections": [
+            {
+                "section": "31607D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "41 of 55",
+                "instructor": "Najmedin Meshkati",
+                "location": "GFS118"
+            },
+            {
+                "section": "31637R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "35 of 35",
+                "instructor": "Najmedin Meshkati",
+                "location": "SAL127"
+            },
+            {
+                "section": "31647R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1110,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "6 of 20",
+                "instructor": "Najmedin Meshkati",
+                "location": "SAL127"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "382",
+        "course_name": "Database Systems: Storage and Retrieval using SQL",
+        "units": "(4.0 units)",
+        "description": "Data models for industry applications. Modeling and designing robust databases. Implementing and querying databases with SQL. Innovations in database applications.",
+        "sections": [
+            {
+                "section": "31628D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 36",
+                "instructor": "Nitin Kale",
+                "location": "KAP145"
+            },
+            {
+                "section": "31629R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 40",
+                "instructor": "Nitin Kale",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "435",
+        "course_name": "Discrete Systems Simulation",
+        "units": "(4.0 units)",
+        "description": "Modeling of complex discrete event systems, input and output analysis, system evaluation via experimentation on the simulation model, applications to industrial and systems engineering problems.",
+        "sections": [
+            {
+                "section": "31613D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "26 of 36",
+                "instructor": "Kurt Palmer",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "31626R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "26 of 36",
+                "instructor": "Kurt Palmer",
+                "location": "SAL127"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "445",
+        "course_name": "Principles and Practices of Global Innovation",
+        "units": "(4.0 units)",
+        "description": "Basic principles that govern the dynamic socio-technical interactions of open technology innovations on competitive global markets, emphasizing real-world practices to uncover blue-ocean innovation opportunities.",
+        "sections": [
+            {
+                "section": "31521D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "19 of 40",
+                "instructor": "Chu-Yi Wang",
+                "location": "RTH217"
+            },
+            {
+                "section": "31721D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "Chu-Yi Wang",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "31617D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "495A",
+        "course_name": "Senior Design Project",
+        "units": "(2.0 units)",
+        "description": "Investigate client organization operations, evaluate alternative designs to meet client needs, complete preliminary design review.",
+        "sections": [
+            {
+                "section": "31636D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "27 of 50",
+                "instructor": "Paul Lu,Theodore Mayeshiba,Melissa Price",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "495B",
+        "course_name": "Senior Design Project",
+        "units": "(2.0 units)",
+        "description": "Develop the detailed design including countermeasures for risks, complete critical design review, implement the project plan, close-out the project.",
+        "sections": [
+            {
+                "section": "31619D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "9 of 30",
+                "instructor": "Paul Lu",
+                "location": "KAP158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "500",
+        "course_name": "Statistics for Engineering Managers",
+        "units": "(4.0 units)",
+        "description": "Framing engineering management situations with statistical methods. Experiments, distributions, regression, ANOVA, hypothesis, introduction to Bayesian analysis.",
+        "sections": [
+            {
+                "section": "31500D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "34 of 50",
+                "instructor": "Niloufar Izadinia",
+                "location": "RTH105"
+            },
+            {
+                "section": "31511D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "18 of 25",
+                "instructor": "Niloufar Izadinia",
+                "location": "GER206"
+            },
+            {
+                "section": "31700D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Niloufar Izadinia",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "502",
+        "course_name": "Construction Accounting, Finance and Strategy",
+        "units": "(4.0 units)",
+        "description": "Fundamental accounting principles, financial analysis and financial control, strategic management and a review of alternative project delivery methods.",
+        "sections": [
+            {
+                "section": "29724R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "20 of 35",
+                "instructor": "Ed Reynolds",
+                "location": "RTH115"
+            },
+            {
+                "section": "29725D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "10 of 20",
+                "instructor": "Ed Reynolds",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "508",
+        "course_name": "Health Care Operations Improvement",
+        "units": "(4.0 units)",
+        "description": "Strategies to improve hospital operations, including supply chains, staffing, informatics, data analytics and patient flow.",
+        "sections": [
+            {
+                "section": "31508D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "12 of 30",
+                "instructor": "David Belson,Irwin Umali",
+                "location": "OHE100B"
+            },
+            {
+                "section": "31708D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "1 of 10",
+                "instructor": "David Belson,Irwin Umali",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "514",
+        "course_name": "Advanced Production Planning and Scheduling",
+        "units": "(4.0 units)",
+        "description": "Dependencies among long, intermediate and short-range planning and scheduling of production systems considering objectives, technological constraints and solution algorithms.",
+        "sections": [
+            {
+                "section": "31514D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "16 of 40",
+                "instructor": "Shalini Gupta",
+                "location": "RTH115"
+            },
+            {
+                "section": "31714D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "6 of 20",
+                "instructor": "Shalini Gupta",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "515",
+        "course_name": "Engineering Project Management",
+        "units": "(4.0 units)",
+        "description": "Methods, processes and tools for managing projects to create engineered systems. Project management; engineering economics; risk management. Industry-drawn large-scale engineering case studies. Team project presentations.",
+        "sections": [
+            {
+                "section": "31505D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "28 of 40",
+                "instructor": "Herag Haleblian",
+                "location": "KAP158"
+            },
+            {
+                "section": "31515D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "19 of 20",
+                "instructor": "Ali Nowroozi",
+                "location": "OHE136"
+            },
+            {
+                "section": "31517D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "16 of 40",
+                "instructor": "Paul Lu",
+                "location": "RTH217"
+            },
+            {
+                "section": "31715D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "39 of 40",
+                "instructor": "Ali Nowroozi",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "527",
+        "course_name": "Quality Management for Engineers",
+        "units": "(4.0 units)",
+        "description": "Principles of quality management, quality philosophies and frameworks, role of leadership and strategic planning to improve quality, process management, measurements to improve quality and performance.",
+        "sections": [
+            {
+                "section": "31537D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "16 of 45",
+                "instructor": "Thomas Booth",
+                "location": "OHE100C"
+            },
+            {
+                "section": "31737D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Thomas Booth",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "529",
+        "course_name": "Predictive Analytics",
+        "units": "(4.0 units)",
+        "description": "Supervised learning. Linear regression, cross validation, ridge and lasso regression, logistic regression, k-nearest-neighbors, decision trees, random forest and gradient-boosting models, support vector machines, neural networks.",
+        "sections": [
+            {
+                "section": "31529D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "45 of 45",
+                "instructor": "Maryam Pishgar",
+                "location": "OHE122"
+            },
+            {
+                "section": "31546D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "26 of 60",
+                "instructor": "Tao Ma",
+                "location": "ZHS163"
+            },
+            {
+                "section": "31726D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 20,
+                "registered": "31 of 90",
+                "instructor": "Tao Ma",
+                "location": "SOSB2"
+            },
+            {
+                "section": "31729D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "35 of 40",
+                "instructor": "Maryam Pishgar",
+                "location": "VHE217"
+            },
+            {
+                "section": "31731D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "6 of 20",
+                "instructor": "Maryam Pishgar",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "530",
+        "course_name": "Optimization Methods for Analytics",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of Linear Programming, Integer Programming, quadratic and nonlinear programming for analytics and data science problems.",
+        "sections": [
+            {
+                "section": "31528D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Andres Gomez Escobar",
+                "location": "GFS101"
+            },
+            {
+                "section": "31530D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "29 of 30",
+                "instructor": "Giacomo Nannicini",
+                "location": "OHE120"
+            },
+            {
+                "section": "31531D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "18 of 50",
+                "instructor": "George Papavassilopoulos",
+                "location": "ZHS252"
+            },
+            {
+                "section": "31547D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Andres Gomez Escobar",
+                "location": "SOSB4"
+            },
+            {
+                "section": "31730D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Giacomo Nannicini",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "534",
+        "course_name": "Data Analytics Consulting",
+        "units": "(4.0 units)",
+        "description": "Consulting project concepts, frameworks, analytical tools and managerial skills with a focus on the use of data analytics, design thinking and insight-driven frameworks.",
+        "sections": [
+            {
+                "section": "31746D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "48 of 60",
+                "instructor": "Saeed Mohasseb",
+                "location": "GFS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "535",
+        "course_name": "Data Mining",
+        "units": "(4.0 units)",
+        "description": "Data preprocessing, data cleaning, data summarization, dimension reduction, data visualization, anomaly detection, classification and clustering. Modeling dependencies using association rules.",
+        "sections": [
+            {
+                "section": "31543D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1160,
+                "days": 10,
+                "registered": "73 of 120",
+                "instructor": "Maryam Pishgar",
+                "location": "ZHS159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "536",
+        "course_name": "Linear Programming and Extensions",
+        "units": "(4.0 units)",
+        "description": "Linear programming models for resource allocation; simplex and revised simplex methods; duality; sensitivity; transportation problems; selected extensions to large scale, multiobjective and special structured models.",
+        "sections": [
+            {
+                "section": "31536D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "16 of 25",
+                "instructor": "Stephen Stoyan",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "537",
+        "course_name": "Financial Analytics",
+        "units": "(4.0 units)",
+        "description": "Modern portfolio theory and optimal decision-making problems in finance. Market microstructure and high-frequency trading. Machine learning models for quantitative finance.",
+        "sections": [
+            {
+                "section": "31598D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "29 of 30",
+                "instructor": "George Papavassilopoulos",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "538",
+        "course_name": "Markov Models for Performance Analysis",
+        "units": "(4.0 units)",
+        "description": "Stochastic processes: conditional expectation, Poisson process, discrete time Markov chains, continuous time Markov chains with queueing applications, non-Markovian queues and reliability.",
+        "sections": [
+            {
+                "section": "31538D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "23 of 35",
+                "instructor": "Sheldon Ross",
+                "location": "RTH109"
+            },
+            {
+                "section": "31738D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "1 of 10",
+                "instructor": "Sheldon Ross",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "540",
+        "course_name": "Text Analytics",
+        "units": "(4.0 units)",
+        "description": "Methods and algorithms for automated text analysis; machine learning; predictive web data analytics; information retrieval; social media data; natural language documents and graphs.",
+        "sections": [
+            {
+                "section": "31720D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "35 of 38",
+                "instructor": "Maryam Pishgar",
+                "location": "THH119"
+            },
+            {
+                "section": "31799D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "11 of 50",
+                "instructor": "Mayank Kejriwal",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "543",
+        "course_name": "Enterprise Business Intelligence and Systems Analytics",
+        "units": "(4.0 units)",
+        "description": "Overview of data management and analytical techniques used in corporate environments and their practical implementation using state-of-the-art Business Intelligence software.",
+        "sections": [
+            {
+                "section": "31743D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "27 of 35",
+                "instructor": "Bruce Wilcox",
+                "location": "VPDLL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "544",
+        "course_name": "Leading and Managing Engineering Teams",
+        "units": "(4.0 units)",
+        "description": "Design and management of engineering teams. Group decision-making, motivation, leadership, infrastructure requirements, performance measurement, team diversity, conflict and integration.",
+        "sections": [
+            {
+                "section": "31504D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "34 of 50",
+                "instructor": "Alex Azmi",
+                "location": "RTH109"
+            },
+            {
+                "section": "31544D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "12 of 40",
+                "instructor": "Ali Nowroozi",
+                "location": "KAP163"
+            },
+            {
+                "section": "31704D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "20 of 21",
+                "instructor": "Alex Azmi",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "545",
+        "course_name": "Technology Development and Implementation",
+        "units": "(3.0 units)",
+        "description": "Principles and practices of technology development and implementation, with application to products and systems in manufacturing and services.",
+        "sections": [
+            {
+                "section": "31545D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "15 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31745D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "5 of 10",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "558",
+        "course_name": "Data Management for Analytics",
+        "units": "(4.0 units)",
+        "description": "Introduction to technologies and disciplines used to collect, integrate, clean and otherwise prepare data into a well-structured, controlled, documented and understood analytic-ready dataset.",
+        "sections": [
+            {
+                "section": "31558D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "112 of 120",
+                "instructor": "Bruce Wilcox",
+                "location": "THH201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "560",
+        "course_name": "Analysis of Algorithms",
+        "units": "(4.0 units)",
+        "description": "Explores fundamental techniques such as recursion, Fourier transform ordering, dynamic programming for efficient algorithm construction. Examples include arithmetic, algebraic, graph, pattern matching, sorting, searching algorithms.",
+        "sections": [
+            {
+                "section": "30101D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "291 of 330",
+                "instructor": "Victor Adamchik",
+                "location": "SGM123"
+            },
+            {
+                "section": "29928R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "291 of 330",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "29923R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "291 of 330",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30102D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "142 of 330",
+                "instructor": "Victor Adamchik",
+                "location": "SGM123"
+            },
+            {
+                "section": "30342R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "142 of 330",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "30379R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "142 of 330",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30099D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "32 of 50",
+                "instructor": "Victor Adamchik",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30253R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "32 of 50",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30152R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "32 of 50",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30290D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "8 of 30",
+                "instructor": "Mate Szabo",
+                "location": "GFS222"
+            },
+            {
+                "section": "30291R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "DMC201"
+            },
+            {
+                "section": "30292R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "561",
+        "course_name": "Economic Analysis of Engineering Projects",
+        "units": "(4.0 units)",
+        "description": "Economic evaluations of engineering systems for both government and private industry; quantitative techniques for evaluating non-monetary consequences; formal treatment of risk and uncertainty.",
+        "sections": [
+            {
+                "section": "31561D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "38 of 39",
+                "instructor": "Shalini Gupta",
+                "location": "RTH109"
+            },
+            {
+                "section": "31761D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "10 of 15",
+                "instructor": "Shalini Gupta",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "562",
+        "course_name": "Decision Analysis",
+        "units": "(4.0 units)",
+        "description": "Decisions under uncertainty; utility theory; multiattribute utility; probability elicitation; conjugate distributions; decision analysis applications, framing, modeling using spreadsheets or software; cognitive biases, behavioral decision theory.",
+        "sections": [
+            {
+                "section": "31562D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "13 of 50",
+                "instructor": "Jeffrey Smith",
+                "location": "OHE136"
+            },
+            {
+                "section": "31728D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Jeffrey Smith",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31762D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "27 of 30",
+                "instructor": "Ali Abbas",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "563",
+        "course_name": "Financial Engineering",
+        "units": "(4.0 units)",
+        "description": "Concepts underlying the economic analysis of engineering projects; applications to call and put options; utility theory and mathematical optimizations models; simulation.",
+        "sections": [
+            {
+                "section": "31563D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "6 of 45",
+                "instructor": "Gordon Delianedis",
+                "location": "OHE100C"
+            },
+            {
+                "section": "31763D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "1 of 20",
+                "instructor": "Gordon Delianedis",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "564",
+        "course_name": "Organizational Performance Analysis",
+        "units": "(4.0 units)",
+        "description": "Analytical methods in an organizational context. Improving organizational performance. Tools for diagnosing, measuring, analyzing, improving and managing performance.",
+        "sections": [
+            {
+                "section": "31564D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "9 of 35",
+                "instructor": "Olivia Evanson",
+                "location": "RTH217"
+            },
+            {
+                "section": "31764D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "3 of 10",
+                "instructor": "Olivia Evanson",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "568",
+        "course_name": "Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for building intelligent and adaptive systems that improve performance from experiences; Focus on theoretical understanding of these methods and their computational implications. Recommended preparation: Undergraduate level training or coursework in linear algebra, multivariate calculus, basic probability and statistics; an undergraduate level course in Artificial Intelligence may be helpful but is not required.",
+        "sections": [
+            {
+                "section": "29995R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 32,
+                "registered": "129 of 170",
+                "instructor": "Dani Yogatama",
+                "location": "SGM124"
+            },
+            {
+                "section": "30151R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "129 of 170",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "29984R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "129 of 170",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30259D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 32,
+                "registered": "7 of 30",
+                "instructor": "Dani Yogatama",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30272R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "7 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29985R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "570",
+        "course_name": "Human Factors in Engineering",
+        "units": "(4.0 units)",
+        "description": "Psychological systems and physiological characteristics of humans; how they impact engineering design of technological systems and human-computer interactions.",
+        "sections": [
+            {
+                "section": "31570D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "10 of 25",
+                "instructor": "Yalda Khashe",
+                "location": "GFS108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "576",
+        "course_name": "Industrial Ecology",
+        "units": "(4.0 units)",
+        "description": "Concepts and methods to analyze the environmental impacts of industrial systems, including lifecycle assessment, material flow analysis, design for environment and sustainable consumption.",
+        "sections": [
+            {
+                "section": "31576D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "11 of 30",
+                "instructor": "Robert Vos",
+                "location": "OHE120"
+            },
+            {
+                "section": "31776D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "2 of 20",
+                "instructor": "Robert Vos",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "580",
+        "course_name": "Performance Analysis with Simulation",
+        "units": "(4.0 units)",
+        "description": "Introduction to modeling and analysis of stochastic systems, with an emphasis on discrete-event simulation of non-Markovian systems.",
+        "sections": [
+            {
+                "section": "31532D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "19 of 32",
+                "instructor": "Hamid Chabok",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "31732D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "21 of 36",
+                "instructor": "Hamid Chabok",
+                "location": "KAP145"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "583",
+        "course_name": "Enterprise Wide Information Systems",
+        "units": "(4.0 units)",
+        "description": "The role enterprise resource planning systems (ERPs) play in organization; integrating and coordinating the many business processes such as demand planning, procurement, production and sales.",
+        "sections": [
+            {
+                "section": "31583D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "25 of 50",
+                "instructor": "Richard Vawter",
+                "location": "OHE100D"
+            },
+            {
+                "section": "31588D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "0 of 2",
+                "instructor": "Mike Lee",
+                "location": "DRB146"
+            },
+            {
+                "section": "31783D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "2 of 10",
+                "instructor": "Richard Vawter",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31788D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "36 of 70",
+                "instructor": "Mike Lee",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "585",
+        "course_name": "Strategic Management of Technology and Innovation",
+        "units": "(4.0 units)",
+        "description": "Examine principles, strategies, practices and case studies where new technology and innovation are transforming the traditional business paradigms to identify best practices in real-world implementation.",
+        "sections": [
+            {
+                "section": "31585D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "38 of 40",
+                "instructor": "Paul Lu",
+                "location": "RTH217"
+            },
+            {
+                "section": "31786D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "6 of 20",
+                "instructor": "Paul Lu",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "587",
+        "course_name": "Risk Analysis",
+        "units": "(4.0 units)",
+        "description": "Concepts of risk analysis, risk in engineered systems, environmental risk, security risks; fault trees, event trees, risk simulations; risks and decision-making.",
+        "sections": [
+            {
+                "section": "51282R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "26 of 30",
+                "instructor": "Ali Nowroozi",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree; maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "31575D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Chu-Yi Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31590D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Randolph Hall",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31591D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Kurt Palmer",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31594D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Paul Lu",
+                "location": "TBA"
+            },
+            {
+                "section": "31596D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Bruce Wilcox",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31775D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "Shalini Gupta",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "31592D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Course content will be selected each semester to reflect current trends and developments in the field of industrial and systems engineering.",
+        "sections": [
+            {
+                "section": "31599D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "10 of 20",
+                "instructor": "Victoria Stodden",
+                "location": "GER206"
+            },
+            {
+                "section": "31688D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "5 of 30",
+                "instructor": "Ragheb Raad",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "612",
+        "course_name": "Quantum Optimization Algorithms",
+        "units": "(4.0 units)",
+        "description": "Introduction to quantum computing; analysis of quantum algorithms; matrix manipulation, gradient computation and optimization.",
+        "sections": [
+            {
+                "section": "31787D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 20",
+                "instructor": "Giacomo Nannicini",
+                "location": "GER206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "620",
+        "course_name": "Foundations of Stochastic Processes",
+        "units": "(4.0 units)",
+        "description": "Stochastic processes, conditional expectation, Poisson processes, renewal processes, regenerative processes, and discrete and continuous time Markov chains.",
+        "sections": [
+            {
+                "section": "31621D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 35",
+                "instructor": "Sheldon Ross",
+                "location": "WPH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "631",
+        "course_name": "Linear Programming",
+        "units": "(4.0 units)",
+        "description": "Understanding optimization problems with constraints and extensions to the treatment of problems involving nonlinearity, uncertainty, discrete variables, logical constraints, multi-agent non-cooperative games and hierarchical problems.",
+        "sections": [
+            {
+                "section": "31770D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "15 of 40",
+                "instructor": "Jong-Shi Pang",
+                "location": "WPH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "637",
+        "course_name": "Equilibrium Programming",
+        "units": "(4.0 units)",
+        "description": "Modeling, analysis and computation of equilibria arising from problems in diverse engineering and economic domains. Builds on contemporary optimization and variational methods.",
+        "sections": [
+            {
+                "section": "31748D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "6 of 35",
+                "instructor": "Jong-Shi Pang",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "651",
+        "course_name": "Seminar in Industrial & Systems Engineering",
+        "units": "(1.0 units, max 4)",
+        "description": "Current research, guest speakers in the field; review papers; guidance in preparing research proposals and special projects. Duplicates credit in the former ISE-650abc. Open only to Fifth Year Seniors and Master\u00e2\u20ac\u2122s Students.",
+        "sections": [
+            {
+                "section": "31694D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "27 of 98",
+                "instructor": "Qiang Huang",
+                "location": "SOSB2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "670",
+        "course_name": "Advanced Analysis of Algorithms",
+        "units": "(4.0 units)",
+        "description": "Fundamental techniques for design and analysis of algorithms. Dynamic programming; network flows; theory of NP-completeness; linear programming; approximation, randomized, and online algorithms; basic cryptography. Prerequisite: CSCI 570. Recommended preparation: familiarity with algorithms and discrete mathematics. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "30236D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "25 of 60",
+                "instructor": "Shanghua Teng",
+                "location": "THH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "31701D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Victoria Stodden",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31702D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Mayank Kejriwal",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31703D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Andres Gomez Escobar",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31705D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Carl Kesselman",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31706D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Randolph Hall",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31707D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31709D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31710D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31711D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31712D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31713D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31716D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31717D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31791D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31792D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31793D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31794D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ISE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31795D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

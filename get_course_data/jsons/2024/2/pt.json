@@ -1,0 +1,497 @@
+[
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "509",
+        "course_name": "Cellular and Systems Physiology",
+        "units": "(3.0 units)",
+        "description": "Selected subjects in cellular and systems physiology. Emphasis on molecular and cellular aspects of neuromuscular function; also hepatic; renal and endocrine physiology.",
+        "sections": [
+            {
+                "section": "12566D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 2,
+                "registered": "12 of 13",
+                "instructor": "Erin Hassett",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12567D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 13",
+                "instructor": "Patrick Huang,Erin Hassett",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12568D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 2,
+                "registered": "10 of 13",
+                "instructor": "Erin Hassett",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12569D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 13",
+                "instructor": "Patrick Huang,Erin Hassett",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "516",
+        "course_name": "Principles of Disease",
+        "units": "(1.0 unit)",
+        "description": "Principles and mechanisms of genetics, immunology, infection, wound healing and oncology.",
+        "sections": [
+            {
+                "section": "12539R",
+                "session": "985",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 960,
+                "days": 4,
+                "registered": "103 of 103",
+                "instructor": "Michael Simpson,",
+                "location": "CHP225"
+            },
+            {
+                "section": "12542D",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 15",
+                "instructor": "Monica Nelsen,Lauren Decker,Michael Simpson",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12540D",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 25",
+                "instructor": "Lauren Decker,Michael Simpson",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12541D",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 20,
+                "registered": "11 of 25",
+                "instructor": "Lauren Decker,Michael Simpson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "530B",
+        "course_name": "Therapeutic Exercise",
+        "units": "(2.0 units)",
+        "description": "Examination of needs analysis and prescription of exercise programs for special patient populations and assessment of current community trends in exercise and wellness.",
+        "sections": [
+            {
+                "section": "12593D",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 20,
+                "registered": "12 of 13",
+                "instructor": "Justin Tong,Kenneth Kim",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12598R",
+                "session": "985",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "104 of 104",
+                "instructor": "Kenneth Kim",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12595D",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 20,
+                "registered": "11 of 13",
+                "instructor": "Samuel Franklin,Kenneth Kim,Justin Tong",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12596D",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 20,
+                "registered": "10 of 13",
+                "instructor": "Claire Nguyen,Kenneth Kim,Justin Tong",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "551",
+        "course_name": "Therapeutic Application of Physical Agents",
+        "units": "(3.0 units)",
+        "description": "Physiologic responses to the application of thermal, mechanical, electromagnetic and hydrodynamic therapeutic procedures. Evaluation procedures and intervention planning.",
+        "sections": [
+            {
+                "section": "12527R",
+                "session": "985",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "103 of 103",
+                "instructor": "Amy Pomrantz,Jessica Rancour",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12528D",
+                "session": "957",
+                "type": "Lecture-Lab",
+                "start_time": 510,
+                "end_time": 600,
+                "days": 40,
+                "registered": "10 of 13",
+                "instructor": "Kimiko Yamada,Jessica Rancour,Amy Pomrantz",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12529D",
+                "session": "957",
+                "type": "Lecture-Lab",
+                "start_time": 510,
+                "end_time": 600,
+                "days": 40,
+                "registered": "12 of 13",
+                "instructor": "Jessica Rancour,Amy Pomrantz",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12530D",
+                "session": "957",
+                "type": "Lecture-Lab",
+                "start_time": 630,
+                "end_time": 720,
+                "days": 40,
+                "registered": "11 of 13",
+                "instructor": "Kimiko Yamada,Jessica Rancour,Amy Pomrantz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "561A",
+        "course_name": "Evidence for Physical Therapist Practice",
+        "units": "(2.0 units)",
+        "description": "Introduction to a patient-centered Evidence Based Practice model with emphasis on professional communication skills, ethics, professional guidelines, laws and regulations.",
+        "sections": [
+            {
+                "section": "12550D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 570,
+                "days": 4,
+                "registered": "11 of 13",
+                "instructor": "Valerie Teglia,Oscar Gallardo",
+                "location": ""
+            },
+            {
+                "section": "12551D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 4,
+                "registered": "11 of 13",
+                "instructor": "Amir Khastoo,Valerie Teglia",
+                "location": "ONLINE"
+            },
+            {
+                "section": "12552D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 750,
+                "days": 4,
+                "registered": "8 of 13",
+                "instructor": "Amir Khastoo,Valerie Teglia",
+                "location": "ONLINE"
+            },
+            {
+                "section": "12553D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 870,
+                "days": 4,
+                "registered": "10 of 13",
+                "instructor": "Valerie Teglia",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "561E",
+        "course_name": "Evidence for Physical Therapist Practice",
+        "units": "(2.0 units)",
+        "description": "Analysis of the integration of physical therapist practice into the national health care system; administration, budgeting and reimbursement for physical therapist services.",
+        "sections": [
+            {
+                "section": "12500D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 14",
+                "instructor": "Joseph Godges,April Spina",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12501D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 14",
+                "instructor": "April Spina",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12502D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 13",
+                "instructor": "Joseph Godges,April Spina",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12594R",
+                "session": "964",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "93 of 105",
+                "instructor": "Yogi Matharu,Jonathan Sum",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "600B",
+        "course_name": "Clinical Experience",
+        "units": "(3.0 units)",
+        "description": "Practical experience in six-week physical therapy manual skills, decision making, and professional behaviors.",
+        "sections": [
+            {
+                "section": "12548R",
+                "session": "987",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "104 of 104",
+                "instructor": "Valerie Teglia,Jessica Rancour,Danielle Long",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12549D",
+                "session": "756",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "33 of 50",
+                "instructor": "Valerie Teglia,Danielle Long,Jessica Rancour",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "600D",
+        "course_name": "Clinical Clerkship",
+        "units": "(4.0 units)",
+        "description": "Practical experience in eight week physical therapy psychomotor skills, decision making and professional behaviors.",
+        "sections": [
+            {
+                "section": "12512D",
+                "session": "986",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "39 of 49",
+                "instructor": "Valerie Teglia,Jessica Rancour,Danielle Long",
+                "location": "ONLINE"
+            },
+            {
+                "section": "12554R",
+                "session": "963",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "93 of 105",
+                "instructor": "Valerie Teglia,Danielle Long,Jessica Rancour",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "625",
+        "course_name": "Emerging Topics in Physical Therapy",
+        "units": "(3.0 units)",
+        "description": "Familiarize the developing PT with emerging research, technology and skills that show promise in preparation for advances in patient management.",
+        "sections": [
+            {
+                "section": "12508D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "40 of 49",
+                "instructor": "Laura Mesches",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12544R",
+                "session": "964",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "93 of 105",
+                "instructor": "Rob Landel,Pamela Mikkelsen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "650",
+        "course_name": "Differential Diagnosis in Physical Therapy",
+        "units": "(2.0 units)",
+        "description": "Consideration of principle of differential diagnosis with emphasis on mastering this skill.",
+        "sections": [
+            {
+                "section": "12504D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 14",
+                "instructor": "Carly Lochala,Joseph Derian",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12505D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 13",
+                "instructor": "Carly Lochala,Joseph Derian",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12506D",
+                "session": "969",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 13",
+                "instructor": "Joseph Derian",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12570R",
+                "session": "964",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "93 of 107",
+                "instructor": "Yogi Matharu,Justin Lantz",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PT",
+        "course_number": "670A",
+        "course_name": "Hybrid Advanced Clinical Experience with Academic Integratio",
+        "units": "(6.5 units)",
+        "description": "A 13-week clerkship consisting of a minimum of 36 hours per week in a part-time setting. Emphasis on the care of orthopedic, neurologic, pediatric or complicated medical conditions.",
+        "sections": [
+            {
+                "section": "12543R",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Valerie Teglia",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

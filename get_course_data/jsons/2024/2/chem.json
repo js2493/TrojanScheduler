@@ -1,0 +1,544 @@
+[
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "105A",
+        "course_name": "General Chemistry",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles and laws of chemistry; laboratory work emphasizes quantitative procedures. Prerequisite to all more advanced courses in chemistry. Lecture, 3 hours; laboratory and discussion, 4 hours. Quiz, 1 hour.",
+        "sections": [
+            {
+                "section": "17205R",
+                "session": "110",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 30,
+                "registered": "8 of 60",
+                "instructor": "Thomas Bertolini",
+                "location": "GFS106"
+            },
+            {
+                "section": "17208R",
+                "session": "110",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "8 of 12",
+                "instructor": "Catherine Skibo",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17207R",
+                "session": "110",
+                "type": "Quiz",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "8 of 60",
+                "instructor": "",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "105B",
+        "course_name": "General Chemistry",
+        "units": "(4.0 units)",
+        "description": "Fundamental principles and laws of chemistry; laboratory work emphasizes quantitative procedures.",
+        "sections": [
+            {
+                "section": "17215R",
+                "session": "119",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 30,
+                "registered": "11 of 16",
+                "instructor": "Jessica Parr",
+                "location": "GFS106"
+            },
+            {
+                "section": "17217R",
+                "session": "119",
+                "type": "Quiz",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "11 of 16",
+                "instructor": "",
+                "location": "GFS106"
+            },
+            {
+                "section": "17218R",
+                "session": "119",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "9 of 12",
+                "instructor": "Catherine Skibo",
+                "location": "SGM136A/B"
+            },
+            {
+                "section": "17219R",
+                "session": "119",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "2 of 4",
+                "instructor": "Catherine Skibo",
+                "location": "SGM136A/B"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "290A",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution. Prereq: Consent of department head.",
+        "sections": [
+            {
+                "section": "17230D",
+                "session": "110",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "290B",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "17231D",
+                "session": "119",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "290C",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "17232D",
+                "session": "110",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "290D",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for CHEM 105a, 105b, 322a, or 322b for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "17233D",
+                "session": "119",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "322A",
+        "course_name": "Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Chemistry of the carbon compounds of the aliphatic and aromatic series; laboratory preparation of typical compounds of both series.",
+        "sections": [
+            {
+                "section": "17240R",
+                "session": "110",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 28,
+                "registered": "11 of 14",
+                "instructor": "Rebecca Broyer",
+                "location": "GFS101"
+            },
+            {
+                "section": "17243R",
+                "session": "110",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 28,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "GFS101"
+            },
+            {
+                "section": "17242R",
+                "session": "110",
+                "type": "Quiz",
+                "start_time": 540,
+                "end_time": 600,
+                "days": 2,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "GFS101"
+            },
+            {
+                "section": "17244R",
+                "session": "110",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "11 of 12",
+                "instructor": "Jennifer Moore",
+                "location": "SGM207"
+            },
+            {
+                "section": "17245D",
+                "session": "110",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "0 of 2",
+                "instructor": "Jennifer Moore",
+                "location": "SGM207"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "322B",
+        "course_name": "Organic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Chemistry of the carbon compounds of the aliphatic and aromatic series; laboratory preparation of typical compounds of both series.",
+        "sections": [
+            {
+                "section": "17250D",
+                "session": "119",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 28,
+                "registered": "15 of 18",
+                "instructor": "Stuart Moon",
+                "location": "GFS101"
+            },
+            {
+                "section": "17253R",
+                "session": "119",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 28,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "GFS101"
+            },
+            {
+                "section": "17252R",
+                "session": "119",
+                "type": "Quiz",
+                "start_time": 540,
+                "end_time": 600,
+                "days": 2,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "GFS101"
+            },
+            {
+                "section": "17254R",
+                "session": "119",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "10 of 12",
+                "instructor": "Jennifer Moore",
+                "location": "SGM207"
+            },
+            {
+                "section": "17255R",
+                "session": "119",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "5 of 6",
+                "instructor": "Jennifer Moore",
+                "location": "SGM207"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "17260D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17272D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17274D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17276D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "17278D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Peter Qin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17280D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "92 of 100",
+                "instructor": "Peter Qin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "17282D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17284D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17286D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17288D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CHEM",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "17290D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "45 of 75",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,765 @@
+[
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "100",
+        "course_name": "Introduction to Visual Culture",
+        "units": "(4.0 units)",
+        "description": "The description and analysis of various forms of visual culture, including both mass media and \"high\" art representations, both Western and non-Western images.",
+        "sections": [
+            {
+                "section": "11800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Samantha Burton",
+                "location": "THH202"
+            },
+            {
+                "section": "11801R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Anna Flinchbaugh",
+                "location": "DMC260"
+            },
+            {
+                "section": "11802R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Anna Flinchbaugh",
+                "location": "DMC260"
+            },
+            {
+                "section": "11803R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Wenxian Zhang",
+                "location": "WPH101"
+            },
+            {
+                "section": "11804R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Wenxian Zhang",
+                "location": "WPH203"
+            },
+            {
+                "section": "11814R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Claire Carcara",
+                "location": "DMC256"
+            },
+            {
+                "section": "11815R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Claire Carcara",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "120",
+        "course_name": "Foundations of Western Art: Prehistoric to Renaissance",
+        "units": "(4.0 units)",
+        "description": "Mediterranean and European art and architecture presented in historical, cultural and social context that introduces art history as a discipline.",
+        "sections": [
+            {
+                "section": "11805R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "93 of 100",
+                "instructor": "Ann Marie Yasin",
+                "location": "SGM101"
+            },
+            {
+                "section": "11806R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "18 of 25",
+                "instructor": "Meagan Mulkern",
+                "location": "WPH203"
+            },
+            {
+                "section": "11807R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Meagan Mulkern",
+                "location": "WPH107"
+            },
+            {
+                "section": "11808R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Cora Sperling",
+                "location": "WPH206"
+            },
+            {
+                "section": "11809R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Cora Sperling",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "125",
+        "course_name": "Arts of Asia: Antiquity to 1300",
+        "units": "(4.0 units)",
+        "description": "An introduction to the major art forms and monuments of religious art in India, Southeast Asia, China and Japan from prehistory to1300.",
+        "sections": [
+            {
+                "section": "11838R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "49 of 50",
+                "instructor": "Sonya Lee",
+                "location": "DMC150"
+            },
+            {
+                "section": "11839R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jiyoon Park",
+                "location": "DMC161"
+            },
+            {
+                "section": "11840R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jiyoon Park",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "201",
+        "course_name": "Digging into the Past",
+        "units": "(4.0 units)",
+        "description": "A broad survey, covering some 8,000 years and focusing on the material culture of the ancient world in a historical and social context.",
+        "sections": [
+            {
+                "section": "11868D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "47 of 50",
+                "instructor": "John Pollini",
+                "location": "DMC150"
+            },
+            {
+                "section": "11869R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "Sarah Frontiera",
+                "location": "DMC160"
+            },
+            {
+                "section": "11870R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sarah Frontiera",
+                "location": "DMC158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "250",
+        "course_name": "Art, Modernity and Difference",
+        "units": "(4.0 units)",
+        "description": "Consideration of various categories of \"The Modern\" as they have been constructed in Western art of the late 19th and 20th centuries.",
+        "sections": [
+            {
+                "section": "11883R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Samantha Burton",
+                "location": "WPH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "321",
+        "course_name": "Greek Art and Archaeology",
+        "units": "(4.0 units)",
+        "description": "Survey of artistic works and monuments of ancient Greece from the Geometric through the Hellenistic period (c. 1000 - 30 BCE.).",
+        "sections": [
+            {
+                "section": "11923R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "John Pollini",
+                "location": "WPH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "324",
+        "course_name": "Late Antique Art and Archaeology",
+        "units": "(4.0 units)",
+        "description": "Investigation of the transformation between classical antiquity and the middle ages through examination of cities, buildings, images and artifacts of the 3rd-8th-century Mediterranean.",
+        "sections": [
+            {
+                "section": "19830R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "4 of 19",
+                "instructor": "Ann Marie Yasin",
+                "location": "THH211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "344",
+        "course_name": "Baroque Art",
+        "units": "(4.0 units)",
+        "description": "Painting, sculpture and architecture in 17th century Europe, north and south. Recommended preparation: AHIS 121",
+        "sections": [
+            {
+                "section": "11938R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "29 of 30",
+                "instructor": "Hector Reyes",
+                "location": "WPH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "357",
+        "course_name": "History of French Art 1860-1920",
+        "units": "(4.0 units)",
+        "description": "(Paris semester only). Exploration of the main movements of late 19th and early 20th century French art using the resources of Parisian museums and monuments. Visits to Paris museums are an integral part of the coursework. Recommended preparation: familiarity with modern European history",
+        "sections": [
+            {
+                "section": "00371R",
+                "session": "613",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 5",
+                "instructor": "Mark Grimes",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "365",
+        "course_name": "African American Art",
+        "units": "(4.0 units)",
+        "description": "A survey of the fine arts produced by people of African descent in the United States from the nation's inception in the late 18th century until the contemporary moment.",
+        "sections": [
+            {
+                "section": "11956D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "367",
+        "course_name": "Early American Modernism: American Art and Visual Culture, 1",
+        "units": "(4.0 units)",
+        "description": "Studies the art and visual culture of the United States between 1876, the date of the Centennial Fair in Philadelphia, to the eve of World War II.",
+        "sections": [
+            {
+                "section": "11962R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Kimia Shahi",
+                "location": "WPH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "400",
+        "course_name": "Undergraduate Apprenticeship",
+        "units": "(2.0 units, max 4)",
+        "description": "Independent work in art museums, galleries or art history related institutes supervised by on-site professionals and USC faculty. Not available for credit for AHIS majors. CR/NC",
+        "sections": [
+            {
+                "section": "11988D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Samantha Burton",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "460",
+        "course_name": "Studies in 18th and 19th Century Art",
+        "units": "(4.0 units, max 8)",
+        "description": "In-depth exploration of specified topics within the area of 18th and 19th century art and architecture.",
+        "sections": [
+            {
+                "section": "12016D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "12 of 19",
+                "instructor": "Hector Reyes",
+                "location": "DMC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "483",
+        "course_name": "East Asian Garden and Designed Landscape",
+        "units": "(4.0 units)",
+        "description": "Explores the transmigration of Japanese art and aesthetics and the politics of their adaptation and assimilation in Los Angeles.",
+        "sections": [
+            {
+                "section": "12035D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "6 of 19",
+                "instructor": "Miya Elise Desjardins",
+                "location": "THH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "12041D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Samantha Burton",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "494",
+        "course_name": "Undergraduate Proseminar in Art History",
+        "units": "(4.0 units)",
+        "description": "Historiography and methodology: introduction to techniques of research and writing. Required of all art history majors, preferably in junior year.",
+        "sections": [
+            {
+                "section": "12045D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "7 of 10",
+                "instructor": "Lisa Pon",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "495A",
+        "course_name": "Undergraduate Honors Thesis",
+        "units": "(2.0 units)",
+        "description": "Research and writing of original thesis under guidance of faculty member. Prereq: Consent of instructor.",
+        "sections": [
+            {
+                "section": "12047D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 5",
+                "instructor": "Samantha Burton",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "495B",
+        "course_name": "Undergraduate Honors Thesis",
+        "units": "(2.0 units)",
+        "description": "Research and writing of original thesis under guidance of faculty member. Prereq: Consent of instructor.",
+        "sections": [
+            {
+                "section": "12048D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Samantha Burton",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "500",
+        "course_name": "Methods and Theory of Art History",
+        "units": "(4.0 units)",
+        "description": "Methodologies, theories and critical traditions that have shaped the discipline. Emphasis will vary depending on faculty. Required of all first-year M.A. and Ph.D. candidates. Open to graduate or limited status students in art history only.",
+        "sections": [
+            {
+                "section": "12055D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "2 of 5",
+                "instructor": "Kimia Shahi",
+                "location": "THH308"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "515",
+        "course_name": "Seminar in Contemporary Art",
+        "units": "(4.0 units, max 16)",
+        "description": "",
+        "sections": [
+            {
+                "section": "12069D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "2 of 10",
+                "instructor": "Suzanne Hudson",
+                "location": "THH308"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to graduate degree. Maximum units which may be applied to degree determined by department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12101D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 4",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching the Liberal Arts",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within College disciplines. Intended for teaching assistants in Dornsife College. Open only to Art History doctoral students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12105D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 2,
+                "registered": "2 of 6",
+                "instructor": "Samantha Burton",
+                "location": "THH308"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Comprehensive exploration of particular aspects of the history of art.",
+        "sections": [
+            {
+                "section": "12168D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 810,
+                "days": 2,
+                "registered": "8 of 10",
+                "instructor": "Ann Marie Yasin",
+                "location": "THH308"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "12180D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12190D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12191D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12192D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12193D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12194D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

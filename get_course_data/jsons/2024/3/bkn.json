@@ -1,0 +1,338 @@
+[
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "551",
+        "course_name": "Musculoskeletal and Biomechanical Basis of Movement",
+        "units": "(4.0 units)",
+        "description": "Introduction to the mechanical properties of the musculoskeletal system. Review of connective tissue and muscle mechanics, arthrology, anatomical design and statics. Laboratory dissections illustrate biomechanical concepts.",
+        "sections": [
+            {
+                "section": "12405R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 4,
+                "registered": "19 of 20",
+                "instructor": "Kornelia Kulig,",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "553",
+        "course_name": "Experimental Methods for the Analysis of Human Movement",
+        "units": "(4.0 units)",
+        "description": "Introduces students to the techniques and hardware used to record movement, measure movement-related variables, and analyze those variables to address hypotheses.",
+        "sections": [
+            {
+                "section": "12407R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "17 of 21",
+                "instructor": "James Finley",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "559",
+        "course_name": "Readings in Biokinesiology",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Independent review and synthesis of papers appearing in the current literature.",
+        "sections": [
+            {
+                "section": "12408D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 25",
+                "instructor": "Jim Gordon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "563",
+        "course_name": "Biomechanics",
+        "units": "(2.0 units)",
+        "description": "Advanced study of the kinematics of human motion. Emphasis on the inverse dynamics solution to quality forces and moments of force. Lecture, demonstration.",
+        "sections": [
+            {
+                "section": "12419R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 960,
+                "days": 16,
+                "registered": "7 of 10",
+                "instructor": "Chris Powers,George Salem",
+                "location": "CHP233D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "578",
+        "course_name": "Classic Readings in Biokinesiology",
+        "units": "(2.0 units)",
+        "description": "A seminar course in which students read and discuss classic scientific papers that have shaped the development of the movement sciences over the past 150 years.",
+        "sections": [
+            {
+                "section": "12423D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 2,
+                "registered": "8 of 8",
+                "instructor": "Jim Gordon",
+                "location": "CHP233D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determnined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12431D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Jim Gordon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Studies of scientific theory in physical therapy.",
+        "sections": [
+            {
+                "section": "12412D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1020,
+                "days": 16,
+                "registered": "3 of 15",
+                "instructor": "Stacey Dusing",
+                "location": "CHP221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "617",
+        "course_name": "Modeling the Motor System: An Introduction",
+        "units": "(2.0 units)",
+        "description": "Introduction of basic principles and models of the primate motor system. Emphasis on arm control.",
+        "sections": [
+            {
+                "section": "12446R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Nicolas Schweighofer",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "618",
+        "course_name": "Modeling the Motor System: Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Introduction of computer programming and implementation of computational models in a laboratory setting.",
+        "sections": [
+            {
+                "section": "12448R",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 630,
+                "end_time": 810,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Nicolas Schweighofer",
+                "location": "CHP221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "672",
+        "course_name": "Advanced Independent Study in Biokinesiology",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Examination of selected mechanisms underlying normal movement and pathological movement. Study of methods used to investigate these mechanisms. Doctoral students only.",
+        "sections": [
+            {
+                "section": "12457D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Jim Gordon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "12459D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 20",
+                "instructor": "Jim Gordon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "12461R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "12463R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "12465R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "12467R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BKN",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "12469R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "425",
+        "course_name": "Digital Marketing Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Examine the changing world of the connected consumer. Gain introductory knowledge about consumers online and digital marketing tactics across industries.",
+        "sections": [
+            {
+                "section": "16478R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "23 of 48",
+                "instructor": "Kristen Schiele",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "530",
+        "course_name": "New Product Development",
+        "units": "(3.0 units)",
+        "description": "Systematic approach to product development and management; processes, techniques, and concepts firms use to develop, test, and introduce products and to manage products over their lifecycle.",
+        "sections": [
+            {
+                "section": "16528R",
+                "session": "640",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "58 of 61",
+                "instructor": "Diane Badame",
+                "location": "JKP110"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "533",
+        "course_name": "Branding Strategy",
+        "units": "(1.5-3.0 units)",
+        "description": "Comprehensive treatment of the behavioral foundations of brands and brand development. Exploration of alternative branding strategies and marketing tools for brand development.",
+        "sections": [
+            {
+                "section": "16530R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "25 of 57",
+                "instructor": "Diane Badame",
+                "location": "JKP112"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16554D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "592",
+        "course_name": "Field Research in Marketing",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Individual or team projects studying the marketing practices of an industry, company, government agency, country, geographic region, etc. Proposal, data collection, analyses, and written report. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16556D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "593",
+        "course_name": "Independent Research in Marketing",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16558D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "595",
+        "course_name": "Internship in Marketing",
+        "units": "(0.5-2.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the field of marketing. (Curricular Practical Training.) Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16560D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Sivaramakrishnan Siddarth,Diane Badame",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "596",
+        "course_name": "Research Practicum in Marketing",
+        "units": "(0.5-2.0 units, max 8)",
+        "description": "Hands-on practical experience working with a Marshall faculty member in the Marketing Department on an ongoing research project. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16565D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "597",
+        "course_name": "Consulting Project in Marketing",
+        "units": "(0.5-5.0 units, max 12)",
+        "description": "Individual or team project solving real business problems for an existing business entity, domestic and/or international. Proposal, field research, analyses and oral and written presentations. Graded CR/NC",
+        "sections": [
+            {
+                "section": "16566D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MKT",
+        "course_number": "621",
+        "course_name": "Research Forum",
+        "units": "(1.0 units, max 4)",
+        "description": "Seminar. Review and discuss current research in Marketing. Presentations by faculty, visiting researchers, and advanced students. Open to Marshall Ph.D. students only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "16578D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "HOH706"
+            }
+        ]
+    }
+]

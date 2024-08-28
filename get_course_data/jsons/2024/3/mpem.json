@@ -1,0 +1,223 @@
+[
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principal instrument for music minors and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "44903D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "450",
+        "course_name": "Collegium Workshop",
+        "units": "(1.0 units, max 8)",
+        "description": "Study and rehearsal of music of the Middle Ages, Renaissance, and Baroque; technique, interpretation, improvisation, and ornamentation. Open to all students.",
+        "sections": [
+            {
+                "section": "44916D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "1 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "UGW120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "44920D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "44948D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "44955D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "554",
+        "course_name": "Graduate Certificate Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Graduate Certificate students.",
+        "sections": [
+            {
+                "section": "44958D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44960D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "650",
+        "course_name": "Collegium Directing",
+        "units": "(2.0 units, max 4)",
+        "description": "Practical training in the direction of a Collegium Musicum, or other early music ensemble; program planning, repertory search and preparation, historical instrumentation and arranging, rehearsal procedure, improvisational techniques, and maintenance of instruments.",
+        "sections": [
+            {
+                "section": "44975D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "UGW120"
+            },
+            {
+                "section": "44976D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "0 of 5",
+                "instructor": "Adam Gilbert",
+                "location": "UGW120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for D.M.A. Performance majors.",
+        "sections": [
+            {
+                "section": "44980D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPEM",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44995D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Adam Gilbert",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "200",
+        "course_name": "Communication Development and Disorders Across the Life Span",
+        "units": "(4.0 units)",
+        "description": "Introduction to speech, language and hearing issues across the lifespan; examination of how issues of communication relate to social, medical and educational services needed.",
+        "sections": [
+            {
+                "section": "80000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 640,
+                "days": 10,
+                "registered": "6 of 12",
+                "instructor": "Barbara Moore",
+                "location": "SOSB50"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "401",
+        "course_name": "The Practice of Medical Speech-Language Pathology",
+        "units": "(4.0 units)",
+        "description": "Introduction to the practice of medical speech language pathology; examination of the role of the speech language pathologist as a member of the medical speech pathology team.",
+        "sections": [
+            {
+                "section": "80004R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 760,
+                "days": 20,
+                "registered": "4 of 15",
+                "instructor": "Aaron Rothbart,Barbara Moore",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(2.0-8.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "80049R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Aaron Rothbart,Barbara Moore",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "500",
+        "course_name": "Neuroanatomy and Neurophysiology for Speech, Language and He",
+        "units": "(3.0 units)",
+        "description": "Neuroanatomy and neurophysiology with a concentration on basic human communication and swallowing processes, specifically pertaining to disorders and differences in speech, language and hearing.",
+        "sections": [
+            {
+                "section": "80010R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "James Dewey,Karolina Charaziak,Barbara Moore",
+                "location": "BMT204A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "501",
+        "course_name": "Speech Sound Disorders",
+        "units": "(3.0 units)",
+        "description": "Focus on speech-sound production, assessment and treatment of childhood articulation and phonological disorders, emphasizing the study of efficient and effective procedures and service delivery models.",
+        "sections": [
+            {
+                "section": "80011R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Hope Morris-Baldridge,Barbara Moore",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "502",
+        "course_name": "Language and Literacy Disorders",
+        "units": "(3.0 units)",
+        "description": "Focus on language and literacy disorders in children from birth through adolescence. Special emphasis on assessment, prevention and intervention methods across populations and multi-cultural backgrounds.",
+        "sections": [
+            {
+                "section": "80012R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Yao Du,Barbara Moore",
+                "location": "BMT204A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "503",
+        "course_name": "Research Methods in Communication Sciences and Disorders",
+        "units": "(3.0 units)",
+        "description": "Basic and applied research procedures in communication sciences and disorders, including research design, data collection and analysis and application to evidence-based practice for clinical practice.",
+        "sections": [
+            {
+                "section": "80013R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Karen Johnson,Barbara Moore",
+                "location": "BMT204A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "504",
+        "course_name": "Speech-Language Pathology Methods and Evidence-Based Practic",
+        "units": "(3.0 units)",
+        "description": "Overview of the clinical process for the prevention and remediation of communication disorders with emphasis on clinical methodology.",
+        "sections": [
+            {
+                "section": "80014R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Cecilia Perez,Barbara Moore,Jennifer Shubin,Hope Morris-Baldridge",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "515",
+        "course_name": "School-Based Issues in Speech-Language Programs",
+        "units": "(3.0 units)",
+        "description": "Legislative foundations for speech-language programs in schools, including due process, prevention, referral and assessment, Individualized Education Program (IEP) processes and procedures, service delivery and accountability.",
+        "sections": [
+            {
+                "section": "80025R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "21 of 24",
+                "instructor": "Barbara Moore",
+                "location": "BMT204A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "516",
+        "course_name": "Motor Speech Disorders/Craniofacial Disorders",
+        "units": "(3.0 units)",
+        "description": "Motor speech disorders including the dysarthrias and apraxia of speech, as well as craniofacial disorders. Neurological bases, characteristics, differential diagnosis, assessment, treatment and interprofessional collaboration.",
+        "sections": [
+            {
+                "section": "80026R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "22 of 24",
+                "instructor": "Aaron Rothbart,Barbara Moore",
+                "location": "BMT204B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "517",
+        "course_name": "Multicultural Issues in Speech-Language Pathology",
+        "units": "(2.0 units)",
+        "description": "Assessment and intervention considerations and methods for individuals with communication disorders from diverse population; focus on cultural sensitivity and commitment to inclusiveness, equity and diversity.",
+        "sections": [
+            {
+                "section": "80027R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 930,
+                "days": 64,
+                "registered": "22 of 24",
+                "instructor": "Yao Du,Barbara Moore",
+                "location": "BMT204B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "518",
+        "course_name": "Research/Capstone in Communication Sciences and Disorders",
+        "units": "(1.0 units, max 2)",
+        "description": "Capstone Research Project addressing a problem in the field of communication sciences and disorders. Students will work with a PhD-level faculty member and will culminate in a submission for presentation in a poster session at a professional conference.",
+        "sections": [
+            {
+                "section": "80029R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "22 of 24",
+                "instructor": "Aaron Rothbart,Karen Johnson,Yao Du,Barbara Moore",
+                "location": "BMT204A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "OHNS",
+        "course_num": "519",
+        "course_name": "Externship in Speech-Language Pathology",
+        "units": "(3.0 units, max 6)",
+        "description": "Speech-language pathology clinical experience in a supervised school-based, medically-based or private practice setting.",
+        "sections": [
+            {
+                "section": "80028R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 680,
+                "days": 32,
+                "registered": "22 of 24",
+                "instructor": "Jennifer Shubin,Barbara Moore",
+                "location": "KAMB21/23"
+            }
+        ]
+    }
+]

@@ -1,0 +1,340 @@
+[
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "150",
+        "course_name": "Histories of Art, Design and Visual Culture",
+        "units": "(4.0 units)",
+        "description": "A loosely chronological, thematic survey of art, visual culture, design, and critical theory from the early modern period through modernism (1500 1950).",
+        "sections": [
+            {
+                "section": "33815R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "92 of 112",
+                "instructor": "Kyle Stephan",
+                "location": "HAR101"
+            },
+            {
+                "section": "33816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "21 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33817R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "28 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33818R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "26 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33819R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "17 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "160",
+        "course_name": "Critical Theory in Art, Design and Visual Culture",
+        "units": "(4.0 units)",
+        "description": "An issues-based introduction to critical theory in the twentieth and twenty-first centuries, especially as it relates to philosophy, art, design, and visual culture.",
+        "sections": [
+            {
+                "section": "33823D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "32 of 80",
+                "instructor": "Ken Ehrlich",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "350",
+        "course_name": "Global Art, Design and Visual Culture since 1960",
+        "units": "(4.0 units)",
+        "description": "A critical history of art, design, visual culture, and visual theory since 1960, addressing through a postcolonial/decolonial lens the concepts and practices of \"global\" art.",
+        "sections": [
+            {
+                "section": "33824D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "44 of 80",
+                "instructor": "Rotem Rozental",
+                "location": "HAR101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "415",
+        "course_name": "Performance and Art",
+        "units": "(4.0 units)",
+        "description": "Focused exploration of the role of the body in performance, action and the question of the \"event\" in contemporary art and design.",
+        "sections": [
+            {
+                "section": "33826R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "500",
+        "course_name": "Theory and History of Performance Studies",
+        "units": "(4.0 units)",
+        "description": "Exploration of the various theories and methodologies associated with performance and visual studies as interrelated with the histories of practice in these fields.",
+        "sections": [
+            {
+                "section": "33501D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 800,
+                "days": 4,
+                "registered": "13 of 20",
+                "instructor": "Amelia Jones",
+                "location": "HAR112D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "510",
+        "course_name": "History and Theory of Art and Exhibitions",
+        "units": "(4.0 units)",
+        "description": "Gives broad and deep overview of history of art as a conceptual and practical category, emphasizing development of exhibitionary sites and engagement with public sphere.",
+        "sections": [
+            {
+                "section": "33370D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 800,
+                "days": 16,
+                "registered": "14 of 25",
+                "instructor": "Andrew Campbell",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "512",
+        "course_name": "Art and Curatorial Visits",
+        "units": "(2.0 units)",
+        "description": "Site visits relating to art and curatorial practices, from art museums and artists studios to public art offices and performance venues, and meet professionals.",
+        "sections": [
+            {
+                "section": "33372D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "9 of 20",
+                "instructor": "Rotem Rozental",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "515",
+        "course_name": "Visiting Artist and Scholar Seminar",
+        "units": "(2.0 units, max 4)",
+        "description": "Lecture and discussion course in the professional practice of art featuring formal presentations by visiting artists and scholars. (Duplicates credit in FA 515)",
+        "sections": [
+            {
+                "section": "33312D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "13 of 20",
+                "instructor": "Suzanne Lacy",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "556",
+        "course_name": "Curatorial Practicum: Individual/Group Projects",
+        "units": "(4.0 units)",
+        "description": "Second in a sequence of three courses on history/theory of curatorial methods, with practical experience necessary to mounting exhibitions and devising interfaces with the public. Prerequisite: CRIT 555. (Duplicates credit in former PAS 555b)",
+        "sections": [
+            {
+                "section": "33375D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 860,
+                "days": 2,
+                "registered": "8 of 20",
+                "instructor": "Andrew Campbell",
+                "location": "ATM138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC. (Duplicates credit in former PAS 590)",
+        "sections": [
+            {
+                "section": "33356D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 16",
+                "instructor": "Andrew Campbell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "591",
+        "course_name": "Field Internship Experience",
+        "units": "(1.0 units, max 2)",
+        "description": "Supervised internship in an art institution or an art agency, or with an independent curator or artist, on projects and research specific to public space. Recommended preparation: Completion of first year of courses. Graded CR/NC. (Duplicates credit in former PAS 591)",
+        "sections": [
+            {
+                "section": "33360D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Andrew Campbell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC. (Duplicates credit in former PAS 594a)",
+        "sections": [
+            {
+                "section": "33380D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Andrew Campbell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Recommended preparation: 28 units of coursework. Graded IP/CR/NC. (Duplicates credit in former PAS 594b)",
+        "sections": [
+            {
+                "section": "33381D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Andrew Campbell",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Recommended preparation: 28 units of coursework. Graded IP/CR/NC. (Duplicates credit in former PAS 594z)",
+        "sections": [
+            {
+                "section": "33328D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Andrew Campbell",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

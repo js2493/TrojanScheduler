@@ -1,0 +1,224 @@
+[
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "701",
+        "course_name": "CPR, Blood and Air-Borne Infections and Common Emergencies for Dental Residents",
+        "units": "(1.0 unit)",
+        "description": "CPR training, review of common dental emergencies, and blood and air-borne pathogens in dental patients.",
+        "sections": [
+            {
+                "section": "24003D",
+                "session": "366",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "James Tom",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "710A",
+        "course_name": "Knowledge Assessment for OFPOM Residents",
+        "units": "(1.0 unit)",
+        "description": "Includes several intensive calibration/training sessions, with multiple practical demonstrations of methods and techniques. Skill development includes TM joint injection, myofascial palpation, oral cancer screening, biopsy, trigger-point injections and salivary gland cannulation, with mock and virtual patients.",
+        "sections": [
+            {
+                "section": "24010D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 22",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24014D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 20",
+                "instructor": "Roseann Mulligan,Anette Vistoso Monreal,Raymond Choi,Lisa Hou,Mehdi Mohammadi,Nazanin Sharifi,Glenn Clark",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "710B",
+        "course_name": "Knowledge Assessment for OFPOM Residents",
+        "units": "(1.0 unit)",
+        "description": "Several intensive calibration/training/ sessions based on content that the resident is expected to have mastered by the end of the program, specifically in the field of Oral Medicine.",
+        "sections": [
+            {
+                "section": "24018D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 20",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "723",
+        "course_name": "Systems Physiology, Motor Disorders and Sleep Apnea for Dental Residents",
+        "units": "(2.0 units)",
+        "description": "Seminars on various topics relating to oral motor disorders and sleep disordered breathing (as it relates to the mandible and tongue).",
+        "sections": [
+            {
+                "section": "24006D",
+                "session": "341",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "Glenn Clark,Mariela Padilla",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24020D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 20",
+                "instructor": "Glenn Clark",
+                "location": "ONLINE"
+            },
+            {
+                "section": "24025D",
+                "session": "315",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 12",
+                "instructor": "Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "728",
+        "course_name": "Case Presentations by OFP-OM Residents",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Case presentations by Orofacial Pain/Oral Medicine residents in which each resident presents and defends the diagnostic and treatment methods selected for a particular case.",
+        "sections": [
+            {
+                "section": "24007D",
+                "session": "367",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "Glenn Clark,Mariela Padilla",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "729B",
+        "course_name": "Capstone Project for OFPOM Residents",
+        "units": "(0.5 units)",
+        "description": "Residents complete their capstone research project in a topic in the area of their chosen focus/specialization.",
+        "sections": [
+            {
+                "section": "24045D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "729D",
+        "course_name": "Capstone Project for OFPOM Residents",
+        "units": "(0.5 units)",
+        "description": "Residents complete their capstone research project in a topic in the area of their chosen focus/specialization.",
+        "sections": [
+            {
+                "section": "24040D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 60",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "730E",
+        "course_name": "Case Portfolio Preparation by Online OFPOM Residents",
+        "units": "(0.5 units)",
+        "description": "Multiple elements including weekly online conferences, presentations and discussions of de-identified patient cases; learning need assignments; preparation and defense of case-based e-Portfolio.",
+        "sections": [
+            {
+                "section": "24041D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 60",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OFPM",
+        "course_number": "732",
+        "course_name": "Capstone Presentation",
+        "units": "(1.0 unit)",
+        "description": "Capstone research project for residents on a topic in the area of their chosen focus/specialization.",
+        "sections": [
+            {
+                "section": "24042D",
+                "session": "398",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Anette Vistoso Monreal,Glenn Clark",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

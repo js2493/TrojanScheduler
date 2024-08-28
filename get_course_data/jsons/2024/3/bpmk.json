@@ -1,0 +1,66 @@
+[
+    {
+        "term": "20243",
+        "department": "BPMK",
+        "course_num": "500",
+        "course_name": "Biopharmaceutical Marketing Management",
+        "units": "(3.0 units)",
+        "description": "Develop insights into global marketing and build foundational skills in clinical development, commercialization and investment strategies for biopharmaceutical and medical device products, portfolios and companies.",
+        "sections": [
+            {
+                "section": "49275D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "49293D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 50",
+                "instructor": "John Stofko",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BPMK",
+        "course_num": "508",
+        "course_name": "Biopharmaceutical Marketing Research and Analytics",
+        "units": "(3.0 units)",
+        "description": "Research and analytical methods for synthesizing data-driven insights informing marketing decisions of biopharmaceutical products. Apply systematic frameworks of marketing research to assess commercial market opportunities.",
+        "sections": [
+            {
+                "section": "49286D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "49294D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 50",
+                "instructor": "Amit Patel,Ken Wong",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    }
+]

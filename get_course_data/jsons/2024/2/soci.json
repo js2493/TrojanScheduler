@@ -1,0 +1,130 @@
+[
+    {
+        "term": "20242",
+        "department": "SOCI",
+        "course_number": "169",
+        "course_name": "Changing Family Forms",
+        "units": "(4.0 units)",
+        "description": "The peculiarity of the \"modern\" Western family system in historical and cross-cultural perspective; focus on the \"postmodern\" family crisis in the United States.",
+        "sections": [
+            {
+                "section": "61400R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 10,
+                "registered": "11 of 25",
+                "instructor": "Juliana Mc Gene",
+                "location": "ONLINE"
+            },
+            {
+                "section": "61401R",
+                "session": "070",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "11 of 25",
+                "instructor": "Chi Pan Wong",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SOCI",
+        "course_number": "200",
+        "course_name": "Introduction to Sociology",
+        "units": "(4.0 units)",
+        "description": "Basic concepts of sociology with special reference to group life,social institutions, and social processes.",
+        "sections": [
+            {
+                "section": "61455R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "Juliana Mc Gene",
+                "location": "ONLINE"
+            },
+            {
+                "section": "61456R",
+                "session": "050",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "21 of 25",
+                "instructor": "Ruiyi Li",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SOCI",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "61425D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Brian Finch",
+                "location": "OFFICE"
+            },
+            {
+                "section": "61430D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SOCI",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "61436D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Manuel Pastor",
+                "location": "OFFICE"
+            },
+            {
+                "section": "61440D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

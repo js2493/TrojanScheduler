@@ -1,0 +1,275 @@
+[
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "510",
+        "course_name": "Basic Foundations in Translational Biomedical Informatics",
+        "units": "(4.0 units)",
+        "description": "Translational biomedical informatics analysis of next-generation sequencing genomic data, fundamentals, foundations, and concepts for applied analysis, human ontology, application molecular tools, basic computing.",
+        "sections": [
+            {
+                "section": "70091D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 20,
+                "registered": "8 of 15",
+                "instructor": "Matthew Salomon",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "514",
+        "course_name": "Introduction to Human Genomic Analysis Methods",
+        "units": "(4.0 units)",
+        "description": "Translational next generation sequencing genomics microarrays, RNA-seq, exome sequencing, annotation, transcriptome, ontology, pipelines, variants, expression, methylation.",
+        "sections": [
+            {
+                "section": "70092D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "11 of 14",
+                "instructor": "Brooke Hjelm",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "520",
+        "course_name": "Translational Biomedical Informatics Capstone Portfolio",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Portfolio, translational biomedical informatics, bioinformatics, genomics, application development, web-based application.",
+        "sections": [
+            {
+                "section": "70095D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Matthew Salomon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "536",
+        "course_name": "Biotechnology Primer",
+        "units": "(4.0 units)",
+        "description": "Examination of classical and novel techniques used to explore and manipulate gene function and implications for the use of biotechnology in areas of global need. Recommended preparation: two semesters of introductory biology; two semesters of molecular biology and genetics.",
+        "sections": [
+            {
+                "section": "70066R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 10,
+                "registered": "11 of 20",
+                "instructor": "Carol Lin",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "539",
+        "course_name": "Translational Biotechnology Practicum",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "Experiential training based on a project in a biomedical, biotechnology or pharmaceutical setting.",
+        "sections": [
+            {
+                "section": "70069D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 11",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "540",
+        "course_name": "Translational Biotechnology Capstone Preparation",
+        "units": "(1.0 unit)",
+        "description": "Preparation for capstone defense course.",
+        "sections": [
+            {
+                "section": "70070R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 17",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "541",
+        "course_name": "Translational Biotechnology Capstone Defense",
+        "units": "(2.0 units)",
+        "description": "Finalization and defense of capstone project.",
+        "sections": [
+            {
+                "section": "70071R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 32,
+                "registered": "6 of 10",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "542",
+        "course_name": "Biotechnology-based Therapeutics",
+        "units": "(2.0 units)",
+        "description": "Covers advanced biotechnology principles and applications.",
+        "sections": [
+            {
+                "section": "70072R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "6 of 15",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "543",
+        "course_name": "Biotechnology Entrepreneurship and Commercialization I",
+        "units": "(2.0 units)",
+        "description": "Global biotechnology industry, idea generation, business plan formulation, intellectual property protection, funding, personnel management including board composition, regulatory body interaction, company exits.",
+        "sections": [
+            {
+                "section": "70073R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "15 of 30",
+                "instructor": "Ron King",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "546",
+        "course_name": "Biotechnology Law: Intellectual Property, Regulatory, Corpor",
+        "units": "(2.0 units)",
+        "description": "Core concepts in intellectual property law, regulatory law, healthcare law, corporate law and M&A law to the biopharmaceutical and diagnostic device sectors. Open to students who are pursuing or have already attained graduate degrees (MS, PhD or PharmD) in the bioscience disciplines, or students from professional schools who have college-level bioscience background.",
+        "sections": [
+            {
+                "section": "70079R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "4 of 15",
+                "instructor": "Arman Nadershahi",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "550",
+        "course_name": "Communicating Science: Writing",
+        "units": "(1.0 unit)",
+        "description": "Written communication modalities for accurate and effective transmission of scientific information to a wide audience in biomedical, healthcare, and related industries.",
+        "sections": [
+            {
+                "section": "70077R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "10 of 15",
+                "instructor": "Llewellyn Cox",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "551",
+        "course_name": "Communicating Science: Speaking",
+        "units": "(1.0 unit)",
+        "description": "Verbal communication modalities for accurate and effective transmission of scientific information to a wide audience in biomedical, healthcare, and related industries.",
+        "sections": [
+            {
+                "section": "70078R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "4 of 10",
+                "instructor": "Llewellyn Cox",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "TRGN",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "70076D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Carol Lin",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,874 @@
+[
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "100",
+        "course_name": "Introduction to Psychology",
+        "units": "(4.0 units)",
+        "description": "Introduction to psychological science, including historical and contemporary approaches. Behavior examined from biological, cognitive, social, developmental, and personality perspectives. Disorders and treatments.",
+        "sections": [
+            {
+                "section": "52400R",
+                "session": "050",
+                "type": "Lecture-Lab",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 25",
+                "instructor": "Clayton Stephenson",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "274",
+        "course_name": "Statistics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the use of statistics in psychology: basic ideas in measurement; frequency distributions; descriptive statistics; concepts and procedures in statistical inference.",
+        "sections": [
+            {
+                "section": "52452R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Bryan Shilowich",
+                "location": "SGM601"
+            },
+            {
+                "section": "52451R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 860,
+                "days": 20,
+                "registered": "19 of 25",
+                "instructor": "Bryan Shilowich",
+                "location": "SGM631"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "290",
+        "course_name": "Supervised Research in Psychology",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Supervised Research with department faculty. Not for major Or minor credit. Prerequisite: PSYC 100.",
+        "sections": [
+            {
+                "section": "52454D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52455D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "305",
+        "course_name": "Learning and Memory",
+        "units": "(4.0 units)",
+        "description": "Principles involved in classical and operant conditioning. Concentration on basic causes of behavior; consideration of the relevance of simple behavioral laws to complicated human behavior.",
+        "sections": [
+            {
+                "section": "52496R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 790,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Dave Lavond",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "316",
+        "course_name": "Non-Experimental Research Methods",
+        "units": "(4.0 units)",
+        "description": "Non-experimental research methods in psychology. Observational, survey and data analysis exercises",
+        "sections": [
+            {
+                "section": "52508R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 710,
+                "days": 20,
+                "registered": "5 of 15",
+                "instructor": "Canan Ipek",
+                "location": "SGM631"
+            },
+            {
+                "section": "52509R",
+                "session": "050",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 840,
+                "days": 16,
+                "registered": "5 of 15",
+                "instructor": "Canan Ipek",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "353",
+        "course_name": "Close Relationships",
+        "units": "(4.0 units)",
+        "description": "Scientific perspective of close relationships: intimate relationships, friendships and others, evolutionary and biological bases of attraction and love, historical, social , cultural influences. Prerequisite: PSYC 100. (Duplicates credit in PSYC 359)",
+        "sections": [
+            {
+                "section": "52558R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 850,
+                "days": 10,
+                "registered": "12 of 25",
+                "instructor": "Miranda Barone",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "52561D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52562D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "505",
+        "course_name": "Research Methods in Applied Social Psychology",
+        "units": "(4.0 units)",
+        "description": "Various research techniques that are useful in a variety of different real world settings, such as business, governmental agencies and charities. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52680D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 22",
+                "instructor": "Lexi Keaveney Breitz",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52681D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "Lexi Keaveney Breitz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "517",
+        "course_name": "Group Dynamics and Leadership",
+        "units": "(4.0 units)",
+        "description": "Theory and research on effective teams and characteristics of strong leaders. Negotiation, morale-building, managing expectancies, utilization of cultural diversity as a strength. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52799D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 12",
+                "instructor": "Lauren Young",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "523",
+        "course_name": "User Experience (UX) Research",
+        "units": "(4.0 units)",
+        "description": "Provides a broad introduction to the social science methods UX researchers most commonly use, including qualitative approaches, and quantitative approaches.",
+        "sections": [
+            {
+                "section": "52780D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Lexi Keaveney Breitz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "550A",
+        "course_name": "Proseminar in Human Behavior",
+        "units": "(4.0 units)",
+        "description": "The nature of the human mind, social interactions, conflicts, cooperative behavior, mutual influence and effectiveness. Application of psychological principles to the dynamics of commercial entities. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52772D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 22",
+                "instructor": "Catherine Neubauer",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52774D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "Naomi Grewal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "550B",
+        "course_name": "Proseminar in Human Behavior",
+        "units": "(4.0 units)",
+        "description": "The nature of the human mind, social interactions, conflicts, cooperative behavior, mutual influence and effectiveness. Application of psychological principles to the dynamics of commercial entities. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52761D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 22",
+                "instructor": "Kathleen Marker",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52773D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 22",
+                "instructor": "Mona Farid Nejad",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "552",
+        "course_name": "Principles of Consumer Psychology",
+        "units": "(4.0 units)",
+        "description": "Examination of the attitudes and decisions of consumers, and how to effectively reach consumers by using persuasion and proper positioning in the marketplace. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52683D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 22",
+                "instructor": "Steven Westberg",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52684D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "Steven Westberg",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "556",
+        "course_name": "Psychology of Interactive Media",
+        "units": "(4.0 units)",
+        "description": "Examination of the diverse methods of communicating with a target audience with a special emphasis on the newest computer-based tools for providing information and influence.",
+        "sections": [
+            {
+                "section": "52778D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Francesca Romana Puggelli",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "565",
+        "course_name": "Organizational Psychology",
+        "units": "(4.0 units)",
+        "description": "Examination of the psychological factors that impact employee motivation, job satisfaction, teamwork, leadership, and organizational development. Open only to Master of Applied Psychology students. Not available for major credit for GSBA majors",
+        "sections": [
+            {
+                "section": "52759D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "Mona Farid Nejad",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52788D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 22",
+                "instructor": "Julie Lyon",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "566",
+        "course_name": "The Psychology of Employee Selection and Assessment",
+        "units": "(4.0 units)",
+        "description": "Develop an understanding of recruitment and selection practices, processes, and approaches into the strategic role that recruitment and selection plays in organizational success.",
+        "sections": [
+            {
+                "section": "52767D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Khatera Sahibzada",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "578",
+        "course_name": "Workshop in Quantitative Methods",
+        "units": "(4.0 units, max 8)",
+        "description": "Practical, hands-on experience in the application of selected quantitative methods to empirical data. Includes training in the use of relevant computer software.",
+        "sections": [
+            {
+                "section": "52690D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 22",
+                "instructor": "Luke Thelen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "587",
+        "course_name": "Practicum in Applied Behavior Analysis",
+        "units": "(1.0-2.0 units, max 10)",
+        "description": "Provides supervised practical experience in implementing behavior analytic assessment and treatment services. Meets supervision requirements for the Board Certified Behavior Analyst exam. Students meet with course instructor to present and discuss cases for two hours per week every semester, including one summer session. Practicum hours in the field vary from 18-20 hours per week during the academic year to 30 hours per week during the summer.",
+        "sections": [
+            {
+                "section": "52754D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Jonathan Tarbox",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52734D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52735D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "591",
+        "course_name": "Applied Psychology Internship",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Internship in a non-university setting, such as business, governmental agency, or NGO. Graded CR/NC. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52768D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 25",
+                "instructor": "Francesca Romana Puggelli",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52771D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 25",
+                "instructor": "Francesca Romana Puggelli",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52952D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "Jenna Rubenstein",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52954D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 18",
+                "instructor": "Jenna Rubenstein",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "592",
+        "course_name": "Applied Psychology Treatise",
+        "units": "(2.0 units)",
+        "description": "Requires a research paper of substantial length and high quality that integrates the Internship experience with concepts and principles of human behavior. Credit/No Credit. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52764D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "Jorge Barraza",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52765D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Luke Thelen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52776D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Steven Westberg",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52777D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Mona Farid Nejad",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52736D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52742D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "595",
+        "course_name": "Practicum in Clinical Psychology",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Supervised experience in interviewing skills and in assessment, including psychological test administration, and the preparation of reports. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52753D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 2,
+                "registered": "9 of 15",
+                "instructor": "Latonya Huey",
+                "location": "GFS204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "597",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least two semesters of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "52738D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52739D",
+                "session": "089",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 3",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "695",
+        "course_name": "Advanced Practicum in Clinical Psychology",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Didactic practicum combining theory and research on psychological intervention with clinical practice in assessment and treatment, focused on particular client groups or disorders. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52755D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "4 of 5",
+                "instructor": "Brittany Beasley",
+                "location": "SGM1012"
+            },
+            {
+                "section": "52756D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 780,
+                "days": 8,
+                "registered": "5 of 10",
+                "instructor": "Lauren Shapiro",
+                "location": "SGM1012"
+            },
+            {
+                "section": "52757D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Gabrielle Lewine",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "696",
+        "course_name": "Externship for Practical Training",
+        "units": "(0.0 units)",
+        "description": "Externship for Practical Training is for clinical-related training experience in the students fieldof study. Students are individually supervised at their site.",
+        "sections": [
+            {
+                "section": "52758D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 40",
+                "instructor": "Brittany Beasley",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52790D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52791D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52782D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PSYC",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52497D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52498D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52784D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

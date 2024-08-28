@@ -1,0 +1,66 @@
+[
+    {
+        "term": "20242",
+        "department": "ALI",
+        "course_number": "252",
+        "course_name": "Advanced Pronunciation",
+        "units": "(2.0 units)",
+        "description": "Required for international students whose pronunciation skills are assessed at the advanced level by the International Student English Examination (ISE) or previous ALI course.",
+        "sections": [
+            {
+                "section": "10138R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "11 of 15",
+                "instructor": "Barry Griner",
+                "location": "DMC204"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ALI",
+        "course_number": "275",
+        "course_name": "Writing for Publication and Dissertations",
+        "units": "(2.0 units)",
+        "description": "Elective course for international graduate students focusing on conventions of advanced academic writing and problems in syntax, vocabulary, and register for writing and/or publishing dissertations. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "10170D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 10,
+                "registered": "6 of 8",
+                "instructor": "Mary Ann Murphy",
+                "location": "THH113"
+            },
+            {
+                "section": "10172D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 8",
+                "instructor": "Richard Jones",
+                "location": "THH113"
+            },
+            {
+                "section": "10173D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "8 of 8",
+                "instructor": "Mary Ann Murphy",
+                "location": "THH205"
+            }
+        ]
+    }
+]

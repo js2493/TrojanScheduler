@@ -1,0 +1,233 @@
+[
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "521",
+        "course_name": "Preclinical Endodontics",
+        "units": "(3.0 units)",
+        "description": "Theoretical principles of endodontic therapy related to pulpal and periapical disease; raining in procedures of localizing, preparing, and filling the root canal of human teeth.",
+        "sections": [
+            {
+                "section": "23363D",
+                "session": "989",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 10",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "701C",
+        "course_name": "Seminar: Biological Basis of Endodontic Therapy",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Investigation of the theoretical and biological bases of clinical endodontic procedures.",
+        "sections": [
+            {
+                "section": "23355D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 10",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "703B",
+        "course_name": "Seminar: Review of Endodontic Literature",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Critical review and analysis of classical and current endodontic literature.",
+        "sections": [
+            {
+                "section": "23356D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 11",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "703D",
+        "course_name": "Seminar: Review of Endodontic Literature",
+        "units": "(0.0-1.0 units, max 1)",
+        "description": "Critical review and analysis of classical and current endodontic literature.",
+        "sections": [
+            {
+                "section": "23350D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "704A",
+        "course_name": "Seminar: Surgical Endodontics",
+        "units": "(2.0 units)",
+        "description": "Indications, principles, and techniques of surgical endodontics.",
+        "sections": [
+            {
+                "section": "23357D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 11",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "705A",
+        "course_name": "Seminar: Endodontic Case Presentation",
+        "units": "(0.0-4.0 units, max 4)",
+        "description": "Student presentation of cases for critique and analysis.",
+        "sections": [
+            {
+                "section": "23358D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 11",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "705B",
+        "course_name": "Seminar: Endodontic Case Presentation",
+        "units": "(0.0-4.0 units, max 4)",
+        "description": "Student presentation of cases for critique and analysis.",
+        "sections": [
+            {
+                "section": "23351D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "710",
+        "course_name": "Seminar: Endodontic Practice Management",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Organizing, staffing, and evaluation of an endodontic practice. Modes and patterns of management including use of auxiliaries. Emphasis on endodontist-general practitioner relationship; legal aspects of dental practice. Seminar, 2 hours.",
+        "sections": [
+            {
+                "section": "23360D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 10",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "761C",
+        "course_name": "Clinic: Advanced Endodontics",
+        "units": "(1.0-9.0 units)",
+        "description": "Advanced clinical experience emphasizing the diagnosis and management of complicated endodontic cases.",
+        "sections": [
+            {
+                "section": "23359D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 11",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "761F",
+        "course_name": "Clinic: Advanced Endodontics",
+        "units": "(1.0-9.0 units)",
+        "description": "Advanced clinical experience emphasizing the diagnosis and management of complicated endodontic cases.",
+        "sections": [
+            {
+                "section": "23353D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ENDO",
+        "course_number": "790",
+        "course_name": "Directed Research: Endodontics",
+        "units": "(0.0-11.0 units, max 5)",
+        "description": "Principles of planning, organizing, and executing a clinical or educational research project.",
+        "sections": [
+            {
+                "section": "23354D",
+                "session": "990",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Rafael Roges",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "301",
+        "course_name": "America, the Frontier, and the New West",
+        "units": "(4.0 units)",
+        "description": "Introduction to an interdisciplinary study of American political, cultural and social life with a particular emphasis on the Western United States as a region. Recommended preparation: HIST 200, ENGL 263",
+        "sections": [
+            {
+                "section": "10408D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 14,
+                "registered": "29 of 28",
+                "instructor": "Chris Finley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "HIST",
+        "course_number": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37115D",
+                "session": "051",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 28,
+                "registered": "18 of 19",
+                "instructor": "Brett Sheehan",
+                "location": "MHP102"
+            }
+        ]
+    }
+]

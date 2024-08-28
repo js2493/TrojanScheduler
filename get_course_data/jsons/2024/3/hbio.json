@@ -1,0 +1,933 @@
+[
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "120",
+        "course_name": "Introduction to Human and Evolutionary Biology",
+        "units": "(1.0 unit)",
+        "description": "Introduction to the major and field of human and evolutionary biology; sub-disciplines, career options and areas for research; guest speakers.",
+        "sections": [
+            {
+                "section": "38409D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "80 of 80",
+                "instructor": "Helaine Lopes",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "200",
+        "course_name": "The Human Animal",
+        "units": "(4.0 units)",
+        "description": "Foundations of the human species. Examination of scientific evidence from Darwinian theory, primate behavior, fossils, and the behavior of modern people. Laboratory. Duplicates credit in former ANTH 200Lg.",
+        "sections": [
+            {
+                "section": "38511R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "144 of 144",
+                "instructor": "Craig Stanford",
+                "location": "MRF340"
+            },
+            {
+                "section": "38513R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38515R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38516R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38517R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38518R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38522R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38528R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38537R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38538R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "202",
+        "course_name": "Nutrition for Life",
+        "units": "(4.0 units)",
+        "description": "To develop an understanding of Nutrition, especially as it pertains to optimal health and prevention of diseases. A study of macro and micro nutrients.",
+        "sections": [
+            {
+                "section": "38400R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "90 of 90",
+                "instructor": "Gioia Polidori",
+                "location": "SOSB2"
+            },
+            {
+                "section": "38401R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38402R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38403R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38404R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Lisa Le",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38405R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38406R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "205",
+        "course_name": "The Science of Sport",
+        "units": "(4.0 units)",
+        "description": "The physiological and nutritional basis of human performance. Factors that facilitate and limit athletic achievement. Lecture, 3 hours; laboratory, 2 hours. Not available for major credit. Duplicates credit in former EXSC 205Lxg.",
+        "sections": [
+            {
+                "section": "38411R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "79 of 90",
+                "instructor": "Helen (Eleni) Soultanakis",
+                "location": "WPHB27"
+            },
+            {
+                "section": "38420R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "86 of 90",
+                "instructor": "Helen (Eleni) Soultanakis",
+                "location": "WPHB27"
+            },
+            {
+                "section": "38412R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "18 of 18",
+                "instructor": "Helaine Lopes",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38413R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "18 of 18",
+                "instructor": "Helaine Lopes",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38414R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "17 of 18",
+                "instructor": "Lisa Le",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38415R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "15 of 18",
+                "instructor": "Lisa Le",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38416R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "17 of 18",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38422R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 8,
+                "registered": "18 of 18",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38423R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "12 of 18",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38424R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "14 of 18",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38425R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38426R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "250",
+        "course_name": "The Pharmacology of Performance-Enhancing Drugs",
+        "units": "(4.0 units)",
+        "description": "Evaluation of drugs, nutritional supplements, and ergogenic aids that are purported to enhance human athletic performance.",
+        "sections": [
+            {
+                "section": "38429R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "63 of 80",
+                "instructor": "Kurt Kwast",
+                "location": "SLH102"
+            },
+            {
+                "section": "38430R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "16 of 20",
+                "instructor": "Alexander Bashaw",
+                "location": "PED203"
+            },
+            {
+                "section": "38431R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "14 of 20",
+                "instructor": "Logan Tierno Lauer",
+                "location": "PED203"
+            },
+            {
+                "section": "38432R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "16 of 20",
+                "instructor": "Katherine Merkling",
+                "location": "PED203"
+            },
+            {
+                "section": "38433R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "17 of 20",
+                "instructor": "Katherine Merkling",
+                "location": "PED203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "300",
+        "course_name": "Evolution, Ecology, and Culture",
+        "units": "(4.0 units)",
+        "description": "The roles of biology, culture, and the environment in shaping human society, integrating evolutionary biology and cultural theory. Duplicates credit in former ANTH 300.",
+        "sections": [
+            {
+                "section": "38529R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "35 of 35",
+                "instructor": "Trond Sigurdsen",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "301",
+        "course_name": "Human Anatomy",
+        "units": "(4.0 units)",
+        "description": "Major organ systems; functional implications of their relationships; gross and microscopic examination with an emphasis on practical skills in recognizing, dissecting, and differentiating anatomical structures. Duplicates credit in former EXSC 301L.",
+        "sections": [
+            {
+                "section": "38434D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "105 of 128",
+                "instructor": "Kurt Kwast",
+                "location": "THH202"
+            },
+            {
+                "section": "38435R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38436R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38437R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Jose Ubeda",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38438R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38439R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "14 of 15",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38440R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "13 of 15",
+                "instructor": "Lisa Le",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38441R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "10 of 15",
+                "instructor": "Lisa Le",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38442R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "9 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB7"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "302",
+        "course_name": "Nutrition and Metabolism",
+        "units": "(4.0 units)",
+        "description": "Gastrointestinal physiology and energy metabolism as it relates to macronutrient intake. Theories and principles of nutrition and their impact on metabolic regulation. Prerequisites: BISC 220L or BISC 221L. Duplicates credit in former EXSC 200.",
+        "sections": [
+            {
+                "section": "38443D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "94 of 94",
+                "instructor": "Tito Borner",
+                "location": "WPHB27"
+            },
+            {
+                "section": "38444R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "Gudrun Floyd",
+                "location": "ZHS460"
+            },
+            {
+                "section": "38445D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Gudrun Floyd",
+                "location": "ZHS460"
+            },
+            {
+                "section": "38446D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Gudrun Floyd",
+                "location": "ZHS460"
+            },
+            {
+                "section": "38447R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "ZHS460"
+            },
+            {
+                "section": "38448D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "ZHS460"
+            },
+            {
+                "section": "38449D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Gudrun Floyd",
+                "location": "ZHS460"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "308",
+        "course_name": "Origins and Evolution of Human Behavior",
+        "units": "(4.0 units)",
+        "description": "Examination of the evidence for and against evolutionary bases of a range of human behaviors. Topics include sex differences, human reproductive strategies, race, IQ, human ecology. Duplicates credit in former ANTH 308.",
+        "sections": [
+            {
+                "section": "38530R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "27 of 27",
+                "instructor": "Chrisandra Kufeldt",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "309",
+        "course_name": "The Human Machine",
+        "units": "(4.0 units)",
+        "description": "An exploration of how the human body works and why it works the way it does; draws from the fields of anatomy, biomechanics, physiology, engineering and paleoanthropology.",
+        "sections": [
+            {
+                "section": "38531R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "12 of 19",
+                "instructor": "Chrisandra Kufeldt",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "360",
+        "course_name": "Nutrition and Disease",
+        "units": "(4.0 units)",
+        "description": "Principles of diet therapy for the prevention and treatment of human disease.",
+        "sections": [
+            {
+                "section": "38541R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "62 of 70",
+                "instructor": "Gioia Polidori",
+                "location": "ZHS252"
+            },
+            {
+                "section": "38542R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Lisa Le",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38543R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "13 of 16",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38544R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Lisa Le",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38545R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "10 of 16",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB7"
+            },
+            {
+                "section": "38546R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 32,
+                "registered": "8 of 16",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB7"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "408",
+        "course_name": "Biomechanics",
+        "units": "(4.0 units)",
+        "description": "Kinematic and kinetic analysis of human motion. Emphasis on performance enhancement and injury prevention.",
+        "sections": [
+            {
+                "section": "38480R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "49 of 60",
+                "instructor": "Laura Held",
+                "location": "SLH100"
+            },
+            {
+                "section": "38481R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Shannon Cross",
+                "location": "PEDB15A"
+            },
+            {
+                "section": "38482R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "9 of 14",
+                "instructor": "Shannon Cross",
+                "location": "PEDB15A"
+            },
+            {
+                "section": "38483R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "13 of 14",
+                "instructor": "Shannon Cross",
+                "location": "PEDB15A"
+            },
+            {
+                "section": "38484R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "13 of 14",
+                "instructor": "Shannon Cross",
+                "location": "PEDB15A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "420",
+        "course_name": "Applied Human Physiology",
+        "units": "(4.0 units)",
+        "description": "The physiology of the respiratory, cardiovascular, renal, musculoskeletal, digestive, endocrine and nervous systems in humans, with application to human health and pathology.",
+        "sections": [
+            {
+                "section": "38488R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "45 of 60",
+                "instructor": "Kurt Kwast",
+                "location": "THH208"
+            },
+            {
+                "section": "38490R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Lisa Le",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38491R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38492R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "441",
+        "course_name": "Prevention of Athletic Injuries",
+        "units": "(4.0 units)",
+        "description": "Application of scientific principles to conditioning, protecting, and rehabilitating the athlete.",
+        "sections": [
+            {
+                "section": "38502R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "14 of 40",
+                "instructor": "Helaine Lopes",
+                "location": "PEDB15A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "491",
+        "course_name": "Laboratory Experience in Kinesiology",
+        "units": "(2.0-4.0 units)",
+        "description": "Practical laboratory experience in basic and applied exercise physiology, biochemistry, and/or biomechanics. Emphasizing development of laboratory techniques. Prerequisites: HBIO 203, HBIO 301, HBIO 302, HBIO 320. Duplicates credit in former EXSC 491.",
+        "sections": [
+            {
+                "section": "38507D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

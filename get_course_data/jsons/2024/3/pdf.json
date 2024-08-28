@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20243",
+        "department": "PDF",
+        "course_num": "999",
+        "course_name": "Postdoctoral Fellows",
+        "units": "(0.0 units)",
+        "description": "Course created for visiting postdoctoral fellows scholars. The course is created for enrollment purposes, zero units, full time status, scheduled in session 018, and never appears in the student academic records system.",
+        "sections": [
+            {
+                "section": "00214R",
+                "session": "074",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "158 of 500",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

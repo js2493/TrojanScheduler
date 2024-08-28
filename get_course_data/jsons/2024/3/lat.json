@@ -1,0 +1,128 @@
+[
+    {
+        "term": "20243",
+        "department": "LAT",
+        "course_num": "120",
+        "course_name": "Latin I",
+        "units": "(4.0 units)",
+        "description": "Essentials of Latin grammar and vocabulary.",
+        "sections": [
+            {
+                "section": "20000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 0,
+                "registered": "13 of 20",
+                "instructor": "Anastasiia Starovoitova",
+                "location": "DMC257"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LAT",
+        "course_num": "150",
+        "course_name": "Latin II",
+        "units": "(4.0 units)",
+        "description": "Essentials of Latin grammar and vocabulary, continued. Basic reading skills.",
+        "sections": [
+            {
+                "section": "20001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "9 of 20",
+                "instructor": "Faith McFadden",
+                "location": "THH215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LAT",
+        "course_num": "222",
+        "course_name": "Latin III",
+        "units": "(4.0 units)",
+        "description": "Reading Latin literature. Introduction to reading and translation of classical Latin prose and poetry. Extensive grammar review.",
+        "sections": [
+            {
+                "section": "20002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "13 of 20",
+                "instructor": "Charles Russell-Schlesinger",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LAT",
+        "course_num": "325",
+        "course_name": "Roman Historians",
+        "units": "(4.0 units)",
+        "description": "Readings from Sallust, Livy, and Tacitus.",
+        "sections": [
+            {
+                "section": "20004D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "2 of 7",
+                "instructor": "Madeline Thayer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LAT",
+        "course_num": "450",
+        "course_name": "Readings in Latin Literature",
+        "units": "(4.0 units, max 12)",
+        "description": "Readings in various authors and genres of latin literature.",
+        "sections": [
+            {
+                "section": "20005R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "4 of 7",
+                "instructor": "Anthony Boyle",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LAT",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Prerequisite: consent of instructor.",
+        "sections": [
+            {
+                "section": "20007D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "term": "20242",
+        "department": "GESM",
+        "course_number": "120",
+        "course_name": "Seminar in Humanistic Inquiry",
+        "units": "(4.0 units)",
+        "description": "Interpretation and analysis of works of the imagination, exploring language, thought, and cultural traditions in relation to one another. (Satisfies GE-B, Humanistic Inquiry) Open only to Freshmen.",
+        "sections": [
+            {
+                "section": "35330D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "17 of 19",
+                "instructor": "Thomas Ward",
+                "location": "DMC111"
+            },
+            {
+                "section": "35332D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 28,
+                "registered": "19 of 19",
+                "instructor": "Thomas Ward",
+                "location": "DMC111"
+            },
+            {
+                "section": "35335D",
+                "session": "973",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "14 of 19",
+                "instructor": "Keasha Worthen",
+                "location": "KDC236"
+            },
+            {
+                "section": "35336D",
+                "session": "973",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "15 of 19",
+                "instructor": "Stephanie Payne",
+                "location": "KDC240"
+            },
+            {
+                "section": "35337D",
+                "session": "973",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 30,
+                "registered": "13 of 19",
+                "instructor": "Ryan Leack",
+                "location": "KDC241"
+            }
+        ]
+    }
+]

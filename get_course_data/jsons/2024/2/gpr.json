@@ -1,0 +1,380 @@
+[
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "601",
+        "course_name": "Hospital Dentistry I",
+        "units": "(1.0 unit)",
+        "description": "Residents learn the nature of performing dentistry within a hospital setting. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24592D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "603A",
+        "course_name": "Dental Ethics",
+        "units": "(0.5 units)",
+        "description": "Residents prepare for ethical dilemmas which may occur when they are practicing dentistry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24593D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "603D",
+        "course_name": "Dental Ethics",
+        "units": "(0.5 units)",
+        "description": "Residents prepare for ethical dilemmas which may occur when practicing dentistry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24602D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "604A",
+        "course_name": "Practice Management",
+        "units": "(0.5 units)",
+        "description": "Resident learn the tools and principles of running or working in a private practice. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24594D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "604D",
+        "course_name": "Practice Management",
+        "units": "(0.5 units)",
+        "description": "Residents learn the tools and principles of running or working in a private practice. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24603D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "605A",
+        "course_name": "Review of General Dentistry Literature",
+        "units": "(1.0 unit)",
+        "description": "Residents learn how to research various topics and to critically review articles in order to practice evidence-based dentistry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24595D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "605D",
+        "course_name": "Review of General Dentistry Literature",
+        "units": "(1.0 unit)",
+        "description": "Residents learn how to research various topics and to critically review each article in order to practice evidence-based dentistry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24604D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "611A",
+        "course_name": "Emergency Medicine",
+        "units": "(0.5 units)",
+        "description": "Residents utilize medical knowledge to detect and identify early signs of medical emergencies. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24596D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "611D",
+        "course_name": "Emergency Medicine",
+        "units": "(0.5 units)",
+        "description": "Residents utilize medical knowledge to detect and identify early signs of medical emergencies. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24605D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "702",
+        "course_name": "General Dentistry Overview",
+        "units": "(1.0 unit)",
+        "description": "Residents demonstrate the most appropriate and ideal restorative treatment utilizing various dental materials. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24597D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "705A",
+        "course_name": "Periodontal Treatment Procedures",
+        "units": "(0.5 units)",
+        "description": "Presentation of various techniques in current periodontal treatment. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24598D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "705D",
+        "course_name": "Periodontal Treatment Procedures",
+        "units": "(0.5 units)",
+        "description": "Presentation of various techniques in current periodontal treatment. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24606D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "706A",
+        "course_name": "Treatment Planning",
+        "units": "(1.0 unit)",
+        "description": "Residents lead seminars with case presentations of complex multidisciplinary treatment plans, completed therapy and staff conferences. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24599D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "706D",
+        "course_name": "Treatment Planning",
+        "units": "(1.0 unit)",
+        "description": "Residents lead seminars with case presentations of complex multidisciplinary treatment plans, completed therapy and staff conferences. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24607D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "710A",
+        "course_name": "Oral and Maxillofacial Surgery",
+        "units": "(1.0 unit)",
+        "description": "More advanced instruction in oral and maxillofacial surgery and related diseases as appropriate to the practice of general dentistry; extensive clinical experience. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24600D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "710D",
+        "course_name": "Oral and Maxillofacial Surgery",
+        "units": "(1.0 unit)",
+        "description": "More advanced instruction in oral and maxillofacial surgery and related diseases as appropriate to the practice of general dentistry; extensive clinical experience. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24608D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "733A",
+        "course_name": "Advanced and Maxillofacial Prosthodontics",
+        "units": "(0.5 units)",
+        "description": "Residents train to treat patients requiring various types of removable and fixed prosthetics, including Maxillofacial prostheses. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24601D",
+                "session": "562",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GPR",
+        "course_number": "733D",
+        "course_name": "Advanced and Maxillofacial Prosthodontics",
+        "units": "(0.5 units)",
+        "description": "Residents train to treat patients requiring various types of removable and fixed prosthetics, including Maxillofacial prostheses. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24609D",
+                "session": "739",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "Rebecca Dayanim",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

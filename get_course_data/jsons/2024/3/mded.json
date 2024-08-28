@@ -1,0 +1,86 @@
+[
+    {
+        "term": "20243",
+        "department": "MDED",
+        "course_num": "501",
+        "course_name": "Narrative Medicine I: Witnessing, Listening, Reflecting",
+        "units": "(4.0 units)",
+        "description": "Introduction to Narrative Medicine and history of health humanities; examine theories of narrative, trauma, witnessing, identity as related to health care and the clinical encounter.",
+        "sections": [
+            {
+                "section": "41450D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1080,
+                "days": 16,
+                "registered": "6 of 15",
+                "instructor": "Erika Wright,Kairos Llobrera",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDED",
+        "course_num": "503",
+        "course_name": "Creative Writing and Its Applications in Narrative Medicine",
+        "units": "(4.0 units)",
+        "description": "Introduction to creative writing in the clinical setting; study of nonfiction/journalism, memoir, fiction and poetry; work toward a creative project that incorporates narrative medicine methods.",
+        "sections": [
+            {
+                "section": "41455D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 780,
+                "days": 4,
+                "registered": "8 of 15",
+                "instructor": "Abigail Rasminsky",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDED",
+        "course_num": "504",
+        "course_name": "Research Methods in Narrative Medicine",
+        "units": "(4.0 units)",
+        "description": "Explore philosophical underpinnings of qualitative research and its use in health research; develop specific methodologies for data collection and assessment in Narrative Medicine.",
+        "sections": [
+            {
+                "section": "41453D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1080,
+                "days": 4,
+                "registered": "7 of 15",
+                "instructor": "Ronan Hallowell",
+                "location": "KAMB21/23"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDED",
+        "course_num": "510",
+        "course_name": "Narrative Ethics: Illness, Disability, Equity and Community",
+        "units": "(4.0 units)",
+        "description": "Examine the relationship between illness and disability narratives and their familial, social and institutional contexts; develop skills in interviewing, close reading and writing toward publication.",
+        "sections": [
+            {
+                "section": "41454D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "9 of 15",
+                "instructor": "Lyn Boyd-Judson",
+                "location": "KAMB21/23"
+            }
+        ]
+    }
+]

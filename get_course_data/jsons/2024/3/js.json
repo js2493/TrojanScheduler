@@ -1,0 +1,279 @@
+[
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "100",
+        "course_name": "Jewish History",
+        "units": "(4.0 units)",
+        "description": "Major ideas, personalities, and movements in Jewish history from antiquity to the present in light of the interaction of the Jews with the general culture.",
+        "sections": [
+            {
+                "section": "38250R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "62 of 100",
+                "instructor": "Ariel Berger,Leah Hochman",
+                "location": "THH201"
+            },
+            {
+                "section": "38251R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Julia Knobloch",
+                "location": "SOSB37"
+            },
+            {
+                "section": "38252R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "David Gonzalez",
+                "location": "WPH106"
+            },
+            {
+                "section": "38253R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 2,
+                "registered": "8 of 25",
+                "instructor": "David Gonzalez",
+                "location": "WPH106"
+            },
+            {
+                "section": "38260R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "4 of 25",
+                "instructor": "Charles Mays",
+                "location": "THH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "150",
+        "course_name": "Jewish Histories of the Modern Middle East",
+        "units": "(4.0 units)",
+        "description": "Explores Jewish participation in the social, cultural, political and economic life of the modern Middle East.",
+        "sections": [
+            {
+                "section": "38231R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Michael Rom,Leah Hochman",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "180",
+        "course_name": "Judaism",
+        "units": "(4.0 units)",
+        "description": "Jewish beliefs, practices, and history from the biblical period to the present; Judaic contributions to Western civilization.",
+        "sections": [
+            {
+                "section": "38261R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Sarah Benor,Leah Hochman",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "211",
+        "course_name": "The Holocaust",
+        "units": "(4.0 units)",
+        "description": "Historical background and responses to the Holocaust, withspecial emphasis on ethical implications.",
+        "sections": [
+            {
+                "section": "38255R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "99 of 100",
+                "instructor": "Michael Rom,Leah Hochman",
+                "location": "ZHS159"
+            },
+            {
+                "section": "38256R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "THH110"
+            },
+            {
+                "section": "38257R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "THH108"
+            },
+            {
+                "section": "38258R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "DMC200"
+            },
+            {
+                "section": "38259R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "310",
+        "course_name": "The Eastern European Jewish Experience: Literature and Film",
+        "units": "(4.0 units)",
+        "description": "Analyzes works by different artists -- writers, filmmakers, painters -- in order to understand the significant contribution that the Jewish experience in Eastern Europe has made to Jewish communities worldwide.",
+        "sections": [
+            {
+                "section": "60221R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "28 of 28",
+                "instructor": "Andrzej Brylak",
+                "location": "DMC257"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "379",
+        "course_name": "Mixing and Matching: Intermarriage in 21st Century",
+        "units": "(4.0 units)",
+        "description": "An investigation into inter-ethnic, interracial, and inter-religious marriage in the 21st century.",
+        "sections": [
+            {
+                "section": "38225R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Bruce Phillips,Leah Hochman",
+                "location": "DMC158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "382",
+        "course_name": "Judaism as an American Religion",
+        "units": "(4.0 units)",
+        "description": "The development of American expressions of Judaism as part of the American religious context, from the perspective of the social scientific study of religion.",
+        "sections": [
+            {
+                "section": "38223R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Bruce Phillips,Leah Hochman",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "38265D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38266D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

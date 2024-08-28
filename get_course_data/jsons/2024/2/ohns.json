@@ -1,0 +1,139 @@
+[
+    {
+        "term": "20242",
+        "department": "OHNS",
+        "course_number": "508",
+        "course_name": "Assessment of Communication Disorders",
+        "units": "(3.0 units)",
+        "description": "Principles, methods and materials to assess communication disorders. Models of assessment and testing, techniques, administration, scoring and interpretation, report writing and related issues.",
+        "sections": [
+            {
+                "section": "80018R",
+                "session": "608",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1140,
+                "days": 2,
+                "registered": "23 of 23",
+                "instructor": "Aaron Rothbart,Cecilia Perez,Barbara Moore,Erin Castro",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OHNS",
+        "course_number": "511",
+        "course_name": "Aural (Re)Habilitation",
+        "units": "(3.0 units)",
+        "description": "Introduction to the theories, concepts and components that underlie aural habilitation and rehabilitation to individuals with hearing loss, and concomitant services to their family members.",
+        "sections": [
+            {
+                "section": "80021R",
+                "session": "428",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "23 of 23",
+                "instructor": "Karen Johnson,",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OHNS",
+        "course_number": "512",
+        "course_name": "Communication Disorders in Early Childhood",
+        "units": "(3.0 units)",
+        "description": "Normal and atypical development relating to prevention, evaluation, treatment planning and remediating communication disorders in early childhood. Involvement of family, interdisciplinary teaming and legal requirements.",
+        "sections": [
+            {
+                "section": "80022R",
+                "session": "344",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "Yao Du,Barbara Moore,Erin Castro",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OHNS",
+        "course_number": "514",
+        "course_name": "Clinical Rotations in Speech-Language Pathology",
+        "units": "(3.0 units, max 6)",
+        "description": "Supervised clinical hours in assessment and treatment of individuals with varying communication disorders at two specialty rotations for six weeks each.",
+        "sections": [
+            {
+                "section": "80024R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 660,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "Jennifer Shubin,Barbara Moore,Erin Castro,Aaron Rothbart,Hope Morris-Baldridge",
+                "location": ""
+            },
+            {
+                "section": "80034R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 660,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "Hope Morris-Baldridge,Barbara Moore,Cecilia Perez,Erin Castro,Jennifer Shubin,Yao Du,Aaron Rothbart,Lauren Timmons Sund",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OHNS",
+        "course_number": "522",
+        "course_name": "Telepractice and Technological Applications in Speech-Langua",
+        "units": "(2.0 units)",
+        "description": "Examination of technological applications and service delivery via telepractice. Problem solving and empirical evidence related to assessment, intervention, data collection, licensure, regulations and potential barriers.",
+        "sections": [
+            {
+                "section": "80032R",
+                "session": "072",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "23 of 23",
+                "instructor": "Yao Du,",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OHNS",
+        "course_number": "523",
+        "course_name": "Counseling in Speech-Language Pathology",
+        "units": "(2.0 units)",
+        "description": "The role of the speech-language pathologist in providing communication counseling to address the broader impact of communication and swallowing disorders.",
+        "sections": [
+            {
+                "section": "80023R",
+                "session": "885",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "23 of 23",
+                "instructor": "Aaron Rothbart,",
+                "location": ""
+            }
+        ]
+    }
+]

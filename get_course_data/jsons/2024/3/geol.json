@@ -1,0 +1,1173 @@
+[
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "107",
+        "course_name": "Oceanography",
+        "units": "(4.0 units)",
+        "description": "Physical, chemical, and geological character of the oceans andocean basins. Origin of the oceans. Ocean processes and agents.Economic value of the oceans. Lecture, 3 hours; laboratory, 2 hours. One all-day field trip required.",
+        "sections": [
+            {
+                "section": "24824R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "269 of 270",
+                "instructor": "Sarah Feakins",
+                "location": "SGM123"
+            },
+            {
+                "section": "24826R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Kristin Watmore",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24828R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Dannielle Fougere",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24830R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Ronmel Rugama-Montenegro",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24833R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "14 of 15",
+                "instructor": "Ronmel Rugama-Montenegro",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24834R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Lovell Smith",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24835R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Lovell Smith",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24836R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Ronmel Rugama-Montenegro",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24837R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "James Pinto",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24838R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Dannielle Fougere",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24840R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Lovell Smith",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24842R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "James Pinto",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24846R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Dannielle Fougere",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24847R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Jacob Perez",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24848R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "James Pinto",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24850R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Jacob Perez",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24852R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Kristin Watmore",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24853R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Jacob Perez",
+                "location": "ZHSB61"
+            },
+            {
+                "section": "24854R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Kristin Watmore",
+                "location": "ZHSB61"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "150",
+        "course_name": "Climate Change",
+        "units": "(4.0 units)",
+        "description": "Exploration of factors that influence climate and the scientific basis for concern about rising greenhouse gases, the threat to human society know as global warming.",
+        "sections": [
+            {
+                "section": "24920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "135 of 135",
+                "instructor": "Lowell Stott",
+                "location": "SAL101"
+            },
+            {
+                "section": "24923R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Tanaya Gondhalekar",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24925R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adit Ghosh",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24926R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Lily Dodd",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24928R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adit Ghosh",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24929R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Tanaya Gondhalekar",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24930R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Lily Dodd",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24931R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adit Ghosh",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24932R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Tanaya Gondhalekar",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24934R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Lily Dodd",
+                "location": "ZHSB54"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "160",
+        "course_name": "Introduction to Geosystems",
+        "units": "(4.0 units)",
+        "description": "Survey of natural geological/ environmental processes (systems) and variability active near the earth's surface in the region that houses most life (the biosphere).",
+        "sections": [
+            {
+                "section": "24937D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "134 of 135",
+                "instructor": "Steve Lund",
+                "location": "THH301"
+            },
+            {
+                "section": "24938R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Yu-Fang Hsu",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24941R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "8 of 15",
+                "instructor": "Priyanka Soni",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24943R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "17 of 15",
+                "instructor": "Yu-Fang Hsu",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24946R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Priyanka Soni",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24947R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Yu-Fang Hsu",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24949R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Melonie Nguyen",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24953R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "16 of 15",
+                "instructor": "Melonie Nguyen",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24955D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Priyanka Soni",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24957R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Melonie Nguyen",
+                "location": "ZHSB54"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "165",
+        "course_name": "Metals and Life on Earth",
+        "units": "(4.0 units)",
+        "description": "The role of metals in life, from the origin of life to modern environmental problems.",
+        "sections": [
+            {
+                "section": "24975R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 890,
+                "days": 40,
+                "registered": "44 of 45",
+                "instructor": "Seth John",
+                "location": "SAL101"
+            },
+            {
+                "section": "24978R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "14 of 15",
+                "instructor": "Cat Odendahl",
+                "location": "ZHSB56"
+            },
+            {
+                "section": "24982D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "ZHSB56"
+            },
+            {
+                "section": "24988R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Cat Odendahl",
+                "location": "ZHSB56"
+            },
+            {
+                "section": "24991R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Cat Odendahl",
+                "location": "ZHSB56"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "240",
+        "course_name": "Earthquakes",
+        "units": "(4.0 units)",
+        "description": "Causes of earthquakes and nature of large faults; earthquake hazard and risk; world's great earthquakes; understanding the Richter scale. Lecture, 3 hours; laboratory, 2 hours; one fieldtrip required.",
+        "sections": [
+            {
+                "section": "24950R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "95 of 96",
+                "instructor": "James Dolan",
+                "location": "SAL101"
+            },
+            {
+                "section": "24952D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Jessica White",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24954R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Brianna Birkel",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24956D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24962R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Brianna Birkel",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24964R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Jessica White",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24966R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "14 of 16",
+                "instructor": "Jessica White",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24967R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Brianna Birkel",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24973D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24974D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "ZHSB63"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "290",
+        "course_name": "Special Laboratory",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for GEOL 105Lg, 107Lxg, 108Lg, 125Lxg, 130Lxg, 150Lxg, or 240Lxg for students with equivalent lecture credit from another institution.",
+        "sections": [
+            {
+                "section": "24945D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "Frank Corsetti",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "315",
+        "course_name": "Minerals and Earth Systems",
+        "units": "(4.0 units)",
+        "description": "Minerals and their formation in Earth geosystems; includes discussions of mineral properties, crystal structures, uses and biogeochemical importance. Lecture, 3 hours; laboratory, 6 hours; required field trips. Recommended preparation: any introductory GEOL course.",
+        "sections": [
+            {
+                "section": "24940R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Caroline Seyler",
+                "location": "ZHS200"
+            },
+            {
+                "section": "24942R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "4 of 20",
+                "instructor": "Justine Grabiec",
+                "location": "ZHSB65"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "433",
+        "course_name": "Paleontology and Evolution in Deep Time",
+        "units": "(4.0 units)",
+        "description": "Origin and evolution of life; Precambrian life; evolutionary history of major groups during the Phanerozoic; mass extinctions; deep time and evolutionary processes. Recommended preparation: any introductory GEOL course. Lecture, 3 hours; laboratory, 3 hours; required field trips.",
+        "sections": [
+            {
+                "section": "25007R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "12 of 20",
+                "instructor": "David Bottjer",
+                "location": "ZHS200"
+            },
+            {
+                "section": "25009R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "12 of 20",
+                "instructor": "Samuel Little",
+                "location": "ZHSB65"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "450",
+        "course_name": "Geosystems",
+        "units": "(4.0 units)",
+        "description": "Geosystems, such as mantle convection, active faults, climate, and the carbon cycle, will be studied using numerical models and concepts such as chaos, universality, emergence, and intermittency. Lecture, 3 hours; laboratory, 2 hours. Recommended preparation: MATH 126.",
+        "sections": [
+            {
+                "section": "24981R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 40,
+                "registered": "0 of 20",
+                "instructor": "Doug Hammond",
+                "location": "ZHS200"
+            },
+            {
+                "section": "24983R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "ZHSB65"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "24994D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "David Bottjer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "494",
+        "course_name": "Senior Thesis",
+        "units": "(2.0 units)",
+        "description": "Writing of a thesis under individual faculty supervision. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "24996D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "David Bottjer",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Special topics in the earth sciences. Field trip required when appropriate to the topic. Departmental approval required.",
+        "sections": [
+            {
+                "section": "24997D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "10 of 14",
+                "instructor": "John Platt",
+                "location": "ZHS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "500",
+        "course_name": "Paleoecology",
+        "units": "(3.0 units)",
+        "description": "Principles of paleoecology for marine and terrestrial settings; interrelationships between organisms and their environment in geologic time including evolutionary and conservation paleoecology.",
+        "sections": [
+            {
+                "section": "24995R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "David Bottjer",
+                "location": "ZHS200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "512",
+        "course_name": "Introduction to Chemical and Physical Oceanography",
+        "units": "(4.0 units)",
+        "description": "Principles of physical, chemical, and geological oceanography including discussions of air-sea interaction, biogeochemical cycling and the role of the ocean in modulating climate and atmospheric composition; discussion section will cover formulation of basic calculations that illustrate these principles.",
+        "sections": [
+            {
+                "section": "48302R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 40,
+                "registered": "13 of 20",
+                "instructor": "Seth John,Julien Emile-Geay",
+                "location": "ZHS118"
+            },
+            {
+                "section": "48303R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "552",
+        "course_name": "Advanced Seismology",
+        "units": "(3.0 units)",
+        "description": "Advanced methods of theoretical seismology for studying the generation of seismic waves from natural and artificial sources and the propagation through realistic earth models.",
+        "sections": [
+            {
+                "section": "25015R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "2 of 20",
+                "instructor": "Tom Jordan",
+                "location": "ZHS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "25040D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 40",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching the Liberal Arts",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within college disciplines. Intended for teaching assistants in Dornsife College.",
+        "sections": [
+            {
+                "section": "25041R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "5 of 20",
+                "instructor": "Heidi Houston,Michelle Zill",
+                "location": "ZHS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "25042D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "25044D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "25046D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Special topics in the geological sciences. Field trip required when appropriate to the topic.",
+        "sections": [
+            {
+                "section": "25010R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "0 of 20",
+                "instructor": "Heidi Houston",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "600",
+        "course_name": "Earth Sciences Colloquium",
+        "units": "(1.0-2.0 units)",
+        "description": "Exploration of prominent topics at the frontiers of research in the geosciences, through weekly talks presented by leading researchers in the field. Specific topics vary by semester.",
+        "sections": [
+            {
+                "section": "25008R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 2,
+                "registered": "10 of 20",
+                "instructor": "John Vidale",
+                "location": "ZHS159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "25060D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 40",
+                "instructor": "Frank Corsetti",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "25062D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "25064D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "25066D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "25068D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "25070D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

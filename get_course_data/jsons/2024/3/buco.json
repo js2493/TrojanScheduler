@@ -1,0 +1,160 @@
+[
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "333",
+        "course_name": "Communication in the Working World - Managing Diversity",
+        "units": "(4.0 units)",
+        "description": "Communication strategies to manage workplace diversity. Historical, social, legal precedents. Institutional barriers to diversity. Race, gender, sexual orientation, age, physical disabilities, culture.",
+        "sections": [
+            {
+                "section": "15168R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "20 of 36",
+                "instructor": "Naomi Warren",
+                "location": "ACC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "460",
+        "course_name": "International Business Communication",
+        "units": "(4.0 units)",
+        "description": "Explore the cultural dynamics and organizational communication models that contribute to successful business practices in multinational corporations and other global settings.",
+        "sections": [
+            {
+                "section": "15230R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "12 of 36",
+                "instructor": "Yijia Guo",
+                "location": "JFF417"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Current developments in the field of business communication. Topics vary from semester to semester.",
+        "sections": [
+            {
+                "section": "15155R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Janna Wong",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "552",
+        "course_name": "Defining and Communicating Your Professional Value",
+        "units": "(1.5 units)",
+        "description": "Understand how to define and communicate your individual professional identity and value to employers across diverse professional fields using specialized applied tools.",
+        "sections": [
+            {
+                "section": "15189R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Kirk Snyder",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "593",
+        "course_name": "Independent Research in Management Communication",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "15165D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Kirk Snyder",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15166D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Peter Cardon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-3.0 units, max 9)",
+        "description": "Current developments in the field of business communication. Topics vary from semester to semester. Online registration open only to graduate business and accounting students.",
+        "sections": [
+            {
+                "section": "15248R",
+                "session": "277",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1290,
+                "days": 8,
+                "registered": "17 of 28",
+                "instructor": "Stephen Lind",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BUCO",
+        "course_num": "633",
+        "course_name": "Writing a Journal Article for Publication",
+        "units": "(2.0 units, max 4)",
+        "description": "Developing strategies for productive academic writing; drafting and revising an article for journal submission. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "15185D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 2,
+                "registered": "0 of 8",
+                "instructor": "Lee Cerling",
+                "location": "ACC312"
+            }
+        ]
+    }
+]

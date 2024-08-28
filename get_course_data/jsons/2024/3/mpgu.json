@@ -1,0 +1,759 @@
+[
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "120A",
+        "course_name": "Beginning Pop/Rock Guitar",
+        "units": "(2.0 units)",
+        "description": "Introduction to the performance technique of pop/rock guitar as well as music theory fundamentals, exploring repertoire by artists such as The Beatles and Dave Matthews.",
+        "sections": [
+            {
+                "section": "45000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "MUS101"
+            },
+            {
+                "section": "45001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "18 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "5 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45003R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "6 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45010R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45015R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45020R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "11 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45025R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "4 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "9 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "9 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45045R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "3 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "3 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "120B",
+        "course_name": "Beginning Pop/Rock Guitar",
+        "units": "(2.0 units)",
+        "description": "Introduction to the performance technique of pop/rock guitar as well as music theory fundamentals, exploring repertoire by artists such as The Beatles and Dave Matthews.",
+        "sections": [
+            {
+                "section": "45060R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "8 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "BMH200"
+            },
+            {
+                "section": "45065R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "3 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "MUS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "121",
+        "course_name": "Intensive Beginning Pop/Rock Guitar",
+        "units": "(4.0 units)",
+        "description": "Introduction to the performance technique of pop/rock guitar as well as music theory fundamentals, exploring repertoire by artists such as the Beatles and Dave Matthews. (Duplicates credit in MPGU 120abcd.)",
+        "sections": [
+            {
+                "section": "45105R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "9 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "MUS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "125",
+        "course_name": "Beginning Fingerstyle/Chord Guitar",
+        "units": "(2.0 units)",
+        "description": "Basic fingerstyle guitar, learned through the study of such pieces as \"Greensleeves,\" \"Malaguena,\" and \"Minuet\" (Bach); song accompaniment patterns and music notation for the beginner.",
+        "sections": [
+            {
+                "section": "45140R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1200,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "8 of 18",
+                "instructor": "Scott Tennant",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "126",
+        "course_name": "Easy Fingerstyle Beatles",
+        "units": "(2.0 units)",
+        "description": "Techniques of classical guitar applied to the study of five to eight Beatles songs, from \"Hey Jude\" to \"Blackbird.\" No guitar or music background required.",
+        "sections": [
+            {
+                "section": "45145R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "9 of 12",
+                "instructor": "Scott Tennant",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "127",
+        "course_name": "Easy Fingerstyle Brazilian Rhythms",
+        "units": "(2.0 units)",
+        "description": "Learn basic Brazilian rhythms and famous classics with classical guitar fingerstyle techniques.",
+        "sections": [
+            {
+                "section": "45148R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "9 of 18",
+                "instructor": "Scott Tennant",
+                "location": "BMH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "153",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45150D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "3 of 15",
+                "instructor": "William Kanengiser,",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "160A",
+        "course_name": "Functional Skills for the Jazz Guitarist",
+        "units": "(2.0 units)",
+        "description": "Study of theory, technique, and fingerboard organization of melodic and harmonic topics as applied to guitar.",
+        "sections": [
+            {
+                "section": "45165D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "8 of 15",
+                "instructor": "Steve Trovato",
+                "location": "MUS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "253",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45180D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "William Kanengiser,",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "260",
+        "course_name": "Improvising and Arranging for Jazz Guitar",
+        "units": "(2.0 units)",
+        "description": "Study and application of principles of improvisation and arranging for Jazz Guitar.",
+        "sections": [
+            {
+                "section": "45197D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "3 of 20",
+                "instructor": "Molly Miller",
+                "location": "MUS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors. Recommended preparation: MPGU 101x.",
+        "sections": [
+            {
+                "section": "45200D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45205D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 35",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principal instrument for music minors and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "45210D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45215D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 30",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45218D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "353",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45220D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "2 of 15",
+                "instructor": "William Kanengiser,",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "426",
+        "course_name": "Classical Guitar History and Literature",
+        "units": "(2.0 units)",
+        "description": "Survey of the history and literature of the guitar and its relatives, primarily the lute and vihuela, from 1500 to 1850.",
+        "sections": [
+            {
+                "section": "45263D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "9 of 12",
+                "instructor": "Brian Head",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "453",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45272D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "6 of 15",
+                "instructor": "William Kanengiser,",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "45290D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45295D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "45305D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45313D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45325D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "4 of 15",
+                "instructor": "William Kanengiser,",
+                "location": "BMH100"
+            },
+            {
+                "section": "45330D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "554",
+        "course_name": "Graduate Certificate Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Graduate Certificate students.",
+        "sections": [
+            {
+                "section": "45333D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45335D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "558",
+        "course_name": "Advanced Studio Guitar Performance Class",
+        "units": "(1.0 units, max 4)",
+        "description": "Study of advanced studio guitar and ensemble literature; interpretation; professional preparation, and other topics appropriate for group study. Prerequisite: bachelor's degree with music major: principle instrument, studio guitar.",
+        "sections": [
+            {
+                "section": "45340D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "4 of 15",
+                "instructor": "Richard Smith",
+                "location": "MUS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45345D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45350D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for D.M.A. Performance majors.",
+        "sections": [
+            {
+                "section": "45365D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "3 of 15",
+                "instructor": "William Kanengiser,",
+                "location": "BMH100"
+            },
+            {
+                "section": "45370D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "754",
+        "course_name": "Artist Diploma Perfomance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Artist Diploma students.",
+        "sections": [
+            {
+                "section": "45380D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPGU",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45388D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45390D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

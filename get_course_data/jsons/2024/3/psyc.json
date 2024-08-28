@@ -1,0 +1,3037 @@
+[
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "100",
+        "course_name": "Introduction to Psychology",
+        "units": "(4.0 units)",
+        "description": "Introduction to psychological science, including historical and contemporary approaches. Behavior examined from biological, cognitive, social, developmental, and personality perspectives. Disorders and treatments.",
+        "sections": [
+            {
+                "section": "52400R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "179 of 179",
+                "instructor": "Kyoung sook Kim",
+                "location": "THH101"
+            },
+            {
+                "section": "52401R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "21 of 21",
+                "instructor": "",
+                "location": "KAP156"
+            },
+            {
+                "section": "52402R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "52403R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "52404R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "52405R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "52406R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "22 of 22",
+                "instructor": "",
+                "location": "ZHS360"
+            },
+            {
+                "section": "52407R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "KAP167"
+            },
+            {
+                "section": "52409R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "52410R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "178 of 178",
+                "instructor": "Lacy Olson-Ayala",
+                "location": "SGM124"
+            },
+            {
+                "section": "52411R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "22 of 22",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "52412R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "22 of 22",
+                "instructor": "",
+                "location": "KAP163"
+            },
+            {
+                "section": "52413R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "52414R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "21 of 21",
+                "instructor": "",
+                "location": "GFS223"
+            },
+            {
+                "section": "52415R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "GFS229"
+            },
+            {
+                "section": "52416R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "52418R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 2,
+                "registered": "21 of 21",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "52419R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "GFS105"
+            },
+            {
+                "section": "52451R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "190 of 190",
+                "instructor": "Patricia George",
+                "location": "THH201"
+            },
+            {
+                "section": "52453R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "52458R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "52550R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SGM226"
+            },
+            {
+                "section": "52551R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SGM226"
+            },
+            {
+                "section": "52554R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "52556R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "22 of 22",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "52557R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "GFS220"
+            },
+            {
+                "section": "52558R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "21 of 21",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "52440R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "158 of 158",
+                "instructor": "Laila Madni",
+                "location": "THH201"
+            },
+            {
+                "section": "52441R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "21 of 21",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "52443R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "GFS107"
+            },
+            {
+                "section": "52444R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "21 of 21",
+                "instructor": "",
+                "location": "GFS228"
+            },
+            {
+                "section": "52445R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "",
+                "location": "GFS108"
+            },
+            {
+                "section": "52446R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "GFS222"
+            },
+            {
+                "section": "52447R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "18 of 18",
+                "instructor": "",
+                "location": "KAP147"
+            },
+            {
+                "section": "52448R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "GFS213"
+            },
+            {
+                "section": "52449R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 16,
+                "registered": "17 of 17",
+                "instructor": "",
+                "location": "GFS107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "210",
+        "course_name": "Social Analysis of Gender",
+        "units": "(4.0 units)",
+        "description": "Multidisciplinary survey of gender assumptions in relation to sexuality, mental health, social and political relations, and artistic expression.",
+        "sections": [
+            {
+                "section": "34900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "149 of 150",
+                "instructor": "Chris Belcher",
+                "location": "MHP101"
+            },
+            {
+                "section": "34906D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "Ethan Trejo",
+                "location": "DMC109"
+            },
+            {
+                "section": "34907R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ethan Trejo",
+                "location": "THH112"
+            },
+            {
+                "section": "34908R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kelso Becktol",
+                "location": "DMC211"
+            },
+            {
+                "section": "34909R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kelso Becktol",
+                "location": "THH108"
+            },
+            {
+                "section": "34910R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Luka Fisher",
+                "location": "THH121"
+            },
+            {
+                "section": "34911R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Luka Fisher",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "274",
+        "course_name": "Statistics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the use of statistics in psychology: basic ideas in measurement; frequency distributions; descriptive statistics; concepts and procedures in statistical inference.",
+        "sections": [
+            {
+                "section": "52450R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "34 of 34",
+                "instructor": "William Breland",
+                "location": "GFS207"
+            },
+            {
+                "section": "52452R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52454R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52455R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "36 of 36",
+                "instructor": "David Walsh",
+                "location": "SGM601"
+            },
+            {
+                "section": "52456R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52457R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "17 of 17",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52460R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Canan Ipek",
+                "location": "ZHS163"
+            },
+            {
+                "section": "52461R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52462R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52473R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "36 of 37",
+                "instructor": "Rand Wilcox",
+                "location": "DMC150"
+            },
+            {
+                "section": "52474R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52475R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "16 of 17",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52476R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "30 of 35",
+                "instructor": "William Breland",
+                "location": "GFS207"
+            },
+            {
+                "section": "52477R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52478R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "11 of 16",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52480R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "34 of 34",
+                "instructor": "Canan Ipek",
+                "location": "THH118"
+            },
+            {
+                "section": "52484R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1060,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52486R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52470D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "36 of 36",
+                "instructor": "David Walsh",
+                "location": "GFS207"
+            },
+            {
+                "section": "52471D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM631"
+            },
+            {
+                "section": "52472R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "21 of 20",
+                "instructor": "",
+                "location": "SGM631"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "290",
+        "course_name": "Supervised Research in Psychology",
+        "units": "(2.0-4.0 units)",
+        "description": "Supervised Research with department faculty.",
+        "sections": [
+            {
+                "section": "52483D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "301",
+        "course_name": "Cognitive Processes",
+        "units": "(4.0 units)",
+        "description": "Experimental and theoretical aspects of human memory, perception, thinking, and language. Lectures, demonstrations, and individual experiments. Prerequisite: 100g or departmental approval.",
+        "sections": [
+            {
+                "section": "52481R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "60 of 60",
+                "instructor": "Toby Mintz",
+                "location": "SSL202"
+            },
+            {
+                "section": "52482R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "115 of 115",
+                "instructor": "Bryan Shilowich",
+                "location": "THH301"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "304",
+        "course_name": "Sensation and Perception",
+        "units": "(4.0 units)",
+        "description": "Receptor processes and stimulus organization; traditional topics in the perception of objects, space, time. Laboratory demonstrations and exercises.",
+        "sections": [
+            {
+                "section": "52487R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "23 of 23",
+                "instructor": "Clayton Stephenson",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "305",
+        "course_name": "Learning and Memory",
+        "units": "(4.0 units)",
+        "description": "Principles involved in classical and operant conditioning. Concentration on basic causes of behavior; consideration of the relevance of simple behavioral laws to complicated human behavior.",
+        "sections": [
+            {
+                "section": "52500R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "31 of 50",
+                "instructor": "Clayton Stephenson",
+                "location": "SSL202"
+            },
+            {
+                "section": "52501R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "23 of 50",
+                "instructor": "Clayton Stephenson",
+                "location": "THH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "314",
+        "course_name": "Experimental Research Methods",
+        "units": "(4.0 units)",
+        "description": "Experimental research methods in psychology; nature and concepts of scientific method.",
+        "sections": [
+            {
+                "section": "52527R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "47 of 48",
+                "instructor": "Kyoung sook Kim",
+                "location": "LVL16"
+            },
+            {
+                "section": "52528R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "52529R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "22 of 25",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "52524R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Kyoung sook Kim",
+                "location": "VPD105"
+            },
+            {
+                "section": "52525R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "52526R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KOH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "316",
+        "course_name": "Non-Experimental Research Methods",
+        "units": "(4.0 units)",
+        "description": "Non-experimental research methods in psychology. Observational, survey and data analysis exercises",
+        "sections": [
+            {
+                "section": "52619R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Bryan Shilowich",
+                "location": "THH116"
+            },
+            {
+                "section": "52652R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "52654R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "WPHB36"
+            },
+            {
+                "section": "52655R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Bryan Shilowich",
+                "location": "GFS118"
+            },
+            {
+                "section": "52656R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "52657R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "326",
+        "course_name": "Behavioral Neuroscience",
+        "units": "(4.0 units)",
+        "description": "Neural bases of behavior. Concentration on sensory and motor processes and the interaction of neural, chemical, and hormonal systems.",
+        "sections": [
+            {
+                "section": "52535R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "53 of 53",
+                "instructor": "Shirin Birjandi",
+                "location": "SOSB4"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "336",
+        "course_name": "Developmental Psychology",
+        "units": "(4.0 units)",
+        "description": "Child and adolescent behavior and associated theories; exploration of the continuity between child and adult behavior. Laboratory projects.",
+        "sections": [
+            {
+                "section": "52540R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "73 of 73",
+                "instructor": "Michael Cameron",
+                "location": "SOSB46"
+            },
+            {
+                "section": "52541R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Vitaliya Droutman",
+                "location": "ZHS352"
+            },
+            {
+                "section": "52542R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "36 of 36",
+                "instructor": "Vitaliya Droutman",
+                "location": "ZHS352"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "337",
+        "course_name": "Adult Development and Aging",
+        "units": "(4.0 units)",
+        "description": "Genetic, physical, and social influences during adult years on perception, learning and memory, intelligence, personality, social roles, and normal and deviant behavioral patterns. Laboratory demonstrations and exercises.",
+        "sections": [
+            {
+                "section": "52543R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "38 of 38",
+                "instructor": "Bruna Klein",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "353",
+        "course_name": "Close Relationships",
+        "units": "(4.0 units)",
+        "description": "Scientific perspective of close relationships: intimate relationships, friendships and others, evolutionary and biological bases of attraction and love, historical, social , cultural influences. Prerequisite: PSYC 100. (Duplicates credit in PSYC 359)",
+        "sections": [
+            {
+                "section": "52547R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Miranda Barone",
+                "location": "VPD105"
+            },
+            {
+                "section": "52548R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Miranda Barone",
+                "location": "VPD105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "355",
+        "course_name": "Social Psychology",
+        "units": "(4.0 units)",
+        "description": "Theoretical and experimental analysis of human behavior. Social processes involved in attitudes, conformity, compliance, interpersonal perception, liking, affiliation, aggression, altruism, and group dynamics.",
+        "sections": [
+            {
+                "section": "52560R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "110 of 110",
+                "instructor": "Miranda Barone",
+                "location": "THH202"
+            },
+            {
+                "section": "52562R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "51 of 60",
+                "instructor": "Elisa Baek",
+                "location": "SOSB46"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "360",
+        "course_name": "Psychological Disorders",
+        "units": "(4.0 units)",
+        "description": "The commonly diagnosed behavior pathologies; biological, social, cultural and developmental antecedents of abnormal behavior; principles of learning, perception and motivation, as they relate to psychopathology.",
+        "sections": [
+            {
+                "section": "52565R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "58 of 80",
+                "instructor": "David Schwartz",
+                "location": "GFS106"
+            },
+            {
+                "section": "52566R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "45 of 45",
+                "instructor": "Sourena Haj-Mohamadi",
+                "location": "THH208"
+            },
+            {
+                "section": "52567R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Iony Ezawa",
+                "location": "KAP156"
+            },
+            {
+                "section": "52569R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "51 of 51",
+                "instructor": "Jonathan Stange",
+                "location": "VPD105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "361",
+        "course_name": "Introduction to Clinical Psychology",
+        "units": "(4.0 units)",
+        "description": "Introduction to the scientist-practitioner model of clinical psychology, including research methods, psychological assessment and diagnosis, psychotherapeutic interventions, and treatment of special populations.",
+        "sections": [
+            {
+                "section": "52564R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Gerald Davison",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "363",
+        "course_name": "Criminal Behavior",
+        "units": "(4.0 units)",
+        "description": "Genetic, biological, psychological, and sociological characteristics of those who evidence criminal behavior; theoretical formulations to be reviewed and appraised. Prerequisites: PSYC 100. Duplicates credit in former PSYC 463.",
+        "sections": [
+            {
+                "section": "52561R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "32 of 32",
+                "instructor": "Lorraine Cuadra",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "367",
+        "course_name": "Stress, Health, and the Mind-Body Connection",
+        "units": "(4.0 units)",
+        "description": "Introduction to psychological, biological and behavioral processes affecting physical health, including stress, coping with disease, health behaviors and socioeconomic and cultural influences on health.",
+        "sections": [
+            {
+                "section": "52568R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "Sourena Haj-Mohamadi",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "372",
+        "course_name": "Human Sexuality",
+        "units": "(4.0 units)",
+        "description": "Psychological and physiological base of sexuality; gender identity, childbearing, birth control, venereal diseases; dysfunctions and treatments.",
+        "sections": [
+            {
+                "section": "52570R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "38 of 38",
+                "instructor": "Laura Baker",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "406",
+        "course_name": "Psycholinguistics",
+        "units": "(4.0 units)",
+        "description": "Experimental and theoretical aspects of how spoken and written language is produced and understood, learned during childhood, and affected by brain damage.",
+        "sections": [
+            {
+                "section": "38861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Elsi Kaiser",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "424",
+        "course_name": "Neuropsychology",
+        "units": "(4.0 units)",
+        "description": "Effects of brain damage on human behavior and abilities, particularly language, memory, and emotion.",
+        "sections": [
+            {
+                "section": "52629R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Shirin Birjandi",
+                "location": "GFS221"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "426",
+        "course_name": "Motivated Behaviors and Addiction",
+        "units": "(4.0 units)",
+        "description": "Social, environmental, and physiological influences on behaviors associated with aggression, eating, reproduction, and sleep. Will focus on behavioral disorders such as addiction.",
+        "sections": [
+            {
+                "section": "52601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "John Monterosso",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "427",
+        "course_name": "Neuropsychopharmacology",
+        "units": "(4.0 units)",
+        "description": "Pharmo-chemical nature of the brain; diseases of the brain and drug treatments.",
+        "sections": [
+            {
+                "section": "52660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "Shirin Birjandi",
+                "location": "VHE214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "430",
+        "course_name": "Social Development of Infants, Children and Adolescents",
+        "units": "(4.0 units)",
+        "description": "An analysis of selected topics and issues in child social development. Recommended preparation: PSYC 274, PSYC 314, PSYC 336.",
+        "sections": [
+            {
+                "section": "52621R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Henrike Moll",
+                "location": "WPH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "433",
+        "course_name": "Children's Learning and Cognitive Development",
+        "units": "(4.0 units)",
+        "description": "Principles of cognitive development, learning, and motivation applied to the development of literacy; includes tutoring a child 2 hours per week. Prerequisite: PSYC 336L.",
+        "sections": [
+            {
+                "section": "52626R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "434",
+        "course_name": "Intelligence, Problem Solving and Creativity",
+        "units": "(4.0 units)",
+        "description": "Psychometric and experimental approaches to the study of intelligence, problem solving, reasoning and creativity, including analysis of mental test construction and validity.",
+        "sections": [
+            {
+                "section": "52622R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 25",
+                "instructor": "William Breland",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "436",
+        "course_name": "Developmental Neuroscience of Human Behavior",
+        "units": "(4.0 units)",
+        "description": "The biological underpinnings supporting social, emotional, and cognitive development from infancy through adolescence; Focus on neuroscience to understand typical and atypical development, including psychopathology.",
+        "sections": [
+            {
+                "section": "52670R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "Santiago Morales",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "437",
+        "course_name": "Adolescent Development",
+        "units": "(4.0 units)",
+        "description": "The adolescent years from both an applied and a research-oriented perspective. Topics include physical, cognitive, and moral development; socialization; and sexual and sex-role development.",
+        "sections": [
+            {
+                "section": "52620R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "David Schwartz",
+                "location": "VHE214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "440",
+        "course_name": "Foundations of Cognitive Neuroscience",
+        "units": "(4.0 units)",
+        "description": "Introduction to the major components of cognition (perception, memory, intelligence) in terms of the neural coding characteristic of the relevant brain areas.",
+        "sections": [
+            {
+                "section": "52442R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Jason Zevin",
+                "location": "MRF340"
+            },
+            {
+                "section": "52459R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Jason Zevin",
+                "location": "KDC241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "450",
+        "course_name": "Neural Network Models of Social and Cognitive Processes",
+        "units": "(4.0 units)",
+        "description": "Introduction to using neural network or connectionist models to simulate cognitive, social, emotional and motivational processes; basic concepts and tools in computational neuroscience.",
+        "sections": [
+            {
+                "section": "52644R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "11 of 25",
+                "instructor": "Stephen Read",
+                "location": "KAP113"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "452",
+        "course_name": "Social Neuroscience",
+        "units": "(4.0 units)",
+        "description": "Overview of principles and research in social neuroscience, which uses neuroscience approaches to inform social processes including empathy, inter-group relations, emotion, morality and social decision-making.",
+        "sections": [
+            {
+                "section": "52645R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Leor Hackel",
+                "location": "VHE214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "454",
+        "course_name": "Social Cognition",
+        "units": "(4.0 units)",
+        "description": "Theory and research on cognitive processes in social behavior, to include social inference, cognition and emotion, the Self, social categorization, person memory, and attribution processes. Recommended preparation: PSYC-355.",
+        "sections": [
+            {
+                "section": "52647R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Leor Hackel",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "459",
+        "course_name": "Industrial/Organizational Psychology",
+        "units": "(4.0 units)",
+        "description": "I/O Psychologists develop and apply scientifically supported solutions to the workplace. \"Industrial\" deals with human resource functions, and \"Organizational\" with psychological aspects of the organization. Prerequisite: PSYC 100. Recommended preparation: PSYC 316.",
+        "sections": [
+            {
+                "section": "52624R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1250,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Maura Harrington Roggero",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "462",
+        "course_name": "Culture and Mental Health",
+        "units": "(4.0 units)",
+        "description": "The influence of culture, ethnicity, race and gender on human behavior. Mental health issues relevant to ethnic minorities in the U.S. Recommended preparation: sophomore standing or higher; PSYC-100.",
+        "sections": [
+            {
+                "section": "52552R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Stanley Huey",
+                "location": "SGM226"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "464",
+        "course_name": "Psychology of Marriage and the Family",
+        "units": "(4.0 units)",
+        "description": "Theories and research on family relationships across the life span, including research methods, cultural and developmental perspectives, communication, conflict, attachment, individual psychopathology, and family violence.",
+        "sections": [
+            {
+                "section": "52625R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Patricia George",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "468",
+        "course_name": "Happiness: Research in Neuroscience and Positive Psychology",
+        "units": "(4.0 units)",
+        "description": "Neuroscientific and psychological perspectives that investigate the basis of happiness and well-being.",
+        "sections": [
+            {
+                "section": "52623R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Patricia George",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "52651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "501",
+        "course_name": "Classic and Modern Statistical Methods I",
+        "units": "(4.0 units)",
+        "description": "An introduction to classic statistical techniques as well as modern robust methods for dealing violations of standard assumptions.",
+        "sections": [
+            {
+                "section": "52663D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "17 of 28",
+                "instructor": "Rand Wilcox",
+                "location": "SOSB52"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "505",
+        "course_name": "Research Methods in Applied Social Psychology",
+        "units": "(4.0 units)",
+        "description": "Various research techniques that are useful in a variety of different real world settings, such as business, governmental agencies and charities. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52680D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 22",
+                "instructor": "Meredith Lepley",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52681D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 22",
+                "instructor": "Meredith Lepley",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52756D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "25 of 32",
+                "instructor": "Luke Thelen",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "509",
+        "course_name": "Qualitative Research Methods in Applied Psychology",
+        "units": "(2.0 units)",
+        "description": "Examines qualitative research in applied settings. Learn to design, execute and report qualitative research in response to stakeholder needs.",
+        "sections": [
+            {
+                "section": "52766D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 840,
+                "days": 32,
+                "registered": "12 of 12",
+                "instructor": "Kathleen Marker",
+                "location": "DMC103"
+            },
+            {
+                "section": "53000D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 990,
+                "days": 32,
+                "registered": "11 of 12",
+                "instructor": "Kathleen Marker",
+                "location": "DMC103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "514",
+        "course_name": "Psychopathology",
+        "units": "(4.0 units)",
+        "description": "Study of psychopathology: in-depth survey of theory and research concerning psychological disorders; introduction to diagnosis. (One of 4 clinical psychology core courses: 514, 515, 619, 620.)",
+        "sections": [
+            {
+                "section": "52694D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 32,
+                "registered": "10 of 15",
+                "instructor": "Jonathan Stange",
+                "location": "SGM911"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "515",
+        "course_name": "Clinical Assessment",
+        "units": "(4.0 units)",
+        "description": "Study of clinical assessment: test construction, measurement and predicition of behavior, major cognitive and personality assessment instruments. (One of 4 clinical psychology core courses: 514, 515, 619, 620.)",
+        "sections": [
+            {
+                "section": "52690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "3 of 8",
+                "instructor": "Duke Han",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52691D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 9",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "517",
+        "course_name": "Group Dynamics and Leadership",
+        "units": "(4.0 units)",
+        "description": "Theory and research on effective teams and characteristics of strong leaders. Negotiation, morale-building, managing expectancies, utilization of cultural diversity as a strength. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52997D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 15",
+                "instructor": "Lauren Young",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "519",
+        "course_name": "Professional Issues for Clinical Scientists",
+        "units": "(2.0 units)",
+        "description": "Focus is on professionalism topics and skills central to developing as a clinical scientist, explored within a cultural context.",
+        "sections": [
+            {
+                "section": "52748D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "4 of 15",
+                "instructor": "Brittany Beasley",
+                "location": "HED103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "521",
+        "course_name": "Cross Cultural Psychology in Applied Settings",
+        "units": "(4.0 units)",
+        "description": "Examination of major theoretical frameworks mapping worldwide cultures and values with a focus on applying thatknowledge in organizations. Open only to master students in Applied Psychology.",
+        "sections": [
+            {
+                "section": "52775D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Michael Nguyen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "523",
+        "course_name": "User Experience (UX) Research",
+        "units": "(4.0 units)",
+        "description": "Provides a broad introduction to the social science methods UX researchers most commonly use, including qualitative approaches, and quantitative approaches.",
+        "sections": [
+            {
+                "section": "52780D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Jason Buhle",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "530",
+        "course_name": "Concepts and Principles of Behavior Analysis",
+        "units": "(3.0 units)",
+        "description": "Provides intensive training in behavioral principles and laws of learning and motivation. Focuses on broad application of principles, from basic research with nonhumans, to application across human clinical populations.",
+        "sections": [
+            {
+                "section": "52490D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 18",
+                "instructor": "Megan Aclan",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "531",
+        "course_name": "Behavioral Assessment",
+        "units": "(3.0 units)",
+        "description": "Studies theory and application of behavioral methods for skill assessment, functional assessment of destructive behavior, and learner motivation. Discusses relative strengths and limitations of direct versus indirect methods.",
+        "sections": [
+            {
+                "section": "52491D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "13 of 18",
+                "instructor": "Michael Cameron",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "532",
+        "course_name": "Ethics for Behavior Analysts",
+        "units": "(3.0 units)",
+        "description": "Provides training in legal and ethical issues as they pertain to the professional practice of behavior analysis. Reviews the Guidelines for Responsible Conduct for Behavior Analysts, as well as the American Psychological Associations Ethical Principles of Psychologists and Code of Conduct.",
+        "sections": [
+            {
+                "section": "52492D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "13 of 19",
+                "instructor": "Jonathan Tarbox",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "534",
+        "course_name": "Social and Emotional Development in Children",
+        "units": "(4.0 units)",
+        "description": "Theories of social and emotional development, including sociocultural perspectives. Analysis of research on temperament, social relationships, individuation and moral development from birth to adolescence. Open to graduate students in psychology.",
+        "sections": [
+            {
+                "section": "52494D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "4 of 25",
+                "instructor": "Henrike Moll",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "541",
+        "course_name": "Experimental Analysis of Behavior",
+        "units": "(3.0 units)",
+        "description": "Examines a collection of experimental procedures and findings within the experimental analysis of behavior (EAB); basic principles of operant and respondent learning and motivation; translate findings of basic research to the development of applied sciences of behavior change.",
+        "sections": [
+            {
+                "section": "52493D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "9 of 15",
+                "instructor": "Megan Aclan",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "547",
+        "course_name": "Functional Neuroanatomy",
+        "units": "(4.0 units)",
+        "description": "Regional organization and systems of the mammalian nervous system and their functions.",
+        "sections": [
+            {
+                "section": "52668D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "10 of 12",
+                "instructor": "Antoine Bechara",
+                "location": "WPH204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "550A",
+        "course_name": "Proseminar in Human Behavior",
+        "units": "(4.0 units)",
+        "description": "The nature of the human mind, social interactions, conflicts, cooperative behavior, mutual influence and effectiveness. Application of psychological principles to the dynamics of commercial entities. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52757D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "25 of 32",
+                "instructor": "Jorge Barraza",
+                "location": "THH108"
+            },
+            {
+                "section": "52772D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 22",
+                "instructor": "Catherine Neubauer",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52774D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 22",
+                "instructor": "Naomi Grewal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "550B",
+        "course_name": "Proseminar in Human Behavior",
+        "units": "(2.0-4.0 units)",
+        "description": "Application of psychological principles to the dynamics of commercial entities. Develop practical skills with a focus on professional development.",
+        "sections": [
+            {
+                "section": "52674D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 22",
+                "instructor": "Catherine Neubauer",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52773D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 22",
+                "instructor": "Catherine Neubauer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "552",
+        "course_name": "Principles of Consumer Psychology",
+        "units": "(4.0 units)",
+        "description": "Examination of the attitudes and decisions of consumers, and how to effectively reach consumers by using persuasion and proper positioning in the marketplace. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52683D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 22",
+                "instructor": "Steven Westberg",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52684D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 22",
+                "instructor": "Steven Westberg",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52758D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "23 of 32",
+                "instructor": "Jason Buhle",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "555",
+        "course_name": "Introduction to Functional Magnetic Resonance Imaging",
+        "units": "(4.0 units)",
+        "description": "The physical and physiological bases of MRI and fMRI. Design and analysis of fMRI experiments. Operation of a magnetic resonance imaging system.",
+        "sections": [
+            {
+                "section": "52499D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 19",
+                "instructor": "Jonas Kaplan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "556",
+        "course_name": "Psychology of Interactive Media",
+        "units": "(4.0 units)",
+        "description": "Examination of the diverse methods of communicating with a target audience with a special emphasis on the newest computer-based tools for providing information and influence.",
+        "sections": [
+            {
+                "section": "52754D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Francesca Romana Puggelli",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "565",
+        "course_name": "Organizational Psychology",
+        "units": "(4.0 units)",
+        "description": "Examination of the psychological factors that impact employee motivation, job satisfaction, teamwork, leadership, and organizational development. Open only to Master of Applied Psychology students. Not available for major credit for GSBA majors",
+        "sections": [
+            {
+                "section": "52759D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "25 of 32",
+                "instructor": "Mona Farid Nejad",
+                "location": "DMC158"
+            },
+            {
+                "section": "52760D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 15",
+                "instructor": "Julie Lyon",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52763D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Mona Farid Nejad",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "566",
+        "course_name": "The Psychology of Employee Selection and Assessment",
+        "units": "(4.0 units)",
+        "description": "Develop an understanding of recruitment and selection practices, processes, and approaches into the strategic role that recruitment and selection plays in organizational success.",
+        "sections": [
+            {
+                "section": "52767D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Khatera Sahibzada",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "571",
+        "course_name": "Foundations of Statistical and Data Analytic Methods in Psychology",
+        "units": "(4.0 units)",
+        "description": "Model comparison approach to analyzing experimental and non-experimental data; including moderated, mediated and nonlinear models as well as models with a categorical outcome.",
+        "sections": [
+            {
+                "section": "52510D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "18 of 28",
+                "instructor": "Canan Ipek",
+                "location": "KOH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "573",
+        "course_name": "Bayesian Data Analysis",
+        "units": "(4.0 units)",
+        "description": "Topics and techniques in Bayesian data analysis, including the philosophical foundations, Markov Chain Monte Carlo estimation, and applications to linear and generalized linear models.",
+        "sections": [
+            {
+                "section": "52497D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 21",
+                "instructor": "Hok Chio (Mark) Lai",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "576",
+        "course_name": "Psycholinguistics",
+        "units": "(3.0 units)",
+        "description": "Theories of acquisition; sentence and discourse processing; language and thought.",
+        "sections": [
+            {
+                "section": "38951D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 16,
+                "registered": "5 of 15",
+                "instructor": "Elsi Kaiser",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "578",
+        "course_name": "Workshop in Quantitative Methods",
+        "units": "(4.0 units, max 8)",
+        "description": "Practical, hands-on experience in the application of selected quantitative methods to empirical data. Includes training in the use of relevant computer software.",
+        "sections": [
+            {
+                "section": "52770D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Luke Thelen",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "587",
+        "course_name": "Practicum in Applied Behavior Analysis",
+        "units": "(1.0-2.0 units, max 10)",
+        "description": "Provides supervised practical experience in implementing behavior analytic assessment and treatment services. Meets supervision requirements for the Board Certified Behavior Analyst exam. Students meet with course instructor to present and discuss cases for two hours per week every semester, including one summer session. Practicum hours in the field vary from 18-20 hours per week during the academic year to 30 hours per week during the summer.",
+        "sections": [
+            {
+                "section": "52701D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "9 of 16",
+                "instructor": "Michael Cameron",
+                "location": "KAP138"
+            },
+            {
+                "section": "52702D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "13 of 18",
+                "instructor": "Megan Aclan",
+                "location": "KAP159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "589",
+        "course_name": "Interprofessional Education and Collaboration for Geriatrics",
+        "units": "(0.0 units)",
+        "description": "Students from multiple health professions learn about aging and collaborative team care through a combination of didactic and experiential learning working in a community-based setting.",
+        "sections": [
+            {
+                "section": "48096D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 130",
+                "instructor": "Ashley Halle",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52734D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jorge Barraza",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52735D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 40",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52998D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "Jorge Barraza",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52999D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 16",
+                "instructor": "Jorge Barraza",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "591",
+        "course_name": "Applied Psychology Internship",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Internship in a non-university setting, such as business, governmental agency, or NGO. Graded CR/NC. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52762D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 20",
+                "instructor": "Francesca Romana Puggelli",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52768D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 20",
+                "instructor": "Jenna Rubenstein",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "592",
+        "course_name": "Applied Psychology Treatise",
+        "units": "(2.0 units)",
+        "description": "Requires a research paper of substantial length and high quality that integrates the Internship experience with concepts and principles of human behavior. Credit/No Credit. Open only to M.S., Applied Psychology students.",
+        "sections": [
+            {
+                "section": "52696D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Steven Westberg",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52764D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 10",
+                "instructor": "Meredith Lepley",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52776D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Mona Farid Nejad",
+                "location": "ONLINE"
+            },
+            {
+                "section": "52777D",
+                "session": "393",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Jason Buhle",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching Psychology",
+        "units": "(2.0 units)",
+        "description": "Techniques for working with undergraduates, lesson planning, leading discussions and lecturing, tools for development as a teaching professional. Open to first-semester Psychology TAs only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52739D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 2,
+                "registered": "11 of 20",
+                "instructor": "Patricia George",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52736D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52742D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "0 of 24",
+                "instructor": "Jonathan Tarbox",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52737D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52738D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "595",
+        "course_name": "Practicum in Clinical Psychology",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Supervised experience in interviewing skills and in assessment, including psychological test administration, and the preparation of reports. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52743D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 32,
+                "registered": "4 of 10",
+                "instructor": "Gerald Davison",
+                "location": "SGM1030L"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "596",
+        "course_name": "Advanced Behavioral Theory",
+        "units": "(3.0 units)",
+        "description": "Examines advanced topics in behavioral theory and philosophy, including a comprehensive behavioral approach to language and cognition. Discusses the nature of productive relations between behavior analysis and other psychological theories.",
+        "sections": [
+            {
+                "section": "52747D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "10 of 20",
+                "instructor": "Jonathan Tarbox",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "597",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least two semesters of enrollment in the graduate program.",
+        "sections": [
+            {
+                "section": "52745D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            },
+            {
+                "section": "52746D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "597A",
+        "course_name": "Capstone Project in Behavioral Analysis",
+        "units": "(2.0 units)",
+        "description": "Supervision for completing independent project, consisting of practical treatment evaluation, program development, or literature review.",
+        "sections": [
+            {
+                "section": "52741D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 10,
+                "registered": "9 of 16",
+                "instructor": "Jonathan Tarbox",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "612",
+        "course_name": "Seminar in Advanced Social Psychology",
+        "units": "(4.0 units, max 16)",
+        "description": "An intensive consideration of selected concepts, theories, and research problems in social psychology.",
+        "sections": [
+            {
+                "section": "52731D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "10 of 20",
+                "instructor": "Stephen Read",
+                "location": "THH117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "626",
+        "course_name": "Text as Data",
+        "units": "(4.0 units)",
+        "description": "Focuses on applications of natural language processing, guided by psychological theories, for identifying various social and cognitive properties evident in language.",
+        "sections": [
+            {
+                "section": "52750D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "17 of 21",
+                "instructor": "Morteza Dehghani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "660",
+        "course_name": "Seminar in Clinical Psychology",
+        "units": "(4.0 units, max 8)",
+        "description": "Selected topics in clinical psychology.",
+        "sections": [
+            {
+                "section": "52730D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "676",
+        "course_name": "Seminar in Psycholinguistics",
+        "units": "(3.0 units, max 12)",
+        "description": "",
+        "sections": [
+            {
+                "section": "38991D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 740,
+                "days": 16,
+                "registered": "7 of 12",
+                "instructor": "Zuzanna Fuchs",
+                "location": "KAP150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "691A",
+        "course_name": "Internship in Clinical Psychology",
+        "units": "(0.0 units)",
+        "description": "Supervised clinical work in an approved mental health setting. Graded CR/NC. Prerequisite: Good standing in clinical program and departmental approval.",
+        "sections": [
+            {
+                "section": "52782D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 8",
+                "instructor": "Darby Saxbe",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "695",
+        "course_name": "Advanced Practicum in Clinical Psychology",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Didactic practicum combining theory and research on psychological intervention with clinical practice in assessment and treatment, focused on particular client groups or disorders. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52785D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "4 of 10",
+                "instructor": "Bruna Klein",
+                "location": "SGM1030L"
+            },
+            {
+                "section": "52786D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "0 of 10",
+                "instructor": "Brittany Beasley",
+                "location": "SGM1030L"
+            },
+            {
+                "section": "52787D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "0 of 10",
+                "instructor": "Lauren Shapiro",
+                "location": "SGM1030N"
+            },
+            {
+                "section": "52788D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "4 of 9",
+                "instructor": "Bridgid Conn",
+                "location": "SGM1030L"
+            },
+            {
+                "section": "52789D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "1 of 1",
+                "instructor": "Latonya Huey",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "696",
+        "course_name": "Externship for Practical Training",
+        "units": "(0.0 units)",
+        "description": "Externship for Practical Training is for clinical-related training experience in the students fieldof study. Students are individually supervised at their site.",
+        "sections": [
+            {
+                "section": "52799D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 40",
+                "instructor": "Brittany Beasley",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "52790D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 45",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52792D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 15",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52793D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 12",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52794D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "52796D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Antoine Bechara",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

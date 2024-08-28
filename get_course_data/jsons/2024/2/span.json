@@ -1,0 +1,130 @@
+[
+    {
+        "term": "20242",
+        "department": "SPAN",
+        "course_number": "020",
+        "course_name": "Spanish for Reading Knowledge",
+        "units": "(2.0 units)",
+        "description": "Preparation for the ETS standarized examination, with readings related to the student's major area. Offered upon sufficient demand. Graded CR/NC. Not available for degree credit.",
+        "sections": [
+            {
+                "section": "62054D",
+                "session": "054",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "5 of 15",
+                "instructor": "Leah Kemp",
+                "location": "DMC110 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SPAN",
+        "course_number": "150",
+        "course_name": "Spanish II",
+        "units": "(4.0 units)",
+        "description": "Continuation of Spanish 110 or 120; increased emphasis on listening comprehension, oral expression, reading and writing.",
+        "sections": [
+            {
+                "section": "62010R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "9 of 19",
+                "instructor": "Liana Stepanyan",
+                "location": "THH121 & ONLINE"
+            },
+            {
+                "section": "62011R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "0 of 19",
+                "instructor": "",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SPAN",
+        "course_number": "220",
+        "course_name": "Spanish III",
+        "units": "(4.0 units)",
+        "description": "Continuation of SPAN 150; intensive work in listening comprehension, oral communication, reading, and writing with emphasis on free expression; readings related to Hispanic culture and civilization. Prereq: SPAN 150 or equivalent.",
+        "sections": [
+            {
+                "section": "62020R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "8 of 19",
+                "instructor": "Ivette Gomez",
+                "location": "THH108"
+            },
+            {
+                "section": "62023R",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "6 of 19",
+                "instructor": "Consuelo Siguenza-Ortiz",
+                "location": "THH115"
+            },
+            {
+                "section": "62030R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "15 of 19",
+                "instructor": "Maura Crowley",
+                "location": "DMC161"
+            },
+            {
+                "section": "62035R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 30,
+                "registered": "0 of 19",
+                "instructor": "",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "SPAN",
+        "course_number": "380",
+        "course_name": "Literature of Mexico",
+        "units": "(4.0 units)",
+        "description": "Principal writers and their works from Colonial times to the present. Non-majors may write assignments in English. Recommended preparation: advanced comprehension of oral and written Spanish.",
+        "sections": [
+            {
+                "section": "62270R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "7 of 19",
+                "instructor": "Samuel Steinberg",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

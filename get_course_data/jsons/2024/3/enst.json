@@ -1,0 +1,653 @@
+[
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "100",
+        "course_name": "Introduction to Environmental Studies",
+        "units": "(4.0 units)",
+        "description": "Gateway to the majors and minors in environmental studies. Provides students with an overview of how government agencies and societal institutions address (or fail to address) the interrelated social and scientific aspects of environmental problems and policies.",
+        "sections": [
+            {
+                "section": "33000D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "33 of 35",
+                "instructor": "Scott Applebaum",
+                "location": "THH118"
+            },
+            {
+                "section": "33001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Kritika Malhotra",
+                "location": "WPH207"
+            },
+            {
+                "section": "33002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "35 of 35",
+                "instructor": "Andres Sanchez",
+                "location": "WPH207"
+            },
+            {
+                "section": "33003R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "32 of 32",
+                "instructor": "Victoria Campbell-Arvai",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "150",
+        "course_name": "Environmental Issues in Society",
+        "units": "(4.0 units)",
+        "description": "Exploration of the major social, political, economic, religious, and philosophical disagreements that exist between scholars, leaders, and citizens concerning today's most serious environmental issues and problems. Not available for credit to environmental studies majors and minors.",
+        "sections": [
+            {
+                "section": "33005R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "80 of 80",
+                "instructor": "Shannon Gibson",
+                "location": "GFS116"
+            },
+            {
+                "section": "33007R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC106"
+            },
+            {
+                "section": "33008R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "33009R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC160"
+            },
+            {
+                "section": "33010R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "GFS114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "250",
+        "course_name": "Climate Change: Science, History and Solutions",
+        "units": "(4.0 units)",
+        "description": "History and science of anthropogenic climate change; climate dynamics; carbon cycle; climate modeling; fossil fuel economy; climate denial and political tactics; group research of solutions.",
+        "sections": [
+            {
+                "section": "37030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "99 of 100",
+                "instructor": "Joshua Goldstein,Victoria Petryshyn",
+                "location": "SLH102"
+            },
+            {
+                "section": "37031R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Spenser Carroll-Johnson",
+                "location": "DMC209"
+            },
+            {
+                "section": "37032R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Spenser Carroll-Johnson",
+                "location": "DMC207"
+            },
+            {
+                "section": "37041R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Basak Karaca",
+                "location": "WPHB30"
+            },
+            {
+                "section": "37042R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Basak Karaca",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "320A",
+        "course_name": "Water and Soil Sustainability: Energy and Air Sustainability",
+        "units": "(4.0 units)",
+        "description": "Overview of issues related to water and soil sustainability including science, policy and business aspects. Recommended Preparation ENST-100.",
+        "sections": [
+            {
+                "section": "33023D",
+                "session": "185",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 16",
+                "instructor": "Scott Applebaum",
+                "location": "OFFCAMPUS"
+            },
+            {
+                "section": "33021D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "21 of 22",
+                "instructor": "David Ginsburg",
+                "location": "WPH103"
+            },
+            {
+                "section": "33022R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "14 of 22",
+                "instructor": "Andres Sanchez",
+                "location": "WPH207"
+            },
+            {
+                "section": "33024R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "13 of 13",
+                "instructor": "Kritika Malhotra",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33025R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "13 of 13",
+                "instructor": "Kritika Malhotra",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33028R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "10 of 13",
+                "instructor": "Kritika Malhotra",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33030D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "320B",
+        "course_name": "Water and Soil Sustainability: Energy and Air Sustainability",
+        "units": "(4.0 units)",
+        "description": "Overview of issues related to water and soil sustainability including science, policy and business aspects. Recommended Preparation ENST-100.",
+        "sections": [
+            {
+                "section": "33026R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "28 of 40",
+                "instructor": "Victoria Petryshyn",
+                "location": "WPH207"
+            },
+            {
+                "section": "33027D",
+                "session": "185",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 16",
+                "instructor": "Victoria Petryshyn",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "344",
+        "course_name": "Environmental Ethics",
+        "units": "(4.0 units)",
+        "description": "Explores issues concerning behavior of humans towards the nonhuman world. Examines a wide spectrum of ethical issues.",
+        "sections": [
+            {
+                "section": "33031R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "31 of 35",
+                "instructor": "Sean Fraga",
+                "location": "THH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "387",
+        "course_name": "Economics for Natural Resources and the Environment",
+        "units": "(4.0 units)",
+        "description": "An introduction to the economic tools and issues that affect natural resource use and environmental management.",
+        "sections": [
+            {
+                "section": "33036D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "33 of 35",
+                "instructor": "Monalisa Chatterjee",
+                "location": "WPH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "396",
+        "course_name": "Directed Governmental and Political Leadership Internship",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Intensive experience in governmental and political offices. Minimum time requirement; evaluation by office and intern report required.",
+        "sections": [
+            {
+                "section": "52086D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 40",
+                "instructor": "Iva Bozovic",
+                "location": "DMC263"
+            },
+            {
+                "section": "52089D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "DMC263"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "400",
+        "course_name": "Environment and Sustainability Colloquium",
+        "units": "(1.0-2.0 units)",
+        "description": "Weekly invited lectures from leading researchers and practitioners in the environmental and sustainability fields. Additional readings and discussions on topics presented by guests are incorporated.",
+        "sections": [
+            {
+                "section": "33039R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "David Ginsburg",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "405",
+        "course_name": "Public Engagement for Nature Conservation",
+        "units": "(4.0 units)",
+        "description": "An exploration of the science behind public engagement for biodiversity conservation, climate resilience and humanity's sense of health and vitality.",
+        "sections": [
+            {
+                "section": "33040R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 25",
+                "instructor": "Victoria Campbell-Arvai",
+                "location": "SOSB48"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "413",
+        "course_name": "Sustainable Aquaculture and Food Security",
+        "units": "(4.0 units)",
+        "description": "Assessing the potential for aquaculture, the fastest growing component of food production systems, to contribute to food security goals while maintaining environmental, social and economic sustainability.",
+        "sections": [
+            {
+                "section": "33042R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "16 of 25",
+                "instructor": "Scott Applebaum",
+                "location": "GFS222"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "436",
+        "course_name": "Environmental Politics",
+        "units": "(4.0 units)",
+        "description": "The political realities of selected environmental issues; resolving and implementing social priorities; interests, attitudes, strategies, and tactics of pressure groups; institutional biases and opportunities.",
+        "sections": [
+            {
+                "section": "52137R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "9 of 48",
+                "instructor": "Erik Hanson",
+                "location": "DMC150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "442",
+        "course_name": "Global Climate Change: Policy and Society",
+        "units": "(4.0 units)",
+        "description": "Examines climate change policy at the international, national, state, and local levels, and explores the role civil society plays in climate change politics.",
+        "sections": [
+            {
+                "section": "33044R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "12 of 25",
+                "instructor": "Shannon Gibson",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "33060D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Victoria Campbell-Arvai",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "492",
+        "course_name": "Directed Environmental Policy and Science Internship",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Provides opportunities for professional development in environmental policy and science and prepares students for career or graduate school in environmental-related fields. Students are placed in internships and guided before and during the internship period and gain practical experience and learn how government and nongovernmental organizations pursue and implement environmental policy and science work.",
+        "sections": [
+            {
+                "section": "33064D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "5 of 15",
+                "instructor": "Yael Wolinsky-Nahmias",
+                "location": "DMC259"
+            },
+            {
+                "section": "33065D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "8 of 15",
+                "instructor": "Yael Wolinsky-Nahmias",
+                "location": "DMC259"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "495",
+        "course_name": "Senior Seminar in Environmental Studies",
+        "units": "(4.0 units)",
+        "description": "Students form multidisciplinary teams and are asked to study and resolve a major environmental problem facing a particular region or target population.",
+        "sections": [
+            {
+                "section": "33067D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "8 of 19",
+                "instructor": "Sean Fraga",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Selected topics dealing with environmental issues and problems.",
+        "sections": [
+            {
+                "section": "33069R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 20,
+                "registered": "12 of 12",
+                "instructor": "Sean Fraga",
+                "location": "SOSB51"
+            },
+            {
+                "section": "33070D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "9 of 10",
+                "instructor": "Shannon Gibson",
+                "location": "THH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "500",
+        "course_name": "Interdisciplinary Approaches to Environmental Studies",
+        "units": "(4.0 units)",
+        "description": "Students will develop advanced skills to address complex environmental issues that society faces today. Different approaches for studying environmental processes and resources will be examined.",
+        "sections": [
+            {
+                "section": "33072D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "8 of 14",
+                "instructor": "David Ginsburg",
+                "location": "SOSB37"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "540",
+        "course_name": "California Coastal Zone Science and Policy",
+        "units": "(4.0 units)",
+        "description": "Science and policy issues used to characterize and manage California coastal resources. Key issues include: coastal pollution, public health, ecosystem management, and marine reserves. Recommended preparation: ENST-500.",
+        "sections": [
+            {
+                "section": "33089D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Jill Sohm",
+                "location": "SOSB37"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "33092D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Monalisa Chatterjee",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

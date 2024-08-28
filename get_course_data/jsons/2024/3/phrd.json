@@ -1,0 +1,1274 @@
+[
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "501",
+        "course_name": "Pharmaceutics I",
+        "units": "(3.0 units)",
+        "description": "Introduction to physicochemical principles of dosage forms; properties of molecules in dosage forms, stability of pharmaceuticals, absorption, and metabolism.",
+        "sections": [
+            {
+                "section": "48501R",
+                "session": "145",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "177 of 200",
+                "instructor": "Rebecca Romero",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "502",
+        "course_name": "Pharmaceutics II",
+        "units": "(2.0 units)",
+        "description": "Principles involved in molecules movement across biological barriers. Properties, characteristics, application to dosage forms, liquid, semi-solid and solid. Open to Doctor of Pharmacy students only.",
+        "sections": [
+            {
+                "section": "48502R",
+                "session": "767",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "177 of 200",
+                "instructor": "Ian Haworth",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "503",
+        "course_name": "Biological Systems I",
+        "units": "(4.0 units)",
+        "description": "Integration and application to pharmacy of anatomy, histology, physiology and pathophysiology using an organ-based approach.",
+        "sections": [
+            {
+                "section": "48503R",
+                "session": "004",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "179 of 200",
+                "instructor": "Angel P Tabancay Jr",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "508",
+        "course_name": "Pharmacy Literature Analysis and Drug Information",
+        "units": "(3.0 units)",
+        "description": "Literature evaluation and biostatistics of clinical and health services research, and drug information services. Emphasis on drug therapy, patient outcomes, and formulary development.",
+        "sections": [
+            {
+                "section": "48508R",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "138 of 200",
+                "instructor": "Rory Kim,William Padula",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "511",
+        "course_name": "Pharmacy Practice and Professionalism 1",
+        "units": "(5.0 units)",
+        "description": "A seminar series covering leadership, professionalism and professional development for pharmacy practice. Includes practical experience placements (IPPE).",
+        "sections": [
+            {
+                "section": "48511R",
+                "session": "004",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "179 of 200",
+                "instructor": "Melissa Durham,Edith Mirzaian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "515",
+        "course_name": "Metabolism and Cell Biology",
+        "units": "(2.0 units)",
+        "description": "Basic principles of drug action and receptor actions. Includes their application to the understanding and treatment of disease. Provides the scientific basis of pharmaceutical action.",
+        "sections": [
+            {
+                "section": "48515R",
+                "session": "145",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "179 of 200",
+                "instructor": "Enrique Cadenas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "521",
+        "course_name": "Medicinal Chemistry",
+        "units": "(2.0 units)",
+        "description": "Principles of medicinal chemistry for common drugs. Mechanism of action, interactions with protein targets, structure-activity relationships, effects of chirality, and physicochemical properties.",
+        "sections": [
+            {
+                "section": "48521R",
+                "session": "171",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "177 of 200",
+                "instructor": "Ian Haworth,Radhika Kumar",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "550",
+        "course_name": "Pharmacoepidemiology",
+        "units": "(3.0 units)",
+        "description": "Introduces pharmacoepidemiology and discusses key concepts and principles in the study of the utilization, safety and effectiveness of medications in large populations.",
+        "sections": [
+            {
+                "section": "48550R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Dima Qato",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "555",
+        "course_name": "Pharmacy Education 1",
+        "units": "(2.0 units)",
+        "description": "Understanding and application of learning theory and teaching methodology, small group teaching, active learning, student motivation, basic assessment methods, and general online teaching tools.",
+        "sections": [
+            {
+                "section": "48555R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "9 of 20",
+                "instructor": "Angel P Tabancay Jr",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "559",
+        "course_name": "Therapeutics: Pharmacokinetics",
+        "units": "(3.0 units)",
+        "description": "Integrated teaching of basic and clinical pharmacokinetic/ pharmacodynamic concepts. Open to Doctor of Pharmacy students only.",
+        "sections": [
+            {
+                "section": "48559R",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "138 of 200",
+                "instructor": "Paul Beringer,Andrew Mackay",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "563",
+        "course_name": "Case Conference 1",
+        "units": "(2.0 units)",
+        "description": "Case conferences and seminars focusing on contemporary pharmacy practice.",
+        "sections": [
+            {
+                "section": "48563R",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "137 of 200",
+                "instructor": "David Dadiomov",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "572",
+        "course_name": "Therapeutics: General Medicine",
+        "units": "(5.0 units)",
+        "description": "Integrated course that combines the pathophysiology, pharmacology, and clinical use of drugs in the management of common renal, liver, pulmonary, gastrointestinal, joint and integumentary system related disorders.",
+        "sections": [
+            {
+                "section": "48572R",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "137 of 200",
+                "instructor": "Angel P Tabancay Jr,Scott Mosley",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "589",
+        "course_name": "Interprofessional Education and Collaboration for Geriatrics",
+        "units": "(0.0 units)",
+        "description": "Students from multiple health professions learn about aging and collaborative team care through a combination of didactic and experiential learning working in a community-based setting.",
+        "sections": [
+            {
+                "section": "48096D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 130",
+                "instructor": "Ashley Halle",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "611",
+        "course_name": "Therapeutics: Infectious Diseases",
+        "units": "(5.0 units)",
+        "description": "Integration of biomedicinal chemistry, pharmacology, pharmacokinetics, and therapeutics, with emphasis on the therapy of infectious diseases caused by bacterial, viral, parasitic, and fungal organisms. (Duplicates credit in PHAR-605 and 606)",
+        "sections": [
+            {
+                "section": "48611R",
+                "session": "437",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "168 of 200",
+                "instructor": "Emi Minejima,Roger Duncan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "619",
+        "course_name": "Therapeutics: Cardiovascular System",
+        "units": "(5.0 units)",
+        "description": "Integration of biomedicinal chemistry, pharmacology, pharmacokinetics, and therapeutics with emphasis on pharmaceuticals affecting cardiovascular and circulatory diseases. Open to Doctor of Pharmacy students only. (Duplicates credit in PHRD 601)",
+        "sections": [
+            {
+                "section": "48619R",
+                "session": "221",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "167 of 200",
+                "instructor": "Tien Ng,Paul Wong",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "622",
+        "course_name": "Case Conference 3",
+        "units": "(2.0 units)",
+        "description": "Case conferences and seminars focusing on contemporary pharmacy practice.",
+        "sections": [
+            {
+                "section": "48622R",
+                "session": "774",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "164 of 200",
+                "instructor": "Paul Wong",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "625",
+        "course_name": "Hospital Pharmacy Practice",
+        "units": "(1.0 unit)",
+        "description": "Exploration of the pharmacy profession and the practice of hospital/institutional pharmacy.",
+        "sections": [
+            {
+                "section": "48625R",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "137 of 200",
+                "instructor": "Emily Han,Patrick Tabon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "627A",
+        "course_name": "Longitudinal Elective Pharmacy Practice",
+        "units": "(2.0 units)",
+        "description": "For Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to an Elective Introductory Pharmacy Practice Experience (IPPE). The P2 and P3 Elective IPPE provides the student with 80 hours of experiential learning to develop skills related to various aspects of the pharmacy profession in a variety of settings.",
+        "sections": [
+            {
+                "section": "48527R",
+                "session": "998",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "105 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "627B",
+        "course_name": "Longitudinal Elective Pharmacy Practice",
+        "units": "(0.0 units)",
+        "description": "For Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to an Elective Introductory Pharmacy Practice Experience (IPPE) after registering for PHRD 627a. The P2 and P3 Elective IPPE provides the student with 80 hours of experiential learning to develop skills related to various aspects of the pharmacy profession in a variety of settings.",
+        "sections": [
+            {
+                "section": "48528D",
+                "session": "998",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "628",
+        "course_name": "Interprofessional Collaboration for Patient Care",
+        "units": "(0.0-3.0 units)",
+        "description": "Provides future pharmacists with the specialized knowledge, skills, and experiences for team-based care through interprofessional collaboration (IPC). Fulfills requirements in the Health Systems and Comprehensive Medication Management and High-Risk Populations areas of concentration.",
+        "sections": [
+            {
+                "section": "48628R",
+                "session": "391",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "2 of 24",
+                "instructor": "Edith Mirzaian,Jeany Jun",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "628B",
+        "course_name": "Longitudinal Interprofessional Collaboration Experience",
+        "units": "(0.0 units)",
+        "description": "The interprofessional collaboration (IPC) experience provides student pharmacists with the specialized knowledge, skills and experiences to provide team-based patient care through IPC. Lends expertise in the area of appropriate utilization of pharmaceuticals anchored in evidence-based medicine. The longitudinal IPC experience is designed to prepare students for optimizing team-based patient care through IPC.",
+        "sections": [
+            {
+                "section": "48630R",
+                "session": "391",
+                "type": "Lecture-Discussion",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "5 of 24",
+                "instructor": "Edith Mirzaian,Jeany Jun",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "629B",
+        "course_name": "Longitudinal Community Pharmacy Practice",
+        "units": "(0.0 units)",
+        "description": "For Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to a Community Introductory Pharmacy Practice Experience (IPPE) after registering for PHRD 629a. The P2 and P3 Community IPPE provides the student with 80 hours of experiential learning to develop skills related to aspects of the pharmacy profession in the Community pharmacy setting.",
+        "sections": [
+            {
+                "section": "48529D",
+                "session": "998",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "631B",
+        "course_name": "Longitudinal Institutional Pharmacy Practice",
+        "units": "(0.0 units)",
+        "description": "This course is for Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to an Institutional Introductory Pharmacy Practice Experience (IPPE) after registering for PHRD 631a. The P2 and P3 Institutional IPPE provides the student with 80 hours of experiential learning to develop skills related to aspects of the pharmacy profession in the institutional pharmacy setting.",
+        "sections": [
+            {
+                "section": "48531D",
+                "session": "998",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48532R",
+                "session": "799",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "633",
+        "course_name": "Pharmacy Management and Economics",
+        "units": "(2.0 units)",
+        "description": "Management principles for pharmacy practice, understanding of health care systems and pharmacoecomincs. Introduction to formulary management and outcome analysis.",
+        "sections": [
+            {
+                "section": "48633R",
+                "session": "774",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "167 of 200",
+                "instructor": "Geoffrey Joyce,Raffi Svadjian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "635",
+        "course_name": "Scholarly Project 2",
+        "units": "(1.0 unit)",
+        "description": "Oral and poster presentation of the results of the Pharm.D. Scholarly Project.",
+        "sections": [
+            {
+                "section": "48635R",
+                "session": "774",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "162 of 200",
+                "instructor": "Rory Kim,Terry Church",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "640",
+        "course_name": "Sports Pharmacy",
+        "units": "(3.0 units)",
+        "description": "An integrated course that brings together sports pharmacists, sports scientists and other health professionals to discuss the safe and ethical use of pharmaceutical substances and methods within sports.",
+        "sections": [
+            {
+                "section": "48620R",
+                "session": "391",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "0 of 5",
+                "instructor": "Kari Franson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "48640R",
+                "session": "391",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "9 of 25",
+                "instructor": "Kari Franson",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "641",
+        "course_name": "Focused Sports Physical Assessments and Drug Management",
+        "units": "(3.0 units)",
+        "description": "Explores pharmacy's role in sports, focusing on screenings, physical assessments and medication expertise for athletes' health, treatment and antidoping.",
+        "sections": [
+            {
+                "section": "48641R",
+                "session": "391",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1080,
+                "days": 2,
+                "registered": "Canceled",
+                "instructor": "Kari Franson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "651",
+        "course_name": "Community Pharmacy and Business Management I",
+        "units": "(3.0 units)",
+        "description": "Development of specialized knowledge and skills in community pharmacy practice involving location analysis, pharmacy management principles, and introduction to business law concepts.",
+        "sections": [
+            {
+                "section": "48651R",
+                "session": "391",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "Raffi Svadjian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "653",
+        "course_name": "Principles of Managed Care",
+        "units": "(3.0 units)",
+        "description": "Understanding formal and informal organizations in institutions, managed care, disease management, health care policy and financing, patients' chart organization, and clinical monitoring parameters.",
+        "sections": [
+            {
+                "section": "48653R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "30 of 30",
+                "instructor": "Vinson Lee,Edward Lieskovan,David Truong",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "655",
+        "course_name": "Geriatric Pharmacy I",
+        "units": "(3.0 units)",
+        "description": "Specialized knowledge and skills in geriatric pharmacy, pharmacology of aging, and unique functions of health care team providing care to the elderly patient. Open to Doctor of Pharmacy students only.",
+        "sections": [
+            {
+                "section": "48655R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 2,
+                "registered": "5 of 24",
+                "instructor": "Tatyana Gurvich",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "657",
+        "course_name": "Basic Research Design",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Laboratory, clinical, health economics or regulatory science research experience for pharmacy students. Projects performed working directly with faculty advisers.",
+        "sections": [
+            {
+                "section": "48657R",
+                "session": "391",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "663",
+        "course_name": "Pharmaceutical Development",
+        "units": "(3.0 units)",
+        "description": "Examination of pharmaceutical product development process including discovery, preclinical/clinical studies, regulatory-legal issues and marketing. Open to Doctor of Pharmacy students only.",
+        "sections": [
+            {
+                "section": "48663R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 2,
+                "registered": "30 of 30",
+                "instructor": "Charles Stark",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "671",
+        "course_name": "Pharmacy Education Seminar",
+        "units": "(3.0 units)",
+        "description": "A seminar course with a focus on educational methods and teaching skills providing career development for students interested in academia. Open to Doctor of Pharmacy students only.",
+        "sections": [
+            {
+                "section": "48671R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "7 of 7",
+                "instructor": "Maryann Wu,Radhika Kumar",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "674",
+        "course_name": "Acute Care I",
+        "units": "(3.0 units)",
+        "description": "Development of specialized knowledge and skills in evidence-based drug-therapy management in the acute care arena.",
+        "sections": [
+            {
+                "section": "48674R",
+                "session": "480",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 2,
+                "registered": "14 of 25",
+                "instructor": "Kevin Forrester",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "678",
+        "course_name": "Topics in Pharmacology: the Other Side of Drugs",
+        "units": "(2.0-3.0 units)",
+        "description": "Nexus of pharmacology and toxicology; therapeutic use and toxicology of common drugs; and prescribing these drugs in clinical practice.",
+        "sections": [
+            {
+                "section": "48810D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "13 of 25",
+                "instructor": "Martine Culty",
+                "location": ""
+            },
+            {
+                "section": "48812D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 900,
+                "days": 2,
+                "registered": "0 of 14",
+                "instructor": "Martine Culty",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "688",
+        "course_name": "Global Pharmacy",
+        "units": "(3.0 units)",
+        "description": "Opportunity to work with pharmacists, student pharmacists, and other healthcare professionals to experience pharmacy education and practice outside of the United States.",
+        "sections": [
+            {
+                "section": "48688R",
+                "session": "391",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 2,
+                "registered": "4 of 10",
+                "instructor": "Terrence Graham",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "701",
+        "course_name": "Acute Care Clinical APPE",
+        "units": "(6.0 units)",
+        "description": "Application of pharmaceutical care principles to the adult patient population in an acute care environment. Clinical application and disease state management will be emphasized. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48733D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48734D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48735D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "704",
+        "course_name": "Primary Care APPE",
+        "units": "(6.0 units)",
+        "description": "Disease state management and a primary care setting. Modification and design of drug therapy regimens and primary patient care using a team based approach. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48743D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48744D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48745D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "705",
+        "course_name": "Community Pharmacy APPE",
+        "units": "(6.0 units)",
+        "description": "Pharmaceutical care principles applied in a community pharmacy environment. Participating in the development, implementation and outcome evaluation of patient care services in the community. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48754D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48755D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48756D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "714",
+        "course_name": "Nuclear Pharmacy APPE",
+        "units": "(6.0 units)",
+        "description": "Provides practical and theoretical aspects of radiopharmacy services delivery.",
+        "sections": [
+            {
+                "section": "48793D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48794D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48795D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "718",
+        "course_name": "Hospital Pharmacy Practice APPE",
+        "units": "(6.0 units)",
+        "description": "Practical experience in the practice of hospital pharmacy. Administrative, practice-based and therapeutic competencies emphasized.",
+        "sections": [
+            {
+                "section": "48763D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48765D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48766D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "725",
+        "course_name": "International Pharmacy Practice Experience",
+        "units": "(3.0-6.0 units)",
+        "description": "Practical experience in the practice of pharmacy in the international setting. Students will visit an international pharmacy practice setting and complete a project.",
+        "sections": [
+            {
+                "section": "48721D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48724D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48767D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "731",
+        "course_name": "Advanced Geriatrics APPE",
+        "units": "(6.0 units)",
+        "description": "Directed projects/practical experience in geriatric drug therapy.",
+        "sections": [
+            {
+                "section": "48769D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48771D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48772D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "738",
+        "course_name": "Pharmaceutical Industry APPE",
+        "units": "(6.0 units, max 12)",
+        "description": "Practical experience within a pharmaceutical company may include: clinical affairs, drug development, research and/or marketing process.",
+        "sections": [
+            {
+                "section": "48713D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48714D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48715D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "750",
+        "course_name": "Advanced Pharmacy Practice Elective (APPE)",
+        "units": "(6.0 units, max 12)",
+        "description": "Pharmacy practice experience (internship) course in a health care setting.",
+        "sections": [
+            {
+                "section": "48773D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48774D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48775D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "751",
+        "course_name": "Non-traditional Advanced Pharmacy Elective (APPE)",
+        "units": "(6.0 units, max 12)",
+        "description": "Pharmacy practice experience (internship) course in a non-traditional or emerging setting.",
+        "sections": [
+            {
+                "section": "48783D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48784D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48785D",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "790",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to doctorate in Clinical and Experimental Therapeutics.",
+        "sections": [
+            {
+                "section": "48675D",
+                "session": "004",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48723D",
+                "session": "004",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHRD",
+        "course_num": "796A",
+        "course_name": "Doctor of Pharmacy Capstone",
+        "units": "(0.0 units)",
+        "description": "Capstone course required for completion of Doctor of Pharmacy degree. Graded CR/NC. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48797R",
+                "session": "004",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "136 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

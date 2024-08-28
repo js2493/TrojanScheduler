@@ -1,0 +1,67 @@
+[
+    {
+        "term": "20243",
+        "department": "DPHR",
+        "course_num": "701",
+        "course_name": "Advanced Pharmacology",
+        "units": "(1.0 unit)",
+        "description": "Pharmacologic principles and practice of drug use to control anxiety, pain, and infection. Treatment of drug and medical emergencies as they relate to dental specialty practice.",
+        "sections": [
+            {
+                "section": "23250D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Glenn Clark",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23252D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Glenn Clark",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23253D",
+                "session": "009",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Glenn Clark",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23254D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Glenn Clark",
+                "location": "OFFICE"
+            },
+            {
+                "section": "23255D",
+                "session": "011",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Glenn Clark",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

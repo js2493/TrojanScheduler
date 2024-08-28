@@ -1,0 +1,1093 @@
+[
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "190",
+        "course_name": "Introduction to Cinema",
+        "units": "(4.0 units)",
+        "description": "Gateway to majors and minors in cinematic arts. Technique, aesthetics, criticism, and social implications of cinema. Lectures accompanied by screenings of appropriate films.",
+        "sections": [
+            {
+                "section": "18000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "305 of 340",
+                "instructor": "George Carstocea",
+                "location": "NCT"
+            },
+            {
+                "section": "18005R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "268 of 335",
+                "instructor": "George Carstocea",
+                "location": "NCT"
+            },
+            {
+                "section": "18010R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA203"
+            },
+            {
+                "section": "18015R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCB104"
+            },
+            {
+                "section": "18025R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA214"
+            },
+            {
+                "section": "18030R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA310"
+            },
+            {
+                "section": "18035R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18040R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCB104"
+            },
+            {
+                "section": "18045R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18055R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI108"
+            },
+            {
+                "section": "18065R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18070R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18075R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA214"
+            },
+            {
+                "section": "18085R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18090R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA310"
+            },
+            {
+                "section": "18100R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18105R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18115R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18130R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18135R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18140R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18145R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18330R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "SCI207"
+            },
+            {
+                "section": "18340R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "SCA203"
+            },
+            {
+                "section": "18345R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "191",
+        "course_name": "Introduction to Television and Video",
+        "units": "(4.0 units)",
+        "description": "Exploration of the economic, technological, aesthetic, and ideological characteristics of the televisual medium; study of historical development of television and video including analysis of key works; introduction to TV/Video theory and criticism.",
+        "sections": [
+            {
+                "section": "18155R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "100 of 100",
+                "instructor": "Aniko Imre",
+                "location": "SCA108"
+            },
+            {
+                "section": "18156R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCB104"
+            },
+            {
+                "section": "18157R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCB104"
+            },
+            {
+                "section": "18158R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA214"
+            },
+            {
+                "section": "18159R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "200",
+        "course_name": "History of the International Cinema I",
+        "units": "(4.0 units)",
+        "description": "The development of international cinema from its beginnings to World War II. Lectures, screenings, and discussions.",
+        "sections": [
+            {
+                "section": "18160R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "213 of 225",
+                "instructor": "Henry Jenkins",
+                "location": "NCT"
+            },
+            {
+                "section": "18331R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA214"
+            },
+            {
+                "section": "18332R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA204"
+            },
+            {
+                "section": "18333R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA110"
+            },
+            {
+                "section": "18334R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCB104"
+            },
+            {
+                "section": "18335R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA110"
+            },
+            {
+                "section": "18336R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA203"
+            },
+            {
+                "section": "18337R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18338R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "",
+                "location": "SCA316"
+            },
+            {
+                "section": "18339R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SCA209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "367",
+        "course_name": "Global Media",
+        "units": "(4.0 units)",
+        "description": "Studies in the global configurations of television industries and cultures, including new technologies and the textual and sociological analysis of global media events and programming.",
+        "sections": [
+            {
+                "section": "18162R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "Nitin Govil",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "373",
+        "course_name": "Literature and Film",
+        "units": "(4.0 units)",
+        "description": "Examines literature and film as distinct modes of representation, narration, and structuring of time, language, memory, and visuality.",
+        "sections": [
+            {
+                "section": "22035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Akira Mizuta Lippit",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "392",
+        "course_name": "History of American Cinema to 1960",
+        "units": "(4.0 units)",
+        "description": "The development of American cinema from its beginnings to the decline of the studio system. Lectures, screenings and discussions.",
+        "sections": [
+            {
+                "section": "18164R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "49 of 80",
+                "instructor": "Luci Marzola",
+                "location": "NCT"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "395",
+        "course_name": "Topics in Contemporary Cinema and Media",
+        "units": "(4.0 units, max 8)",
+        "description": "Focus on central trends, concepts and/or figures in contemporary cinema and media. Lectures, screenings and discussions.",
+        "sections": [
+            {
+                "section": "18163R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "19 of 20",
+                "instructor": "Burc Kostem",
+                "location": "SCA316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "400",
+        "course_name": "Documentary Film and Media",
+        "units": "(4.0 units)",
+        "description": "An international survey of documentary, informational, and independent experimental film and media.",
+        "sections": [
+            {
+                "section": "18170R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 8,
+                "registered": "30 of 50",
+                "instructor": "Michael Renov",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "406",
+        "course_name": "History of American Television",
+        "units": "(4.0 units)",
+        "description": "History of television as an entertainment, information, and art medium. Emphasis on programming and institutional history, including issues of regulation, censorship, aesthetics and activism.",
+        "sections": [
+            {
+                "section": "18088R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 2,
+                "registered": "23 of 30",
+                "instructor": "",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "412",
+        "course_name": "Gender, Sexuality and Media",
+        "units": "(4.0 units, max 8)",
+        "description": "Examines how gender and sexuality are figured in cinema and television with an emphasis on the development of feminist media theory.",
+        "sections": [
+            {
+                "section": "18196R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Tara Mcpherson",
+                "location": "SCI207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "464",
+        "course_name": "Film and/or Television Genres",
+        "units": "(4.0 units, max 8)",
+        "description": "Rigorous examination of film and/or television genres: history, aesthetics, cultural context, social significance, and critical methodologies.",
+        "sections": [
+            {
+                "section": "18201R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 8,
+                "registered": "27 of 90",
+                "instructor": "Vicki Callahan",
+                "location": "NCT"
+            },
+            {
+                "section": "18206R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "39 of 60",
+                "instructor": "Todd Boyd",
+                "location": "SCA108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "466",
+        "course_name": "Theatrical Film Symposium",
+        "units": "(4.0 units, max 8)",
+        "description": "Lectures and readings on creative problems in the motion picture industry; current films; interviews with visiting producers, directors, writers, performers.",
+        "sections": [
+            {
+                "section": "18215R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "191 of 340",
+                "instructor": "Leonard Maltin",
+                "location": "NCT"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "467",
+        "course_name": "Television Symposium",
+        "units": "(4.0 units, max 8)",
+        "description": "Lectures and readings on creative problems in the television industry; study of current and historical trends, interviews with producers, directors, writers and performers.",
+        "sections": [
+            {
+                "section": "18210R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "49 of 90",
+                "instructor": "Mary Mcnamara",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "469",
+        "course_name": "Film and/or Television Style Analysis",
+        "units": "(4.0 units, max 8)",
+        "description": "Intensive study of the style of an auteur, studio, film or television making mode in terms of thematic and formal properties and their influences upon the art of film.",
+        "sections": [
+            {
+                "section": "18226R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "97 of 150",
+                "instructor": "George Carstocea",
+                "location": "NCT"
+            },
+            {
+                "section": "18228R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "18 of 30",
+                "instructor": "Laura Isabel Serna",
+                "location": "SCB104"
+            },
+            {
+                "section": "18254R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "41 of 120",
+                "instructor": "J.D. Connor",
+                "location": "NCT"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "473",
+        "course_name": "Film and Media Theory",
+        "units": "(4.0 units)",
+        "description": "Influential ideas and theoretical approaches that have shaped the making and study of film. Students are encouraged to take this course in their junior year.",
+        "sections": [
+            {
+                "section": "18230D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "49 of 60",
+                "instructor": "Thomas Pringle",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "478",
+        "course_name": "Culture, Technology and Communications",
+        "units": "(4.0 units)",
+        "description": "Cultural study of communications technology and its relationship to society. Evaluation of the social and cultural impact of technologies from the telegraph to the Internet.",
+        "sections": [
+            {
+                "section": "18237R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Allison Ross",
+                "location": "SCA216"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "500",
+        "course_name": "Seminar in Film Theory",
+        "units": "(4.0 units)",
+        "description": "Introduction to classical and contemporary film theory; exploration of their relationship to filmic experimentation.",
+        "sections": [
+            {
+                "section": "18245D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 25",
+                "instructor": "J.D. Connor",
+                "location": "SCA316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "502",
+        "course_name": "World Cinema After 1945",
+        "units": "(2.0 units)",
+        "description": "Historical survey of film from a global perspective from 1945 until the present.",
+        "sections": [
+            {
+                "section": "18250D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 8,
+                "registered": "39 of 60",
+                "instructor": "Courtney White",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "504",
+        "course_name": "Survey of Television History",
+        "units": "(2.0 units)",
+        "description": "An exploration of the historical, cultural, business, creative, and technological aspects of television.",
+        "sections": [
+            {
+                "section": "18253D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "23 of 25",
+                "instructor": "Aniko Imre",
+                "location": "SCA110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "505",
+        "course_name": "Survey of Interactive Media",
+        "units": "(2.0 units)",
+        "description": "A survey course exploring the historical, cultural, business, creative, and technological aspects of the new interactive media.",
+        "sections": [
+            {
+                "section": "18255D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 4,
+                "registered": "16 of 25",
+                "instructor": "Kiki Benzon",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "506",
+        "course_name": "Critical Studies Colloquium/Professional Seminar",
+        "units": "(2.0 units)",
+        "description": "Provides orientation to the profession, opportunities for academic and professional growth and development. Recommended for entering students.",
+        "sections": [
+            {
+                "section": "18260D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "18 of 25",
+                "instructor": "Nitin Govil",
+                "location": "SCA310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "564",
+        "course_name": "Seminar in Film and Television Genres",
+        "units": "(4.0 units, max 8)",
+        "description": "Advanced study of a selected genre of film and/or television its relationship to history, society, and culture, as well as to genre theory.",
+        "sections": [
+            {
+                "section": "18270D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Todd Boyd",
+                "location": "SCA216"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "587",
+        "course_name": "Seminar in Television Theory",
+        "units": "(4.0 units, max 8)",
+        "description": "Detailed investigation and discussion of various aspects of television, including genre, textual analysis, production and distribution systems and audience studies.",
+        "sections": [
+            {
+                "section": "18167D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 830,
+                "days": 16,
+                "registered": "10 of 20",
+                "instructor": "Tara Mcpherson",
+                "location": "SCA216"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "678",
+        "course_name": "Seminar in Film Theory and Medium Specificity",
+        "units": "(4.0 units, max 8)",
+        "description": "Explores the way film has been theorized in relationship to traditional media that preceded it and electronic media that followed.",
+        "sections": [
+            {
+                "section": "18191D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Thomas Pringle",
+                "location": "SCIL104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "688",
+        "course_name": "Advanced Methods and Approaches",
+        "units": "(4.0 units, max 12)",
+        "description": "Research seminar in methods and approaches to moving image history including film, television and digital media. Focus on archival research and issues in writing history.",
+        "sections": [
+            {
+                "section": "18287D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "8 of 15",
+                "instructor": "Jennifer Wild",
+                "location": "SCA216"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "18295D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Kara Keeling",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18305D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18310D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18315D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18320D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTCS",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "18325D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

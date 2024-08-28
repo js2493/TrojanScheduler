@@ -1,0 +1,849 @@
+[
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "509",
+        "course_name": "Cellular and Systems Physiology",
+        "units": "(3.0 units)",
+        "description": "Selected subjects in cellular and systems physiology. Emphasis on molecular and cellular aspects of neuromuscular function; also hepatic; renal and endocrine physiology.",
+        "sections": [
+            {
+                "section": "12500R",
+                "session": "986",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 720,
+                "days": 4,
+                "registered": "100 of 103",
+                "instructor": "",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "514",
+        "course_name": "Musculoskeletal Anatomy",
+        "units": "(4.0 units)",
+        "description": "Musculoskeletal anatomy, innervation, blood supply, and function: intensive study of the head, neck, trunk, and limbs. Lecture, dissection laboratory.",
+        "sections": [
+            {
+                "section": "12501R",
+                "session": "986",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "100 of 103",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12502D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12503D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12504D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12505D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "521",
+        "course_name": "Basics of Patient Management",
+        "units": "(4.0 units)",
+        "description": "Development of basic decision making skills, professional behaviors and impairment assessment in patients with musculoskeletal, neurologic and/or cardiopulmonary dysfunction. Lecture, laboratory.",
+        "sections": [
+            {
+                "section": "12506R",
+                "session": "986",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "101 of 103",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12507D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12508D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12509D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12510D",
+                "session": "794",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "534",
+        "course_name": "Neuroanatomy",
+        "units": "(3.0 units)",
+        "description": "Organized approach to structures in the brain, spinal cord and peripheral nervous systems that subserve motor, sensory, and integrative functions, memory, cognition and special senses. Lecture, laboratory.",
+        "sections": [
+            {
+                "section": "12511R",
+                "session": "957",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 1050,
+                "days": 4,
+                "registered": "102 of 105",
+                "instructor": "",
+                "location": "CHP224"
+            },
+            {
+                "section": "12530D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12531D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12532D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "536",
+        "course_name": "Pathology of Cardiopulmonary Disease and General Medical Con",
+        "units": "(3.0 units)",
+        "description": "Pathology and pathophysiological mechanisms in disease of the cardiac, pulmonary and circulatory systems; examination of diabetes, burns and other disabling medical disorders.",
+        "sections": [
+            {
+                "section": "12512R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 750,
+                "days": 2,
+                "registered": "103 of 105",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "12535D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12536D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12537D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "539",
+        "course_name": "Clinical Pharmacology",
+        "units": "(1.0 unit)",
+        "description": "Effects of commonly used drugs in patients with physical disability; side effects that alter physical performance or responses to exercise.",
+        "sections": [
+            {
+                "section": "12513R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 8,
+                "registered": "103 of 105",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "12539D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12540D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12541D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "549",
+        "course_name": "Clinical Exercise Physiology",
+        "units": "(4.0 units)",
+        "description": "Adaptation of the human body to exercise and the use of exercise to modify human function.",
+        "sections": [
+            {
+                "section": "12514R",
+                "session": "957",
+                "type": "Lecture-Lab",
+                "start_time": 480,
+                "end_time": 660,
+                "days": 4,
+                "registered": "103 of 105",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "12543D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12544D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12545D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "561A",
+        "course_name": "Evidence for Physical Therapist Practice",
+        "units": "(2.0 units)",
+        "description": "Introduction to a patient-centered Evidence Based Practice model with emphasis on professional communication skills, ethics, professional guidelines, laws and regulations.",
+        "sections": [
+            {
+                "section": "12515R",
+                "session": "986",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 1020,
+                "days": 16,
+                "registered": "100 of 103",
+                "instructor": "",
+                "location": "CHP225"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "561C",
+        "course_name": "Evidence for Physical Therapist Practice",
+        "units": "(2.0 units)",
+        "description": "Advanced critical analysis and application of research of evidence.",
+        "sections": [
+            {
+                "section": "12517R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 810,
+                "days": 32,
+                "registered": "102 of 105",
+                "instructor": "",
+                "location": "CHP224 & ONLINE"
+            },
+            {
+                "section": "12547D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12548D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12549D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "571",
+        "course_name": "Clinical Management of Cardiopulmonary Dysfunction",
+        "units": "(4.0 units)",
+        "description": "Physical therapy evaluation and intervention in the care of patients with circulatory, cardiac or pulmonary dysfunction. Lecture, case presentations, laboratory.",
+        "sections": [
+            {
+                "section": "12518R",
+                "session": "957",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1020,
+                "days": 10,
+                "registered": "103 of 105",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "12551D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12552D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12553D",
+                "session": "795",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 13",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "582",
+        "course_name": "Mechanics of Human Gait",
+        "units": "(2.0 units)",
+        "description": "Introduction to both normal and pathological gait. Emphasis on the basic components of abnormal ambulation including temporal-spatial factors, joint motion, kinetics, kinematics; and muscle activity. Lecture.",
+        "sections": [
+            {
+                "section": "12519R",
+                "session": "986",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "100 of 103",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12520D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12521D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12522D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12523D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "589",
+        "course_name": "Interprofessional Education and Collaboration for Geriatrics",
+        "units": "(0.0 units)",
+        "description": "Students from multiple health professions learn about aging and collaborative team care through a combination of didactic and experiential learning working in a community-based setting.",
+        "sections": [
+            {
+                "section": "48096D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 130",
+                "instructor": "Ashley Halle",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "600C",
+        "course_name": "Clinical Experience",
+        "units": "(1.0 unit)",
+        "description": "Practical experience in two-week physical therapy psychomotor skills, decision making and professional behaviors.",
+        "sections": [
+            {
+                "section": "12524R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "103 of 105",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12555D",
+                "session": "795",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "33 of 40",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "606",
+        "course_name": "Clinical Imaging",
+        "units": "(2.0 units)",
+        "description": "Elements of reading roentgenographs, CAT and MRI scans for the physical therapist. Lecture, demonstration, practical experience.",
+        "sections": [
+            {
+                "section": "12525R",
+                "session": "986",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "100 of 103",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12528D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12529D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12526D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "12527D",
+                "session": "794",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 14",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "630",
+        "course_name": "Integrated Patient Management Clinical Skills",
+        "units": "(6.0 units)",
+        "description": "Advanced evaluation and management of patients with movement dysfunction spanning all diagnoses seen by physical therapists.",
+        "sections": [
+            {
+                "section": "12582R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "46 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "632",
+        "course_name": "Integrated Patient Management Seminar",
+        "units": "(5.0 units)",
+        "description": "Integration of physical therapy management of complicated patients with concurrent musculoskeletal, cardiopulmonary and/or neurologic disorders.",
+        "sections": [
+            {
+                "section": "12583R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "46 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "640A",
+        "course_name": "Hybrid Integrated Patient Management Clinical Skills",
+        "units": "(3.0 units)",
+        "description": "Advanced evaluation and management of patients with movement dysfunction spanning all diagnoses seen by physical therapists (musculoskeletal conditions focus on upper quarter body regions).",
+        "sections": [
+            {
+                "section": "12598R",
+                "session": "963",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "642A",
+        "course_name": "Hybrid Integrated Patient Management Seminar",
+        "units": "(2.5 units)",
+        "description": "Integration of physical therapy management of complicated patients with concurrent musculoskeletal (concentrating on upper quarter body regions), cardiopulmonary and/or neurologic disorders.",
+        "sections": [
+            {
+                "section": "12592R",
+                "session": "963",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 20,
+                "registered": "38 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "650",
+        "course_name": "Differential Diagnosis in Physical Therapy",
+        "units": "(2.0 units)",
+        "description": "Consideration of principle of differential diagnosis with emphasis on mastering this skill.",
+        "sections": [
+            {
+                "section": "12581R",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "660",
+        "course_name": "Advanced Clinical Experience with Academic Integration",
+        "units": "(5.0 units)",
+        "description": "A 16-week clerkship consisting of a minimum of 24 hours per week in a part-time setting. Emphasis on the care of orthopedic, neurologic, pediatric or complicated medical conditions.",
+        "sections": [
+            {
+                "section": "12585R",
+                "session": "957",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "46 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "665",
+        "course_name": "Advanced Clinical Experience",
+        "units": "(8.0 units)",
+        "description": "A 16-week clerkship consisting of a minimum of 36 hours per week in a full-time setting. Emphasis on care of orthopedic, neurologic, pediatric or complicated medical conditions.",
+        "sections": [
+            {
+                "section": "12589R",
+                "session": "987",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "47 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PT",
+        "course_num": "670A",
+        "course_name": "Hybrid Advanced Clinical Experience with Academic Integratio",
+        "units": "(6.5 units)",
+        "description": "A 13-week clerkship consisting of a minimum of 36 hours per week in a part-time setting. Emphasis on the care of orthopedic, neurologic, pediatric or complicated medical conditions.",
+        "sections": [
+            {
+                "section": "12599R",
+                "session": "963",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 55",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

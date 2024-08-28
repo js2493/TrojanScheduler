@@ -1,0 +1,307 @@
+[
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "24152D",
+                "session": "324",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 20",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            },
+            {
+                "section": "24156D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "674",
+        "course_name": "Clinical and Molecular Bone Biology",
+        "units": "(2.0 units)",
+        "description": "Explore the impact of the application of new molecular techniques to bone biology research on our understanding of osteoporosis, oseosarcoma, hypercalcemia. Open to advanced program students in Dentistry only.",
+        "sections": [
+            {
+                "section": "24164D",
+                "session": "032",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Stephen Yen,Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "701A",
+        "course_name": "Cephalometrics: Growth and Development",
+        "units": "(2.0-4.0 units)",
+        "description": "Principles and mechanics; measurement techniques; developmental morphology; analysis and diagnosis; treatment rationales; gross radiological anatomy and osteology; facial growth. Hours vary.",
+        "sections": [
+            {
+                "section": "24162D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "703A",
+        "course_name": "Seminar: Advanced Orthodontics",
+        "units": "(0.0-8.0 units, max 2)",
+        "description": "Advanced diagnosis and treatment of complex orthodontic cases. Asymmetrical treatment. Hours vary.",
+        "sections": [
+            {
+                "section": "24165D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "703C",
+        "course_name": "Seminar: Advanced Orthodontics",
+        "units": "(2.0-8.0 units)",
+        "description": "Advanced diagnosis and treatment of complex orthodontic cases. Asymmetrical treatment. Hours vary.",
+        "sections": [
+            {
+                "section": "24154D",
+                "session": "032",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "703F",
+        "course_name": "Seminar: Advanced Orthodontics",
+        "units": "(2.0-8.0 units)",
+        "description": "Advanced diagnosis and treatment of complex orthodontic cases. Asymmetrical treatment. Hours vary.",
+        "sections": [
+            {
+                "section": "24150D",
+                "session": "324",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "704B",
+        "course_name": "Seminar: Orthodontics in Theory and Practice",
+        "units": "(2.0 units)",
+        "description": "Review of various approaches to orthodontic treatment; includes presentation of cases. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24155D",
+                "session": "324",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "705C",
+        "course_name": "Seminar: Advanced Orthodontics II",
+        "units": "(2.0 units)",
+        "description": "Office management and patient relations in orthodontic practice.",
+        "sections": [
+            {
+                "section": "24151D",
+                "session": "324",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Ellen Grady",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "706",
+        "course_name": "Surgical Orthodontics",
+        "units": "(0.0-2.0 units, max 2)",
+        "description": "Diagnosis, treatment, prognosis, and management of orthognathic problems. Lecture and demonstration, 2 hours. (Enroll in SURG 582)",
+        "sections": [
+            {
+                "section": "24159D",
+                "session": "032",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "708",
+        "course_name": "Information Technology in Orthodontic Practice",
+        "units": "(2.0 units)",
+        "description": "Practical applications of information technology in contemporary orthodontics. Topics include office management systems, videocephalometrics, and video imaging in orthodontic practice.",
+        "sections": [
+            {
+                "section": "24160D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Ellen Grady",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "721",
+        "course_name": "Biomechanics and Orthodontic Technique",
+        "units": "(0.0-8.0 units, max 3)",
+        "description": "Primary orthodontic techniques and basic diagnostic procedures. Typodont treatment of malocclusion, record taking, retention appliances, and beginning biomechanics.",
+        "sections": [
+            {
+                "section": "24161D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "751A",
+        "course_name": "Clinic: Advanced Orthodontics",
+        "units": "(0.0-5.0 units, max 5)",
+        "description": "Clinical orthodontics; clinical techniques, diagnostic procedures, and applied clinical therapy to selected cases of malocclusion with emphasis on therapy and supervised treatment.",
+        "sections": [
+            {
+                "section": "24158D",
+                "session": "024",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "751C",
+        "course_name": "Clinic: Advanced Orthodontics",
+        "units": "(1.0-10.0 units)",
+        "description": "Clinical orthodontics; clinical techniques, diagnostic procedures, and applied clinical therapy to selected cases of malocclusion with emphasis on therapy and supervised treatment.",
+        "sections": [
+            {
+                "section": "24163D",
+                "session": "032",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ORTH",
+        "course_number": "751F",
+        "course_name": "Clinic: Advanced Orthodontics",
+        "units": "(1.0-10.0 units)",
+        "description": "Clinical orthodontics; clinical techniques, diagnostic procedures, and applied clinical therapy to selected cases of malocclusion with emphasis on therapy and supervised treatment.",
+        "sections": [
+            {
+                "section": "24153D",
+                "session": "324",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 6",
+                "instructor": "Glenn Sameshima",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

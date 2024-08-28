@@ -1,0 +1,34 @@
+[
+    {
+        "term": "20243",
+        "department": "DHIS",
+        "course_num": "701",
+        "course_name": "Advanced Oral Histology",
+        "units": "(2.0 units)",
+        "description": "Microscopic anatomy, ultrastructure and histochemistry of developing and functional oral tissues; based on recent advances in oral LM, TEM, and SEM histology. PREREQUISITE: Departmental approval",
+        "sections": [
+            {
+                "section": "22950D",
+                "session": "637",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 15",
+                "instructor": "Audrey Boros",
+                "location": "OFFICE"
+            },
+            {
+                "section": "22951D",
+                "session": "369",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Audrey Boros",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

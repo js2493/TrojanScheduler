@@ -1,0 +1,191 @@
+[
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "502",
+        "course_name": "Advanced Regional Anatomy I",
+        "units": "(1.0-3.0 units)",
+        "description": "In-depth dissection of one or more regions of the human body, supplemented with literature research, and teaching practicum. May also enable the student to pursue a minor research investigation in some anatomical region of choice. Focuses on the following anatomical regions: Head, Neck, and Abdominopelvic Cavity.",
+        "sections": [
+            {
+                "section": "40463D",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "4 of 25",
+                "instructor": "Addison Kemp",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "511A",
+        "course_name": "Microscopic Anatomy I",
+        "units": "(3.0 units)",
+        "description": "Study of microscopic anatomy emphasizing embryonic origin of the body plan, cells, tissues, and organs; ultrastructural and functional correlations. Duplicates credit in former CNB 511a.",
+        "sections": [
+            {
+                "section": "40470D",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 990,
+                "days": 20,
+                "registered": "7 of 25",
+                "instructor": "Adam Huttenlocker",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "521",
+        "course_name": "Neuroanatomy",
+        "units": "(3.0 units)",
+        "description": "Structure and function of the human nervous system with emphasis on central conduction pathways, especially those of clinical significance. Course duplicates credit in former CNB 521.",
+        "sections": [
+            {
+                "section": "40471D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 42,
+                "registered": "7 of 25",
+                "instructor": "Craig McGowan",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "531",
+        "course_name": "Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Current perspectives on major research areas in cell biology. Emphasis will be on in-depth examination of cellular structures, regulatory processes, intra-cellular routing and targeting, and cell/environmental interactions.",
+        "sections": [
+            {
+                "section": "40654D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "55 of 90",
+                "instructor": "Axel Schonthal",
+                "location": "MCH156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "550",
+        "course_name": "Integrative Anatomical Sciences Seminar",
+        "units": "(1.0 units, max 6)",
+        "description": "Reports and discussion on recent advances in anatomy.",
+        "sections": [
+            {
+                "section": "40452D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "2 of 40",
+                "instructor": "Adam Huttenlocker",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "580",
+        "course_name": "Teaching in the Anatomical Sciences",
+        "units": "(1.0 unit)",
+        "description": "Introduces pedagogical principles of learning and assessment, effective content delivery and instructional design for anatomical teaching.",
+        "sections": [
+            {
+                "section": "40472D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "6 of 25",
+                "instructor": "Ruth Wood",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "581",
+        "course_name": "Teaching in the Anatomical Sciences: Practicum",
+        "units": "(3.0 units, max 6)",
+        "description": "Obtain a deeper understanding of clinical anatomy, develop pedagogical skills in small-group anatomical demonstration, and learn to prepare practical exams.",
+        "sections": [
+            {
+                "section": "40468D",
+                "session": "046",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "6 of 25",
+                "instructor": "Biren Patel",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "40474D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Rayudu Gopalakrishna",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IAS",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "40548D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 20",
+                "instructor": "Craig McGowan",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1808 @@
+[
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "100",
+        "course_name": "The Physical World",
+        "units": "(4.0 units)",
+        "description": "The fundamentals of physics are presented, exploring the structure and beauty of physical laws and their manifestations, ranging from events observed in everyday life to subatomic and cosmic phenomena.",
+        "sections": [
+            {
+                "section": "50310R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "93 of 93",
+                "instructor": "Vahe Peroomian",
+                "location": "SLH100"
+            },
+            {
+                "section": "50311R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50314R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "15 of 16",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50316R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "14 of 16",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50317R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50318R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50319R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "135A",
+        "course_name": "Physics for the Life Sciences",
+        "units": "(4.0 units)",
+        "description": "Fundamental laws and principles of physics emphasizing areasrelated to life sciences. Prerequisite for Biological Sciences,Medicine, Dentistry, Pharmacy. Lecture, 4 hrs.; Lab, 3 hrs.",
+        "sections": [
+            {
+                "section": "50340R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "167 of 171",
+                "instructor": "Vitaly Kresin",
+                "location": "SLH200"
+            },
+            {
+                "section": "50342R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "93 of 93",
+                "instructor": "Aaron Wirthwein",
+                "location": "SLH100"
+            },
+            {
+                "section": "50343R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "260 of 270",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "50346R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50347R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50348R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50349R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50350R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 32,
+                "registered": "21 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50351R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50352R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50353R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50354R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50355R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "23 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            },
+            {
+                "section": "50356R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "24 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB5"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "135B",
+        "course_name": "Physics for the Life Sciences",
+        "units": "(4.0 units)",
+        "description": "Fundamental laws and principles of physics emphasizing areas related to life sciences. Prerequisite for Biological Sciences, Medicine, Dentistry, and Pharmacy. Lecture, 4 hrs.; Lab, 3 hrs. (Duplicates credit in 105abLg and 125L).",
+        "sections": [
+            {
+                "section": "50362R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "86 of 93",
+                "instructor": "Lara Martini",
+                "location": "SLH102"
+            },
+            {
+                "section": "50360R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "50 of 93",
+                "instructor": "James Boedicker",
+                "location": "SLH102"
+            },
+            {
+                "section": "50361R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "136 of 224",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "50367R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "14 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50368R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "22 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50369R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50370R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "22 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50371R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "18 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50372R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "16 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            },
+            {
+                "section": "50373R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "22 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB11"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "141",
+        "course_name": "Special Laboratory I",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for PHYS 151Lg for transfer students with equivalent lecture credit from another institution. For transfer students immediately after matriculation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50471D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 4",
+                "instructor": "Gokhan Esirgen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "142",
+        "course_name": "Special Laboratory II",
+        "units": "(1.0 unit)",
+        "description": "Laboratory component for PHYS 152L for transfer students with equivalent lecture credit from another institution. For transfer students immediately after matriculation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50478D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 4",
+                "instructor": "Gokhan Esirgen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "151",
+        "course_name": "Fundamentals of Physics I: Mechanics and Thermodynamics",
+        "units": "(4.0 units)",
+        "description": "Gateway to the majors and minors in Physics and Astronomy. Statics and dynamics of particles and rigid bodies, conservation principles, gravitation, simple harmonic oscillators, thermodynamics, heat engines, entropy.",
+        "sections": [
+            {
+                "section": "50380R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "134 of 143",
+                "instructor": "Lara Martini",
+                "location": "SLH200"
+            },
+            {
+                "section": "50382R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "143 of 143",
+                "instructor": "Aaron Wirthwein",
+                "location": "SLH200"
+            },
+            {
+                "section": "50383R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "277 of 356",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "50386R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 4,
+                "registered": "22 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50388R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "26 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50389R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "26 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50390R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50391R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "25 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50392R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "26 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50393R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "26 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50394R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50395R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "24 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50396R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "26 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50397R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 26",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            },
+            {
+                "section": "50399D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 32,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB8"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "152",
+        "course_name": "Fundamentals of Physics II: Electricity and Magnetism",
+        "units": "(4.0 units)",
+        "description": "Electrostatics, magnetostatics, electrical circuits, wave motion, sound waves, electromagnetic waves.",
+        "sections": [
+            {
+                "section": "50402R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "85 of 122",
+                "instructor": "Hamid Chabok",
+                "location": "SLH200"
+            },
+            {
+                "section": "50404R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "149 of 149",
+                "instructor": "Vahe Peroomian",
+                "location": "SLH200"
+            },
+            {
+                "section": "50403R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "234 of 280",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "50406R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 4,
+                "registered": "14 of 24",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50407R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50408R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "23 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50409R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "24 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50410R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "23 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50411D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 32,
+                "registered": "1 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50413R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "26 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50414R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "25 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50415R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "24 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50418R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "23 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50419R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "26 of 22",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50498D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 16,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "153",
+        "course_name": "Fundamentals of Physics III: Optics and Modern Physics",
+        "units": "(4.0 units)",
+        "description": "Geometrical optics, interference, diffraction, special relativity, quantum mechanics, atomic physics, solid state physics.",
+        "sections": [
+            {
+                "section": "50420R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "44 of 72",
+                "instructor": "Christopher Gould",
+                "location": "SLH102"
+            },
+            {
+                "section": "50421R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "44 of 72",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "50426R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB29"
+            },
+            {
+                "section": "50427R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB29"
+            },
+            {
+                "section": "50428R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "9 of 10",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB29"
+            },
+            {
+                "section": "50429R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "10 of 10",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB29"
+            },
+            {
+                "section": "50430R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "5 of 10",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB29"
+            },
+            {
+                "section": "50431D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB29"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "162",
+        "course_name": "Advanced Principles of Physics II",
+        "units": "(4.0 units)",
+        "description": "Electrostatics, magnetostatics, electrical circuits, electric and magnetic properties of matter, Maxwell's equations, electromagnetic waves, propagation of light.",
+        "sections": [
+            {
+                "section": "50550D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "18 of 93",
+                "instructor": "Scott Macdonald",
+                "location": "SLH102"
+            },
+            {
+                "section": "50552R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 4,
+                "registered": "2 of 4",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50553R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 8,
+                "registered": "2 of 2",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50554R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "2 of 2",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50555R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 8,
+                "registered": "2 of 2",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50556R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "0 of 2",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50557D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 32,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50560R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "2 of 2",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50563R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "1 of 2",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50565R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "7 of 28",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50566D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 16,
+                "registered": "0 of 1",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50551R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 8,
+                "registered": "18 of 93",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "172",
+        "course_name": "Applied Physics II: Electricity, Magnetism and Optics",
+        "units": "(4.0 units)",
+        "description": "Electric and magnetic fields; electromagnetic waves; optics. Emphasizes applications in the areas of applied physics and engineering.",
+        "sections": [
+            {
+                "section": "50785D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "78 of 90",
+                "instructor": "Hamid Chabok",
+                "location": "SLH102"
+            },
+            {
+                "section": "50786R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "39 of 45",
+                "instructor": "Grace Lu",
+                "location": "GFS223 & ONLINE"
+            },
+            {
+                "section": "50791R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "39 of 45",
+                "instructor": "Grace Lu",
+                "location": "GFS207 & ONLINE"
+            },
+            {
+                "section": "50787R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 32,
+                "registered": "29 of 32",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50788R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 32",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            },
+            {
+                "section": "50789R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "30 of 32",
+                "instructor": "Gokhan Esirgen",
+                "location": "KAPB25"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "190",
+        "course_name": "Physics Discovery Series",
+        "units": "(2.0 units)",
+        "description": "Introduction to current research activities of the faculty of the Department; topics of current and popular interest among the wider community of physicists. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50470D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "55 of 56",
+                "instructor": "Vera Gluscevic",
+                "location": "THH301"
+            },
+            {
+                "section": "50472R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Vera Gluscevic",
+                "location": "MHP102"
+            },
+            {
+                "section": "50473R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "30 of 31",
+                "instructor": "Vera Gluscevic",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "200",
+        "course_name": "The Physics and Technology of Energy",
+        "units": "(4.0 units)",
+        "description": "Investigation of energy technologies, including development and implementation issues. Topics include the Industrial Revolution, electromagnetic induction, power transmission, combustion engines, fission and fusion. Not available for major credit.",
+        "sections": [
+            {
+                "section": "50490R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "18 of 24",
+                "instructor": "Peter Chung",
+                "location": "SLH100"
+            },
+            {
+                "section": "50491R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "13 of 14",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50492R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "5 of 14",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "304",
+        "course_name": "Mechanics",
+        "units": "(4.0 units)",
+        "description": "Dynamics of particles, kinematics of rotations, rigid body motion, Lagrangian and Hamiltonian formalism, theory of small vibrations.",
+        "sections": [
+            {
+                "section": "50500D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "43 of 49",
+                "instructor": "Christoph Haselwandter",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "408A",
+        "course_name": "Electricity and Magnetism",
+        "units": "(4.0 units)",
+        "description": "a: Electrostatics; thermal, chemical, magnetic effects of steady currents; DC circuits.",
+        "sections": [
+            {
+                "section": "50506D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 42,
+                "registered": "37 of 46",
+                "instructor": "Aaron Wirthwein",
+                "location": "ZHS163"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "438B",
+        "course_name": "Introduction to Quantum Mechanics and its Applications",
+        "units": "(4.0 units)",
+        "description": "Relativity, atomic spectra, quantum statistics, nuclear models, nuclear reactions, elementary particles.",
+        "sections": [
+            {
+                "section": "50512R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "19 of 24",
+                "instructor": "Itay Hen",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "484",
+        "course_name": "Introduction to String Theory",
+        "units": "(4.0 units)",
+        "description": "Introduction to string theory; classical non-relativistic and relativistic strings; quantum relativistic bosonic strings; supersymmetric string theory; D-branes; gauge/gravity duality; stringy black holes; and string compactification.",
+        "sections": [
+            {
+                "section": "50520R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "5 of 19",
+                "instructor": "Scott Macdonald",
+                "location": "DMC257"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Prerequisite: consent of instructor.",
+        "sections": [
+            {
+                "section": "50516D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "492",
+        "course_name": "Senior Lab",
+        "units": "(4.0 units)",
+        "description": "Projects will include experiments in mechanics, thermodynamics, electricity and magnetism. Emphasis on laboratory work with discussion of theoretical background. Lecture, 2 hours; laboratory, 6 hours.",
+        "sections": [
+            {
+                "section": "50518D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "8 of 18",
+                "instructor": "Kelly Luo,Jack Feinberg",
+                "location": "GFS221"
+            },
+            {
+                "section": "50519D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "8 of 18",
+                "instructor": "Kelly Luo,Jack Feinberg",
+                "location": "OCW105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "495",
+        "course_name": "Senior Project",
+        "units": "(2.0 units)",
+        "description": "An original project will be constructed applying computer technology (in either hardware or software) to produce a result useful in the physics classroom or laboratory.",
+        "sections": [
+            {
+                "section": "50526D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Vahe Peroomian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "500",
+        "course_name": "Graduate Colloquium",
+        "units": "(1.0 units, max 4)",
+        "description": "Topics of current research interest in physics and astronomy. Lectures directed to physics graduate students by faculty of the department and by outside speakers. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 2,
+                "registered": "42 of 60",
+                "instructor": "",
+                "location": "SSL202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "504",
+        "course_name": "Advanced Mechanics",
+        "units": "(3.0 units)",
+        "description": "Newtonian formulation of dynamics; Hamilton's principle; Lagrangian formulation; rigid body motion; Hamiltonian formulation; Hamilton-Jacobi theory; vibrations.",
+        "sections": [
+            {
+                "section": "50604R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "24 of 24",
+                "instructor": "Nathan Benjamin",
+                "location": "WPHB30"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "510",
+        "course_name": "Methods of Theoretical Physics",
+        "units": "(3.0 units)",
+        "description": "Vector analysis; infinite, asymptotic Fourier series; complete sets; Dirac delta function; Fourier, Laplace transforms; Legendre functions; spherical harmonics; Sturm-Liouville theory; orthogonal polynomials; gamma-factorial function; complex variables.",
+        "sections": [
+            {
+                "section": "50610R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "22 of 24",
+                "instructor": "Krzysztof Pilch",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "518",
+        "course_name": "Thermodynamics and Statistical Mechanics",
+        "units": "(3.0 units)",
+        "description": "Principles of, and relations between, thermodynamics, and statistical mechanics; ensembles, partition function formalism; quantum statistics; fluctuations.",
+        "sections": [
+            {
+                "section": "50616R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "21 of 24",
+                "instructor": "Rajiv Kalia",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "558B",
+        "course_name": "Quantum Mechanics",
+        "units": "(3.0 units)",
+        "description": "b: Approximation schemes and application to atomic and molecular physics and scattering theory; identical particles; electromagnetic properties of atoms.",
+        "sections": [
+            {
+                "section": "50628R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "5 of 24",
+                "instructor": "Paolo Zanardi",
+                "location": "KAP134"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "559",
+        "course_name": "Quantum Devices",
+        "units": "(4.0 units)",
+        "description": "Idealized and real-world descriptions of quantum hardware; design principles, methods of operation and possible improvements; applications, advantages and limitations of different technologies.",
+        "sections": [
+            {
+                "section": "50629R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "19 of 24",
+                "instructor": "Eli Levenson-Falk",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50632D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "38 of 45",
+                "instructor": "Stephan Haas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching Physics and Astronomy",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within the physical sciences. Intended for teaching assistants in Dornsife College. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50633R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 2,
+                "registered": "14 of 20",
+                "instructor": "Lara Martini",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "50634D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 24",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "50636D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "50638D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the students field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "50679D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "650",
+        "course_name": "Topics in Current Research",
+        "units": "(2.0 units)",
+        "description": "Course content will vary each year. It will include topics of current interest in research conducted in academica and industry.",
+        "sections": [
+            {
+                "section": "50642R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "10 of 30",
+                "instructor": "Itzhak Bars",
+                "location": "SSC319 & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "690",
+        "course_name": "Introduction to Physical Biology",
+        "units": "(3.0 units)",
+        "description": "Introduces students to the role of physics in biology. Considers both experimental and more fundamental points of view. Explores a few current research directions. Recommended preparation: Good knowledge of basic statistical mechanics and thermodynamics.",
+        "sections": [
+            {
+                "section": "50772R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 40,
+                "registered": "8 of 12",
+                "instructor": "Peter Foster",
+                "location": "KAP150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "740",
+        "course_name": "Selected Topics in Condensed Matter Physics",
+        "units": "(3.0 units, max 6)",
+        "description": "Course content will vary yearly with current interest. Topics covered may include theory of superconductivity, high temperature superconductivity, Green's functions in condensed matter physics, magnetism and transport in disordered metals.",
+        "sections": [
+            {
+                "section": "50664R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 40,
+                "registered": "6 of 12",
+                "instructor": "Hubert Saleur",
+                "location": "THH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "750O",
+        "course_name": "Off Campus Studies",
+        "units": "(3.0 units, max 9)",
+        "description": "Coursework taken on campus at Caltech as part of the Caltech-USC cross-registration program. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "07975D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "760",
+        "course_name": "Selected Topics in Computational Physics",
+        "units": "(3.0 units)",
+        "description": "Course content will vary yearly with current interest. Topics covered may include artificial intelligence techniques, Monte Carlo simulations, numerical renormalization group and tensor networks.",
+        "sections": [
+            {
+                "section": "50666R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "11 of 19",
+                "instructor": "Aiichiro Nakano",
+                "location": "DMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "50668D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "Stephan Haas",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50670D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50672D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50674D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation.",
+        "sections": [
+            {
+                "section": "50676D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 12",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "",
+        "sections": [
+            {
+                "section": "50678D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 17",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

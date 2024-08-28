@@ -1,0 +1,254 @@
+[
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "506",
+        "course_name": "Advanced Principles of Nurse Anesthesia Practice",
+        "units": "(4.0 units)",
+        "description": "Advanced theory of anesthesia management for general and specialized procedures, diagnostic procedures, pediatrics and obstetrics.",
+        "sections": [
+            {
+                "section": "40306R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 830,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Joshua Carr",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "508",
+        "course_name": "Research: Investigative Inquiry",
+        "units": "(3.0 units)",
+        "description": "Utilization of research, which includes the evaluation of research, problem identification within the practice setting, awareness of practice outcomes and the clinical application of research. Recommended preparation: research course; basic statistics.",
+        "sections": [
+            {
+                "section": "40308R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 950,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Elizabeth Bamgbose,Charles Griffis",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "602",
+        "course_name": "Analytical Methods for Evidence-Based Practice",
+        "units": "(3.0 units)",
+        "description": "Evaluation of the appropriateness of statistical methods applied to answer research questions and impact of statistical choice on applying evidence-based medicine to nurse anesthesia practice.",
+        "sections": [
+            {
+                "section": "40323R",
+                "session": "434",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Amanda Goodrich",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "604",
+        "course_name": "Healthcare Policy for Advocacy in Health Care",
+        "units": "(3.0 units)",
+        "description": "Examining the health care system focusing on policy development, health care costs, quality and patient safety, access to care, disparities, and future trends.",
+        "sections": [
+            {
+                "section": "40325R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 930,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Jeffrey Darna",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "609",
+        "course_name": "Advanced Health Assessment",
+        "units": "(3.0 units)",
+        "description": "Focuses on the patients health history, on inspection, palpation, percussion and auscultation of major organ systems and differential diagnosis.",
+        "sections": [
+            {
+                "section": "50132R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Erica McCall,Jeffrey Darna",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "611",
+        "course_name": "Leadership and Collaborative Practice",
+        "units": "(3.0 units)",
+        "description": "Emphasis on the professional components of nurse anesthesia practice including scope of practice, organizational leadership, accountability, ethics and collaborative practice.",
+        "sections": [
+            {
+                "section": "40327R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Joshua Carr",
+                "location": "CHP224"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "615",
+        "course_name": "Clinical Residency in Nurse Anesthesia II",
+        "units": "(2.0 units)",
+        "description": "Correlation of techniques of anesthesia administration with application of scientific and pharmacologic theory in the clinical setting with observation and supervised clinical residency.",
+        "sections": [
+            {
+                "section": "40330R",
+                "session": "434",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 24",
+                "instructor": "Elizabeth Bamgbose,Jeffrey Darna,Erica McCall,Jennifer Hogan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "618",
+        "course_name": "Advanced Clinical Residency in Nurse Anesthesia III",
+        "units": "(2.0 units)",
+        "description": "Correlation of techniques of anesthesia administration with application of scientific and pharmacologic theory expanded to neuroanesthesia, cardiac anesthesia, trauma anesthesia, critical care and pain management.",
+        "sections": [
+            {
+                "section": "40333R",
+                "session": "115",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 24",
+                "instructor": "Elizabeth Bamgbose,Jeffrey Darna,Erica McCall,Jennifer Hogan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "631",
+        "course_name": "Clinical Synthesis I",
+        "units": "(2.0 units)",
+        "description": "Lecture and simulation curriculum promoting synthesis and mastery of topics integral to the art and science of nurse anesthesia planning, management and delivery.",
+        "sections": [
+            {
+                "section": "40349R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "22 of 24",
+                "instructor": "Regalado Valerio,Seth Quiambao",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "634",
+        "course_name": "Clinical Synthesis IV",
+        "units": "(2.0 units)",
+        "description": "Part four of a four-semester curriculum promoting synthesis and mastery of topics integral to the art and science of nurse anesthesia planning, management and delivery.",
+        "sections": [
+            {
+                "section": "50134R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1080,
+                "days": 2,
+                "registered": "21 of 24",
+                "instructor": "Teresa Norris",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "651",
+        "course_name": "PeriOperative Evaluation and Management I",
+        "units": "(3.0 units)",
+        "description": "Emphasizes the differential diagnosis, illness management, and perioperative optimization in patients presenting with hyperacute, acute, and chronic health alterations using illness scripts.",
+        "sections": [
+            {
+                "section": "50107R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Jeffrey Darna,Erica McCall",
+                "location": "CHP233A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANST",
+        "course_num": "694B",
+        "course_name": "Doctoral Capstone Project",
+        "units": "(2.0 units)",
+        "description": "Mentored research on an individualized topic of interest leading to the professional doctorate. The project will culminate in a formal written research paper or presentation.",
+        "sections": [
+            {
+                "section": "40341R",
+                "session": "434",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Elizabeth Bamgbose",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

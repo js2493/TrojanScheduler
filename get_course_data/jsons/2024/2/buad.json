@@ -1,0 +1,308 @@
+[
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "280",
+        "course_name": "Introduction to Financial Accounting",
+        "units": "(3.0 units)",
+        "description": "Emphasis on understanding financial statements and the impact of business transactions on information presented to management and interested stakeholders. Duplicates credit in BUAD 305.",
+        "sections": [
+            {
+                "section": "14510R",
+                "session": "045",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "23 of 52",
+                "instructor": "Jaewon Cheong",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "281",
+        "course_name": "Introduction to Managerial Accounting",
+        "units": "(3.0 units)",
+        "description": "An emphasis on how accounting information, combined with a variety of techniques and best practices, supports enhanced management decision making. Duplicates credit in BUAD 305.",
+        "sections": [
+            {
+                "section": "14518R",
+                "session": "045",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "46 of 57",
+                "instructor": "Cecil Jackson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "302",
+        "course_name": "Communication Strategy in Business",
+        "units": "(4.0 units)",
+        "description": "Theory, practices, and techniques of business communication strategy essential to external and organizational communication; group and interpersonal communication; development of skill in oral and written communication.",
+        "sections": [
+            {
+                "section": "14677R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "25 of 36",
+                "instructor": "Maria Colman",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "304",
+        "course_name": "Organizational Behavior and Leadership",
+        "units": "(4.0 units)",
+        "description": "The role of leadership in business organizations; concepts and skills for managing oneself and others.",
+        "sections": [
+            {
+                "section": "14717R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 740,
+                "days": 10,
+                "registered": "10 of 48",
+                "instructor": "Jacob Roberson,Eric Anicich",
+                "location": "JFF316"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "306",
+        "course_name": "Business Finance",
+        "units": "(4.0 units)",
+        "description": "Financial problems of business enterprise; function of financial manager; sources of funds; instruments, institutions, and practices of finance; problems of financial management using case studies. Recommended preparation: foundational courses in microeconomics, financial accounting, and business statistics. Duplicates credit in BUAD 215x and BUAD 308.",
+        "sections": [
+            {
+                "section": "14782R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 10,
+                "registered": "15 of 30",
+                "instructor": "Ioannis Moustakis",
+                "location": "JFF327"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "307",
+        "course_name": "Marketing Fundamentals",
+        "units": "(4.0 units)",
+        "description": "Develop a managerial viewpoint in planning, executing, and evaluating marketing decisions of the firm, including decisions related to products, pricing, distribution channels and promotion.",
+        "sections": [
+            {
+                "section": "14800R",
+                "session": "378",
+                "type": "Lecture-Discussion",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 10,
+                "registered": "42 of 48",
+                "instructor": "Lars Perner",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "308",
+        "course_name": "Advanced Business Finance",
+        "units": "(4.0 units)",
+        "description": "Rigorous coverage of principles and practices of financial management; valuation of cash flows; capital budgeting; risk and return; cost of capital; corporate financial policy. Recommended preparation: foundational courses in microeconomics, financial accounting, and business statistics. Duplicates credit in BUAD 215x and BUAD 306.",
+        "sections": [
+            {
+                "section": "14790R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Sidd Mehta",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "310",
+        "course_name": "Applied Business Statistics",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for business analysis; data exploration and description; sampling distributions; estimation; hypothesis testing, simple and multiple regression; model building. Extensive computer applications. (Duplicates credit in BUAD 312 and the former ITP 251.)",
+        "sections": [
+            {
+                "section": "14884R",
+                "session": "378",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 750,
+                "days": 10,
+                "registered": "56 of 63",
+                "instructor": "Cosimo Arnesano",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "311",
+        "course_name": "Operations Management",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of operations management. Skills needed to analyze, manage, and improve business processes. Topics include: process, capacity, service, and inventory management and optimization. (Duplicates credit in BUAD 313 and BUAD 315x.)",
+        "sections": [
+            {
+                "section": "14922R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 870,
+                "days": 10,
+                "registered": "27 of 60",
+                "instructor": "Kathy Takayama",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "425",
+        "course_name": "Introduction to Business Analytics",
+        "units": "(2.0 units)",
+        "description": "Leveraging large corporate datasets; slice and dice data; dash boards; data mining and statistical tools; neural network; multiple and logistic regression; decision tree; gain inference and decision making; clustering.",
+        "sections": [
+            {
+                "section": "15053R",
+                "session": "441",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 750,
+                "days": 20,
+                "registered": "39 of 48",
+                "instructor": "Inga Maslova",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings under the supervision of a faculty advisor. Application and proposal required. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "15060D",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Maureen Mchale",
+                "location": "OFFICE"
+            },
+            {
+                "section": "15106D",
+                "session": "447",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Maureen Mchale",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "495",
+        "course_name": "Practicum in Business Issues (Internship)",
+        "units": "(1.0 units, max 12)",
+        "description": "Combined classroom discussion and structured, supervised field application of business theories and practices within a part-time employment context. Open only to: Freshmen, Sophomore, Junior, Senior. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "15082D",
+                "session": "133",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 36",
+                "instructor": "Jeff Teng",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15126D",
+                "session": "153",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "39 of 40",
+                "instructor": "Tina Nguyen",
+                "location": "ONLINE"
+            },
+            {
+                "section": "15127D",
+                "session": "153",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "36 of 40",
+                "instructor": "Elizabeth Pons-Rubalcava",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BUAD",
+        "course_number": "497",
+        "course_name": "Strategic Management",
+        "units": "(4.0 units)",
+        "description": "Examination of managerial decision-making, planning, and policy under changing environments; readings, cases, exercises, simulations.",
+        "sections": [
+            {
+                "section": "15092R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1110,
+                "days": 10,
+                "registered": "28 of 48",
+                "instructor": "Mitch Feinman",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1055 @@
+[
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "101",
+        "course_name": "International Relations",
+        "units": "(4.0 units)",
+        "description": "Basic concepts of world affairs for non-majors. Development ofcompetency to understand and critically evaluate global relationsand international events, stressing empirical approaches. Not available for major credit.",
+        "sections": [
+            {
+                "section": "37710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "149 of 150",
+                "instructor": "Douglas Becker",
+                "location": "MHP101"
+            },
+            {
+                "section": "37711R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC154"
+            },
+            {
+                "section": "37712R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "37713R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "THH213"
+            },
+            {
+                "section": "37714R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC158"
+            },
+            {
+                "section": "37715R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH214"
+            },
+            {
+                "section": "37716R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "150",
+        "course_name": "Environmental Issues in Society",
+        "units": "(4.0 units)",
+        "description": "Exploration of the major social, political, economic, religious, and philosophical disagreements that exist between scholars, leaders, and citizens concerning today's most serious environmental issues and problems. Not available for credit to environmental studies majors and minors.",
+        "sections": [
+            {
+                "section": "33005R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "80 of 80",
+                "instructor": "Shannon Gibson",
+                "location": "GFS116"
+            },
+            {
+                "section": "33007R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC106"
+            },
+            {
+                "section": "33008R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "33009R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC160"
+            },
+            {
+                "section": "33010R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "GFS114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "210",
+        "course_name": "International Relations: Introductory Analysis",
+        "units": "(4.0 units)",
+        "description": "Comprehensive introduction to contending theoretical and analytical approaches; development of critical, evaluative, cognitive, and analytical competencies regarding historical and contemporary issues.",
+        "sections": [
+            {
+                "section": "37729R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "37730R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC161"
+            },
+            {
+                "section": "37731R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "37720R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "200 of 200",
+                "instructor": "Alix Ziff",
+                "location": "SGM124"
+            },
+            {
+                "section": "37721R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH121"
+            },
+            {
+                "section": "37723R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH108"
+            },
+            {
+                "section": "37724R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC207"
+            },
+            {
+                "section": "37726R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC155"
+            },
+            {
+                "section": "37728R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "211",
+        "course_name": "International Relations: Approaches to Research",
+        "units": "(4.0 units)",
+        "description": "Introduction to theoretically oriented research approaches and designs; emphasis on the logic of argumentation.",
+        "sections": [
+            {
+                "section": "37733R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Megan Becker",
+                "location": "DMC102"
+            },
+            {
+                "section": "37734R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Laura Breen",
+                "location": "DMC161"
+            },
+            {
+                "section": "37735R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "27 of 27",
+                "instructor": "Laura Breen",
+                "location": "THHB9"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "213",
+        "course_name": "The Global Economy",
+        "units": "(4.0 units)",
+        "description": "Economic and political concepts necessary to the understanding of the modern global economy. Topics include international trade, foreign investment and migration.",
+        "sections": [
+            {
+                "section": "37747R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Benjamin A.T. Graham",
+                "location": "LVL16"
+            },
+            {
+                "section": "37748R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "23 of 25",
+                "instructor": "Alayna Johnson",
+                "location": "DMC203"
+            },
+            {
+                "section": "37749R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Alayna Johnson",
+                "location": "THHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "304",
+        "course_name": "National Intelligence and the Shaping of Policy",
+        "units": "(4.0 units)",
+        "description": "The focus is intelligence to improve the making of policy, with attention to collection; overt and covert, operations; domestic intelligence; and oversight in democracies.",
+        "sections": [
+            {
+                "section": "37765R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Derek Grossman",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "305",
+        "course_name": "Managing New Global Challenges",
+        "units": "(4.0 units)",
+        "description": "Examines the strategies for managing global issues in the post Cold War period. Explores ways that international institutions, national governments and non-state actors work separately and together to provide order and control over complex international issues areas. Issues that will receive attention could include financial and monetary relations, trade and foreign investment, preservation of the environment, the spread of weapons of mass destruction, population and migration, terrori",
+        "sections": [
+            {
+                "section": "37770R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Pamela Starr",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "307",
+        "course_name": "Contemporary International Politics",
+        "units": "(4.0 units, max 8)",
+        "description": "Analysis of recent events, forces, and conditions in the international political system.",
+        "sections": [
+            {
+                "section": "37775R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Steve Swerdlow",
+                "location": "SOSB44"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "308",
+        "course_name": "Economic Globalization",
+        "units": "(4.0 units)",
+        "description": "Globalization makes national borders and regulations increasingly obsolete. Analyzes the economic foundation of globalization, its consequences and efforts to manage it.",
+        "sections": [
+            {
+                "section": "37787R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Iva Bozovic",
+                "location": "DMC100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "316",
+        "course_name": "Gender and Global Issues",
+        "units": "(4.0 units)",
+        "description": "An examination of the role women have played in world politics focusing on issues of war and peace, the environment and the global economy.",
+        "sections": [
+            {
+                "section": "37803R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "9 of 48",
+                "instructor": "Sara Angevine",
+                "location": "SOSB46"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "318",
+        "course_name": "Violent Conflict",
+        "units": "(4.0 units)",
+        "description": "Origins and evolution of violent conflict among humans; modern efforts to end conflict; recent research in archaeology, anthropology, biology, economics, political science and psychology.",
+        "sections": [
+            {
+                "section": "37808R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "17 of 48",
+                "instructor": "Ronald Osborn",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "324",
+        "course_name": "Multinational Enterprises and World Politics",
+        "units": "(4.0 units)",
+        "description": "Political implications of interactions between different types of multinational enterprises and all levels of U.S. government, other industrial nations, and less-developed countries.",
+        "sections": [
+            {
+                "section": "37816R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "48 of 48",
+                "instructor": "Douglas Becker",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "330",
+        "course_name": "Politics of the World Economy",
+        "units": "(4.0 units)",
+        "description": "Exploration of questions and concepts in international economics and politics, especially as they relate to flows of trade, capital, people, and problems across borders.",
+        "sections": [
+            {
+                "section": "37827R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Iva Bozovic",
+                "location": "LVL16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "333",
+        "course_name": "China in International Affairs",
+        "units": "(4.0 units)",
+        "description": "Economic reform, the open door, and China's changing role in the international system. Relations with the United States, Japan, and other key powers in Asia. Tensions between the interests of American business and the human rights community over China policy.",
+        "sections": [
+            {
+                "section": "37832R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 20,
+                "registered": "15 of 37",
+                "instructor": "Victoria Chonn ching",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "339",
+        "course_name": "Public Health and International Relations",
+        "units": "(4.0 units)",
+        "description": "Examination of threats to global security, state sovereignty and population health posed by infectious diseases, natural disasters, war and civil conflict.",
+        "sections": [
+            {
+                "section": "37839R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Heather Wipfli",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "341",
+        "course_name": "Foreign Policy Analysis",
+        "units": "(4.0 units)",
+        "description": "Basic concepts and analytical approaches in the study of decision-making at the international level. This is a case-based class, requiring participation of students in interactive discussions of decision forcing and retrospective foreign policy cases.",
+        "sections": [
+            {
+                "section": "37840R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "8 of 37",
+                "instructor": "Jeffrey Fields",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "342",
+        "course_name": "The Politics and Strategy of Weapons of Mass Destruction",
+        "units": "(4.0 units)",
+        "description": "Causes and effects of use and spread of nuclear, biological and chemical weapons; responses to WMD, including deterrence, preventive war, and non-proliferation policies and negotiations.",
+        "sections": [
+            {
+                "section": "37843R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "21 of 48",
+                "instructor": "Jeffrey Fields",
+                "location": "WPHB27"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "345",
+        "course_name": "Russian and Post-Soviet Foreign Policy",
+        "units": "(4.0 units)",
+        "description": "Overview of Tsarist and Soviet experience as background to detailed examination of the political, economic and ideological forces behind contemporary Russian foreign policy.",
+        "sections": [
+            {
+                "section": "37846R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Robert English",
+                "location": "DMC100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "350",
+        "course_name": "Power and Authority in the Middle East",
+        "units": "(4.0 units)",
+        "description": "A comparative examination of social relations of power and institutions with a special focus on intellectual traditions, the law, and social movements.",
+        "sections": [
+            {
+                "section": "41537R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Bandar Alsaeed",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "364",
+        "course_name": "The Political Economy of Latin American Development",
+        "units": "(4.0 units)",
+        "description": "The main economic development themes and strategies in Latin America over the past century. The interplay between domestic and international variables, and the resulting dynamic changes.",
+        "sections": [
+            {
+                "section": "37875R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 48",
+                "instructor": "Pamela Starr",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "368",
+        "course_name": "French Foreign Policy: 1945 to the Present",
+        "units": "(4.0 units)",
+        "description": "Introduction to historical, thematic perspectives of French foreign policy since 1945 including review of external and internal constraints influencing foreign policy. (Paris semester only).",
+        "sections": [
+            {
+                "section": "00375R",
+                "session": "613",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Mark Grimes",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "381",
+        "course_name": "Introduction to International Security",
+        "units": "(4.0 units)",
+        "description": "Key concepts in international security studies; historical evolution of international warfare and diplomacy; contemporary international security issues.",
+        "sections": [
+            {
+                "section": "37895R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "47 of 48",
+                "instructor": "Megan Becker",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "382",
+        "course_name": "Order and Disorder in Global Affairs",
+        "units": "(4.0 units)",
+        "description": "Modern and post-modern perspectives on changes in the inter-state system, relations among cultures and civilizations, the conditions of ecologically sustainable human development.",
+        "sections": [
+            {
+                "section": "37898R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "1 of 36",
+                "instructor": "Han-Hui Hsieh",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "384",
+        "course_name": "Asian Security Issues",
+        "units": "(4.0 units)",
+        "description": "Introduction to key security trends in the Asia-Pacific region, emphasizing strategic competition between U.S., Russia, and China; regional military capabilities; rise of neutrality politics.",
+        "sections": [
+            {
+                "section": "37905R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Derek Grossman",
+                "location": "VPD105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "391",
+        "course_name": "Directed International Relations Field Study",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Intensive internship experience in international relations professional areas with academic research component (may be repeated for credit different semesters)",
+        "sections": [
+            {
+                "section": "38098D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 48",
+                "instructor": "Iva Bozovic",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "402",
+        "course_name": "Theories of War",
+        "units": "(4.0 units)",
+        "description": "Causes of war; means of prevention and consequences of war.",
+        "sections": [
+            {
+                "section": "37920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "14 of 19",
+                "instructor": "Megan Becker",
+                "location": "DMC211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "412",
+        "course_name": "Applied Data Science for International Relations 1",
+        "units": "(2.0 units)",
+        "description": "Introduction to statistical computing and data visualization in R. Focus on visualization of descriptive statistics; create publication-ready figures for actual faculty research projects.",
+        "sections": [
+            {
+                "section": "37926D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "6 of 19",
+                "instructor": "Benjamin A.T. Graham",
+                "location": "DMC255"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "425",
+        "course_name": "The New Triangle: China, the U.S. and Latin America",
+        "units": "(4.0 units)",
+        "description": "China's rise in the international political economy raises policy research questions, including an analysis of how this trend relates to U.S and Latin American relations. Recommended preparation: Micro and macro economics",
+        "sections": [
+            {
+                "section": "37930D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "21 of 21",
+                "instructor": "Carol Wise",
+                "location": "DMC110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "431",
+        "course_name": "Commercial and Financial Globalization-Trends, Challenges",
+        "units": "(4.0 units)",
+        "description": "Factors determining the feasibility, desirability and limits of economic globalization; the dynamics triggered by the Global Financial Crisis and the backlash against Globalization.",
+        "sections": [
+            {
+                "section": "37936D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Joshua Aizenman",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "437",
+        "course_name": "Comparative Genocide",
+        "units": "(4.0 units)",
+        "description": "An interdisciplinary treatment of the tragic phenomenon of genocide. Subject matter includes historical cases and analysis of contemporary global efforts toward prevention.",
+        "sections": [
+            {
+                "section": "37938R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "2 of 19",
+                "instructor": "Ronald Osborn",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "442",
+        "course_name": "Japanese Foreign Policy",
+        "units": "(4.0 units)",
+        "description": "Economic, political, territorial, and security issues; foreign policy decision-making; relations with major powers and neighboring states.",
+        "sections": [
+            {
+                "section": "37945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "18 of 19",
+                "instructor": "Saori N. Katada",
+                "location": "DMC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "447",
+        "course_name": "Cities of the Middle East",
+        "units": "(4.0 units)",
+        "description": "An examination of the economic, political and cultural forces operating in a number of Middle Eastern cities.",
+        "sections": [
+            {
+                "section": "41501R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Bandar Alsaeed",
+                "location": "GFS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "455",
+        "course_name": "The Political Economy of Autocracy",
+        "units": "(4.0 units)",
+        "description": "Survey of autocracy, the world's most common form of government: its political economy, the role of elections, parties, repression, propaganda and civil resistance.",
+        "sections": [
+            {
+                "section": "37878D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Brett Carter",
+                "location": "DMC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "37961D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            },
+            {
+                "section": "37962D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            },
+            {
+                "section": "37963D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            },
+            {
+                "section": "37973D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Sally Pratt",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "494",
+        "course_name": "Honors Thesis Seminar",
+        "units": "(4.0 units)",
+        "description": "Preparation and oral defense of senior honors thesis before supervising faculty and fellow honors students. Senior status and acceptance to program required. Recommended preparation: IR 311.",
+        "sections": [
+            {
+                "section": "37969D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "8 of 19",
+                "instructor": "Jeb Barnes",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics in various special areas within international relations, which may vary from semester to semester or within semesters.",
+        "sections": [
+            {
+                "section": "37922R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "3 of 19",
+                "instructor": "Brett Carter",
+                "location": "DMC210"
+            },
+            {
+                "section": "37970R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "11 of 19",
+                "instructor": "Douglas Becker",
+                "location": "THH217"
+            },
+            {
+                "section": "37980R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "1 of 19",
+                "instructor": "Victoria Chonn ching",
+                "location": "DMC210"
+            }
+        ]
+    }
+]

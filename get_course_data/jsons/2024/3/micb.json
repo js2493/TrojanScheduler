@@ -1,0 +1,212 @@
+[
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "504",
+        "course_name": "Molecular Biology of Cancer",
+        "units": "(4.0 units)",
+        "description": "Epidemiology, pathobiology, carcinogenesis, tumor biology and heterogeneity; retroviruses, oncogenes, cell cycle control, genetics of cancer, tumor immunology; treatment strategies.",
+        "sections": [
+            {
+                "section": "40657D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "27 of 40",
+                "instructor": "Joseph Landolph,David Cobrinik",
+                "location": "HMR100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "531",
+        "course_name": "Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Current perspectives on major research areas in cell biology. Emphasis will be on in-depth examination of cellular structures, regulatory processes, intra-cellular routing and targeting, and cell/environmental interactions.",
+        "sections": [
+            {
+                "section": "40654D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "55 of 90",
+                "instructor": "Axel Schonthal",
+                "location": "MCH156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "549",
+        "course_name": "Student Seminar Series",
+        "units": "(1.0 units, max 8)",
+        "description": "Microbiology students will present research seminars describing their thesis progress.",
+        "sections": [
+            {
+                "section": "40712D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "7 of 15",
+                "instructor": "Axel Schonthal",
+                "location": "KAMB40/42"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "560",
+        "course_name": "Recent Advances in Microbiology",
+        "units": "(1.0 units, max 6)",
+        "description": "Intensive examination of selected topics in microbiology. Student presentations and critiques. Required of all graduate students.",
+        "sections": [
+            {
+                "section": "40715D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "16 of 50",
+                "instructor": "Weiming Yuan,Peter Mullen,Stanley Tahara,Keigo Machida,Omid Akbari,Siyi Chen,Joseph Landolph,Hayoun Lee,Brian Luna,Ebrahim Zandi,Hyungjin Eoh,Lucio Comai,Jie Li,Axel Schonthal,Bingfei Yu,Zhiheng He",
+                "location": "KAMB40/42"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "570",
+        "course_name": "Microbiology Research Seminar",
+        "units": "(1.0 units, max 10)",
+        "description": "Critical discussion of current research topics. Students present published and unpublished research results for discussion and critique.",
+        "sections": [
+            {
+                "section": "40736D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 25",
+                "instructor": "Axel Schonthal",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40800D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 50",
+                "instructor": "Axel Schonthal",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40803D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 50",
+                "instructor": "Axel Schonthal",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "40810D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 50",
+                "instructor": "Axel Schonthal",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "40815D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 50",
+                "instructor": "Axel Schonthal",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MICB",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "40730D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Axel Schonthal",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "term": "20242",
+        "department": "MDA",
+        "course_number": "250",
+        "course_name": "Internship for Liberal Arts: Work and Career -- Theory and Practice",
+        "units": "(1.0-2.0 units, max 4)",
+        "description": "Students explore different understandings of work and career in American society while testing theories in an actual work setting.",
+        "sections": [
+            {
+                "section": "42289D",
+                "session": "095",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "26 of 27",
+                "instructor": "Steve Posner",
+                "location": "ONLINE"
+            },
+            {
+                "section": "42291D",
+                "session": "457",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "35 of 35",
+                "instructor": "Steve Posner",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

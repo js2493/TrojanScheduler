@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20242",
+        "department": "BMDD",
+        "course_number": "588A",
+        "course_name": "Digital Technology Applied to Dentistry",
+        "units": "(3.0 units)",
+        "description": "Weekly seminar devoted to critically review, analyze, and discuss digital technologies applied to dentistry.",
+        "sections": [
+            {
+                "section": "24613D",
+                "session": "975",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Alena Knezevic,Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BMDD",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the masters degree. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "24614D",
+                "session": "975",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "BMDD",
+        "course_number": "594B",
+        "course_name": "Masters Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "24615D",
+                "session": "975",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

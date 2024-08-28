@@ -1,0 +1,65 @@
+[
+    {
+        "term": "20243",
+        "department": "GSEC",
+        "course_num": "501",
+        "course_name": "Foundations of Global Security",
+        "units": "(4.0 units)",
+        "description": "A survey of theories and challenges relating to International Relations and security studies broadly defined from WWI to present conflicts including human, environmental and economic concepts.",
+        "sections": [
+            {
+                "section": "38100D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "8 of 14",
+                "instructor": "Steven Lamy",
+                "location": "THH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSEC",
+        "course_num": "511",
+        "course_name": "Transnational Crime and Global Illicit Networks",
+        "units": "(4.0 units)",
+        "description": "Introduction to and overview of transnational organized crime; its effects on international security, political, social and economic development of countries around the world.",
+        "sections": [
+            {
+                "section": "38101D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 870,
+                "end_time": 1050,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GSEC",
+        "course_num": "512",
+        "course_name": "National Intelligence and Global Security",
+        "units": "(4.0 units)",
+        "description": "Exploration of how intelligence affects global security and the formation and implementation of foreign and security policy.",
+        "sections": [
+            {
+                "section": "38102D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "7 of 10",
+                "instructor": "Gregory Treverton",
+                "location": "WPH603"
+            }
+        ]
+    }
+]

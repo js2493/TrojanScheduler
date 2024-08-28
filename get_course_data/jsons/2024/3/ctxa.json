@@ -1,0 +1,307 @@
+[
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "470",
+        "course_name": "Documentary Animation Production",
+        "units": "(2.0 units)",
+        "description": "Examination of the history, techniques, and methods of documentary animation production. Collaboration on a short film project.",
+        "sections": [
+            {
+                "section": "19724R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "8 of 16",
+                "instructor": "Sheila Sofian",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "501",
+        "course_name": "Animated Art and the Principles of Motion",
+        "units": "(2.0 units)",
+        "description": "Analysis and application of animated motion for contemporary practices, with an emphasis on the synergistic relationship between traditional mastery and non-traditional exploration.",
+        "sections": [
+            {
+                "section": "19710D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "5 of 12",
+                "instructor": "Gregory Garay",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "522",
+        "course_name": "Advanced Animation Research Seminar",
+        "units": "(1.0 units, max 6)",
+        "description": "A weekly academic forum in which guest researchers, academics, and professionals in the leading edge of their fields share their research and engage students in their process.",
+        "sections": [
+            {
+                "section": "19711R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "8 of 20",
+                "instructor": "Elisabeth Mann",
+                "location": "SCA310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "523",
+        "course_name": "Visualizing Science Production",
+        "units": "(2.0 units)",
+        "description": "Principles of 2-D and 3-D digital animation and AI applied to scientific themes and research topics.",
+        "sections": [
+            {
+                "section": "19718R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "2 of 14",
+                "instructor": "Debra Isaac",
+                "location": "SCA356"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "537",
+        "course_name": "Applied Expanded Animation",
+        "units": "(2.0 units)",
+        "description": "Examines post-graduation opportunities in Expanded Animation: arts, research, academia and industry. Includes grant writing, independent filmmaking, art galleries, festivals, starting a business and financing.",
+        "sections": [
+            {
+                "section": "19717D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "5 of 10",
+                "instructor": "John Andrews",
+                "location": "SCB205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "540",
+        "course_name": "Survey of World Animation",
+        "units": "(2.0 units)",
+        "description": "A historical survey of world animation. Independent and studio animation from around the world will be examined.",
+        "sections": [
+            {
+                "section": "19712D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "5 of 48",
+                "instructor": "Sam Gurry",
+                "location": "SCA316"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "544",
+        "course_name": "Art of Animation",
+        "units": "(3.0 units)",
+        "description": "Animate frame-by-frame with Dragonframe software to bring objects and physical materials to life. Incorporate animation principles and experiment with sand, paint, clay, paper and more.",
+        "sections": [
+            {
+                "section": "19705D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "4 of 10",
+                "instructor": "Elisabeth Mann,",
+                "location": "SCA258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "545",
+        "course_name": "Cinematic Animation - the Art of Motion in Virtual Space",
+        "units": "(2.0 units)",
+        "description": "A study and an experimentation in cinematic expression through motion across social, esthetic and scientific realms. Lab experiments in virtual space.",
+        "sections": [
+            {
+                "section": "19713D",
+                "session": "037",
+                "type": "Lecture-Lab",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "5 of 10",
+                "instructor": "Molly Murphy",
+                "location": "SCA356"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "550",
+        "course_name": "Stop Motion Puppet and Set Design",
+        "units": "(2.0 units)",
+        "description": "Puppet and set design for stop motion animation while providing guidance on armature rigs that allow the character to be animated effectively.",
+        "sections": [
+            {
+                "section": "19706R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "9 of 15",
+                "instructor": "Musa Brooker",
+                "location": "SCB207"
+            },
+            {
+                "section": "19757R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "8 of 14",
+                "instructor": "",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "560",
+        "course_name": "Animation Sound Design Practice",
+        "units": "(2.0 units)",
+        "description": "Theory, aesthetics and practice for recording dialogue, sound effects, music, Foley, track development and mixing for animation films.",
+        "sections": [
+            {
+                "section": "19730D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "6 of 14",
+                "instructor": "Daniel Blanck",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "579",
+        "course_name": "Expanded Animation",
+        "units": "(2.0 units)",
+        "description": "Incorporation of traditional image making methods as well as digital and new media technologies to convey non-linear narratives over internal and external landscapes.",
+        "sections": [
+            {
+                "section": "19709D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 2,
+                "registered": "5 of 14",
+                "instructor": "Kathy Smith",
+                "location": "RZC117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "588",
+        "course_name": "Animation for Virtual Characters, Robotics and AI",
+        "units": "(2.0 units)",
+        "description": "Designed to explore the illusion of life, sentience and how to develop compelling animation, diverse stories and gesture for virtual characters, AI and robotics.",
+        "sections": [
+            {
+                "section": "19755R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "0 of 16",
+                "instructor": "David Hanson",
+                "location": "SCA259"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "19716D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "Elisabeth Mann",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTXA",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "19732D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "4 of 16",
+                "instructor": "Sheila Sofian",
+                "location": "SCB207"
+            }
+        ]
+    }
+]

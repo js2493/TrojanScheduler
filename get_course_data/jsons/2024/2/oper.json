@@ -1,0 +1,212 @@
+[
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "702A",
+        "course_name": "Advanced Dental Morphology for Esthetic Restorations",
+        "units": "(3.0 units)",
+        "description": "In-depth study of the dental morphology, dental optical properties, and laboratorial procedures for restorative replication of esthetical and morphological aspects found in the natural tooth.",
+        "sections": [
+            {
+                "section": "24110D",
+                "session": "388",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "704C",
+        "course_name": "Operative Dentistry and Biomaterials Literature Review",
+        "units": "(1.0 unit)",
+        "description": "Weekly seminar devoted to review of the historic, classic, and current literature in advanced operative dentistry and dental biomaterials.",
+        "sections": [
+            {
+                "section": "24104D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Alena Knezevic,Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "704F",
+        "course_name": "Operative Dentistry and Biomaterials Literature Review",
+        "units": "(1.0 unit)",
+        "description": "Weekly seminar devoted to review of the historic, classic, and current literature in advanced operative dentistry and dental biomaterials.",
+        "sections": [
+            {
+                "section": "24107D",
+                "session": "318",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 6",
+                "instructor": "Alena Knezevic,Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "715A",
+        "course_name": "Applied Adhesion Sciences",
+        "units": "(2.0 units)",
+        "description": "Advanced adhesive procedures for esthetic dental rehabilitation. Open only to Advanced and Adhesive Dentistry majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24111D",
+                "session": "388",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "725A",
+        "course_name": "Cariology",
+        "units": "(1.0 unit)",
+        "description": "Cariology and proficiency of dental caries management using preventive methods and minimally invasive restorative techniques. Open only to Advanced Operative and Adhesive Dentistry majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "24102D",
+                "session": "388",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Jin-Ho Phark",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "780A",
+        "course_name": "Treatment Planning in Operative Dentistry",
+        "units": "(2.0 units)",
+        "description": "Seminars led by students and invited guests to discuss, analyse and propose a treatment sequence for esthetic challenge clinical cases involving complex multidisciplinary treatment.",
+        "sections": [
+            {
+                "section": "24103D",
+                "session": "388",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "780D",
+        "course_name": "Treatment Planning in Operative Dentistry",
+        "units": "(2.0 units)",
+        "description": "Seminars led by students and invited guests to discuss, analyse and propose a treatment sequence for esthetic challenge clinical cases involving complex multidisciplinary treatment.",
+        "sections": [
+            {
+                "section": "24105D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 6",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "780H",
+        "course_name": "Treatment Planning in Operative Dentistry",
+        "units": "(2.0 units)",
+        "description": "Seminars led by students and invited guests to discuss, analyse and propose a treatment sequence for esthetic challenge clinical cases involving complex multidisciplinary treatment. Open only to master and professional students in Advanced Operative and Adhesive Dentistry, and Advanced Operative Dentistry majors.",
+        "sections": [
+            {
+                "section": "24108D",
+                "session": "318",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 6",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "795C",
+        "course_name": "Clinic: Advanced Operative Dentistry",
+        "units": "(1.0-5.0 units, max 14)",
+        "description": "Advanced clinical and laboratorial treatment of patients in need of complex multidisciplinary treatment, with specialemphasis on esthetic and bonded restorations.",
+        "sections": [
+            {
+                "section": "24106D",
+                "session": "715",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 6",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "OPER",
+        "course_number": "795F",
+        "course_name": "Clinic: Advanced Operative Dentistry",
+        "units": "(1.0-5.0 units, max 14)",
+        "description": "Advanced clinical and laboratorial treatment of patients in need of complex multidisciplinary treatment, with specialemphasis on esthetic and bonded restorations.",
+        "sections": [
+            {
+                "section": "24109D",
+                "session": "318",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 6",
+                "instructor": "Sillas Duarte",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

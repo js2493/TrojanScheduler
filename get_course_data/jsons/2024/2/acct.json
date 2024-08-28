@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20242",
+        "department": "ACCT",
+        "course_number": "525",
+        "course_name": "Intensive Accounting Principles and Practices",
+        "units": "(15.0 units)",
+        "description": "Technical accounting theory and principles necessary for graduate work. Satisfies the prerequisite requirements for intermediate and advanced accounting, auditing, and tax. Credit toward degree limited to M.Acc. and M.B.T. students. Recommended preparation: Introductory accounting courses.",
+        "sections": [
+            {
+                "section": "14200R",
+                "session": "418",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 1065,
+                "days": 62,
+                "registered": "36 of 45",
+                "instructor": "Lori Smith",
+                "location": "JFF416"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACCT",
+        "course_number": "546",
+        "course_name": "Auditing and Assurance Services",
+        "units": "(3.0 units)",
+        "description": "Concepts and principles governing independent professional services that provide assurance on the reliability and relevance of information, including financial statement information. Topics include demand and supply issues for these services, basic principles of evidence, risk assessment and testing. Recommended preparation: ACCT-525x.",
+        "sections": [
+            {
+                "section": "14208R",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 26,
+                "registered": "1 of 40",
+                "instructor": "Lori Smith",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACCT",
+        "course_number": "561T",
+        "course_name": "Income Tax of Corporations and Their Shareholders",
+        "units": "(3.0 units)",
+        "description": "Concepts and principles governing the taxation of corporations and their shareholders; the effect of taxes on corporate formation, capital structure, distributions, and liquidations. Recommended preparation: ACCT-550T or ACCT-560T or LAW-600.",
+        "sections": [
+            {
+                "section": "14271R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "26 of 35",
+                "instructor": "Greg Kling",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACCT",
+        "course_number": "568T",
+        "course_name": "International Taxation",
+        "units": "(3.0 units)",
+        "description": "Taxation of cross-border transactions of U.S. citizens and corporations and of U.S. source income of foreign persons and corporations; planning for organization of international operations under the tax laws.",
+        "sections": [
+            {
+                "section": "14281R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "18 of 35",
+                "instructor": "Paul Bader",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "ACCT",
+        "course_number": "595",
+        "course_name": "Internship in Accounting",
+        "units": "(0.5-3.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the field of Accounting. (Curricular Practical Training). Application required. Recommended preparation: Completion of required MAcc or MBT coursework. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14320D",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Lori Smith",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

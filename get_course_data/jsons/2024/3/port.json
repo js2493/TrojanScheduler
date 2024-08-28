@@ -1,0 +1,44 @@
+[
+    {
+        "term": "20243",
+        "department": "PORT",
+        "course_num": "120",
+        "course_name": "Portuguese I",
+        "units": "(4.0 units)",
+        "description": "For students with no proficiency in Portuguese. Practice in listening comprehension, oral communication, elementary reading and writing.",
+        "sections": [
+            {
+                "section": "62375D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "5 of 19",
+                "instructor": "Ellen Oliveira",
+                "location": "THHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PORT",
+        "course_num": "220",
+        "course_name": "Portuguese III",
+        "units": "(4.0 units)",
+        "description": "Intensive work in listening comprehension, oral communication, reading and writing, with emphasis on free expression; readings related to Portuguese culture and civilization.",
+        "sections": [
+            {
+                "section": "62379D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "8 of 14",
+                "instructor": "Ellen Oliveira",
+                "location": "THH111"
+            }
+        ]
+    }
+]

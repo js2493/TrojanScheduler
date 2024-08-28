@@ -1,0 +1,276 @@
+[
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "505",
+        "course_name": "Professional Workshop in Public Administration",
+        "units": "(2.0 units)",
+        "description": "Evidence-based argumentation, written reporting and communication in public administration; research skills for effective stakeholder engagement.",
+        "sections": [
+            {
+                "section": "50909D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "15 of 24",
+                "instructor": "Laura Wittcoff",
+                "location": "RGL215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "506",
+        "course_name": "Professional Residency in Public Administration",
+        "units": "(1.0 unit)",
+        "description": "Skills in written reporting, professional briefings and social media for public administrators; effective engagement for stakeholders and constituencies; research, analysis and reporting on current policy or management cases",
+        "sections": [
+            {
+                "section": "51072D",
+                "session": "596",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 26",
+                "instructor": "Dora Kingsley Vertenten",
+                "location": "TBA"
+            },
+            {
+                "section": "51073D",
+                "session": "596",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 26",
+                "instructor": "Dora Kingsley Vertenten",
+                "location": "TBA"
+            },
+            {
+                "section": "51074D",
+                "session": "596",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 22",
+                "instructor": "Dora Kingsley Vertenten",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "612",
+        "course_name": "Consulting in Healthcare Organizations",
+        "units": "(2.0 units)",
+        "description": "The application of decision analysis principles necessary for determining priorities for uses of strategic human, facility and financial resources in healthcare organizations; analytic and consulting skills; case studies.",
+        "sections": [
+            {
+                "section": "50902R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "14 of 30",
+                "instructor": "Philip Dalton",
+                "location": "VPD106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "614",
+        "course_name": "Behavioral Insights for Health Policy",
+        "units": "(4.0 units)",
+        "description": "Practical strategies for promoting patient health and improving healthcare, based on psychology and behavioral science insights.",
+        "sections": [
+            {
+                "section": "51053D",
+                "session": "791",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "39 of 55",
+                "instructor": "Jason Doctor",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "628",
+        "course_name": "Introduction to Lean Health Care",
+        "units": "(2.0 units)",
+        "description": "Performance improvement methods and principles in health care; how Lean, Six-Sigma, and Human Centered Design (HCD) methodologies are applied to health care organizations to improve quality and efficiency.",
+        "sections": [
+            {
+                "section": "51055R",
+                "session": "790",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 30",
+                "instructor": "Trent Lim",
+                "location": "OFFICE & ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "636",
+        "course_name": "Urban Spatial Ethnography and Critical Cartography",
+        "units": "(4.0 units)",
+        "description": "Theories and methods of how to develop original data about, analyze, and produce visualizations of urban space; conventional conceptualization and representations of cities and urban spatial data. Recommended preparation: PPD 631 or other GIS coursework.",
+        "sections": [
+            {
+                "section": "50907R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 710,
+                "days": 4,
+                "registered": "10 of 20",
+                "instructor": "Annette Kim",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "639",
+        "course_name": "Housing Dynamics for Policy and Planning",
+        "units": "(4.0 units)",
+        "description": "Comprehensive introduction to the dynamics of the housing sector, problems, programs, and policies. Attention to both publicly assisted and market rate housing, recent trends and current debates.",
+        "sections": [
+            {
+                "section": "50915R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "11 of 32",
+                "instructor": "Dowell Myers",
+                "location": "RGL100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "640",
+        "course_name": "Climate, Sustainability and Environmental Planning",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of climate, sustainability and environmental planning from an urban planning and policy perspective; planning for climate and hazard risks; environmental equity and justice issues; environmental planning practices, policies and tools.",
+        "sections": [
+            {
+                "section": "50923R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "26 of 30",
+                "instructor": "Santina Contreras",
+                "location": "VPD112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "645",
+        "course_name": "Financial Management of Nonprofit Organizations",
+        "units": "(4.0 units)",
+        "description": "Accounting and financial management principles and practices in nonprofit organizations: budgeting financial analysis, internal controls, financial policies, grant making and financial reporting. Duplicates credit in PPD 541.",
+        "sections": [
+            {
+                "section": "50908R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 8,
+                "registered": "28 of 28",
+                "instructor": "James Siegrist",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "660",
+        "course_name": "Environmental Policy Design and Analysis",
+        "units": "(4.0 units)",
+        "description": "Analytical foundation for design of institutions and policies; environmental policy; welfare economics and market failure; policy evaluation; economic policy instruments; climate change policy issues; other policy issues.",
+        "sections": [
+            {
+                "section": "50919R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "11 of 25",
+                "instructor": "Adam Rose",
+                "location": "RGL209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "662",
+        "course_name": "China from a US Policy Perspective",
+        "units": "(4.0 units)",
+        "description": "Examination of China through the lens of the US federal government; trade issues; economic coordination and stability; environment and sustainability; defense and security; human development",
+        "sections": [
+            {
+                "section": "50918R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 4,
+                "registered": "20 of 25",
+                "instructor": "Eric Heikkila",
+                "location": "RGL219"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPDE",
+        "course_num": "687",
+        "course_name": "Urban Economics",
+        "units": "(4.0 units)",
+        "description": "Analyze theoretical forces leading to agglomeration in cities and evidence that supporting these mechanisms empirically. Topics: sorting within and across cities, transportation, housing regulation, segregation and inequality, environmental justice.",
+        "sections": [
+            {
+                "section": "26277D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 8,
+                "registered": "8 of 15",
+                "instructor": "Paulina Oliva",
+                "location": "KAP319"
+            }
+        ]
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "200",
+        "course_name": "Gerontology: The Science of Adult Development",
+        "units": "(4.0 units)",
+        "description": "Introduction to adult development through the lifespan; biological, psychological, and social processes; gerontology as a career for the future.",
+        "sections": [
+            {
+                "section": "36200R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 50",
+                "instructor": "John Walsh,Julia Walsh",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "380",
+        "course_name": "Diversity in Aging",
+        "units": "(4.0 units)",
+        "description": "Exploring diversity in the older population and variability in the human aging process.",
+        "sections": [
+            {
+                "section": "36280R",
+                "session": "470",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 50",
+                "instructor": "Julie Bates,Tameka Brown",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "36290D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Andrei Irimia",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "491",
+        "course_name": "Practicum",
+        "units": "(2.0-8.0 units, max 8)",
+        "description": "Supervised experience in one or more community agencies. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36291D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "498",
+        "course_name": "Nutrition, Genes, Longevity and Diseases",
+        "units": "(4.0 units)",
+        "description": "Examines role of nutrition and genes and the impact each has on longevity and diseases, particularly diseases related to aging.Offered in Genoa, Italy.",
+        "sections": [
+            {
+                "section": "36298D",
+                "session": "746",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Valter Longo",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "500",
+        "course_name": "Perspectives on a Changing Society: An Introduction to Aging",
+        "units": "(4.0 units)",
+        "description": "A web based course analyzing physical, mental, and social age-related changes as well as implications of population aging trends for individuals and society.",
+        "sections": [
+            {
+                "section": "36300R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 780,
+                "days": 10,
+                "registered": "5 of 25",
+                "instructor": "Aaron Hagedorn",
+                "location": "GER230"
+            },
+            {
+                "section": "36301R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 780,
+                "days": 10,
+                "registered": "15 of 20",
+                "instructor": "Aaron Hagedorn",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "502",
+        "course_name": "Marketing and Shifts in Consumer Decision Making",
+        "units": "(4.0 units)",
+        "description": "Branding, marketing, and consumer behavior through examination of established, transitioning and emerging aging services and organizations.",
+        "sections": [
+            {
+                "section": "36302R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 840,
+                "days": 2,
+                "registered": "3 of 25",
+                "instructor": "Joshua Johnson,James Biggs",
+                "location": "GER115"
+            },
+            {
+                "section": "36303R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 840,
+                "days": 2,
+                "registered": "1 of 25",
+                "instructor": "Joshua Johnson,James Biggs",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "504",
+        "course_name": "Current Issues in Aging Services Management",
+        "units": "(4.0 units)",
+        "description": "Basic skills needed for an executive working in an aging services environment. Recommended for entry level administrators and managers.",
+        "sections": [
+            {
+                "section": "36304R",
+                "session": "470",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 840,
+                "days": 32,
+                "registered": "2 of 25",
+                "instructor": "James Biggs,Joshua Johnson",
+                "location": "GER115"
+            },
+            {
+                "section": "36305R",
+                "session": "470",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 840,
+                "days": 32,
+                "registered": "3 of 25",
+                "instructor": "James Biggs,Joshua Johnson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "508",
+        "course_name": "The Mind and Body Connection through the Lifespan",
+        "units": "(4.0 units)",
+        "description": "An introduction to mind-body processes involved in healthy aging. Examines the interplay of emotions, beliefs, and behaviors in shaping health-relevant biological processes.",
+        "sections": [
+            {
+                "section": "36308R",
+                "session": "470",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "25 of 50",
+                "instructor": "John Walsh,Julia Walsh",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36309R",
+                "session": "470",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 4,
+                "registered": "1 of 1",
+                "instructor": "John Walsh,Julia Walsh",
+                "location": "GER125"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "565",
+        "course_name": "Novel Technologies in Aging and Assisted Living",
+        "units": "(4.0 units)",
+        "description": "Focuses on the understanding of technology use with older adults. Examines telemedicine and e-health technologies as well as ethical considerations.",
+        "sections": [
+            {
+                "section": "36365R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 840,
+                "days": 32,
+                "registered": "5 of 25",
+                "instructor": "Aaron Hagedorn",
+                "location": "GER115"
+            },
+            {
+                "section": "36366R",
+                "session": "610",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 840,
+                "days": 32,
+                "registered": "14 of 20",
+                "instructor": "Aaron Hagedorn",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "585",
+        "course_name": "The Aging Family",
+        "units": "(2.0-4.0 units)",
+        "description": "Family processes and structure in families with aged persons will be reviewed, including marital and family therapy and intervention strategies.",
+        "sections": [
+            {
+                "section": "36385R",
+                "session": "470",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "20 of 25",
+                "instructor": "Jennifer Ailshire",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36390D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 25",
+                "instructor": "Carin Kreutzer,Maria Henke,Aaron Hagedorn",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "591",
+        "course_name": "Field Practicum",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Supervised experiential learning in one or more organizations that serve older adults; includes a regularly scheduled seminar. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36381D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 750,
+                "days": 32,
+                "registered": "15 of 25",
+                "instructor": "Carin Kreutzer",
+                "location": "GER230"
+            },
+            {
+                "section": "36382D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 25",
+                "instructor": "Carin Kreutzer",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36391D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 720,
+                "days": 4,
+                "registered": "8 of 25",
+                "instructor": "Aaron Hagedorn",
+                "location": "GER230"
+            },
+            {
+                "section": "36392D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 25",
+                "instructor": "Aaron Hagedorn",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "614",
+        "course_name": "Laboratory Rotations in the Biology of Aging",
+        "units": "(4.0 units, max 12)",
+        "description": "Mandatory organized laboratory rotation. Allows students to participate in laboratory activities. Designed to help select dissertation advisor and research.",
+        "sections": [
+            {
+                "section": "36315D",
+                "session": "059",
+                "type": "Lecture-Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 5",
+                "instructor": "Sean Curran",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading up to the doctorate. Maximum units which may be applied toward the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36378D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Sean Curran",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "36379D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Sean Curran",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36380D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 25",
+                "instructor": "Sean Curran,Kate Wilber,Mireille Jacobson",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36374D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "36384D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36394D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36375D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "36383D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36395D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36376D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "36386D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36396D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36377D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "36387D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36397D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GERO",
+        "course_number": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "36373D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "",
+                "location": "OFFICE & ONLINE"
+            },
+            {
+                "section": "36388D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "36398D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

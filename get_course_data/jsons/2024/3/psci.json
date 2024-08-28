@@ -1,0 +1,370 @@
+[
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "501",
+        "course_name": "Drugs: Principles of ADME and Bioavailability",
+        "units": "(4.0 units)",
+        "description": "Principles of drug formulation, delivery, metabolism and transport; influence of physicochemical properties, physiology, and pharmacogenetics on these properties; drug-drug interactions; and pharmacokinetics.",
+        "sections": [
+            {
+                "section": "49001D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 6,
+                "registered": "22 of 60",
+                "instructor": "Ian Haworth",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "502",
+        "course_name": "Principles of Therapeutic Mechanisms",
+        "units": "(4.0 units)",
+        "description": "Principles of mechanisms of actions of common drug classes, medicinal chemistry, pharmacology, drug interactions with protein targets, biologics, drug targeting and nanotechnology.",
+        "sections": [
+            {
+                "section": "49002D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 24,
+                "registered": "21 of 60",
+                "instructor": "Roger Duncan",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "513",
+        "course_name": "Drugs: Biologics and Specialty Pharmaceuticals",
+        "units": "(2.0 units)",
+        "description": "Formulation and delivery of biologics, mechanism of action and use of biologics in major disease states, and value of specialty pharmaceuticals.",
+        "sections": [
+            {
+                "section": "49015D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 16,
+                "registered": "16 of 25",
+                "instructor": "Jennica Zaro",
+                "location": "PSCB13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "531",
+        "course_name": "Cell Biology",
+        "units": "(4.0 units)",
+        "description": "Current perspectives on major research areas in cell biology. Emphasis will be on in-depth examination of cellular structures, regulatory processes, intra-cellular routing and targeting, and cell/environmental interactions.",
+        "sections": [
+            {
+                "section": "40654D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 20,
+                "registered": "54 of 90",
+                "instructor": "Axel Schonthal",
+                "location": "MCH156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "556",
+        "course_name": "Principal Research Approaches and Scientific Writing",
+        "units": "(4.0 units)",
+        "description": "Familiarizes new graduate students with basic approaches used in biomedical research, with a focus on approaches in pharmaceutical, pharmacological and translational sciences. Provides an understanding of what to expect in the coming years as a graduate student doing biomedical research and in scientific writing.",
+        "sections": [
+            {
+                "section": "49056D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 40,
+                "registered": "14 of 20",
+                "instructor": "Bangyan Stiles",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master`s degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49020D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "49024D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "14 of 40",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "49025D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis.",
+        "sections": [
+            {
+                "section": "49026D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "49027D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 40",
+                "instructor": "Roger Duncan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "596",
+        "course_name": "Internship for Curricular Practical Training",
+        "units": "(1.0-3.0 units, max 3)",
+        "description": "Part-time or full-time, practical work experience in the student's field of study. The internship must be located at an off-campus facility. Students are individually supervised by faculty. May not be taken until the student has completed at least one semester of enrollment in the graduate program with a cumulative 3.0 GPA.",
+        "sections": [
+            {
+                "section": "49097D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 25",
+                "instructor": "Terrence Graham",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "662",
+        "course_name": "Advanced Pharmacokinetics/Pharmacodynamics",
+        "units": "(2.0 units, max 4)",
+        "description": "Principles of advanced pharmacokinetics/pharmacodynamics. Mathematical description of drug disposition processes. Design and evaluation of pharmacokinetic/pharmacodynamic studies. Advanced approaches to parameter estimates.",
+        "sections": [
+            {
+                "section": "49062D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "9 of 25",
+                "instructor": "Andrew Mackay",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum untis which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49060D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 50",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49070D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49071D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 30",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49072D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49073D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 30",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSCI",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "49074D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 30",
+                "instructor": "Clay Wang",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

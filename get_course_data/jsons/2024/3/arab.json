@@ -1,0 +1,86 @@
+[
+    {
+        "term": "20243",
+        "department": "ARAB",
+        "course_num": "122",
+        "course_name": "Arabic I",
+        "units": "(4.0 units)",
+        "description": "Introduction to Modern Standard Arabic: Development of speaking, listening, reading, and writing skills in contemporary cultural contexts. (Duplicates credit in former MDES 122)",
+        "sections": [
+            {
+                "section": "41504D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "14 of 19",
+                "instructor": "Brady Ryan,Molly Courtney",
+                "location": "WPH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARAB",
+        "course_num": "152",
+        "course_name": "Arabic II",
+        "units": "(4.0 units)",
+        "description": "Continuation of Arabic I. Prerequisite: ARAB-122. (Duplicates credit in former MDES 152)",
+        "sections": [
+            {
+                "section": "41514R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "7 of 19",
+                "instructor": "Suzanne Wali",
+                "location": "THH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARAB",
+        "course_num": "222",
+        "course_name": "Arabic III",
+        "units": "(4.0 units)",
+        "description": "Intermediate Modern Standard Arabic. Continued development of speaking, listening, reading, and writing skills. Prerequisite: ARAB 152. (Duplicates credit in former MDES 222)",
+        "sections": [
+            {
+                "section": "41520R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "11 of 19",
+                "instructor": "Suzanne Wali",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ARAB",
+        "course_num": "334",
+        "course_name": "Media Arabic",
+        "units": "(4.0 units)",
+        "description": "Introduction and development of language skills encountered in print and broadcast media Arabic. Prerequisite: ARAB 222. (Duplicates credit in former MDES 334)",
+        "sections": [
+            {
+                "section": "41530R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Suzanne Wali",
+                "location": "THH221"
+            }
+        ]
+    }
+]

@@ -1,0 +1,695 @@
+[
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "121",
+        "course_name": "The New Testament",
+        "units": "(4.0 units)",
+        "description": "Historical investigation of New Testament characters, events, ethics and theology in relation to its social, intellectual, and religious contexts in the Jewish and Greco-Roman world.",
+        "sections": [
+            {
+                "section": "60021R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Cavan Concannon",
+                "location": "SOSB2"
+            },
+            {
+                "section": "60022R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Monica Mitri",
+                "location": "DMC158"
+            },
+            {
+                "section": "60023R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Monica Mitri",
+                "location": "THH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "125",
+        "course_name": "Introduction to Christianity: Antiquity to 1500",
+        "units": "(4.0 units)",
+        "description": "Survey of the changing beliefs and practices of the Christian religion from its origins through early modernity (100 CE - 1500 CE), with special attention to different varieties of Christian literature.",
+        "sections": [
+            {
+                "section": "60027R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "146 of 150",
+                "instructor": "David Albertson",
+                "location": "THH301"
+            },
+            {
+                "section": "60028R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Emily Stolken",
+                "location": "DMC155"
+            },
+            {
+                "section": "60029D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "28 of 28",
+                "instructor": "Emily Stolken",
+                "location": "DMC158"
+            },
+            {
+                "section": "60030R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jon Garcia",
+                "location": "DMC154"
+            },
+            {
+                "section": "60031R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jon Garcia",
+                "location": "DMC155"
+            },
+            {
+                "section": "60032R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Brian Frastaci",
+                "location": "SOSB41"
+            },
+            {
+                "section": "60036R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 25",
+                "instructor": "Brian Frastaci",
+                "location": "SOSB41"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "130",
+        "course_name": "Indian Traditions of Mind and Body",
+        "units": "(4.0 units)",
+        "description": "Explores a variety of sophisticated theories and practices from India relating to the mind, body, medicine and religion.",
+        "sections": [
+            {
+                "section": "60056R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "49 of 49",
+                "instructor": "James Mchugh",
+                "location": "SGM601"
+            },
+            {
+                "section": "60057R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Elinor Lindeman",
+                "location": "SOSB48"
+            },
+            {
+                "section": "60058R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "24 of 24",
+                "instructor": "Elinor Lindeman",
+                "location": "SOSB48"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "137",
+        "course_name": "Introduction to Islam",
+        "units": "(4.0 units)",
+        "description": "Introduction to Islam, emphasizing its historical and cultural development since the seventh century C.E., and the basic teachings of Islam.",
+        "sections": [
+            {
+                "section": "60094R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Sherman Jackson",
+                "location": "THH301"
+            },
+            {
+                "section": "60095R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Abdur-Rahman Muhammad",
+                "location": "SOSB37"
+            },
+            {
+                "section": "60096R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Yusuf Lenfest",
+                "location": "THHB10"
+            },
+            {
+                "section": "60097R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Abdur-Rahman Muhammad",
+                "location": "THH217"
+            },
+            {
+                "section": "60098R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Yusuf Lenfest",
+                "location": "THHB10"
+            },
+            {
+                "section": "60099R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Mohammad Ali",
+                "location": "THH121"
+            },
+            {
+                "section": "60100R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Mohammad Ali",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "301",
+        "course_name": "Introduction to the Study of Religion",
+        "units": "(4.0 units)",
+        "description": "Survey of academic approaches to the study of religion. When possible this course will be taken during the first year of the major or minor.",
+        "sections": [
+            {
+                "section": "60055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "9 of 19",
+                "instructor": "Sheila Briggs",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "336",
+        "course_name": "Re-Viewing Religion in Asian America",
+        "units": "(4.0 units)",
+        "description": "Interdisciplinary analysis of the religions traditions, institutions, and experiences of Asians and Pacific Islanders in the U.S.",
+        "sections": [
+            {
+                "section": "60068R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "10 of 19",
+                "instructor": "Duncan Williams",
+                "location": "WPH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "340",
+        "course_name": "Introduction to Indian Philosophy",
+        "units": "(4.0 units)",
+        "description": "An introduction to Indian philosophy, including major schools of thought in Hindu, Buddhist, and Jain philosophies. No previous knowledge of Indian religions or philosophy required.",
+        "sections": [
+            {
+                "section": "60082D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "21 of 21",
+                "instructor": "James Mchugh",
+                "location": "LVL13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "345",
+        "course_name": "Islamic Spirituality: Mysticism and the Sufi Tradition",
+        "units": "(4.0 units)",
+        "description": "Examination of the origins, development, and basic concepts and practices of Sufism, as well as its relationship to other areas of Islamic life.",
+        "sections": [
+            {
+                "section": "60077R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Arjun Nair",
+                "location": "ACB238"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "382",
+        "course_name": "Zen and Daoism in Asian Literature",
+        "units": "(4.0 units)",
+        "description": "Studies of the presence and influence of Zen Buddhism and Daoism in Asian literature, with a focus on China and Japan.",
+        "sections": [
+            {
+                "section": "22050D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "48 of 49",
+                "instructor": "Jason Webb",
+                "location": "THH210"
+            },
+            {
+                "section": "22051R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jason Webb",
+                "location": "THH121"
+            },
+            {
+                "section": "22052R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jason Webb",
+                "location": "THH217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "426",
+        "course_name": "Religion, Media and Hollywood: Faith in TV",
+        "units": "(4.0 units)",
+        "description": "How religion, ethics and spirituality are embedded, embodied and emplotted in television drama; how secular texts represent \"lived religion\" to increasingly diverse audiences.",
+        "sections": [
+            {
+                "section": "20638R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "13 of 19",
+                "instructor": "Diane Winston",
+                "location": "ANN211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "60150D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "60151D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "491",
+        "course_name": "Undergraduate Honors Research",
+        "units": "(4.0 units)",
+        "description": "Individual research for honors in the major leading to a substantial project.",
+        "sections": [
+            {
+                "section": "60155D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "494",
+        "course_name": "Lab Methods and Theories in Archaeology",
+        "units": "(4.0 units, max 16)",
+        "description": "Archaeological research design, data recovery, artifact analysis, interpretation and analogy, publication, and ethics.",
+        "sections": [
+            {
+                "section": "60144D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "7 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "ACB330"
+            },
+            {
+                "section": "60145R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "7 of 10",
+                "instructor": "Lynn Dodd",
+                "location": "ACB330"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "500",
+        "course_name": "Methods and Theories in the Study of Religion",
+        "units": "(4.0 units)",
+        "description": "Introduction to the major topics, trends, and theoretical approaches in the study of religion.",
+        "sections": [
+            {
+                "section": "60167D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Cavan Concannon",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60160D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "60161D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "650",
+        "course_name": "Readings in Islamic Texts",
+        "units": "(4.0 units, max 12)",
+        "description": "Study of Islamic religious texts in multiple genres, primarily in Arabic, though other languages may be offered. Recommended preparation: Advanced Arabic language ability.",
+        "sections": [
+            {
+                "section": "60176D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 740,
+                "days": 4,
+                "registered": "0 of 10",
+                "instructor": "Sherman Jackson",
+                "location": "WPH200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "701",
+        "course_name": "Research Seminar in Religious Studies",
+        "units": "(2.0 units, max 8)",
+        "description": "Skills for academic professionalization, presentation of research in progress and formal responses to academic writing.",
+        "sections": [
+            {
+                "section": "60181D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "3 of 15",
+                "instructor": "Cavan Concannon",
+                "location": "ACB330"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60194D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60195D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60196D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 6",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60197D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 3",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60198D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

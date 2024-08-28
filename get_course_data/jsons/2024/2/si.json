@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "AMST",
+        "course_number": "101",
+        "course_name": "Race and Class in Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Analysis of race and the economic, political, gender, and social dimensions of contemporary Los Angeles including topics such as residential segregation, economic inequality, and city politics.",
+        "sections": [
+            {
+                "section": "10310D",
+                "session": "076",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 28,
+                "registered": "24 of 29",
+                "instructor": "Chrisshonna Nieva",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

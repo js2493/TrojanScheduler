@@ -1,0 +1,985 @@
+[
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "150A",
+        "course_name": "Beginning Piano",
+        "units": "(2.0 units)",
+        "description": "Techniques of performance, note reading, and basic musicianship. Not open to music majors.",
+        "sections": [
+            {
+                "section": "45403R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "15 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45406R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 20,
+                "registered": "11 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45409R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "8 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45412R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "14 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45415R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "13 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45418R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "14 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45421R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 20,
+                "registered": "11 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45422R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 40,
+                "registered": "1 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45424R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "14 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45425R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "3 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45427R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "6 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "150B",
+        "course_name": "Beginning Piano",
+        "units": "(2.0 units)",
+        "description": "Techniques of performance, note reading, and basic musicianship.Not open to music majors.",
+        "sections": [
+            {
+                "section": "45435R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 10,
+                "registered": "5 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45441R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "10 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "150C",
+        "course_name": "Beginning Piano",
+        "units": "(2.0 units)",
+        "description": "Techniques of performance, note reading, and basic musicianship. Not open to music majors.",
+        "sections": [
+            {
+                "section": "45451R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "5 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "153",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45465D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45470D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "160A",
+        "course_name": "Functional Skills for Keyboard Majors I",
+        "units": "(2.0 units)",
+        "description": "Sight-reading and principles of style as related to intermediate literature; c- clef and open score reading; improvisation and functional harmony. Introduction to standard reference works, periodicals. Required of all keyboard majors.",
+        "sections": [
+            {
+                "section": "45475D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 10,
+                "registered": "8 of 16",
+                "instructor": "Sung-Hwa Park",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "228",
+        "course_name": "Four-Hand Keyboard Repertoire",
+        "units": "(1.0 units, max 4)",
+        "description": "Preparation and performance of literature for piano duets and duo-piano.",
+        "sections": [
+            {
+                "section": "45485D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "5 of 15",
+                "instructor": "Bernadene Blaha",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "250A",
+        "course_name": "Keyboard Instruction I",
+        "units": "(2.0 units)",
+        "description": "Beginning and elementary instruction: emphasis on reading skills, harmonization, transposition, score reading, improvisation; group instruction in a keyboard laboratory facility.",
+        "sections": [
+            {
+                "section": "45490D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "12 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            },
+            {
+                "section": "45494D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "16 of 16",
+                "instructor": "Stephen Pierce",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "253",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45525D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45530D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "260A",
+        "course_name": "Functional Skills for Keyboard Majors II",
+        "units": "(2.0 units)",
+        "description": "Sight- reading and principles of style as related to lower advanced literature; extended score reading; improvisation and functional harmony. Mini-survey; basic keyboard literature.",
+        "sections": [
+            {
+                "section": "45535D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "5 of 16",
+                "instructor": "Sung-Hwa Park",
+                "location": "MUS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors.",
+        "sections": [
+            {
+                "section": "45555D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45560D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 50",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principle instrument for music minors and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "45575D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45580D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45583D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45585D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 50",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "353",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45605D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45610D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "360A",
+        "course_name": "Keyboard Collaboration in Vocal Repertoire/Instrumental Repe",
+        "units": "(2.0 units)",
+        "description": "Techniques of keyboard collaboration with vocalists and instrumentalists.",
+        "sections": [
+            {
+                "section": "45615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "10 of 15",
+                "instructor": "Lisa Sylvester",
+                "location": "MUS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "431A",
+        "course_name": "Piano Pedagogy: Introduction and Practicum",
+        "units": "(2.0 units)",
+        "description": "The learning process at the keyboard; pedagogy and methodology of beginning methods. Studio/group instruction: children/adults. 431a: survey and observation. 431b: practice teaching: beginners.",
+        "sections": [
+            {
+                "section": "45625D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "3 of 10",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "450A",
+        "course_name": "Piano Pedagogy: Intermediate Literature and Functional Skill",
+        "units": "(2.0 units)",
+        "description": "Methods, study of college curriculum keyboard classes.Studio/group instruction. Business practices; audition, interview techniques. 450a: Survey and observation. 450b practice teaching;secondary piano classes.",
+        "sections": [
+            {
+                "section": "45635D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "6 of 12",
+                "instructor": "Stephen Pierce",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "453",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45655D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45660D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "472A",
+        "course_name": "Piano History and Literature",
+        "units": "(2.0 units)",
+        "description": "Solo piano literature; emphasis on composers' influences, performance practices and the development of the pianoforte. a:Late Baroque through Beethoven. b: Schubert to the present. Prerequisites: MUHL 331 and MUHL 332.",
+        "sections": [
+            {
+                "section": "45680D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "3 of 12",
+                "instructor": "Katelyn Vahala",
+                "location": "MUS208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "481",
+        "course_name": "Interpretation of Baroque Music",
+        "units": "(2.0 units, max 6)",
+        "description": "Repertoire and performance practice in music of the period: style, phrasing, embellishments, dynamics, improvisation, tempi. Performance in class of solo and ensemble works, instrumental and vocal.",
+        "sections": [
+            {
+                "section": "45685D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "7 of 20",
+                "instructor": "Lucinda Carver",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "45690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45696D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "45710D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Kevin Fitz-Gerald",
+                "location": "RHM104"
+            },
+            {
+                "section": "45720D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45725D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45730D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45735D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 30",
+                "instructor": "Stephen Pierce",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "520",
+        "course_name": "Special Studies in Solo Repertoire for Piano",
+        "units": "(2.0 units, max 12)",
+        "description": "Historical, stylistic and pedagogical aspects of solo repertoire. Special emphasis to be determined by the department.",
+        "sections": [
+            {
+                "section": "45742D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 25",
+                "instructor": "Stewart Gordon",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45765D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Kevin Fitz-Gerald",
+                "location": "RHM104"
+            },
+            {
+                "section": "45775D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45780D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 50",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "554",
+        "course_name": "Graduate Certificate Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Graduate Certificate students.",
+        "sections": [
+            {
+                "section": "45787D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45789D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "560",
+        "course_name": "Song Interpretation Master Class",
+        "units": "(2.0 units, max 12)",
+        "description": "Performance masterclass for advanced singers and pianists.",
+        "sections": [
+            {
+                "section": "45792D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Lucinda Carver",
+                "location": ""
+            },
+            {
+                "section": "45793D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Lucinda Carver",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "561",
+        "course_name": "Chamber Music Interpretation Master Class",
+        "units": "(2.0 units, max 12)",
+        "description": "Performance masterclass for advanced pianists and instrumentalists.",
+        "sections": [
+            {
+                "section": "45795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "6 of 6",
+                "instructor": "Kevin Fitz-Gerald",
+                "location": "MUS106"
+            },
+            {
+                "section": "45797D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "5 of 6",
+                "instructor": "Kevin Fitz-Gerald",
+                "location": "MUS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45800D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for D.M.A. Performance majors.",
+        "sections": [
+            {
+                "section": "45820D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Kevin Fitz-Gerald",
+                "location": "RHM104"
+            },
+            {
+                "section": "45830D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            },
+            {
+                "section": "45835D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 60",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "754",
+        "course_name": "Artist Diploma Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Artist Diploma students.",
+        "sections": [
+            {
+                "section": "45860D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPKS",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45875D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lucinda Carver",
+                "location": "RHM104"
+            },
+            {
+                "section": "45877D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Ladd Thomas",
+                "location": "RHM104"
+            }
+        ]
+    }
+]

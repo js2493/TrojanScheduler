@@ -1,0 +1,2212 @@
+[
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "101",
+        "course_name": "Introduction to Mechanical Engineering",
+        "units": "(4.0 units)",
+        "description": "Gateway to a BS degree in Mechanical Engineering. Introduction to statics, strength of materials, fluid mechanics, energy, electric circuits, computer-aided drafting, dimensional analysis, team projects.",
+        "sections": [
+            {
+                "section": "28700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "28 of 37",
+                "instructor": "Paul Ronney",
+                "location": "LVL16"
+            },
+            {
+                "section": "28701R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "41 of 41",
+                "instructor": "Paul Ronney",
+                "location": "LVL16"
+            },
+            {
+                "section": "28702R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 2,
+                "registered": "21 of 24",
+                "instructor": "Paul Ronney",
+                "location": "SAL109"
+            },
+            {
+                "section": "28703R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 4,
+                "registered": "30 of 30",
+                "instructor": "Paul Ronney",
+                "location": "SAL126"
+            },
+            {
+                "section": "28704R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 830,
+                "days": 16,
+                "registered": "18 of 26",
+                "instructor": "Paul Ronney",
+                "location": "SAL127"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "105",
+        "course_name": "Introduction to Aerospace Engineering",
+        "units": "(4.0 units)",
+        "description": "Gateway to the Aerospace Engineering major. Introduction to flight vehicle performance and propulsion. Elements of the physics of gases. Laboratory: computers and graphics; model rocket and glider test flights.",
+        "sections": [
+            {
+                "section": "28706D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "31 of 34",
+                "instructor": "Geoffrey Spedding",
+                "location": "KAP146"
+            },
+            {
+                "section": "28815D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Geoffrey Spedding",
+                "location": "KAP148"
+            },
+            {
+                "section": "28707R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "29 of 34",
+                "instructor": "Geoffrey Spedding",
+                "location": "SAL127"
+            },
+            {
+                "section": "28708R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "32 of 30",
+                "instructor": "Geoffrey Spedding",
+                "location": "SAL109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "201",
+        "course_name": "Statics",
+        "units": "(4.0 units)",
+        "description": "Analysis of forces acting on particles and rigid bodies in static equilibrium; equivalent systems of forces; friction; centroids and moments of inertia; introduction to energy methods.",
+        "sections": [
+            {
+                "section": "28709R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "65 of 65",
+                "instructor": "Akshay Potnuru",
+                "location": "THH208"
+            },
+            {
+                "section": "28752R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "46 of 48",
+                "instructor": "Oussama Safadi",
+                "location": "DMC102"
+            },
+            {
+                "section": "28958R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "49 of 49",
+                "instructor": "Ramtin Sheikhhassani",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "204",
+        "course_name": "Mechanics of Materials and Structures",
+        "units": "(4.0 units)",
+        "description": "Stress, strain and deflection of mechanical elements due to tension, shear, bending, or torsion; combined loads; plates, shells, statically indeterminate structures; strength-based design, trusses.",
+        "sections": [
+            {
+                "section": "28710R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "27 of 30",
+                "instructor": "Oussama Safadi",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "208",
+        "course_name": "Mathematical Methods in Engineering",
+        "units": "(4.0 units)",
+        "description": "Common tools for Aerospace and Mechanical engineers: vectors, matrices, fundamentals of python, data manipulation and analysis, statistics, data presentation, optimization, large data sets.",
+        "sections": [
+            {
+                "section": "28705R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "57 of 60",
+                "instructor": "Carlos Pantano-Rubino",
+                "location": "SSL202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "232",
+        "course_name": "Manufacturing Processes",
+        "units": "(4.0 units)",
+        "description": "Manufacturing engineering and technology, and the interrelationship between manufacturing processes, product design and material properties.",
+        "sections": [
+            {
+                "section": "31603D",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "20 of 35",
+                "instructor": "Yong Chen",
+                "location": "DMC157"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "291",
+        "course_name": "Undergraduate Design Projects I",
+        "units": "(1.0 units, max 4)",
+        "description": "Analysis, design, fabrication, and evaluation of devices intended for entry in local and national design competitions. Intended for lower division students or those with little prior project experience. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29045D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 2,
+                "registered": "0 of 25",
+                "instructor": "Saakar Byahut",
+                "location": "ZHS352"
+            },
+            {
+                "section": "29046D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "0 of 20",
+                "instructor": "Yann Staelens",
+                "location": "KAP163"
+            },
+            {
+                "section": "29047D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 8,
+                "registered": "0 of 20",
+                "instructor": "Matthew Gilpin",
+                "location": "BHE301"
+            },
+            {
+                "section": "29048D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "0 of 30",
+                "instructor": "Emma Singer",
+                "location": "BHE301"
+            },
+            {
+                "section": "29049D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "1 of 25",
+                "instructor": "Bo Jin",
+                "location": "KAP159"
+            },
+            {
+                "section": "29050D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "0 of 25",
+                "instructor": "Yann Staelens",
+                "location": "VHE214"
+            },
+            {
+                "section": "29057D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "0 of 20",
+                "instructor": "Matthew Gilpin,Lubos Brieda",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "301",
+        "course_name": "Dynamics",
+        "units": "(3.0-4.0 units)",
+        "description": "Reference frames and coordinate systems; relationships between forces, moments, power, linear/angular momentum, and energy for particles and rigid bodies; particle and rigid body systems.",
+        "sections": [
+            {
+                "section": "28726R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "39 of 59",
+                "instructor": "Geoffrey Shiflett",
+                "location": "GFS116"
+            },
+            {
+                "section": "28753R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 20,
+                "registered": "46 of 46",
+                "instructor": "Neda Maghsoodi",
+                "location": "KAP144"
+            },
+            {
+                "section": "28727R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "85 of 93",
+                "instructor": "Geoffrey Shiflett,Neda Maghsoodi",
+                "location": "SLH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "302",
+        "course_name": "Dynamic Systems",
+        "units": "(3.0 units)",
+        "description": "Modeling of lumped parameter elements and systems; free and forced response of first and second order systems; design oriented approach to dynamic systems.",
+        "sections": [
+            {
+                "section": "28728R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "26 of 70",
+                "instructor": "Inna Abramova",
+                "location": "GFS116"
+            },
+            {
+                "section": "28729R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "61 of 72",
+                "instructor": "Inna Abramova",
+                "location": "GFS116"
+            },
+            {
+                "section": "28731R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "87 of 120",
+                "instructor": "Inna Abramova",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "305",
+        "course_name": "Mechanical Design",
+        "units": "(3.0 units)",
+        "description": "Design and analysis of mechanical elements including shafts, bearings, springs, screws, belts, and gears; strength, fatigue, and deflection considerations in machine design.",
+        "sections": [
+            {
+                "section": "28730D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "39 of 41",
+                "instructor": "Oussama Safadi",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "308",
+        "course_name": "Computer-Aided Engineering",
+        "units": "(3.0-4.0 units)",
+        "description": "Introduction to the finite element method; practical application of computer analysis tools for structural analysis and design.",
+        "sections": [
+            {
+                "section": "28734R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "34 of 34",
+                "instructor": "Bo Jin",
+                "location": "SAL127"
+            },
+            {
+                "section": "29001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "34 of 34",
+                "instructor": "Bo Jin",
+                "location": "SAL127"
+            },
+            {
+                "section": "29002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 4,
+                "registered": "34 of 34",
+                "instructor": "Bo Jin",
+                "location": "SAL127"
+            },
+            {
+                "section": "29003R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "102 of 102",
+                "instructor": "Bo Jin",
+                "location": "GFS106"
+            },
+            {
+                "section": "28744R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 450,
+                "end_time": 595,
+                "days": 16,
+                "registered": "100 of 109",
+                "instructor": "Bo Jin",
+                "location": "SAL127"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "309",
+        "course_name": "Dynamics of Fluids",
+        "units": "(4.0 units)",
+        "description": "Fluid statics; conservation of mass, momentum, and energy in integral and differential form; applications. Laminar and turbulent pipe flow; compressible flow; potential flow over bodies.",
+        "sections": [
+            {
+                "section": "28736R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "36 of 80",
+                "instructor": "Ivan Bermejo-Moreno",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "310",
+        "course_name": "Engineering Thermodynamics I",
+        "units": "(3.0-4.0 units)",
+        "description": "Fundamental laws of thermodynamics applied to actual and perfect gases and vapors; energy concepts, processes and applications; energy, entropy and exergy analysis; power and refrigeration systems.",
+        "sections": [
+            {
+                "section": "28738R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "64 of 66",
+                "instructor": "Fokion Egolfopoulos",
+                "location": "THH208"
+            },
+            {
+                "section": "28740R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "64 of 66",
+                "instructor": "Fokion Egolfopoulos",
+                "location": "SLH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "341A",
+        "course_name": "Measurement and Instrumentation Laboratory",
+        "units": "(3.0-4.0 units)",
+        "description": "Coordinated laboratory and lecture sequence on aeromechanical instrumentation, test and measurement, integration of mechanical, optical and electronic components and technical communication.",
+        "sections": [
+            {
+                "section": "28741R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 42,
+                "registered": "84 of 83",
+                "instructor": "Matthew Gilpin,Saakar Byahut",
+                "location": "THH301"
+            },
+            {
+                "section": "28742R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 42,
+                "registered": "77 of 83",
+                "instructor": "Matthew Gilpin,Saakar Byahut",
+                "location": "THH301"
+            },
+            {
+                "section": "28743R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "40 of 40",
+                "instructor": "Matthew Gilpin,Saakar Byahut",
+                "location": "BHE301"
+            },
+            {
+                "section": "28745R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "42 of 42",
+                "instructor": "Matthew Gilpin,Saakar Byahut",
+                "location": "BHE301"
+            },
+            {
+                "section": "28746R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "38 of 38",
+                "instructor": "Matthew Gilpin,Saakar Byahut",
+                "location": "BHE301"
+            },
+            {
+                "section": "28747R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "41 of 41",
+                "instructor": "Matthew Gilpin,Saakar Byahut",
+                "location": "BHE301"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "404",
+        "course_name": "Computational Solutions to Engineering Problems",
+        "units": "(3.0 units)",
+        "description": "Mathematical aspects of the solutions to typical advanced mechanical engineering problems. Modeling, simulation, computational aspects, computer solutions, and computational tools. Recommended preparation: FORTRAN, MATLAB, and Maple",
+        "sections": [
+            {
+                "section": "28754R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "45 of 60",
+                "instructor": "Takahiro Sakai",
+                "location": "THH301"
+            },
+            {
+                "section": "29005D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "4 of 10",
+                "instructor": "Takahiro Sakai",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "28755R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "17 of 30",
+                "instructor": "Takahiro Sakai",
+                "location": "OHE136"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "408",
+        "course_name": "Computer-Aided Design of Mechanical Systems",
+        "units": "(3.0 units)",
+        "description": "Design of mechanical systems using advanced graphics techniques; computer-aided drafting, design optimization, elements of computer graphics, solids modeling; introduction to computer-aided manufacturing. Prerequisite: AME 204 or CE 225. Recommended preparation: AME 308.",
+        "sections": [
+            {
+                "section": "28758D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "16 of 22",
+                "instructor": "Babak Boloury-Azad",
+                "location": "SAL127"
+            },
+            {
+                "section": "28759D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1280,
+                "days": 16,
+                "registered": "5 of 22",
+                "instructor": "Babak Boloury-Azad",
+                "location": "SAL127"
+            },
+            {
+                "section": "28760R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 450,
+                "end_time": 590,
+                "days": 8,
+                "registered": "21 of 36",
+                "instructor": "Babak Boloury-Azad",
+                "location": "SAL127"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "410",
+        "course_name": "Engineering Design Theory and Methodology",
+        "units": "(3.0 units)",
+        "description": "Product planning and task clarification, voice of customers, quality function deployment, conceptual and embodiment design, axiomatic theory of design, product quality and manufacturability, design decision-making. Junior standing. Recommended preparation: AME 305",
+        "sections": [
+            {
+                "section": "28762D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "16 of 35",
+                "instructor": "Arturo Cajal Avina",
+                "location": "VPDLL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "415",
+        "course_name": "Turbine Design and Analysis",
+        "units": "(3.0 units)",
+        "description": "Physics of turbine operation; design and analysis for the development of turbine hardware for propulsion and power generation. Recommended preparation: Familiarity with Matlab.",
+        "sections": [
+            {
+                "section": "28765D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1180,
+                "days": 16,
+                "registered": "25 of 26",
+                "instructor": "Bogdan Marcu",
+                "location": "GFS222"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "430",
+        "course_name": "Thermal Systems Design",
+        "units": "(3.0 units)",
+        "description": "Design methodology for thermal systems; boilers, condensers, air conditioning, power generation, air pollution control, combustion and alternative fuels. Prerequisite: AME-331; Recommended preparation: AME-312.",
+        "sections": [
+            {
+                "section": "28772R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "Zuhair Ibrahim",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "431",
+        "course_name": "Heat Transfer",
+        "units": "(3.0-4.0 units)",
+        "description": "General principles underlying heat transfer by conduction, convection, and radiation; steady and transient conditions; heat exchangers.",
+        "sections": [
+            {
+                "section": "28906R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "14 of 60",
+                "instructor": "Leslie King",
+                "location": "GFS118"
+            },
+            {
+                "section": "28909R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "14 of 60",
+                "instructor": "Leslie King",
+                "location": "GFS106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "441A",
+        "course_name": "Senior Projects Laboratory",
+        "units": "(3.0-4.0 units)",
+        "description": "Team engineering design project to model, construct and test a physical principle or system. Complete industrial research project including proposal, design review, presentation, technical report.",
+        "sections": [
+            {
+                "section": "28711R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "39 of 39",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "KDC240"
+            },
+            {
+                "section": "28774R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "39 of 39",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "DMC150"
+            },
+            {
+                "section": "28775R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "38 of 39",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "WPH207"
+            },
+            {
+                "section": "28776R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "39 of 39",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "KDC236"
+            },
+            {
+                "section": "28713R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "41 of 41",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "BHE310"
+            },
+            {
+                "section": "28778R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "42 of 42",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "BHE310"
+            },
+            {
+                "section": "28779R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "42 of 42",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "BHE310"
+            },
+            {
+                "section": "28780R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "30 of 38",
+                "instructor": "Yann Staelens,Robert Antypas,Akshay Potnuru,Emma Singer",
+                "location": "BHE310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "451",
+        "course_name": "Linear Control Systems I",
+        "units": "(3.0-4.0 units)",
+        "description": "Transform methods, block diagrams; transfer functions; stability; root-locus and frequency domain analysis and design; application to flight control, state space and multiloop systems.",
+        "sections": [
+            {
+                "section": "28821D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "53 of 53",
+                "instructor": "Inna Abramova",
+                "location": "OHE100D"
+            },
+            {
+                "section": "28823R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "53 of 53",
+                "instructor": "Inna Abramova",
+                "location": "OHE132"
+            },
+            {
+                "section": "29021D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "5 of 20",
+                "instructor": "Inna Abramova",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29022D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "5 of 20",
+                "instructor": "Inna Abramova",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "459",
+        "course_name": "Flight Mechanics",
+        "units": "(3.0 units)",
+        "description": "Applications of basic aerodynamics to aircraft and missile performance, power and thrust, stability and control, compressibility effects.",
+        "sections": [
+            {
+                "section": "28829R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "27 of 30",
+                "instructor": "Kamal Shweyk",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "461",
+        "course_name": "Formation Data Sensing with Well Logs",
+        "units": "(4.0 units)",
+        "description": "Measurement theory and petroleum/geothermal applications of electrical, radioactive, acoustic, and production logging tools. Estimation of rock porosity, water saturation, permeability, shale content, gas flow rate.",
+        "sections": [
+            {
+                "section": "32204D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 910,
+                "days": 10,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "32206D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 910,
+                "days": 10,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "463",
+        "course_name": "Introduction to Transport Processes in Porous Media",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of flow and transport in porous materials including: Properties of porous rocks, capillarity effect, single- and multiphase flow, diffusion and dispersion in miscible displacements.",
+        "sections": [
+            {
+                "section": "32208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1090,
+                "days": 8,
+                "registered": "0 of 28",
+                "instructor": "Kristian Jessen",
+                "location": "RTH105"
+            },
+            {
+                "section": "32290R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 930,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "PCE313"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "465",
+        "course_name": "Drilling Technology and Subsurface Methods",
+        "units": "(3.0 units)",
+        "description": "Theory and practice in drilling technology; mechanical properties of reservoir rocks; well completion; acidizing and fracturing, oilproduction gechnology. Lecture, 3 hours; laboratory, 3 hours",
+        "sections": [
+            {
+                "section": "32212D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 620,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "Iraj Ershaghi",
+                "location": ""
+            },
+            {
+                "section": "32214R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 810,
+                "days": 32,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "PCE313"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "485",
+        "course_name": "Aerospace Structures I",
+        "units": "(3.0 units)",
+        "description": "Design, qualification, and workmanship verification of aerospace structures. Analysis for assessing buckling and crippling, welds, and analysis of connections and thin-walled structures.",
+        "sections": [
+            {
+                "section": "28801R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1035,
+                "end_time": 1185,
+                "days": 8,
+                "registered": "46 of 46",
+                "instructor": "Vinay Goyal",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "28795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "491",
+        "course_name": "Undergraduate Design Projects II",
+        "units": "(1.0 units, max 4)",
+        "description": "Analysis, design, fabrication, and evaluation of devices intended for entry in local and national design competitions. Intended for students with prior project experience. Upper division standing. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28796D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 2,
+                "registered": "4 of 45",
+                "instructor": "Saakar Byahut",
+                "location": "SGM601"
+            },
+            {
+                "section": "28797D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 4,
+                "registered": "11 of 50",
+                "instructor": "Yann Staelens",
+                "location": "SOSB44"
+            },
+            {
+                "section": "28798D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 2,
+                "registered": "1 of 25",
+                "instructor": "Matthew Gilpin",
+                "location": "BHE301"
+            },
+            {
+                "section": "28799D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "0 of 30",
+                "instructor": "Emma Singer",
+                "location": "BHE301"
+            },
+            {
+                "section": "28806D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "4 of 25",
+                "instructor": "Bo Jin",
+                "location": "KAP113"
+            },
+            {
+                "section": "29030D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 2,
+                "registered": "6 of 30",
+                "instructor": "Yann Staelens",
+                "location": "VHE206"
+            },
+            {
+                "section": "29031D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "2 of 20",
+                "instructor": "Matthew Gilpin,Lubos Brieda",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Course content to be selected each semester from recent developments in aerospace and mechanical engineering and related fields.",
+        "sections": [
+            {
+                "section": "29035R",
+                "session": "966",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "3 of 25",
+                "instructor": "Marty Bradley",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "502",
+        "course_name": "Modern Topics in Aerospace Design",
+        "units": "(3.0 units)",
+        "description": "Current topics in Aerospace Engineering are addressed by a number of industry panelists. Students, under panelists' supervision and guidance, complete independent research reports and briefings. Recommended preparation: AME 261, AME 441, AME 481 or equivalents. Genuine interest in design of flight vehicles. Open only to Senior, Master, and Doctoral students.",
+        "sections": [
+            {
+                "section": "28860R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 930,
+                "days": 32,
+                "registered": "11 of 20",
+                "instructor": "Jayanth Kudva",
+                "location": "GFS210"
+            },
+            {
+                "section": "28970D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 930,
+                "days": 32,
+                "registered": "6 of 30",
+                "instructor": "Jayanth Kudva",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "505",
+        "course_name": "Machine Learning for Engineering Applications",
+        "units": "(3.0-4.0 units)",
+        "description": "Modeling engineering challenges, supervised and unsupervised learning, reinforcement learning, evolutionary algorithms, support vector machines, Bayesian learning, large language models, transform engineering with machine learning.",
+        "sections": [
+            {
+                "section": "28976R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 40",
+                "instructor": "Yan Jin",
+                "location": "OHE100B"
+            },
+            {
+                "section": "28980D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "6 of 40",
+                "instructor": "Yan Jin",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "507",
+        "course_name": "Mechanics of Solids I",
+        "units": "(4.0 units)",
+        "description": "Fundamental theory of linear elasticity applicable to multiple branches of solid mechanics.",
+        "sections": [
+            {
+                "section": "29732R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "17 of 40",
+                "instructor": "Vincent Lee",
+                "location": "RTH105"
+            },
+            {
+                "section": "29733D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "8 of 17",
+                "instructor": "Vincent Lee",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "508",
+        "course_name": "Machine Learning and Computational Physics",
+        "units": "(4.0 units)",
+        "description": "Machine learning applications in computational physics and engineering; relationships between computational physics and ML algorithms; hybrid physics-informed ML prediction with tools for uncertainty quantification.",
+        "sections": [
+            {
+                "section": "28916R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "31 of 45",
+                "instructor": "Krishna Garikipati",
+                "location": "OHE100B"
+            },
+            {
+                "section": "28917D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "6 of 25",
+                "instructor": "Krishna Garikipati",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "509",
+        "course_name": "Applied Elasticity",
+        "units": "(4.0 units)",
+        "description": "Cartesian tensors; kinematics of deformation, balance laws, and constitutive equations; variational principles; finite elasticity; plates and cylindrical shells; viscoelasticity; analytical and numerical solutions for elasticity.",
+        "sections": [
+            {
+                "section": "28869R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "26 of 35",
+                "instructor": "Paul Plucinsky",
+                "location": "RTH109"
+            },
+            {
+                "section": "28870D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "30 of 35",
+                "instructor": "Paul Plucinsky",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "513A",
+        "course_name": "Fundamentals and Applications of Combustion",
+        "units": "(4.0 units)",
+        "description": "Chemical equilibrium, flame temperature, chemical kinetics, transport phenomena, conservation equations of multi-component reacting flows, laminar flames, droplet combustion, flame speed, combustion pollutants, atmospheric pollution processes.",
+        "sections": [
+            {
+                "section": "28873R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "16 of 24",
+                "instructor": "Fokion Egolfopoulos",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29044D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "15 of 20",
+                "instructor": "Fokion Egolfopoulos",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "515",
+        "course_name": "Thermal and Biological Transport Phenomena I",
+        "units": "(4.0 units)",
+        "description": "Analytical techniques for heat and mass diffusion problems in various geometries; application to heat/mass transfer in solids, liquids, porous media and bioporous materials.",
+        "sections": [
+            {
+                "section": "28895R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "1 of 25",
+                "instructor": "Satwindar Sadhal",
+                "location": "OHE120"
+            },
+            {
+                "section": "28897D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "2 of 10",
+                "instructor": "Satwindar Sadhal",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "518",
+        "course_name": "Emerging Manufacturing Technologies",
+        "units": "(4.0 units)",
+        "description": "Overview of emerging manufacturing technologies across different length scales (macro-micro-nano), including top-down approaches, bottom-up approaches and material synthesis/assembly.",
+        "sections": [
+            {
+                "section": "28835R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "32 of 32",
+                "instructor": "Hangbo Zhao",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "521",
+        "course_name": "Engineering Vibrations II",
+        "units": "(4.0 units)",
+        "description": "Multi-degree of freedom systems; continuous systems; modal analysis. Beams, rods, membranes, plates, shells. Approximate methods; Galerkin, Rayleigh Ritz; assumed-mode, finite elements.",
+        "sections": [
+            {
+                "section": "28881R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "9 of 25",
+                "instructor": "Bingen Yang",
+                "location": "OHE100D"
+            },
+            {
+                "section": "29051D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "7 of 20",
+                "instructor": "Bingen Yang",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "525",
+        "course_name": "Linear Algebra in Engineering Science",
+        "units": "(4.0 units)",
+        "description": "Systems of linear equations; eigenvalues and eigenvectors; singular values and singular vectors; linear transformations; regression and optimization; data-driven learning.",
+        "sections": [
+            {
+                "section": "28885R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "83 of 113",
+                "instructor": "Paul Newton",
+                "location": "OHE122"
+            },
+            {
+                "section": "29056D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "52 of 52",
+                "instructor": "Paul Newton",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "528",
+        "course_name": "Finite Element Analysis",
+        "units": "(4.0 units)",
+        "description": "Basic concepts; variational methods; isoparametric formulation; plane stress; plane strain; axisymmetric structures; plates and shells; structural dynamics; stability and buckling; computer applications; nonlinear analysis.",
+        "sections": [
+            {
+                "section": "29743R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "9 of 30",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "RTH105"
+            },
+            {
+                "section": "29744R",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1120,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "2 of 10",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29746R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 8,
+                "registered": "9 of 30",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29747D",
+                "session": "034",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "Abdel-Salam Niazy",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "530A",
+        "course_name": "Dynamics of Incompressible Fluids",
+        "units": "(4.0 units)",
+        "description": "A unified discussion of low-speed fluid mechanics including exact solutions; approximation techniques for low and high Reynolds numbers; inviscid flows; surface waves; dynamic stability; turbulence.",
+        "sections": [
+            {
+                "section": "28890R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "38 of 40",
+                "instructor": "Mitul Luhar",
+                "location": "OHE100B"
+            },
+            {
+                "section": "29060D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 30",
+                "instructor": "Mitul Luhar",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "535A",
+        "course_name": "Introduction to Computational Fluid Mechanics",
+        "units": "(3.0 units)",
+        "description": "Convergence, consistency, stability: finite difference, finite element, and spectral methods; direct and iterative procedures for steady problems; linear diffusion and advection problems; nonlinear advection problems. Recommended preparation: AME 526.",
+        "sections": [
+            {
+                "section": "28896R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "22 of 30",
+                "instructor": "Julian Domaradzki",
+                "location": "OHE100C"
+            },
+            {
+                "section": "29065D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Julian Domaradzki",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "536",
+        "course_name": "Biofluid Mechanics: Transport and Circulatory Systems",
+        "units": "(4.0 units)",
+        "description": "An analytical and theoretical introduction to fluid dynamics and transport phenomena of the physiological systems such as cardiovascular, respiratory and renal system.",
+        "sections": [
+            {
+                "section": "28898R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "0 of 35",
+                "instructor": "Niema Pahlevan",
+                "location": "KAP156"
+            },
+            {
+                "section": "28933D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "0 of 20",
+                "instructor": "Niema Pahlevan",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "538",
+        "course_name": "Low Reynolds Number Hydrodynamics and Biotransport Phenomena",
+        "units": "(4.0 units)",
+        "description": "Stokes equation for incompressible fluid flows; perturbation analysis for weakly inertial flows; Darcy flow for porous media; thermal and mass transport; and biological systems applications.",
+        "sections": [
+            {
+                "section": "28871R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "3 of 20",
+                "instructor": "Satwindar Sadhal",
+                "location": ""
+            },
+            {
+                "section": "28872D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "0 of 20",
+                "instructor": "Satwindar Sadhal",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "540",
+        "course_name": "Probability and Statistics in Engineering Science",
+        "units": "(4.0 units)",
+        "description": "Probability theory; random variables and vectors; joint, marginal, and conditional distributions; Bayes' theorem; introduction to stochastic processes; statistical inference; regression and generative models.",
+        "sections": [
+            {
+                "section": "28959R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "15 of 40",
+                "instructor": "Assad Oberai",
+                "location": "OHE100B"
+            },
+            {
+                "section": "28961D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "6 of 30",
+                "instructor": "Assad Oberai",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "541",
+        "course_name": "Linear Control Systems II",
+        "units": "(4.0 units)",
+        "description": "State space representation, linearization, solution of state equations; controllability and observability; state feedback, state observers; optimal control; output feedback.",
+        "sections": [
+            {
+                "section": "28901R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "23 of 45",
+                "instructor": "Mihailo Jovanovic",
+                "location": "OHE100B"
+            },
+            {
+                "section": "29071D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "11 of 20",
+                "instructor": "Mihailo Jovanovic",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "543",
+        "course_name": "Structural Instability and Failure",
+        "units": "(4.0 units)",
+        "description": "Stability analysis of columns, frames, plates, circular rings and shells; Energy-based method; Dynamic analysis of structural stability; Elastic fracture mechanics; Small-strain plasticity.",
+        "sections": [
+            {
+                "section": "29766R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "9 of 20",
+                "instructor": "Qiming Wang",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "547",
+        "course_name": "Foundations for Manufacturing Automation",
+        "units": "(4.0 units)",
+        "description": "An overview of the building blocks that underlie automation; mechanics-based models for designing automated systems; decision-making tools and methods for supporting manufacturing automation.",
+        "sections": [
+            {
+                "section": "28712R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "20 of 42",
+                "instructor": "Satyandra Gupta",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "549",
+        "course_name": "Systems Architecting",
+        "units": "(3.0 units)",
+        "description": "Introduction to systems architecture in aerospace, electrical, computer, and manufacturing systems emphasizing the conceptual and acceptance phases and using heuristics.",
+        "sections": [
+            {
+                "section": "32319D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 2,
+                "registered": "29 of 38",
+                "instructor": "Azad Madni",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "32349D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 2,
+                "registered": "3 of 7",
+                "instructor": "Azad Madni",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "550",
+        "course_name": "Seminar in Aerospace and Mechanical Engineering",
+        "units": "(1.0 units, max 3)",
+        "description": "Recent developments and research in aerospace and mechanical engineering and related fields. Oral and written reports.",
+        "sections": [
+            {
+                "section": "28949R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "18 of 55",
+                "instructor": "",
+                "location": "SSL202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "551",
+        "course_name": "Mechanical Behavior of Engineering Materials",
+        "units": "(4.0 units)",
+        "description": "Mechanical properties of materials; macroscopic mechanical behavior related to structure and microstructure of the material; elementary dislocation theory related to basic strengthening mechanisms; fatigue and fracture; nanomaterials.",
+        "sections": [
+            {
+                "section": "32189D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "23 of 40",
+                "instructor": "Corinne Packard",
+                "location": "OHE100D"
+            },
+            {
+                "section": "32190D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Corinne Packard",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "554",
+        "course_name": "Additive Manufacturing Technologies",
+        "units": "(4.0 units)",
+        "description": "Overview and working principles of commonly used additive manufacturing processes; process models; process and material selection; cost estimation methods; current applications and future directions.",
+        "sections": [
+            {
+                "section": "28899R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "48 of 59",
+                "instructor": "Boris Fritz",
+                "location": "SLH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "556",
+        "course_name": "Robot Dynamics and Control",
+        "units": "(4.0 units)",
+        "description": "Introduction to dynamics and control of robotic systems including Model Predictive Control (MPC), Quadratic Program (QP)-based nonlinear control and trajectory optimization.",
+        "sections": [
+            {
+                "section": "29099D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "36 of 37",
+                "instructor": "Quan Nguyen",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "563",
+        "course_name": "Computational Design of Machine Components",
+        "units": "(4.0 units)",
+        "description": "Computer-aided design of machine components widely encountered in automotive and aerospace applications including fasteners, stiffeners, airfoils, etc. Intended for students with little CAE experience.",
+        "sections": [
+            {
+                "section": "28934D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 840,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Bo Jin",
+                "location": "KAP134"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28950D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "28951D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28952D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "28953D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Course content will be selected each semester to reflect current trends and developments in the field of Aerospace and Mechanical Engineering.",
+        "sections": [
+            {
+                "section": "29085R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "8 of 20",
+                "instructor": "Marty Bradley",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "647",
+        "course_name": "Multiscale Methods in Mechanics",
+        "units": "(3.0 units)",
+        "description": "Behavior of manmade and natural materials at different scales; experimental methods to characterize behavior; governing equations, interscale coupling, information exchange; probabilistic representations; error analysis. Prerequisite: AME 525 or AME 526 or CE 525 or CE 526.",
+        "sections": [
+            {
+                "section": "29808R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 2,
+                "registered": "0 of 12",
+                "instructor": "Roger Ghanem",
+                "location": "THH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "28990D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 60",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28991D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 15",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28992D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 15",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28993D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis.",
+        "sections": [
+            {
+                "section": "28994D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AME",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "28995D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Paul Ronney",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

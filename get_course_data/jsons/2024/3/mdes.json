@@ -1,0 +1,107 @@
+[
+    {
+        "term": "20243",
+        "department": "MDES",
+        "course_num": "201",
+        "course_name": "The Middle East",
+        "units": "(4.0 units)",
+        "description": "Introduction to the natural and cultural diversity of the Middle East.",
+        "sections": [
+            {
+                "section": "41550R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Ciruce Movahedi-Lankarani",
+                "location": "DMC158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDES",
+        "course_num": "345",
+        "course_name": "Power and Authority in the Middle East",
+        "units": "(4.0 units)",
+        "description": "A comparative examination of social relations of power and institutions with a special focus on intellectual traditions, the law, and social movements.",
+        "sections": [
+            {
+                "section": "41537R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Bandar Alsaeed",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDES",
+        "course_num": "441",
+        "course_name": "Cities of the Middle East",
+        "units": "(4.0 units)",
+        "description": "An examination of the economic, political and cultural forces operating in a number of Middle Eastern cities.",
+        "sections": [
+            {
+                "section": "41501R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Bandar Alsaeed",
+                "location": "GFS105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDES",
+        "course_num": "449",
+        "course_name": "Multilingual Encounters",
+        "units": "(4.0 units)",
+        "description": "Exploration of multilingual encounters in literary works, films, and theoretical texts. Topics may include immigrant languages, dialects, jargons, imaginary or hybrid languages, theories of translation.",
+        "sections": [
+            {
+                "section": "22055R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "8 of 18",
+                "instructor": "Adam Spanos",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDES",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not for graduate credit.",
+        "sections": [
+            {
+                "section": "41549D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 4",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

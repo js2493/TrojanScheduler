@@ -1,0 +1,696 @@
+[
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "120",
+        "course_name": "Skills and Strategies for Future Medical Professionals",
+        "units": "(1.0 unit)",
+        "description": "Development of academic strategies and exploration of pre-professional preparation for careers in medicine and healthcare. Open only to students in the Keck PREP Scholars Program.",
+        "sections": [
+            {
+                "section": "41420D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "9 of 22",
+                "instructor": "Maite Villareal Rodriguez",
+                "location": "DMC158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "220",
+        "course_name": "Healthcare Foundations: Core Concepts and Terminology",
+        "units": "(2.0 units)",
+        "description": "Introduction to and discussion on clinically relevant topics such as social determinants of health, medical ethics and legal and regulatory aspects, in preparation for experience in the clinical setting.",
+        "sections": [
+            {
+                "section": "41402R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "78 of 200",
+                "instructor": "Emily Rose",
+                "location": "SAL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "221",
+        "course_name": "Introduction to Data Innovation and Analytics",
+        "units": "(4.0 units)",
+        "description": "Introduction to data innovation and analytics, converting data to knowledge and insights, statistical techniques, analytics models, implementing data analytics through real-world examples and situations.",
+        "sections": [
+            {
+                "section": "10226R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "9 of 28",
+                "instructor": "Michael Crowley",
+                "location": "IYH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "225",
+        "course_name": "Introduction to Professionalism and the Practice of Medicine",
+        "units": "(2.0 units)",
+        "description": "An introduction to professionalism and skills required in the practice of medicine and careers in health care.",
+        "sections": [
+            {
+                "section": "41405R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "61 of 130",
+                "instructor": "Emily Rose",
+                "location": "THH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "240",
+        "course_name": "What Is Primary Care Medicine?",
+        "units": "(2.0 units)",
+        "description": "An exploration of the practice of primary care medicine which will discuss what primary care is and differences between primary care and specialist care.",
+        "sections": [
+            {
+                "section": "41443R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "5 of 30",
+                "instructor": "Dennis Green",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "280",
+        "course_name": "The History of Medicine: a Doctor's Perspective",
+        "units": "(2.0 units)",
+        "description": "Explores the role of medicine/surgery in society, whose ideas about health and disease have undergone enormous changes from antiquity to the present day.",
+        "sections": [
+            {
+                "section": "41403R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Michael Cousineau",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "315",
+        "course_name": "Human Anatomy, Physiology, and the Technology of Medicine",
+        "units": "(2.0 units)",
+        "description": "Introduction to human anatomy and physiology in relation to common disease processes, and an examination of how technology has transformed western medicine throughout history.",
+        "sections": [
+            {
+                "section": "41407R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "21 of 22",
+                "instructor": "Susie Kim",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "330",
+        "course_name": "Bionics: Solutions to Enable the Disabled",
+        "units": "(2.0 units)",
+        "description": "Focused examination of medical bionics with emphasis on solutions that enable the disabled and detailed discussions and evaluations of the social and technological aspects of bionic medical devices.",
+        "sections": [
+            {
+                "section": "41408R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "335",
+        "course_name": "Human Development: From Stem to Sternum",
+        "units": "(2.0 units)",
+        "description": "An introduction to transformation of a single cell into a mature organism.",
+        "sections": [
+            {
+                "section": "41444R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "17 of 30",
+                "instructor": "Thomas Lozito",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "340",
+        "course_name": "The Brain in Health and Disease",
+        "units": "(4.0 units)",
+        "description": "Study of the human brain through the lens of disease using illustrative case studies, current imaging techniques and potential future treatment for neurological conditions such as Alzheimer's disease.",
+        "sections": [
+            {
+                "section": "41442R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "30 of 30",
+                "instructor": "Susie Kim",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "350",
+        "course_name": "Neurochemistry of Addiction: Drugs, Brain, and Behavior",
+        "units": "(2.0 units)",
+        "description": "The neurochemistry of psychiatric illness and addiction, introduction to brain and nervous system biochemistry, anatomy and disease states. Covers prescribed medications and drugs of abuse.",
+        "sections": [
+            {
+                "section": "41434R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "30 of 30",
+                "instructor": "Susie Kim",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "355",
+        "course_name": "Skeletal Biology and Pathology",
+        "units": "(2.0 units)",
+        "description": "Overview of the cellular make-up of the human skeleton, the functions of bones, clinical application of this knowledge towards bone-related diseases, and introduction to technological advances in orthopedic surgery.",
+        "sections": [
+            {
+                "section": "41423R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "21 of 21",
+                "instructor": "Susie Kim",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "360",
+        "course_name": "Bench to Bedside: Application of the Basic Sciences",
+        "units": "(2.0 units)",
+        "description": "A theoretical basis of laboratory approaches that help the biomedical or physician scientist in understanding the etiology of disease and targeting disease processes.",
+        "sections": [
+            {
+                "section": "41415R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Michael Menchine",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "370",
+        "course_name": "Organ Failure: Non-Communicable Chronic Disease",
+        "units": "(2.0 units)",
+        "description": "An examination of frequently treated diseases with the greatest impact on society. Involvement of medical specialists as guests.",
+        "sections": [
+            {
+                "section": "41438R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "23 of 25",
+                "instructor": "Janak Chandrasoma",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "420",
+        "course_name": "Human Development: Birth to Adolescence",
+        "units": "(2.0 units)",
+        "description": "Basic medical and developmental concepts that are important during the infant, child and adolescent phases of life, as well as guest lectures from health care professionals in the pediatric field.",
+        "sections": [
+            {
+                "section": "41362R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "Canceled",
+                "instructor": "Christine Cho",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "425",
+        "course_name": "Medical Examiner-Coroner: Investigating Death",
+        "units": "(2.0 units)",
+        "description": "Emphasizes the team-based approach used by forensic scientists, medical examiners and coroners to investigate the circumstances and determine the cause/manner of death. Prerequisites: BISC 220 or BISC 221 and MEDS 220. Open only to sophomores, juniors, and seniors.",
+        "sections": [
+            {
+                "section": "41440R",
+                "session": "061",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "21 of 30",
+                "instructor": "Lakshmanan Sathyavagiswaran",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "440",
+        "course_name": "Introduction to Surgical Principles",
+        "units": "(2.0 units)",
+        "description": "Introduction to the spectrum of surgical care, taught by surgeons, with the goal of developing an appreciation of the role that surgery plays in society. Prerequisites: BISC 220 or BISC 221 and CHEM 103 or CHEM 105a or CHEM 115a and MEDS 220. Open only to juniors and seniors.",
+        "sections": [
+            {
+                "section": "41432R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "24 of 28",
+                "instructor": "Susie Kim",
+                "location": "WPHB26"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "445",
+        "course_name": "Cancer: Biology, Prevention and Therapy from the Bench to th",
+        "units": "(4.0 units)",
+        "description": "The basic aspects of cancer biology, prevention, diagnosis and therapy, as well as guest lectures by oncology researchers and health professionals.",
+        "sections": [
+            {
+                "section": "41430R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 10,
+                "registered": "4 of 15",
+                "instructor": "Yves Declerck,James Amatruda,Shannon Mumenthaler,Abdullah Ladha,Jennifer Unger",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "460",
+        "course_name": "Emergency Health Care",
+        "units": "(2.0 units)",
+        "description": "Principles of emergency medical services, ranging from pre-hospital care and advanced life-saving, to minor injuries and illnesses. Interactive experience with ER physicians/emergency health care providers. Prerequisites: BISC 220 or BISC 221 and MEDS 220. Recommended preparation: MEDS 260.",
+        "sections": [
+            {
+                "section": "41426R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Samuel Beckerman",
+                "location": "DMC106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "490",
+        "course_name": "Directed Research in Biomedical Science",
+        "units": "(2.0-6.0 units, max 12)",
+        "description": "Individual research and readings.",
+        "sections": [
+            {
+                "section": "41414D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1020,
+                "days": 16,
+                "registered": "9 of 30",
+                "instructor": "Spencer Kellis",
+                "location": "BMT204A"
+            },
+            {
+                "section": "41416D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "11 of 14",
+                "instructor": "Danica Liberman",
+                "location": "OFFCAMPUS"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "495",
+        "course_name": "Social Emergency Medicine: Practicum with the CHLA CHAT Team",
+        "units": "(4.0-2.0 units, max 12)",
+        "description": "Explores the social determinants of health through supervised on-site practicum with the Community Health Advocates Team at Childrens Hospital Los Angeles and didactic sessions.",
+        "sections": [
+            {
+                "section": "41355D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "1 of 14",
+                "instructor": "Danica Liberman,Mia Kanak",
+                "location": "OFFICE"
+            },
+            {
+                "section": "41441D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 32,
+                "registered": "7 of 14",
+                "instructor": "Danica Liberman,Mia Kanak",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "500",
+        "course_name": "Basic Concepts in Global Health",
+        "units": "(4.0 units)",
+        "description": "Exploration of global health issues facing resource-poor societies; emphasizes contributing factors including behavioral and physiological bases, economic, social, and political context.",
+        "sections": [
+            {
+                "section": "41396D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "35 of 70",
+                "instructor": "Kim Turner",
+                "location": "MCA249"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "503",
+        "course_name": "Core Principles System I",
+        "units": "(4.0 units)",
+        "description": "Introduction to basic medical concepts and biological system functions; examination of core principles of science and medical treatment.",
+        "sections": [
+            {
+                "section": "41353D",
+                "session": "871",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 6,
+                "registered": "8 of 30",
+                "instructor": "Navid Pour-Ghasemi,",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "504",
+        "course_name": "Core Principles System II",
+        "units": "(4.0 units)",
+        "description": "Continuation of concepts from MEDS 503L: basic medical concepts and biological system functions; examination of core principles of science and medical treatment.",
+        "sections": [
+            {
+                "section": "41354D",
+                "session": "872",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 6,
+                "registered": "8 of 30",
+                "instructor": "Navid Pour-Ghasemi,",
+                "location": "MCA249"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "510",
+        "course_name": "Global Health Modules, Malaria",
+        "units": "(2.0 units)",
+        "description": "Critical issues in international control and treatment of malaria. Exploration of biological and epidemiological fundamentals of human-parasite interaction including dynamics of transmission among populations.",
+        "sections": [
+            {
+                "section": "41367D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 16,
+                "registered": "8 of 25",
+                "instructor": "Benjamin La Brot",
+                "location": "MCA249"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "514",
+        "course_name": "Global Health Modules, Tropical Disease",
+        "units": "(2.0 units)",
+        "description": "Examination of prevalent tropical diseases: epidemiology, clinical manifestations, treatment, impact on economies of tropical countries. Key issues related to these diseases; World Health Organization responses.",
+        "sections": [
+            {
+                "section": "41392D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 8,
+                "registered": "4 of 24",
+                "instructor": "Emily Blodget",
+                "location": "MCA249"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "516",
+        "course_name": "Cultural Humility in Health and Medicine",
+        "units": "(2.0 units)",
+        "description": "Practical approach to the development of professional skills for providing culturally sensitive clinical health services to ethnically and linguistically diverse patients.",
+        "sections": [
+            {
+                "section": "41361D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "7 of 35",
+                "instructor": "Nima Sarmast",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "519",
+        "course_name": "Global Oral Health",
+        "units": "(2.0 units)",
+        "description": "Better understand the key issues impacting global oral health, how better care can help reduce the disease prevalence, and ways to prepare the next generation of global health leaders to address the key issues. Open only to Global Medicine majors.",
+        "sections": [
+            {
+                "section": "41358D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "3 of 20",
+                "instructor": "Nima Sarmast",
+                "location": "BMT204B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "530A",
+        "course_name": "Foundation of Medicine: Anatomy, Physiology, and Pathology",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of physiology, chemistry, anatomy, biochemistry and microbiology, as well as pharmacological issues, mathematical basis of lab instruments or techniques, and computational modeling",
+        "sections": [
+            {
+                "section": "41364D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "9 of 20",
+                "instructor": "Mansour Rostami",
+                "location": "MCH256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "532",
+        "course_name": "Non-communicable Diseases",
+        "units": "(2.0 units)",
+        "description": "A conceptual framework for understanding global challenges faced in the management of non-communicable diseases, including heart disease, diabetes, chronic lung disease, and cancer.",
+        "sections": [
+            {
+                "section": "41377D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "22 of 50",
+                "instructor": "Aninda Das",
+                "location": "MCA249"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "581",
+        "course_name": "Case Studies in Interprofessional Healthcare",
+        "units": "(4.0 units)",
+        "description": "Survey of the specific roles each member of an interprofessional health team plays in the provision of care, based on their professional training. Application of diverse health professional expertise to case studies in healthcare.",
+        "sections": [
+            {
+                "section": "41365D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "25 of 45",
+                "instructor": "Navid Pour-Ghasemi",
+                "location": "MCA249"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MEDS",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units, max 12)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "41398D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Nima Sarmast",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

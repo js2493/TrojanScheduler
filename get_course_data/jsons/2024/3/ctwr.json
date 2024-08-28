@@ -1,0 +1,1693 @@
+[
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "100",
+        "course_name": "Story: Character, Conflict, and Catharsis",
+        "units": "(4.0 units)",
+        "description": "Fundamentals course on the elements of scene writing, story structure, and character development.",
+        "sections": [
+            {
+                "section": "19182D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 8,
+                "registered": "26 of 30",
+                "instructor": "Stephen Armour",
+                "location": "SCA203"
+            },
+            {
+                "section": "19383D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "9 of 10",
+                "instructor": "Howard Rodman",
+                "location": "SCA362"
+            },
+            {
+                "section": "19384D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "8 of 10",
+                "instructor": "Paul Foley",
+                "location": "SCA362"
+            },
+            {
+                "section": "19385D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "9 of 10",
+                "instructor": "Donald Bohlinger",
+                "location": "SCA259"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "206A",
+        "course_name": "Writing the Screenplay",
+        "units": "(4.0 units)",
+        "description": "Development of synopsis and treatment for a theatrical or documentary screenplay: theme, plot, character, mise-en-scene and utilization of cinematic elements.",
+        "sections": [
+            {
+                "section": "19156D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "5 of 7",
+                "instructor": "Jeremy Novick",
+                "location": "SCA363"
+            },
+            {
+                "section": "19157D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "7 of 7",
+                "instructor": "Beverly Neufeld",
+                "location": "SCA362"
+            },
+            {
+                "section": "19429D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "8 of 7",
+                "instructor": "Robert Ramsey",
+                "location": "SCB101"
+            },
+            {
+                "section": "19447D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "7 of 7",
+                "instructor": "Chinyere Nwodim",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "211",
+        "course_name": "The Television Writer: An Agent of Change",
+        "units": "(4.0 units)",
+        "description": "The television writer as an agent of change across current social issues including, but not limited to: race, gender, and class.",
+        "sections": [
+            {
+                "section": "19214R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "28 of 150",
+                "instructor": "Michelle Jackson",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "305",
+        "course_name": "Advanced Screenwriting: The Relationship Screenplay",
+        "units": "(4.0 units)",
+        "description": "An inquiry into the complex nature of human relationships by writing an original feature length screenplay that examines the multidimensional world of characters and the ties that bind them together.",
+        "sections": [
+            {
+                "section": "19160D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "8 of 8",
+                "instructor": "Rita Augustine",
+                "location": "SCB304"
+            },
+            {
+                "section": "19161D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "8 of 8",
+                "instructor": "Tyger Williams",
+                "location": "SCB304"
+            },
+            {
+                "section": "19162D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "8 of 8",
+                "instructor": "Donald Bohlinger",
+                "location": "SCB304"
+            },
+            {
+                "section": "19317D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "7 of 7",
+                "instructor": "Irving Belateche",
+                "location": "SCA363"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "321",
+        "course_name": "Introduction to Hour-Long Television Writing",
+        "units": "(2.0 units)",
+        "description": "The fundamentals of writing for dramatic episodic television. Writing scenes from popular television shows and examination of television story structure.",
+        "sections": [
+            {
+                "section": "19190R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "12 of 14",
+                "instructor": "Deborah Seibel",
+                "location": "SCI209"
+            },
+            {
+                "section": "19413R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "Stephanie Smith",
+                "location": "SCA363"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "324",
+        "course_name": "Introduction to Half-Hour Television Writing",
+        "units": "(2.0 units)",
+        "description": "The fundamentals of writing for comedic episodic television. Writing scenes from popular comedy series and examination of half-hour television comedy story structure.",
+        "sections": [
+            {
+                "section": "19296R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "14 of 14",
+                "instructor": "Jay Kogen",
+                "location": "SCA362"
+            },
+            {
+                "section": "19297R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "12 of 14",
+                "instructor": "Larry Balmagia",
+                "location": "SCA203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "403",
+        "course_name": "Writing the Narrative Podcast Series",
+        "units": "(2.0 units, max 4)",
+        "description": "Development of an original narrative podcast. Emphasis on dramatic elements of auditory storytelling and character development.",
+        "sections": [
+            {
+                "section": "19310R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "9 of 12",
+                "instructor": "Jeremy Novick",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "404",
+        "course_name": "Foundations of Comedy",
+        "units": "(2.0 units)",
+        "description": "Study of comedy theory and practical applications in film, television, and social media. Lectures and screenings of comedic forms tracing past, present and future.",
+        "sections": [
+            {
+                "section": "19311R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "58 of 150",
+                "instructor": "F.J. Pratt",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "407",
+        "course_name": "Creating the Comedic Character",
+        "units": "(2.0 units)",
+        "description": "Utilization of various techniques for character to emerge naturally in scene and stories. Creating multiple comedic characters to generate future stories. Recommended preparation: CTWR 404.",
+        "sections": [
+            {
+                "section": "19433R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "17 of 20",
+                "instructor": "Jim Staahl",
+                "location": "RZC114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "409",
+        "course_name": "Fundamentals of Screenwriting: Character, Conflict and Story",
+        "units": "(4.0 units)",
+        "description": "Introduction to writing compelling scenes, creating authentic characters, three-act structure and feature film outlining.",
+        "sections": [
+            {
+                "section": "19401R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "Joe Peracchio",
+                "location": "SCA362"
+            },
+            {
+                "section": "19402R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "Martin Daniel",
+                "location": "SCA362"
+            },
+            {
+                "section": "19403R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Deborah Seibel",
+                "location": "SCA362"
+            },
+            {
+                "section": "19406R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "Vincent Robert",
+                "location": "SCB207"
+            },
+            {
+                "section": "19408R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "13 of 14",
+                "instructor": "Nikhil Jayaram",
+                "location": "SCB304"
+            },
+            {
+                "section": "19412R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "David Ross",
+                "location": "SCA216"
+            },
+            {
+                "section": "19414R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Dan Benamor",
+                "location": "SCB101"
+            },
+            {
+                "section": "19415R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "12 of 14",
+                "instructor": "Sheela Shrinivas",
+                "location": "SCA363"
+            },
+            {
+                "section": "19417R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "14 of 14",
+                "instructor": "Jeremy Palmer",
+                "location": "SCA362"
+            },
+            {
+                "section": "19419R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "13 of 14",
+                "instructor": "Rob Edwards",
+                "location": "SCA362"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "410",
+        "course_name": "Character Development and Storytelling for Games",
+        "units": "(4.0 units)",
+        "description": "An exploration of characters and story worlds as they relate to gaming with an emphasis on emotionally rich environments in interactive entertainment. Recommended preparation: CTIN 488",
+        "sections": [
+            {
+                "section": "19165R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "65 of 70",
+                "instructor": "Danny Bilson",
+                "location": "SCI108"
+            },
+            {
+                "section": "19167R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "",
+                "location": "SCA362"
+            },
+            {
+                "section": "19168R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "",
+                "location": "SCA363"
+            },
+            {
+                "section": "19169R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "9 of 10",
+                "instructor": "Ross Berger",
+                "location": "SCI209"
+            },
+            {
+                "section": "19170R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "9 of 10",
+                "instructor": "David Wheeler",
+                "location": "SCI209"
+            },
+            {
+                "section": "19171R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Richard Lemarchand",
+                "location": "SCA342"
+            },
+            {
+                "section": "19172R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "8 of 10",
+                "instructor": "Lynn Johnston",
+                "location": "SCA342"
+            },
+            {
+                "section": "19173R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 32,
+                "registered": "9 of 10",
+                "instructor": "Robert Dille",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "413",
+        "course_name": "Writing the Short Script I",
+        "units": "(2.0 units)",
+        "description": "Preparation of scripts for short films: form, structure, planning. Open only to Cinematic Arts Film and Television Production majors.",
+        "sections": [
+            {
+                "section": "19177D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "6 of 12",
+                "instructor": "Valerie Mayhew",
+                "location": "SCA342"
+            },
+            {
+                "section": "19179D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Lindsay Stidham",
+                "location": "SCA342"
+            },
+            {
+                "section": "19180D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "9 of 12",
+                "instructor": "Erick Castrillon",
+                "location": "SCA259"
+            },
+            {
+                "section": "19181D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "11 of 12",
+                "instructor": "Larry Balmagia",
+                "location": "SCA258"
+            },
+            {
+                "section": "19448D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "Anne Postman",
+                "location": "SCB304"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "414",
+        "course_name": "The Screenplay",
+        "units": "(2.0 units)",
+        "description": "Students study story structure and develop several story outlines, write a short script for possible production, a feature film outline and first act. Recommended preparation: CTWR-416. Open only to Cinematic Arts Film and Television Production majors.",
+        "sections": [
+            {
+                "section": "19187D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "6 of 14",
+                "instructor": "Benita Garvin",
+                "location": "SCA342"
+            },
+            {
+                "section": "19189D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "14 of 14",
+                "instructor": "Garth Twa",
+                "location": "SCB101"
+            },
+            {
+                "section": "19191D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "9 of 14",
+                "instructor": "Kerem Sanga",
+                "location": "SCA259"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "415A",
+        "course_name": "Advanced Writing",
+        "units": "(2.0 units)",
+        "description": "Principles of the feature film; creating theme, character and structure that combine into a feature-length story treatment.",
+        "sections": [
+            {
+                "section": "19159R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Lindsay Stidham",
+                "location": "SCA342"
+            },
+            {
+                "section": "19193R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "12 of 12",
+                "instructor": "Richard Whitley",
+                "location": "SCA363"
+            },
+            {
+                "section": "19427R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Richard Whitley",
+                "location": "SCA342"
+            },
+            {
+                "section": "19432R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "11 of 12",
+                "instructor": "Zach Cannon",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "415B",
+        "course_name": "Advanced Writing",
+        "units": "(4.0 units)",
+        "description": "Creation of script with extensive workshopping of scenes in class leading to a first draft and revision as a final assignment.",
+        "sections": [
+            {
+                "section": "19194R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "9 of 10",
+                "instructor": "Joshua Senter",
+                "location": "SCA258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "416",
+        "course_name": "Motion Picture Script Analysis",
+        "units": "(2.0 units)",
+        "description": "Critical analysis of story structure from classic films to contemporary works. Identification of key story concepts and elements of three-act structure. 2.0, not repeatable.",
+        "sections": [
+            {
+                "section": "19416R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "149 of 150",
+                "instructor": "Irving Belateche",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "417",
+        "course_name": "Script Coverage and Story Analysis",
+        "units": "(2.0 units)",
+        "description": "Evaluation of completed scripts prior to their production. Coverage and analysis of scripts as potential properties from the perspective of a production company.",
+        "sections": [
+            {
+                "section": "19195R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "29 of 30",
+                "instructor": "Beverly Neufeld",
+                "location": "SCA203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "418A",
+        "course_name": "Senior Thesis",
+        "units": "(4.0 units)",
+        "description": "a: Creation of feature-length treatment and first draft Senior Thesis screenplay, including \"pitching\" experiences. B: Completion and revision of Senior Thesis project and introduction to motion picture industry procedures and practices through interaction with industry representatives. Open to B.F.A. Writing for Screen and Television students only.",
+        "sections": [
+            {
+                "section": "19198D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "7 of 7",
+                "instructor": "Nicole Jefferson",
+                "location": "SCB304"
+            },
+            {
+                "section": "19199D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "6 of 7",
+                "instructor": "Donald Hewitt",
+                "location": "SCA245"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "419A",
+        "course_name": "Senior Thesis in Dramatic Television",
+        "units": "(4.0 units)",
+        "description": "Advanced workshop developing an original hour-long dramatic series including characters, world, and story lines for season one. Final assignment is completed hour-long pilot episode.",
+        "sections": [
+            {
+                "section": "19436D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "6 of 7",
+                "instructor": "Adam Weissman",
+                "location": "SCB304"
+            },
+            {
+                "section": "19440D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "7 of 7",
+                "instructor": "Bret Vandenbos,Brandon Willer",
+                "location": "SCA361"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "421",
+        "course_name": "Writing the Hour-Long Dramatic Series",
+        "units": "(2.0 units, max 4)",
+        "description": "Writing an episode of an existing dramatic television series within the hour-long format with an emphasis on conception, pitching, characterization and structure.",
+        "sections": [
+            {
+                "section": "19203D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Jill Goldsmith",
+                "location": "SCA362"
+            },
+            {
+                "section": "19206D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Alexa Alemanni",
+                "location": "SCB304"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "430",
+        "course_name": "Comedy Writers and Their Work",
+        "units": "(2.0 units, max 6)",
+        "description": "Detailed investigation of specific comedy writers, comedy genres, and the works they've influenced. Lectures include screenings and visiting screenwriters.",
+        "sections": [
+            {
+                "section": "19370R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "40 of 200",
+                "instructor": "Robert Ramsey",
+                "location": "SCA108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "431",
+        "course_name": "Screenwriters and Their Work",
+        "units": "(2.0 units, max 6)",
+        "description": "Detailed investigation of a specific screenwriter's style and the works they've influenced. Lectures include screenings and visiting screenwriters.",
+        "sections": [
+            {
+                "section": "19373R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "42 of 150",
+                "instructor": "Tyger Williams",
+                "location": "SCI106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "434",
+        "course_name": "Writing the Half-Hour Comedy Series",
+        "units": "(2.0 units, max 6)",
+        "description": "Writing an episode of an existing half-hour comedy series, with emphasis on the anatomy of a joke, comedic structure and character.",
+        "sections": [
+            {
+                "section": "19208R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 16,
+                "registered": "10 of 10",
+                "instructor": "Jeanie Bergen",
+                "location": "SCA362"
+            },
+            {
+                "section": "19409R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "10 of 10",
+                "instructor": "Maggie Bandur",
+                "location": "SCA363"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "437",
+        "course_name": "Writing the Original Situation Comedy Pilot",
+        "units": "(4.0 units, max 8)",
+        "description": "Advanced workshop for writing an original half-hour comedy series, including a pilot script, summary of characters, and story lines for first season.",
+        "sections": [
+            {
+                "section": "19353R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "5 of 10",
+                "instructor": "Amy Straus",
+                "location": "SCB207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "439",
+        "course_name": "Writing the Original Dramatic Series Pilot",
+        "units": "(4.0 units, max 8)",
+        "description": "An advanced workshop in which students create an original dramatic series, including a first script and a summary of characters and story lines. Prerequisite: CTWR-421 or CTWR-434.",
+        "sections": [
+            {
+                "section": "19351R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "8 of 10",
+                "instructor": "Aurorae Khoo",
+                "location": "SCA362"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "455",
+        "course_name": "Pitching for Film, Television and New Media",
+        "units": "(2.0 units)",
+        "description": "Emphasis of verbal storytelling and presentation skills in motion pictures, television and new media with concentration on story and character.",
+        "sections": [
+            {
+                "section": "19360R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "8 of 12",
+                "instructor": "Trey Callaway",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "489A",
+        "course_name": "Straight to Series: Writing and Producing the Episodic Drama",
+        "units": "(2.0-4.0 units)",
+        "description": "Staff writing and producing the original episodic drama, from development to post-production.",
+        "sections": [
+            {
+                "section": "19390D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "4 of 6",
+                "instructor": "",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Detailed investigation of new or emerging aspects of cinema and/or television; special subjects offered by visiting faculty; experimental subjects.",
+        "sections": [
+            {
+                "section": "19152D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "9 of 12",
+                "instructor": "Billy Kimball",
+                "location": "SCA258"
+            },
+            {
+                "section": "19359R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 8,
+                "registered": "21 of 48",
+                "instructor": "Irving Belateche",
+                "location": "SCA112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "502",
+        "course_name": "Graduate Writing Symposium",
+        "units": "(1.0 unit)",
+        "description": "A survey of the creative and professional range of the working screenwriter. Recommended preparation: CNTV 501.",
+        "sections": [
+            {
+                "section": "19386D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "32 of 32",
+                "instructor": "David Weber",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "505",
+        "course_name": "Creating the Short Film",
+        "units": "(2.0 units)",
+        "description": "Strengthening and deepening the ability to conceive and develop ideas that will lead to compelling, authentic, and personally meaningful films. Duplicates credit in CTWR 528.",
+        "sections": [
+            {
+                "section": "19280D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Anne Postman",
+                "location": "SCB104"
+            },
+            {
+                "section": "19281D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "11 of 12",
+                "instructor": "Rick Parks",
+                "location": "SCI207"
+            },
+            {
+                "section": "19282D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "Scott Murphy",
+                "location": "SCA214"
+            },
+            {
+                "section": "19283D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "Salvatore Stabile",
+                "location": "SCA363"
+            },
+            {
+                "section": "19284D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "Robert Naturman",
+                "location": "SCB101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "513",
+        "course_name": "Writing the Short Script",
+        "units": "(2.0 units)",
+        "description": "Preparation of scripts for short films; dramatic, informational, experimental, and other forms. Open to screenwriting (CNTV) and dramatic writing (THTR) majors only.",
+        "sections": [
+            {
+                "section": "19224D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "7 of 7",
+                "instructor": "Theodore Braun",
+                "location": "SCA362"
+            },
+            {
+                "section": "19225D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "6 of 7",
+                "instructor": "David Weber",
+                "location": "SCA361"
+            },
+            {
+                "section": "19226D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "7 of 7",
+                "instructor": "Janet Batchler",
+                "location": "SCA342"
+            },
+            {
+                "section": "19227D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "7 of 7",
+                "instructor": "Thomas Abrams",
+                "location": "SCA342"
+            },
+            {
+                "section": "19228D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 4,
+                "registered": "7 of 7",
+                "instructor": "David Howard",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "514A",
+        "course_name": "Basic Dramatic Screenwriting",
+        "units": "(2.0 units)",
+        "description": "Dramaturgy for the fiction and nonfiction work. Techniques for creating the original or adapted theatrical length script. a: Emphasizes narrative development, through short scripts, sequences, and story outlines. Open to screenwriting (CNTV) and dramatic writing (Theatre) majors only.",
+        "sections": [
+            {
+                "section": "19230D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "7 of 7",
+                "instructor": "Theodore Braun",
+                "location": "SCI209"
+            },
+            {
+                "section": "19231D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "6 of 7",
+                "instructor": "David Weber",
+                "location": "SCA363"
+            },
+            {
+                "section": "19232D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "7 of 7",
+                "instructor": "Janet Batchler",
+                "location": "SCA362"
+            },
+            {
+                "section": "19233D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "7 of 7",
+                "instructor": "Thomas Abrams",
+                "location": "SCB304"
+            },
+            {
+                "section": "19234D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 32,
+                "registered": "7 of 7",
+                "instructor": "David Howard",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "515A",
+        "course_name": "Practicum in Screenwriting",
+        "units": "(4.0 units)",
+        "description": "a: Creation of a feature screenplay from presentation through treatment, including some scene work.",
+        "sections": [
+            {
+                "section": "19237D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "7 of 7",
+                "instructor": "Scot Armstrong",
+                "location": "SCA345"
+            },
+            {
+                "section": "19238D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "7 of 7",
+                "instructor": "Howard Rodman",
+                "location": "SCA345"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "516",
+        "course_name": "Advanced Motion Picture Script Analysis",
+        "units": "(2.0 units)",
+        "description": "Critical analysis of the structure of films from the classics to current award winners. Students will learn how to identify key story concepts and break down three act structure in finished films and scripts.",
+        "sections": [
+            {
+                "section": "19442R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 32,
+                "registered": "66 of 75",
+                "instructor": "Sean Hood",
+                "location": "SCA112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "519A",
+        "course_name": "Thesis in Television Drama",
+        "units": "(4.0 units)",
+        "description": "Part A -- writing the pilot -- is an intensive workshop in which master's students develop an original television 1-hour series including characters, world and storylines for season one. Final assignment is the finished pilot episode of the series.",
+        "sections": [
+            {
+                "section": "19245D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 2,
+                "registered": "5 of 6",
+                "instructor": "Aaron Thomas",
+                "location": "SCA255"
+            },
+            {
+                "section": "19329D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "6 of 6",
+                "instructor": "Maria Jacquemetton",
+                "location": "SCA361"
+            },
+            {
+                "section": "19437D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "6 of 6",
+                "instructor": "Alexa Alemanni",
+                "location": "SCA361"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "521",
+        "course_name": "Advanced Hour-Long Television Drama",
+        "units": "(2.0 units, max 4)",
+        "description": "Writing the first draft and revision of an episode of an existing dramatic television series. Corequisite: CTWR 514a. Open only to master students in Theatre (Dramatic Writing) and in Writing for Screen and Television.",
+        "sections": [
+            {
+                "section": "19249D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "6 of 6",
+                "instructor": "Nicole Jefferson",
+                "location": "SCA363"
+            },
+            {
+                "section": "19251D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "5 of 6",
+                "instructor": "Joe Peracchio",
+                "location": "SCA345"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "523",
+        "course_name": "Introduction to the Screenplay",
+        "units": "(4.0 units)",
+        "description": "Introduction to formal elements of the screenplay through lectures and the workshopping of a complete first draft of a feature-length script. Prerequisite: CTAN 536 or CTWR 505 or CTWR 518. Recommended preparation: CTWR 516.",
+        "sections": [
+            {
+                "section": "19239R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "8 of 10",
+                "instructor": "David Weber",
+                "location": "SCB304"
+            },
+            {
+                "section": "19341R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "9 of 10",
+                "instructor": "Siavash Farahani",
+                "location": "SCA363"
+            },
+            {
+                "section": "19343R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "10 of 10",
+                "instructor": "Aaron Carew",
+                "location": "SCA362"
+            },
+            {
+                "section": "19344R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 16,
+                "registered": "10 of 10",
+                "instructor": "Ian Jeffers",
+                "location": "SCA362"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "526",
+        "course_name": "Advanced Storytelling for Interactive Media",
+        "units": "(2.0 units)",
+        "description": "Advanced writing workshop addressing issues specific to interactive storytelling regarding construction of narrative and character as seen in games and other forms of interactive media. Prerequisite: CTWR 518.",
+        "sections": [
+            {
+                "section": "19356R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Marianne Krawczyk",
+                "location": "SCI209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "529",
+        "course_name": "Intermediate Screenwriting",
+        "units": "(2.0 units)",
+        "description": "Emphasizes structural elements crucial to the feature film. Techniques for creating an original or adapted theatrical-length script.",
+        "sections": [
+            {
+                "section": "19256R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "9 of 12",
+                "instructor": "Kerem Sanga",
+                "location": "SCA216"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "533",
+        "course_name": "Rewriting the Feature Screenplay",
+        "units": "(4.0 units, max 8)",
+        "description": "Rewriting the feature-length screenplay. Focus on macro to micro approach to revision.",
+        "sections": [
+            {
+                "section": "19382R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 2,
+                "registered": "8 of 8",
+                "instructor": "Joseph Wheeler",
+                "location": "SCA363"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "534",
+        "course_name": "Advanced Half-Hour Television Comedy",
+        "units": "(2.0 units, max 4)",
+        "description": "Advanced workshop in writing the first draft and revision of an episode of an existing comedic television series. The comedy writing room will be emphasized. Corerequisite: CTWR 514a. Open only to master students in Theatre (Dramatic Writing) and Writing for Screen and Television.",
+        "sections": [
+            {
+                "section": "19252D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "7 of 7",
+                "instructor": "Aurorae Khoo",
+                "location": "SCA345"
+            },
+            {
+                "section": "19253D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "7 of 7",
+                "instructor": "Michael Gibbons",
+                "location": "SCA361"
+            },
+            {
+                "section": "19258D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "7 of 7",
+                "instructor": "F.J. Pratt",
+                "location": "SCA362"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "543",
+        "course_name": "The Character-Driven Screenplay",
+        "units": "(4.0 units)",
+        "description": "Advanced screenwriting wherein a first draft of a feature-length script will be developed and written with an emphasis on character as story engine.",
+        "sections": [
+            {
+                "section": "19289R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 4,
+                "registered": "8 of 8",
+                "instructor": "David Hollander",
+                "location": "SCA255"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "553",
+        "course_name": "Advanced Rewriting Workshop",
+        "units": "(4.0 units, max 8)",
+        "description": "Advanced feature screenwriting, emphasizing the rewrite of a first draft script.",
+        "sections": [
+            {
+                "section": "19183R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 8,
+                "registered": "5 of 8",
+                "instructor": "Paul Foley",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "555",
+        "course_name": "Pitching for Film and Television",
+        "units": "(2.0 units)",
+        "description": "Development and pitching of ideas for motion pictures, episodic and television pilots. Reducing ideas to basic components enhancing verbal presentation skills.",
+        "sections": [
+            {
+                "section": "19271R",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 8,
+                "registered": "6 of 12",
+                "instructor": "Rick Parks",
+                "location": "SCA342"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "559",
+        "course_name": "The Business of Writing for Screen and Television",
+        "units": "(2.0 units)",
+        "description": "Examination and in-depth analysis of the studio system, the television development process, literary representation, new emerging markets, and the Writers Guild of America.",
+        "sections": [
+            {
+                "section": "19322D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "31 of 32",
+                "instructor": "Kristen Davis,",
+                "location": "SCA255"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "572",
+        "course_name": "Practicum in Directing Actors for Film",
+        "units": "(2.0-4.0 units)",
+        "description": "Seminar in directing actors for film; emphasis on demonstration and laboratory exercises, script analysis, and study and character motivations.",
+        "sections": [
+            {
+                "section": "19421D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Wendy Phillips",
+                "location": "RZCSTGA"
+            },
+            {
+                "section": "19424D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Wendy Phillips",
+                "location": "SCA214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CTWR",
+        "course_num": "585",
+        "course_name": "Advanced Genre Writing",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Development and execution of writing in various genres of film, television, or new media scripts. Prerequisite: CTWR 514b.",
+        "sections": [
+            {
+                "section": "19361D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "8 of 8 (3 on waitlist)",
+                "instructor": "Sean Hood",
+                "location": "SCA245"
+            },
+            {
+                "section": "19372D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 2,
+                "registered": "8 of 8 (4 on waitlist)",
+                "instructor": "Janet Batchler",
+                "location": "SCA342"
+            }
+        ]
+    }
+]

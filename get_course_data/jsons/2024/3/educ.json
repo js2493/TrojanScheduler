@@ -1,0 +1,3615 @@
+[
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "392",
+        "course_name": "Undergraduate Research Methods",
+        "units": "(2.0 units)",
+        "description": "Examination of processes of scholarly research; quantitative and qualitative research methods; faculty mentorship; experiential learning; research proposal writing; careers in research. Sophomore or junior standing in the major. Departmental approval.",
+        "sections": [
+            {
+                "section": "10433D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "5 of 12",
+                "instructor": "George Sanchez",
+                "location": "KAP134"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "423",
+        "course_name": "Unrealized Promise and Hope for Education in 21st Century",
+        "units": "(4.0 units)",
+        "description": "Investigates the promise of education and often-failed outcomes though the lens of literacy/language. Focuses on literacy to promote student agency for successful educational attainment.",
+        "sections": [
+            {
+                "section": "27308D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "8 of 20",
+                "instructor": "Angela Hasan",
+                "location": "SOSB49"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "427",
+        "course_name": "Vectors that Influence Early Childhood Development",
+        "units": "(4.0 units)",
+        "description": "Investigating early childhood issues from professional perspectives: historian, journalist, premedical, and law.",
+        "sections": [
+            {
+                "section": "27310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "16 of 20",
+                "instructor": "Kathleen Apps",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "500",
+        "course_name": "The Counseling Process",
+        "units": "(3.0 units)",
+        "description": "Theoretical foundations, models, values, and assumptions underlying psychological counseling; cross-cultural perspectives, ethical and legal considerations.",
+        "sections": [
+            {
+                "section": "27041D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "12 of 14",
+                "instructor": "Ann Marie Nunag",
+                "location": "WPH104"
+            },
+            {
+                "section": "27089D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Bibinaz Pirayesh",
+                "location": "THH115"
+            },
+            {
+                "section": "27092D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "11 of 12",
+                "instructor": "Gregoire Francois",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27093D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Andrae Brown",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27111D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Kevin Meza",
+                "location": "WPHB30"
+            },
+            {
+                "section": "27121D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "11 of 14",
+                "instructor": "Desiree Zuniga",
+                "location": "SOSB45"
+            },
+            {
+                "section": "27157D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "Marybeth Heather",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "503",
+        "course_name": "Principles of Learning and Motivation for Design",
+        "units": "(3.0 units)",
+        "description": "Design and advancement of learning and motivation outcomes in various environments through a systematic examination and application of current research.",
+        "sections": [
+            {
+                "section": "27061D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "18 of 25",
+                "instructor": "Heather Davis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "508",
+        "course_name": "Interrogating Systems of Inequity in Professional Practice",
+        "units": "(2.0 units)",
+        "description": "Framing the graduate experience for master's students. Examining self and field of professional practice in the context of achieving equity.",
+        "sections": [
+            {
+                "section": "27028D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "13 of 14",
+                "instructor": "Jamie Remmers",
+                "location": "WPH107"
+            },
+            {
+                "section": "27031D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "12 of 14",
+                "instructor": "Eliza Hoyos vences",
+                "location": "WPHB26"
+            },
+            {
+                "section": "27040D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "12 of 14",
+                "instructor": "Mark Pearson",
+                "location": "WPH205"
+            },
+            {
+                "section": "27060D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 4,
+                "registered": "20 of 25",
+                "instructor": "Caitlin Boline",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27077D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "Lucy Rinard",
+                "location": "WPH106"
+            },
+            {
+                "section": "27189D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 16,
+                "registered": "21 of 21",
+                "instructor": "Kanika Middleton",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27199D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 16,
+                "registered": "14 of 21",
+                "instructor": "Sherika Miller",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "511",
+        "course_name": "Introduction to Counseling",
+        "units": "(3.0 units)",
+        "description": "The role of the school counselor. An overview of key elements in increasing access to and equity for primary and secondary education for all students.",
+        "sections": [
+            {
+                "section": "27094D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "21 of 21",
+                "instructor": "Paul Harris",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27095D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "15 of 21",
+                "instructor": "Amy Yillik",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "520",
+        "course_name": "Career and College Readiness Counseling",
+        "units": "(3.0 units)",
+        "description": "Theoretical foundations of individual and systemic characteristics that impact college and career choices. Consideration of economic, political, social and policy issues.",
+        "sections": [
+            {
+                "section": "27137D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "A'tasha Christian",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27138D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "21 of 20",
+                "instructor": "Narineh Makijan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27176D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "18 of 19",
+                "instructor": "Christina Green",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "522",
+        "course_name": "Accountability for Organizational Change",
+        "units": "(3.0 units)",
+        "description": "Accountability through an organizational change and leadership perspective.",
+        "sections": [
+            {
+                "section": "27500D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 64,
+                "registered": "14 of 19",
+                "instructor": "Erika Page",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27501D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "21 of 21",
+                "instructor": "Michael ONeill",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27502D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "19 of 19",
+                "instructor": "Susanne Foulk",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "523",
+        "course_name": "Equity and Inclusion in Organizational Contexts",
+        "units": "(3.0 units)",
+        "description": "Diversity issues in urban educational settings. Open only to EdD students.",
+        "sections": [
+            {
+                "section": "27481D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "21 of 22",
+                "instructor": "Patricia Tobey",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "524",
+        "course_name": "Challenges in Urban Education: Leadership",
+        "units": "(3.0 units)",
+        "description": "Theories, principles, and concepts of leadership in urban K-12 schools and institutions of higher education. Open only to Ed.D. students.",
+        "sections": [
+            {
+                "section": "27491D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "21 of 22",
+                "instructor": "Rudolph Crew",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "532",
+        "course_name": "Inquiry Methods I",
+        "units": "(3.0 units)",
+        "description": "Logic and methods of quantitative data analysis in the examination of educational issues and the framing of solutions for them. Open only to Ed.D. students.",
+        "sections": [
+            {
+                "section": "27520D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 570,
+                "days": 64,
+                "registered": "19 of 19",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27521D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "Ekaterina Moore",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27522D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "15 of 19",
+                "instructor": "Ekaterina Moore",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "536",
+        "course_name": "Inquiry Methods II",
+        "units": "(3.0 units)",
+        "description": "Logic and methods of qualitative data analysis in the examination of educational issues and the framing of solutions for them. Open only to EdD students.",
+        "sections": [
+            {
+                "section": "27540D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 570,
+                "days": 64,
+                "registered": "13 of 14",
+                "instructor": "Patricia Burch",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27541D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Esther Kim",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "540",
+        "course_name": "Collaboration, Consultation and Assessment in Counseling",
+        "units": "(3.0 units)",
+        "description": "Understand educational and psychological instruments, psychometric concepts and rationale for the use of instruments in the school counseling setting.",
+        "sections": [
+            {
+                "section": "27116D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 16,
+                "registered": "20 of 21",
+                "instructor": "Letea Perry",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27179D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "Sherritta Hughes",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27183D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 660,
+                "days": 4,
+                "registered": "17 of 20",
+                "instructor": "Wanda Quezada",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "542",
+        "course_name": "Substance Abuse Counseling",
+        "units": "(3.0 units)",
+        "description": "Focus on theoretical models of substance abuse counseling and understanding the role of assessment, treatment, medical and psychological complications, family and recovery.",
+        "sections": [
+            {
+                "section": "27186D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "11 of 25",
+                "instructor": "Onaje Salim",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "543",
+        "course_name": "Family Counseling",
+        "units": "(3.0 units)",
+        "description": "Master family counseling approaches, systemic models of K-12 family functioning and therapeutic interventions to work with families of diverse backgrounds.",
+        "sections": [
+            {
+                "section": "27167D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "11 of 25",
+                "instructor": "Rufus Spann",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "546",
+        "course_name": "Psychopathology for Marriage and Family Therapy",
+        "units": "(3.0 units)",
+        "description": "Theories of psychological impairment emphasizing diagnosis of child and family dysfunction. Practice in utilizing DSM-IV classification of case studies.",
+        "sections": [
+            {
+                "section": "27002D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Lacy Olson-Ayala",
+                "location": "WPH206"
+            },
+            {
+                "section": "27003D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Rachel Fried",
+                "location": "DMC106"
+            },
+            {
+                "section": "27172D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Rudy Roman",
+                "location": "SOSB49"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "550",
+        "course_name": "Applied Linguistics for Language Teachers",
+        "units": "(4.0 units)",
+        "description": "Supports candidates in becoming reflective practitioners who approach language teaching with the knowledge of language structures and processes of language acquisition and learning.",
+        "sections": [
+            {
+                "section": "27722D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1260,
+                "days": 2,
+                "registered": "3 of 17",
+                "instructor": "",
+                "location": "WPH207"
+            },
+            {
+                "section": "27723D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1110,
+                "days": 2,
+                "registered": "18 of 17",
+                "instructor": "",
+                "location": "WPH103"
+            },
+            {
+                "section": "27941D",
+                "session": "329",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "6 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "570",
+        "course_name": "Research Methods and Data Analysis",
+        "units": "(3.0 units)",
+        "description": "Various research designs and their appropriateness for addressing different research questions. Threats to validity and other challenges in research. Basic statistical methods and their use. Recommended preparation: beginning statistics course.",
+        "sections": [
+            {
+                "section": "27004D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "23 of 23",
+                "instructor": "Ruth Chung",
+                "location": "SOSB49"
+            },
+            {
+                "section": "27005D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "23 of 23",
+                "instructor": "Dylan Worcester",
+                "location": "WPH203"
+            },
+            {
+                "section": "27126D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "16 of 22",
+                "instructor": "Sherika Miller",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27127D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 4,
+                "registered": "22 of 22",
+                "instructor": "Jerome Rucker",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27192D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "18 of 21",
+                "instructor": "Ruth Chung",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "571",
+        "course_name": "Language Teaching: Planning, Instruction, and Assessment",
+        "units": "(4.0 units)",
+        "description": "Creating and facilitating inclusive language learning activities grounded in the latest technology. Emphasizing equitable instruction, targeted feedback and reflective practice for continuous teaching environment.",
+        "sections": [
+            {
+                "section": "27726D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 690,
+                "days": 32,
+                "registered": "5 of 17",
+                "instructor": "",
+                "location": "WPHB26"
+            },
+            {
+                "section": "27727D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 705,
+                "end_time": 855,
+                "days": 32,
+                "registered": "16 of 17",
+                "instructor": "",
+                "location": "WPHB26"
+            },
+            {
+                "section": "27942D",
+                "session": "329",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "5 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "583",
+        "course_name": "Counseling through the Lifespan",
+        "units": "(3.0 units)",
+        "description": "Developmental issues and life events from infancy to old age and their effect upon individuals, couples, and family relationships.",
+        "sections": [
+            {
+                "section": "27006D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 2,
+                "registered": "17 of 17",
+                "instructor": "Lacy Olson-Ayala",
+                "location": "WPH203"
+            },
+            {
+                "section": "27007D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 2,
+                "registered": "17 of 17",
+                "instructor": "Molly Burrets",
+                "location": "WPH101"
+            },
+            {
+                "section": "27103D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "16 of 17",
+                "instructor": "Maria Hu",
+                "location": "WPH106"
+            },
+            {
+                "section": "27190D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "15 of 16",
+                "instructor": "Noel Brown",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "586",
+        "course_name": "Designing Learning Environments",
+        "units": "(3.0 units)",
+        "description": "Design of learning environments through application of design principles; project-based practice in aligning instructional design, media selection, and the features of learning spaces.",
+        "sections": [
+            {
+                "section": "27065D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "18 of 25",
+                "instructor": "Alison Muraszewski",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "587",
+        "course_name": "Master's Studio A",
+        "units": "(2.0 units)",
+        "description": "Students propose and design a capstone project that applies knowledge and skills learned throughout the program and prepare a coursework portfolio.",
+        "sections": [
+            {
+                "section": "27069D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1110,
+                "days": 2,
+                "registered": "15 of 25",
+                "instructor": "Corinne Hyde",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "27946D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 2",
+                "instructor": "Robert Filback",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "596",
+        "course_name": "Transformative Advocacy in Language Education",
+        "units": "(4.0 units)",
+        "description": "Students will identify critical issues in language learning, conducting action research, and developing community support plans for collaborative advocacy with stakeholders to drive transformative change.",
+        "sections": [
+            {
+                "section": "27720D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1050,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "27721D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1050,
+                "days": 2,
+                "registered": "13 of 16",
+                "instructor": "",
+                "location": "DMC204"
+            },
+            {
+                "section": "27940D",
+                "session": "329",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "8 of 25",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-4.0 units, max 9)",
+        "description": "Selected topics in various areas of education.",
+        "sections": [
+            {
+                "section": "27552D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 64,
+                "registered": "12 of 14",
+                "instructor": "Katherine Bihr",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27553D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Monique Datta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "603",
+        "course_name": "Framing Organizational Change and Leadership",
+        "units": "(4.0 units)",
+        "description": "Students identify and research problems of practice particularly pertinent in urban learning. The presentation of problems of practice requires the use of sound evidence-based research.",
+        "sections": [
+            {
+                "section": "27460D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 570,
+                "days": 64,
+                "registered": "15 of 25",
+                "instructor": "Alma Zaragoza-Petty",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27461D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "22 of 25",
+                "instructor": "Briana Hinga",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "608",
+        "course_name": "School Connectedness, Climate, and Classroom Management",
+        "units": "(2.0 units)",
+        "description": "Prevention, education, and training for achievement. Data collection for assessment and evaluation of school climate, crisis and classroom management conducive to learning and success.",
+        "sections": [
+            {
+                "section": "27181D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "11 of 25",
+                "instructor": "Eunice Humphrey",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "609",
+        "course_name": "Academic Advising in Postsecondary Education",
+        "units": "(3.0 units)",
+        "description": "Contemporary issues in academic advising in postsecondary education. Examines and analyzes relevant theories, policies, and practices related to academic advising.",
+        "sections": [
+            {
+                "section": "27038D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Viannda Hawkins",
+                "location": "WPH106"
+            },
+            {
+                "section": "27043D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "17 of 17",
+                "instructor": "Cynthia Mosqueda",
+                "location": "WPH206"
+            },
+            {
+                "section": "27062D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "11 of 16",
+                "instructor": "Melissa Barrios",
+                "location": "WPH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "612",
+        "course_name": "Application of Human Development Theory in School Counseling",
+        "units": "(3.0 units)",
+        "description": "A theoretical perspective of human development across the lifespan. Issues and challenges faced by school counselors.",
+        "sections": [
+            {
+                "section": "27102D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "19 of 25",
+                "instructor": "Evelyn Iraheta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "617",
+        "course_name": "The Student Athlete in Higher Education",
+        "units": "(3.0 units)",
+        "description": "Examination of student athletes in higher education. Effective strategies for counseling and advising college student athletes; issues and challenges of athletic amateurism.",
+        "sections": [
+            {
+                "section": "26895D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 16,
+                "registered": "0 of 22",
+                "instructor": "Cory Buckner",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27034D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "10 of 23",
+                "instructor": "Cory Buckner",
+                "location": "WPH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "620",
+        "course_name": "Fundamentals of Creativity, Innovation, and Entrepreneurship",
+        "units": "(2.0 units)",
+        "description": "The genesis and facilitation of creative ideas in educational practice. The transformation of creativity into innovation and entrepreneurship.",
+        "sections": [
+            {
+                "section": "27470D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 64,
+                "registered": "17 of 25",
+                "instructor": "Douglas Lynch",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27471D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "20 of 25",
+                "instructor": "Anthony Maddox",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "624",
+        "course_name": "Educational Organizations: Governance and Finance I",
+        "units": "(2.0 units)",
+        "description": "Overview of economic concepts of education. Linkages between economic growth, development, and education. Impact of globalization.",
+        "sections": [
+            {
+                "section": "26606D",
+                "session": "079",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 25",
+                "instructor": "Lawrence Picus,Shanta Smith",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "627",
+        "course_name": "Education Performance Problems: Role of Learning",
+        "units": "(3.0 units)",
+        "description": "Contemporary perspectives on learning and motivation. Strategies and tools for identifying, diagnosing, and solving learning and motivational challenges and opportunities.",
+        "sections": [
+            {
+                "section": "27511D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 20",
+                "instructor": "Alison Muraszewski",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27510D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 570,
+                "days": 64,
+                "registered": "21 of 21",
+                "instructor": "Carey Regur",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "628",
+        "course_name": "Educational Organizations: Governance and Finance II",
+        "units": "(2.0 units)",
+        "description": "Diversification and differentiation of educational institutions globally. The finances of higher education. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "26605D",
+                "session": "079",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 25",
+                "instructor": "Tracy Tambascia",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "636",
+        "course_name": "Perspectives on Human Sexuality",
+        "units": "(3.0 units)",
+        "description": "The physiological-psychological and socio-cultural variables associated with sexual identity and sexual behavior with an emphasis upon sexual dysfunctions.",
+        "sections": [
+            {
+                "section": "27008D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Linda Hoffman",
+                "location": "SOSB45"
+            },
+            {
+                "section": "27009D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "17 of 17",
+                "instructor": "Theodore Burnes",
+                "location": "WPH106"
+            },
+            {
+                "section": "27025D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Theodore Burnes",
+                "location": "WPH106"
+            },
+            {
+                "section": "27090D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "14 of 16",
+                "instructor": "Mimi Hoang",
+                "location": "WPH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "637",
+        "course_name": "Group Counseling: Theory and Process",
+        "units": "(3.0 units)",
+        "description": "Theory, research, and practice of group counseling. Includes laboratory experience.",
+        "sections": [
+            {
+                "section": "27010D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "11 of 13",
+                "instructor": "Marcos Briano",
+                "location": "WPH203"
+            },
+            {
+                "section": "27011D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "13 of 11",
+                "instructor": "Raven Barrow",
+                "location": "WPH202"
+            },
+            {
+                "section": "27017D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "12 of 10",
+                "instructor": "Edden Agonafer",
+                "location": "WPH201"
+            },
+            {
+                "section": "27024D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "13 of 13",
+                "instructor": "Diana Jochai",
+                "location": "WPH103"
+            },
+            {
+                "section": "27076D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "12 of 10",
+                "instructor": "Kelly Greco",
+                "location": "WPH106"
+            },
+            {
+                "section": "27113D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "10 of 12",
+                "instructor": "Wanda Quezada",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27114D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "Don Trahan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27115D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Rufus Spann",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "638",
+        "course_name": "Multicultural Counseling: Research and Practice",
+        "units": "(3.0 units)",
+        "description": "An examination of the cultural, socioeconomic, and language factors that impact historically marginalized populations; alternative multicultural counseling approaches.",
+        "sections": [
+            {
+                "section": "27050D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Nicole Presley",
+                "location": "WPH103"
+            },
+            {
+                "section": "27106D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Nancy Robles",
+                "location": "WPH107"
+            },
+            {
+                "section": "27128D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Don Trahan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27129D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "17 of 20",
+                "instructor": "Don Trahan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27155D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Maria Hu",
+                "location": "WPH103"
+            },
+            {
+                "section": "27156D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "Eva Estrada",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "644",
+        "course_name": "Practicum I",
+        "units": "(2.0 units, max 6)",
+        "description": "Supervised clinical work with clients, including adults, couples, children, and families.",
+        "sections": [
+            {
+                "section": "27018D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "645A",
+        "course_name": "Practicum II",
+        "units": "(3.0 units)",
+        "description": "Supervised practicum experience in a clinical setting.",
+        "sections": [
+            {
+                "section": "27012D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Theodore Burnes",
+                "location": "THH112"
+            },
+            {
+                "section": "27013D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "11 of 12",
+                "instructor": "Rudy Roman",
+                "location": "WPH201"
+            },
+            {
+                "section": "27014D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Edden Agonafer",
+                "location": "WPH206"
+            },
+            {
+                "section": "27015D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "9 of 10",
+                "instructor": "Ilene Rosenstein",
+                "location": "WPH202"
+            },
+            {
+                "section": "27016D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "8 of 10",
+                "instructor": "Deborah Schleicher",
+                "location": "DMC104"
+            },
+            {
+                "section": "27087D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "7 of 10",
+                "instructor": "Sandra Smith",
+                "location": "DMC204"
+            },
+            {
+                "section": "27177D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Michelle Dexter",
+                "location": "DMC111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "649",
+        "course_name": "Teaching Practice to Support Language Learners",
+        "units": "(4.0 units)",
+        "description": "Introduces components of effective teaching, including lesson and unit planning, creating a classroom environment conducive to learning, and classroom management strategies.",
+        "sections": [
+            {
+                "section": "27730D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 750,
+                "days": 32,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "DMC107"
+            },
+            {
+                "section": "27731D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 765,
+                "end_time": 915,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "WPH201"
+            },
+            {
+                "section": "27943D",
+                "session": "329",
+                "type": "Lecture",
+                "start_time": 990,
+                "end_time": 1140,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "652",
+        "course_name": "Inquiry Methods III",
+        "units": "(3.0 units)",
+        "description": "Logic and methods of qualitative data analysis in the examination of educational issues and the framing of solutions for them.",
+        "sections": [
+            {
+                "section": "27560D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 4,
+                "registered": "7 of 19",
+                "instructor": "Ayesha Madni",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27561D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "18 of 19",
+                "instructor": "Nicole Maccalla",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27562D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "Patricia Tobey",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27563D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 64,
+                "registered": "19 of 19",
+                "instructor": "Esther Kim",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27564D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "Jessica DeCuir-Gunby",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "660A",
+        "course_name": "Clinical Practice Seminar in Language Teaching",
+        "units": "(2.0 units)",
+        "description": "First of two-course series focused on helping students translate theory to practice. Designed for students completing fieldwork required for the teaching credential.",
+        "sections": [
+            {
+                "section": "27944D",
+                "session": "329",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "1 of 8",
+                "instructor": "Liyan Wang",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27945D",
+                "session": "334",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "2 of 8",
+                "instructor": "Liyan Wang",
+                "location": "HAR102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "661",
+        "course_name": "Equity in College and Career Access",
+        "units": "(3.0 units)",
+        "description": "Focus on College and Career Readiness using an equity lens with a foundation in the relevant theories, conceptual frameworks and issues.",
+        "sections": [
+            {
+                "section": "27064D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Atheneus Ocampo",
+                "location": "WPH101"
+            },
+            {
+                "section": "27080D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Kortney Hernandez",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "663",
+        "course_name": "Race and Racism in Education",
+        "units": "(3.0 units)",
+        "description": "Race, racism, racial equity, Critical Race Theory (CRT) will be explored particularly within educational institutions, with a heavy focus placed on practice.",
+        "sections": [
+            {
+                "section": "26769D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 2,
+                "registered": "17 of 23",
+                "instructor": "Tr'Vel Lyons",
+                "location": "WPHB26"
+            },
+            {
+                "section": "26899D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "4 of 22",
+                "instructor": "Mabel Hernandez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "665",
+        "course_name": "Foundations and Design of Educational Research",
+        "units": "(4.0 units)",
+        "description": "Build knowledge, skills and perspective to design and carry out scholarship as an educational researcher.",
+        "sections": [
+            {
+                "section": "26657D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 780,
+                "days": 2,
+                "registered": "13 of 15",
+                "instructor": "Dwuana Bradley",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "668",
+        "course_name": "Mixed Methods Research",
+        "units": "(3.0 units)",
+        "description": "Explore theoretical and practical issues surrounding quantitative and qualitative methods in educational research.",
+        "sections": [
+            {
+                "section": "27372D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 990,
+                "days": 2,
+                "registered": "5 of 15",
+                "instructor": "Jessica DeCuir-Gunby",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "673",
+        "course_name": "Applications of Curriculum and Pedagogy, Part A",
+        "units": "(4.0 units)",
+        "description": "Candidates apply content-area knowledge utilizing a repertoire of pedagogical practices responsive to the needs and interests of diverse learners.",
+        "sections": [
+            {
+                "section": "27700D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "9 of 9",
+                "instructor": "Nasser Cortez",
+                "location": "WPH200"
+            },
+            {
+                "section": "27701D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "8 of 9",
+                "instructor": "Mary Hillier",
+                "location": "WPH204"
+            },
+            {
+                "section": "27702D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "7 of 9",
+                "instructor": "Angela Hasan",
+                "location": "WPH1000"
+            },
+            {
+                "section": "27703D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "5 of 9",
+                "instructor": "Frederick Freking",
+                "location": "WPH902"
+            },
+            {
+                "section": "27704D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "8 of 6",
+                "instructor": "Akilah Lyons-Moore",
+                "location": "DMC103"
+            },
+            {
+                "section": "27705D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "3 of 6",
+                "instructor": "Akilah Lyons-Moore",
+                "location": "WPH700"
+            },
+            {
+                "section": "27706D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "9 of 9",
+                "instructor": "Shanta Smith",
+                "location": "SOSB51"
+            },
+            {
+                "section": "27707D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "6 of 9",
+                "instructor": "Jared Dupree",
+                "location": "WPH900"
+            },
+            {
+                "section": "27708D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "9 of 9",
+                "instructor": "Jared Dupree",
+                "location": "DMC204"
+            },
+            {
+                "section": "27709D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "9 of 9",
+                "instructor": "Sara-Jean Lipmen",
+                "location": "THH203"
+            },
+            {
+                "section": "27710D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "8 of 9",
+                "instructor": "Shanta Smith",
+                "location": "WPH704"
+            },
+            {
+                "section": "27911D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "6 of 9",
+                "instructor": "Paula Carbone",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27912D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "9 of 9",
+                "instructor": "Paula Carbone",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27913D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "5 of 9",
+                "instructor": "Angela Hasan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27914D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "3 of 9",
+                "instructor": "Frederick Freking",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27915D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "5 of 6",
+                "instructor": "Akilah Lyons-Moore",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27916D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "6 of 6",
+                "instructor": "Hanns Botz",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27917D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "8 of 8",
+                "instructor": "Guillermo Munoz",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27918D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "5 of 8",
+                "instructor": "Cassandra Grady",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27919D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "8 of 8",
+                "instructor": "Cassandra Grady",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27920D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "8 of 8",
+                "instructor": "Guillermo Munoz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "674",
+        "course_name": "Identifying and Teaching to Student Differences",
+        "units": "(3.0 units)",
+        "description": "Building on EDUC 671, course proceeds with greater focus on learner behavior, ability, and language to access strategies to differentiate, scaffold, and assess learning.",
+        "sections": [
+            {
+                "section": "27711D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "22 of 22",
+                "instructor": "Sue Jin Kim",
+                "location": "DMC209"
+            },
+            {
+                "section": "27712D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "20 of 22",
+                "instructor": "Richard Pedroza",
+                "location": "SOSB37"
+            },
+            {
+                "section": "27713D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "22 of 22",
+                "instructor": "Lavon Flowers",
+                "location": "THH217"
+            },
+            {
+                "section": "27714D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "17 of 22",
+                "instructor": "Shayna Markwongnark",
+                "location": "SOSB52"
+            },
+            {
+                "section": "27921D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Stephanie Dewing",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27922D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "21 of 22",
+                "instructor": "Sarah Katherine Schmaltz",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27923D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 8,
+                "registered": "20 of 22",
+                "instructor": "Amy Marcoullier",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "675",
+        "course_name": "Literacy Development and Instruction in Elementary Education",
+        "units": "(3.0 units)",
+        "description": "Literacy development and instruction, with a focus on the importance of literacy for academic success and civic participation.",
+        "sections": [
+            {
+                "section": "27715D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "22 of 22",
+                "instructor": "Kimberly Saguilan",
+                "location": "DMC161"
+            },
+            {
+                "section": "27716D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "19 of 23",
+                "instructor": "Debra Bogle",
+                "location": "DMC155"
+            },
+            {
+                "section": "27924D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "Rhoda Coleman",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27925D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "14 of 15",
+                "instructor": "Kristen Mc Gregor",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "676",
+        "course_name": "Literacy Development and Instruction in Secondary Education",
+        "units": "(3.0 units)",
+        "description": "Prepares prospective secondary teachers to integrate literacy instruction within their content area by creating authentic opportunities for learners to develop literacy skills.",
+        "sections": [
+            {
+                "section": "27717D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "21 of 21",
+                "instructor": "Nasser Cortez",
+                "location": "THH217"
+            },
+            {
+                "section": "27718D",
+                "session": "384",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "19 of 22",
+                "instructor": "Mary Hillier",
+                "location": "THH215"
+            },
+            {
+                "section": "27926D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "18 of 18",
+                "instructor": "Stephanie Dewing",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27927D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "16 of 18",
+                "instructor": "Soomin Chao",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "677",
+        "course_name": "Applications of Curriculum and Pedagogy, Part B",
+        "units": "(4.0 units, max 8)",
+        "description": "Building on EDUC 673, prepares candidates to apply curricular principles to lesson development and determine how content should be delivered to maximize learning.",
+        "sections": [
+            {
+                "section": "27928D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "6 of 9",
+                "instructor": "Paula Carbone",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27929D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "3 of 9",
+                "instructor": "Angela Hasan",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27930D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "2 of 9",
+                "instructor": "Anthony Maddox",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27931D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "4 of 9",
+                "instructor": "Rodrick Jenkins",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27932D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 16,
+                "registered": "6 of 9",
+                "instructor": "Stephanie Dewing",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27933D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "9 of 9",
+                "instructor": "Nasser Cortez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "678",
+        "course_name": "Applying Knowledge and Strategies for Teaching All Students",
+        "units": "(2.0 units)",
+        "description": "Building on EDUC 673, prepares candidates to apply curricular principals to lesson development and determine how content should be delivered to maximize learning.",
+        "sections": [
+            {
+                "section": "27934D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 2,
+                "registered": "12 of 20",
+                "instructor": "Kammie Hayashibara",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27935D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "18 of 20",
+                "instructor": "Sarah Katherine Schmaltz",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "679",
+        "course_name": "Blended Learning Experiences for Students in Urban Schools",
+        "units": "(2.0 units)",
+        "description": "Design, implement and evaluate technology-rich learning environments to customize and individualize learning opportunities and assessments for K-12 students.",
+        "sections": [
+            {
+                "section": "27936D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Corinne Hyde,Sarah Katherine Schmaltz",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27937D",
+                "session": "346",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Anthony Maddox",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "681",
+        "course_name": "Research, Policy and Practice in Urban Education",
+        "units": "(4.0 units)",
+        "description": "Development of urban education through the social, historical and political lens as it shapes and influences education research and policy.",
+        "sections": [
+            {
+                "section": "26659D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 930,
+                "days": 8,
+                "registered": "13 of 20",
+                "instructor": "Darnell Cole",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "682",
+        "course_name": "Introduction to Quantitative Research Methods in Education",
+        "units": "(3.0 units)",
+        "description": "Basic concepts of quantitative/statistical methods common in education research, emphasizing applications with data. Introduces sampling, types of validity, statistical inference, bivariate analysis, internal/external validity.",
+        "sections": [
+            {
+                "section": "26660D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 715,
+                "days": 4,
+                "registered": "11 of 14",
+                "instructor": "Andrew Mc Eachin",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "683",
+        "course_name": "Proseminar in Education",
+        "units": "(1.0 units, max 3)",
+        "description": "Introduction to faculty and their research; provides professional development on a variety of topics.",
+        "sections": [
+            {
+                "section": "26661D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 715,
+                "days": 8,
+                "registered": "13 of 20",
+                "instructor": "Royel Johnson",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "690",
+        "course_name": "Framing and Enrollment Management",
+        "units": "(3.0 units)",
+        "description": "Identify and research enrollment management practices while developing academic literacy skills. Students will understand roles and responsibilities in Enrollment Management offices.",
+        "sections": [
+            {
+                "section": "27108D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "5 of 10",
+                "instructor": "Jihye Kwon",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "697",
+        "course_name": "Research, Planning, and Accountability",
+        "units": "(3.0 units)",
+        "description": "Develop a research perspective related to understanding and solving complex problems and strategic planning in enrollment management.",
+        "sections": [
+            {
+                "section": "27148D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "9 of 20",
+                "instructor": "Kedra Ishop",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "698",
+        "course_name": "Enhancing Student Retention",
+        "units": "(3.0 units)",
+        "description": "Examines how student characteristics are associated with persistence and graduation, how rates vary with institutional type, and the institutional role in student success.",
+        "sections": [
+            {
+                "section": "27149D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1110,
+                "days": 16,
+                "registered": "9 of 20",
+                "instructor": "Felipe Martinez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "705",
+        "course_name": "Survey Design and Analysis",
+        "units": "(3.0 units)",
+        "description": "Design, collection, and analysis of survey data; survey analysis techniques including classical test theory, item response theory, differential item functioning, scaling, linking.",
+        "sections": [
+            {
+                "section": "26665D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 930,
+                "days": 16,
+                "registered": "7 of 15",
+                "instructor": "Morgan Polikoff",
+                "location": "WPH403"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "707",
+        "course_name": "Administration in Higher Education",
+        "units": "(3.0 units)",
+        "description": "Administrative issues in higher education. Academic leadership related to undergraduate and graduate education. Quality standards and assessment. How administrators create efficiency, effectiveness, performance, and change.",
+        "sections": [
+            {
+                "section": "26500D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "13 of 25",
+                "instructor": "Kedra Ishop",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "709",
+        "course_name": "Financing and Assessing Colleges for Equity",
+        "units": "(3.0 units)",
+        "description": "Examination of federal, state, local and individual roles in financing of higher education towards enhancing equity and reducing opportunity gaps.",
+        "sections": [
+            {
+                "section": "26570D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "10 of 25",
+                "instructor": "Steve Desir",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "712",
+        "course_name": "Advanced Study of Motivation: Theory, Research and Applicati",
+        "units": "(3.0 units)",
+        "description": "Analysis of motivational principles; diagnosis and solutions to motivation gaps in learning environments; and motivation and efficacy theories and principles.",
+        "sections": [
+            {
+                "section": "26502D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "19 of 25",
+                "instructor": "Erika Patall",
+                "location": "WPH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "714",
+        "course_name": "Measurement and Evaluation for Decision-Making",
+        "units": "(3.0 units)",
+        "description": "Collecting, analyzing, and using quantitative data to solve problems of practice and in evaluating educational institutions, programs, and policies.",
+        "sections": [
+            {
+                "section": "26503D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "9 of 25",
+                "instructor": "Courtney Malloy",
+                "location": "DMC252"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "717",
+        "course_name": "Resourcing Schools for Equity and Excellence",
+        "units": "(3.0 units)",
+        "description": "Applying economic theory to the study of education. Application of market theory to education, partnerships, allocation of resources and the examination of educational enterprises.",
+        "sections": [
+            {
+                "section": "26504D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "23 of 25",
+                "instructor": "Stefanie Phillips",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26505D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "5 of 25",
+                "instructor": "Huriya Jabbar",
+                "location": "WPH103"
+            },
+            {
+                "section": "26571D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 16,
+                "registered": "20 of 25",
+                "instructor": "Erin Craig",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "719",
+        "course_name": "Education Policy and Politics",
+        "units": "(3.0 units)",
+        "description": "Major issues facing educators in the 21st century. Emphasis on how educational policy can focus on incentives for schools to improve student learning.",
+        "sections": [
+            {
+                "section": "26507D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1155,
+                "days": 4,
+                "registered": "21 of 25",
+                "instructor": "Maria Ott",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26509D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "12 of 25",
+                "instructor": "Julie Marsh",
+                "location": "WPH101"
+            },
+            {
+                "section": "26510D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": 1175,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "20 of 25",
+                "instructor": "Margaret Chidester",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "725",
+        "course_name": "Analyzing Organizational Change and Its Effectiveness",
+        "units": "(3.0 units)",
+        "description": "Designed to help leaders apply research about learning and motivation to the strengthening of organizational performance in organizations around the world.",
+        "sections": [
+            {
+                "section": "27530D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 720,
+                "days": 64,
+                "registered": "16 of 20",
+                "instructor": "Richard Grad",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27531D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "Eric Canny",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "726",
+        "course_name": "Making Choices: Deciding Among Policy Alternatives",
+        "units": "(3.0 units)",
+        "description": "Models of decision making including cost-benefit analysis, risk-benefit analysis, and decision analysis. Ethical considerations and the political environment. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "26611D",
+                "session": "069",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 24",
+                "instructor": "Robert Filback",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26649D",
+                "session": "069",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 12",
+                "instructor": "",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "728",
+        "course_name": "Global Trends: Emerging Ideas, Emerging Markets",
+        "units": "(3.0 units)",
+        "description": "Examination of a range of emerging markets in education. Global efforts of institutions of higher education to access new markets through collaborations and offshore endeavors.",
+        "sections": [
+            {
+                "section": "26609D",
+                "session": "069",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 27",
+                "instructor": "Cathy Krop",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "732",
+        "course_name": "Building Capacity for Organizational Change",
+        "units": "(3.0 units)",
+        "description": "Focuses on learning issues related to building organizational capacity for change through leadership and development of personnel within an organization.",
+        "sections": [
+            {
+                "section": "27580D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 570,
+                "days": 64,
+                "registered": "17 of 17",
+                "instructor": "Douglas Lynch",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27581D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1170,
+                "days": 4,
+                "registered": "10 of 17",
+                "instructor": "Kim Ferrario",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27582D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "19 of 19",
+                "instructor": "Christopher Riddick",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "764A",
+        "course_name": "Dissertation in Practice",
+        "units": "(1.0 unit)",
+        "description": "Credit on acceptance of Dissertation in Practice.",
+        "sections": [
+            {
+                "section": "26607D",
+                "session": "069",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 27",
+                "instructor": "Mark Robison",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27596D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "44 of 50",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "764B",
+        "course_name": "Dissertation in Practice",
+        "units": "(1.0 unit)",
+        "description": "Credit on acceptance of Dissertation in Practice.",
+        "sections": [
+            {
+                "section": "27597D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "44 of 50",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "764C",
+        "course_name": "Dissertation in Practice",
+        "units": "(1.0 unit)",
+        "description": "Credit on acceptance of Dissertation in Practice.",
+        "sections": [
+            {
+                "section": "27598D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "42 of 50",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "764D",
+        "course_name": "Dissertation in Practice",
+        "units": "(1.0 unit)",
+        "description": "Credit on acceptance of Dissertation in Practice.",
+        "sections": [
+            {
+                "section": "27599D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "46 of 50",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "764Z",
+        "course_name": "Dissertation in Practice",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation in Practice.",
+        "sections": [
+            {
+                "section": "27590D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "60 of 165",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26511D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26618D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26621D",
+                "session": "079",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "17 of 25",
+                "instructor": "Mark Robison",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26671D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26672D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26673D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26674D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26675D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26676D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26677D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26678D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26679D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26680D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26681D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26682D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26683D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26684D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26685D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27601D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 11",
+                "instructor": "Monique Datta,Anthony Maddox",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27602D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 9",
+                "instructor": "Esther Kim",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27603D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 9",
+                "instructor": "Helena Seli",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26652D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "26653D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "791",
+        "course_name": "Proposal for Doctoral Dissertation",
+        "units": "(1.0 unit)",
+        "description": "Preparation on initial dissertation proposal. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "26513D",
+                "session": "806",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 50",
+                "instructor": "Kenneth Yates",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26580D",
+                "session": "305",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Kenneth Yates",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26650D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Julie Marsh",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26651D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Julie Posselt",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26654D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 2,
+                "registered": "1 of 25",
+                "instructor": "Patricia Burch",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26655D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 40,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26686D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26687D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26688D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26689D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26690D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26691D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26692D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26693D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "26694D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27600D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 1",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27750D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27752D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27753D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27756D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "26670D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26695D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "26666D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26696D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "26667D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26697D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "26698D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27594D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDUC",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "26664D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26668D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "ONLINE"
+            },
+            {
+                "section": "26699D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27595D",
+                "session": "328",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Courtney Malloy",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

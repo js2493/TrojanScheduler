@@ -1,0 +1,1091 @@
+[
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "105",
+        "course_name": "Art and Design Studio I",
+        "units": "(4.0 units)",
+        "description": "Introduction to the fundamental elements in art making, design creation and thinking, including key principles of process and critical analysis.",
+        "sections": [
+            {
+                "section": "33796D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "29 of 29",
+                "instructor": "China Adams,Ruben Ochoa",
+                "location": "WAH108"
+            },
+            {
+                "section": "33799D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 660,
+                "days": 10,
+                "registered": "7 of 25",
+                "instructor": "",
+                "location": "HAR117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "106",
+        "course_name": "Art and Design Studio II",
+        "units": "(4.0 units)",
+        "description": "Introduction to the fundamental elements in art making, design creation and thinking, including the key principles of process and critical analysis.",
+        "sections": [
+            {
+                "section": "33795D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "30 of 30",
+                "instructor": "Paul Donald,Jean Robison",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "110",
+        "course_name": "Drawing for Art and Design",
+        "units": "(4.0 units)",
+        "description": "An introduction to drawing, both skill and perception oriented, as the basic tool for all the visual arts and design.",
+        "sections": [
+            {
+                "section": "33843D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 20,
+                "registered": "28 of 30",
+                "instructor": "Charla Elizabeth",
+                "location": "WAH118"
+            },
+            {
+                "section": "33844D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Charla Elizabeth,Karen Liebowitz",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "120",
+        "course_name": "Painting I",
+        "units": "(4.0 units)",
+        "description": "Practical introduction to oil and acrylic pigments, painting tools, mediums, processes and contemporary concepts. Primary experience in: color, composition and perception through representational and abstract painting.",
+        "sections": [
+            {
+                "section": "33879R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 20,
+                "registered": "14 of 15",
+                "instructor": "Karen Liebowitz",
+                "location": "HAR203"
+            },
+            {
+                "section": "33880R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "13 of 15",
+                "instructor": "Edgar Arceneaux",
+                "location": "HAR203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "130",
+        "course_name": "Ceramics I",
+        "units": "(4.0 units)",
+        "description": "Practical and theoretical exploration of the nature of surface, form, volume and mass as fundamental elements of clay sculpture and the ceramic object.",
+        "sections": [
+            {
+                "section": "33361R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Thomas Mueller",
+                "location": "WAH107"
+            },
+            {
+                "section": "33362R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 20,
+                "registered": "18 of 18",
+                "instructor": "Thomas Mueller",
+                "location": "WAH107"
+            },
+            {
+                "section": "33363R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "16 of 18",
+                "instructor": "Amy Santoferraro",
+                "location": "WAH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "131",
+        "course_name": "Wheel Throwing",
+        "units": "(4.0 units)",
+        "description": "An introductory course using wheel throwing techniques for ceramics to explore a variety of forms through three-dimensional exercises.",
+        "sections": [
+            {
+                "section": "33359R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Jackie Rines",
+                "location": "WAH107"
+            },
+            {
+                "section": "33369R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "16 of 16",
+                "instructor": "Shoshi Watanabe",
+                "location": "WAH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "140",
+        "course_name": "Sculpture I",
+        "units": "(4.0 units)",
+        "description": "Practical and theoretical introduction to sculpture as dimensional manipulation. Primary exploration of form, mass, gravity, surface, structure and associative recognition in three-dimensional art.",
+        "sections": [
+            {
+                "section": "33888R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "17 of 20",
+                "instructor": "Paul Donald",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "141",
+        "course_name": "Creating and Understanding Visuals",
+        "units": "(4.0 units)",
+        "description": "Lecture-studio course on the theory and history behind contemporary art, design, and visual communication; students also create work, informed by ideas from the lecture.",
+        "sections": [
+            {
+                "section": "33426R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Paul Donald",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "150",
+        "course_name": "Introduction to Photography: Process and Concept",
+        "units": "(4.0 units)",
+        "description": "Digital photography as a medium of contemporary art. Includes concept development, DSLR cameras, lighting, digital workflow, software, large format printing and installation.",
+        "sections": [
+            {
+                "section": "33861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "15 of 16",
+                "instructor": "Caroline Clerc",
+                "location": "IFT141"
+            },
+            {
+                "section": "33863R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "17 of 16",
+                "instructor": "Caroline Clerc",
+                "location": "IFT141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "207A",
+        "course_name": "Two-Dimensional Art Workshop",
+        "units": "(2.0 units, max 8)",
+        "description": "Studio practice to develop drawing fundamentals for game designers, animators and narrative artists.",
+        "sections": [
+            {
+                "section": "33858R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Eleanor Michalka",
+                "location": "WAH102B"
+            },
+            {
+                "section": "33859D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 32,
+                "registered": "22 of 22",
+                "instructor": "Sam Alden",
+                "location": "WAH102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "207B",
+        "course_name": "Two-Dimensional Art Workshop",
+        "units": "(2.0 units, max 8)",
+        "description": "Continuation of ART 207a.",
+        "sections": [
+            {
+                "section": "33881R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "7 of 20",
+                "instructor": "Sam Alden",
+                "location": "HAR117"
+            },
+            {
+                "section": "33882R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 32,
+                "registered": "5 of 20",
+                "instructor": "Eleanor Michalka",
+                "location": "HAR117"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "255",
+        "course_name": "Black and White Film and Darkroom Photography",
+        "units": "(4.0 units)",
+        "description": "Introduces film cameras, development, and darkroom techniques, photographic history, theory and practice within an art context.",
+        "sections": [
+            {
+                "section": "33870R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "15 of 16",
+                "instructor": "Julia Paull",
+                "location": "HAR211"
+            },
+            {
+                "section": "33871R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "15 of 16",
+                "instructor": "Julia Paull",
+                "location": "HAR211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "260",
+        "course_name": "Introduction to Video: Projection and Virtual Worlds in Art",
+        "units": "(4.0 units)",
+        "description": "An introductory course exploring contemporary processes and practices of video experimentation in art including the camera, editing, digital manipulation and spatial and virtual platforms.",
+        "sections": [
+            {
+                "section": "33865R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "9 of 16",
+                "instructor": "David Kelley",
+                "location": "WAH6"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "280",
+        "course_name": "Studio Critique I",
+        "units": "(2.0 units)",
+        "description": "Interdisciplinary forum where students develop research skills, learn how to best articulate their artistic production, discuss materials related to their research interests, and critique the work of their peers.",
+        "sections": [
+            {
+                "section": "33801D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Danielle Cansino",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "299",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Selected topics in Art.",
+        "sections": [
+            {
+                "section": "33502D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "21 of 25",
+                "instructor": "Sherin Guirguis",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "310",
+        "course_name": "Drawing II",
+        "units": "(4.0 units)",
+        "description": "Directed examination of personal approaches to drawing with emphasis on making visual and artistic decisions and developing additional skills and sources of inspiration. Individual expression will be encouraged.",
+        "sections": [
+            {
+                "section": "33850R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 10,
+                "registered": "17 of 20",
+                "instructor": "Marisa Mandler",
+                "location": "WAH102A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "312",
+        "course_name": "Comics Project",
+        "units": "(4.0 units, max 8)",
+        "description": "All aspects of comics will be covered, from writing and composition to inking and marketing through the production of an individual multi-page comic creation.",
+        "sections": [
+            {
+                "section": "33852R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "Keith Mayerson",
+                "location": "WAH102B"
+            },
+            {
+                "section": "33853R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "14 of 20",
+                "instructor": "Keith Mayerson",
+                "location": "WAH102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "314",
+        "course_name": "Illustration for Art and Design",
+        "units": "(2.0 units)",
+        "description": "Illustration techniques and professional practices across the range of fine art, comics, editorial illustration, narrative arts, visual development and others. Digital and hybrid approaches.",
+        "sections": [
+            {
+                "section": "33851D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "16 of 20",
+                "instructor": "Angie Wang",
+                "location": "WAH118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "320",
+        "course_name": "Painting II",
+        "units": "(4.0 units)",
+        "description": "Directed examination of historic and contemporary painting concepts and aesthetics, investigation into personal ideas towards the development of a creative visual language and practice in painting.",
+        "sections": [
+            {
+                "section": "33883R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 20,
+                "registered": "9 of 15",
+                "instructor": "Karen Liebowitz",
+                "location": "HAR203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "330",
+        "course_name": "Ceramics II",
+        "units": "(4.0 units)",
+        "description": "Directed examination of aesthetic concepts and investigation into personal ideas as they relate to the development of a creative visual language in ceramics.",
+        "sections": [
+            {
+                "section": "33366R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 20,
+                "registered": "7 of 16",
+                "instructor": "Jackie Rines",
+                "location": "WAH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "350",
+        "course_name": "Intermediate Photography: Studio, Field, Independent Project",
+        "units": "(4.0 units)",
+        "description": "Continued examination of the conceptual, technical, aesthetic and historical tools necessary for a well-informed deliberate art practice. Emphasis on generating self-directed ideas.",
+        "sections": [
+            {
+                "section": "33875R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "8 of 16",
+                "instructor": "Caroline Clerc",
+                "location": "IFT141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "362",
+        "course_name": "Ideas in Intermedia",
+        "units": "(4.0 units)",
+        "description": "An examination of the impact of digital media on contemporary culture, with attention to a particular, changing topic each semester.",
+        "sections": [
+            {
+                "section": "33868R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "16 of 20",
+                "instructor": "Julia Paull",
+                "location": "WAH102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "370",
+        "course_name": "Printmaking",
+        "units": "(4.0 units)",
+        "description": "Introductory course in various printmaking techniques; necessary skills and inherent expressive qualities of different printmaking methods are explored.",
+        "sections": [
+            {
+                "section": "33885R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "17 of 18",
+                "instructor": "Marisa Mandler",
+                "location": "HAR117"
+            },
+            {
+                "section": "33886D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "380",
+        "course_name": "Studio Critique II",
+        "units": "(2.0 units)",
+        "description": "A continuation of ART 280 for third-year students, providing an interdisciplinary forum for artistic practice and a deepening critique of one's work and the work of peers.",
+        "sections": [
+            {
+                "section": "33802D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 16,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "410",
+        "course_name": "Topics in Advanced Drawing",
+        "units": "(4.0 units, max 12)",
+        "description": "Examination of personal approaches and professional careers in drawing and 2D art making, emphasis on making a body of work with creative freedom in committed studio space.",
+        "sections": [
+            {
+                "section": "33854R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 10,
+                "registered": "12 of 15",
+                "instructor": "Nery Lemus",
+                "location": "HAR202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "418",
+        "course_name": "Independent Studies in Studio Arts",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Independent research of specific topics under the direction of a faculty member. Administrative and faculty approval required.",
+        "sections": [
+            {
+                "section": "33790D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Edgar Arceneaux",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33791D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Thomas Mueller",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33793D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Julia Paull",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "419",
+        "course_name": "Professional Internship in the Arts",
+        "units": "(2.0 units, max 4)",
+        "description": "An experiential/academic opportunity in a museum, gallery, community cultural center or related facility. Lectures, seminars, written analysis and working internship.",
+        "sections": [
+            {
+                "section": "33794D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 30",
+                "instructor": "Antonio Bartolome",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "430",
+        "course_name": "Topics in Advanced Ceramics",
+        "units": "(4.0 units, max 12)",
+        "description": "Continued directed examination of aesthetic concepts and investigation into personal ideas as they relate to the development of a creative visual language in ceramics.",
+        "sections": [
+            {
+                "section": "33367R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 10,
+                "registered": "6 of 16",
+                "instructor": "Thomas Mueller",
+                "location": "WAH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "441",
+        "course_name": "Installation Art",
+        "units": "(4.0 units)",
+        "description": "Students challenge the traditional art object as they explore the use of space and time in their artwork.",
+        "sections": [
+            {
+                "section": "33368R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "14 of 18",
+                "instructor": "Ruben Ochoa",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "443",
+        "course_name": "Woodworking",
+        "units": "(2.0 units)",
+        "description": "Exploration of the essential skills in woodworking through lecture, demonstration and hands-on training. Includes instruction in joinery and relevant machinery and hand tools.",
+        "sections": [
+            {
+                "section": "33897R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1060,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Ken Ehrlich",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "444",
+        "course_name": "Modeling and Mold Making",
+        "units": "(2.0 units)",
+        "description": "Introduction to plaster mold making using clay and wax for both ceramics and sculpture. Exploration of various casting materials.",
+        "sections": [
+            {
+                "section": "33893R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Ashley Hagen",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "445",
+        "course_name": "Metal",
+        "units": "(2.0 units)",
+        "description": "Introduction to metal in fine art. Emphasis on technical proficiencies and effective solutions working in a variety of metals.",
+        "sections": [
+            {
+                "section": "33892R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Brian Olson",
+                "location": "WAH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "451",
+        "course_name": "Large Format Photography",
+        "units": "(2.0 units)",
+        "description": "Exploration of photographic traditions in large-format, high resolution sheet film cameras, which have their roots in both the field, the studio, in commercial and documentary traditions.",
+        "sections": [
+            {
+                "section": "33507R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 4,
+                "registered": "14 of 14",
+                "instructor": "William Camargo",
+                "location": "IFT141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "460",
+        "course_name": "Post-Material Studio",
+        "units": "(4.0 units, max 8)",
+        "description": "Advanced studio and discussion course that affords the student a conceptual and practical platform from which to discuss and realize a major work or series.",
+        "sections": [
+            {
+                "section": "33891D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 880,
+                "days": 10,
+                "registered": "6 of 16",
+                "instructor": "Carmen Argote",
+                "location": "HAR211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "461",
+        "course_name": "Techniques in After Effects",
+        "units": "(2.0 units)",
+        "description": "An intensive investigation of the mechanics and methodology of contemporary software for video art. Recommended to be taken concurrently with ART 260.",
+        "sections": [
+            {
+                "section": "33876R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 700,
+                "days": 4,
+                "registered": "10 of 16",
+                "instructor": "Jean Robison",
+                "location": "WAH6"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "470",
+        "course_name": "Topics in Advanced Printmaking",
+        "units": "(4.0 units, max 12)",
+        "description": "Directed examination of specific printmaking media in relation to personal aesthetic goals and expressive concepts.",
+        "sections": [
+            {
+                "section": "33887D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "485",
+        "course_name": "Studio Capstone",
+        "units": "(4.0 units)",
+        "description": "A faculty-mentored course supporting advanced conceptual exploration and the development of an ambitious, self-defined series or body of work; may culminate in a group exhibition or individual project.",
+        "sections": [
+            {
+                "section": "33503D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1240,
+                "days": 20,
+                "registered": "13 of 20",
+                "instructor": "Nao Bustamante",
+                "location": "HAR201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "515",
+        "course_name": "Visiting Artist and Scholar Seminar",
+        "units": "(2.0 units, max 4)",
+        "description": "Lecture and discussion course in the professional practice of art featuring formal presentations by visiting artists and scholars. (Duplicates credit in FA 515)",
+        "sections": [
+            {
+                "section": "33312D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "13 of 20",
+                "instructor": "Suzanne Lacy",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "520",
+        "course_name": "Individual Studies",
+        "units": "(2.0 units, max 8)",
+        "description": "Investigation of creative problems through various media. Course may be repeated. (Duplicates credit in former FA 520)",
+        "sections": [
+            {
+                "section": "33335D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 10,
+                "registered": "7 of 16",
+                "instructor": "Nao Bustamante,David Kelley,Jennifer West",
+                "location": "OFFICE"
+            },
+            {
+                "section": "33336D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 10,
+                "registered": "8 of 16",
+                "instructor": "Nao Bustamante,David Kelley,Jennifer West",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "535",
+        "course_name": "Group Critique",
+        "units": "(2.0 units, max 8)",
+        "description": "Presentation and critique which builds students' skills in presenting and contextualizing their artwork for peer review; analytic discussion regarding directions in contemporary art.",
+        "sections": [
+            {
+                "section": "33311D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "14 of 16",
+                "instructor": "Sherin Guirguis",
+                "location": "ATM113A"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to graduate degree. Maximum units which may be applied to degree determined by department. Graded CR/NC. (Duplicates credit in former FA 590)",
+        "sections": [
+            {
+                "section": "33354D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 16",
+                "instructor": "Jennifer West",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Thesis. Open only to master students. Graded CR/NC. (Duplicates credit in former FA 594a)",
+        "sections": [
+            {
+                "section": "33357D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "9 of 16",
+                "instructor": "Jennifer West",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Thesis. Open only to master students. Graded CR/NC. (Duplicates credit in former FA 594z)",
+        "sections": [
+            {
+                "section": "33383D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Jennifer West",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ART",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Comprehensive exploration of particular aspects of the history of art. (Duplicates credit in former FA 599)",
+        "sections": [
+            {
+                "section": "33384D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 8,
+                "registered": "4 of 16",
+                "instructor": "Jennifer West",
+                "location": "ATM113A"
+            }
+        ]
+    }
+]

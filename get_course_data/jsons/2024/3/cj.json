@@ -1,0 +1,245 @@
+[
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "500",
+        "course_name": "Criminology",
+        "units": "(2.0 units)",
+        "description": "Key theories and frameworks used to explain crime and inform responses to crime.",
+        "sections": [
+            {
+                "section": "70125D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "15 of 30",
+                "instructor": "Miji Vellakkatel",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70126D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "15 of 30",
+                "instructor": "Steven Lurie",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "505",
+        "course_name": "Analysis of Criminal Justice Systems",
+        "units": "(2.0 units)",
+        "description": "The criminal justice systems response to crime through a theoretical and interdisciplinary lens.",
+        "sections": [
+            {
+                "section": "70130D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "Mischelle Van Brakle",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "510",
+        "course_name": "Criminal Justice Leadership",
+        "units": "(2.0 units)",
+        "description": "Theory and practice of traditional and contemporary approaches to leadership in the context of criminal justice.",
+        "sections": [
+            {
+                "section": "70135D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "22 of 30",
+                "instructor": "Joseph Cortez",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "515",
+        "course_name": "Applied Research Methods for Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Fundamental research methods and design commonly used to answer questions related to criminal justice.",
+        "sections": [
+            {
+                "section": "70140D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "21 of 30",
+                "instructor": "Donald Hummer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "520",
+        "course_name": "Applied Statistics and Data Analysis in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Fundamentals of statistics and statistical analyses commonly used to interpret crime data for evaluation and performance.",
+        "sections": [
+            {
+                "section": "70145D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "16 of 30",
+                "instructor": "Leslie Mullins",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "525",
+        "course_name": "Ethical Decision-Making in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Examination and analysis of how societal expectations for ethical behavior and regulatory oversight affect leaders and managers in criminal justice.",
+        "sections": [
+            {
+                "section": "70150D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "18 of 30",
+                "instructor": "Stephen Abanise",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "530",
+        "course_name": "Organizational Change in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Knowledge, skills, and tools necessary to lead organizational change within the context of criminal justice systems.",
+        "sections": [
+            {
+                "section": "70155D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "20 of 30",
+                "instructor": "Mari Kong",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70156D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "18 of 30",
+                "instructor": "Jennifer Loeffler-Cobia",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "535",
+        "course_name": "Youthful Offenders",
+        "units": "(2.0 units)",
+        "description": "Key concepts and evidence-based interventions and responses to promote positive growth and reduced recidivism in the youthful offender population.",
+        "sections": [
+            {
+                "section": "70160D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Samantha Buckingham",
+                "location": "ONLINE"
+            },
+            {
+                "section": "70161D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Brandy Chappell",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "550",
+        "course_name": "Corrections and Community Supervision",
+        "units": "(2.0 units)",
+        "description": "Examines evidence-based corrections and community supervision practices including offender rehabilitation, bail, restorative justice and victims issues.",
+        "sections": [
+            {
+                "section": "70175D",
+                "session": "988",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "11 of 30",
+                "instructor": "Mischelle Van Brakle",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CJ",
+        "course_num": "555",
+        "course_name": "Making a Difference in Criminal Justice",
+        "units": "(2.0 units)",
+        "description": "Preparing for the critical role of leadership through policy evaluation and policy change initiatives.",
+        "sections": [
+            {
+                "section": "70180D",
+                "session": "981",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "12 of 30",
+                "instructor": "Louis Morlier",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

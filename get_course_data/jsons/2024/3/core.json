@@ -1,0 +1,687 @@
+[
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "101",
+        "course_name": "Symbols and Conceptual Systems: Thematic Option Honors Progr",
+        "units": "(4.0 units)",
+        "description": "Study of the structures through which we shape our experience in religion, philosophy, literature, music, and the visual arts, and of competing theories of interpretation. Students may not take this course on a P/NP basis.",
+        "sections": [
+            {
+                "section": "63500D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "16 of 19",
+                "instructor": "Erin Graff Zivin",
+                "location": "WPH107"
+            },
+            {
+                "section": "63501D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Hector Reyes",
+                "location": "WPH106"
+            },
+            {
+                "section": "63504D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Panivong Norindr",
+                "location": "DMC208"
+            },
+            {
+                "section": "63505D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 890,
+                "days": 8,
+                "registered": "14 of 19",
+                "instructor": "Lynn Dodd",
+                "location": "ACB238"
+            },
+            {
+                "section": "63503D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 40,
+                "registered": "17 of 19",
+                "instructor": "Suzanne Hudson",
+                "location": "DMC158"
+            },
+            {
+                "section": "63502D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 920,
+                "days": 32,
+                "registered": "17 of 19",
+                "instructor": "Suzanne Hudson",
+                "location": "LVL3V"
+            },
+            {
+                "section": "63507R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "46 of 100",
+                "instructor": "",
+                "location": "MHP101"
+            },
+            {
+                "section": "63508D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 60",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "102",
+        "course_name": "Culture and Values: Thematic Option Honors Program",
+        "units": "(4.0 units)",
+        "description": "Systematic reasoning about values and ways of living; close reading of great literary and philosophical works from a range of classical traditions to the present.",
+        "sections": [
+            {
+                "section": "63509D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 21",
+                "instructor": "Heather James",
+                "location": "WPH201"
+            },
+            {
+                "section": "63510D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 21",
+                "instructor": "Edwin McCann",
+                "location": "WPH103"
+            },
+            {
+                "section": "63511D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 21",
+                "instructor": "Chris Finley",
+                "location": "DMC105"
+            },
+            {
+                "section": "63512D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 21",
+                "instructor": "Anthony Kemp",
+                "location": "WPH101"
+            },
+            {
+                "section": "63513D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "19 of 21",
+                "instructor": "William Handley",
+                "location": "WPH206"
+            },
+            {
+                "section": "63514D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "17 of 21",
+                "instructor": "Beatrice Sanford Russell",
+                "location": "WPH103"
+            },
+            {
+                "section": "63515D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "18 of 21",
+                "instructor": "Stefano Rebeggiani",
+                "location": "WPH101"
+            },
+            {
+                "section": "63539D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "19 of 21",
+                "instructor": "Roberto Diaz",
+                "location": "DMC107"
+            },
+            {
+                "section": "63541D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "18 of 21",
+                "instructor": "William Handley",
+                "location": "THHB9"
+            },
+            {
+                "section": "63543D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 21",
+                "instructor": "Alicia Chavez",
+                "location": "SOSB37"
+            },
+            {
+                "section": "63516D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "90 of 110",
+                "instructor": "",
+                "location": "SAL101"
+            },
+            {
+                "section": "63517D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "90 of 110",
+                "instructor": "",
+                "location": "ZHS159"
+            },
+            {
+                "section": "63518D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "103",
+        "course_name": "The Process of Change in Science: Thematic Option Honors Pro",
+        "units": "(4.0 units)",
+        "description": "Critical problems in the development of scientific thought, studied as vehicles for understanding the content and structure of the sciences. Specific subject matter in selected scientific disciplines will be presented. Students may not take this course on a P/NP basis.",
+        "sections": [
+            {
+                "section": "63523D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Victoria Petryshyn",
+                "location": "DMC105"
+            },
+            {
+                "section": "63525D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Peter Westwick",
+                "location": "DMC154"
+            },
+            {
+                "section": "63526D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Donal Manahan",
+                "location": "DMC108"
+            },
+            {
+                "section": "63527D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "12 of 19",
+                "instructor": "Vahe Peroomian",
+                "location": "MRF206"
+            },
+            {
+                "section": "63528D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "63568R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "41 of 110",
+                "instructor": "",
+                "location": "MRF340"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "104",
+        "course_name": "Change and the Future: Thematic Option Honors Program",
+        "units": "(4.0 units)",
+        "description": "Analysis of historical change; social and political theory and revolutionary thought; introduction to competing images of future states of affairs; the continuing process of change. Students may not take this course on a P/NP basis.",
+        "sections": [
+            {
+                "section": "63529D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "18 of 19",
+                "instructor": "Steven Lamy",
+                "location": "DMC154"
+            },
+            {
+                "section": "63530D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "1 of 19",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "63532D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Peter Westwick",
+                "location": "DMC202"
+            },
+            {
+                "section": "63533D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "14 of 19",
+                "instructor": "Olivia C Harrison",
+                "location": "VPD107"
+            },
+            {
+                "section": "63534D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 19",
+                "instructor": "Beatrice Mousli",
+                "location": "LVL3V"
+            },
+            {
+                "section": "63535D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "12 of 19",
+                "instructor": "Natalia Molina",
+                "location": "WPH201"
+            },
+            {
+                "section": "63531D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 20,
+                "registered": "11 of 40",
+                "instructor": "Sharon Lloyd",
+                "location": "DMC105"
+            },
+            {
+                "section": "63571D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "6 of 20",
+                "instructor": "Erin Wiebe",
+                "location": "DMC111"
+            },
+            {
+                "section": "63572D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "5 of 20",
+                "instructor": "Erin Wiebe",
+                "location": "DMC111"
+            },
+            {
+                "section": "63536R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "46 of 115",
+                "instructor": "",
+                "location": "MRF340"
+            },
+            {
+                "section": "63537D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "45 of 60",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "111",
+        "course_name": "Writing Seminar I: Thematic Option Honors Program",
+        "units": "(4.0 units)",
+        "description": "The first level writing course focuses on the relationship between critical thinking and analytic writing through the close reading of primary texts. Seminars are supplemented with biweekly one-on-one tutorials.",
+        "sections": [
+            {
+                "section": "63538D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "14 of 15",
+                "instructor": "Samuel Teets",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63540D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "13 of 15",
+                "instructor": "Amy Cannon",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63542D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 15",
+                "instructor": "Amy Cannon",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63544D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "13 of 15",
+                "instructor": "Rachel Newman",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63546D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "13 of 15",
+                "instructor": "Shaibal Dev Roy",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63548D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "12 of 15",
+                "instructor": "Aidan Diamond",
+                "location": "THHB9"
+            },
+            {
+                "section": "63550D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "12 of 15",
+                "instructor": "Amelia Adamson",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63552D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "13 of 15",
+                "instructor": "Michael Petitti",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63554D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "14 of 15",
+                "instructor": "Trisha Tucker",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63556D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Michael Petitti",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63558D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "14 of 15",
+                "instructor": "Krishna Narayanamurti",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63560D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "13 of 15",
+                "instructor": "Jennifer Heine",
+                "location": "DMC151"
+            },
+            {
+                "section": "63562D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "11 of 15",
+                "instructor": "Jianan Qian",
+                "location": "AHF410G"
+            },
+            {
+                "section": "63564D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "12 of 15",
+                "instructor": "Brian Arechiga",
+                "location": "AHF410G"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "200",
+        "course_name": "Liberal Arts Reading Salon",
+        "units": "(2.0 units)",
+        "description": "Critical readings of a series of texts in the liberal arts designed to promote discussion of important themes, theoretical approaches, research directions, and interdisciplinary connections. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "63575R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "9 of 12",
+                "instructor": "Trisha Tucker",
+                "location": "DMC103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "450",
+        "course_name": "Los Angeles: A Polymathic Inquiry",
+        "units": "(2.0-4.0 units, max 4)",
+        "description": "A guided polymathic inquiry into Los Angeles as fact and imaginative creation, featuring in-depth student research and projects.",
+        "sections": [
+            {
+                "section": "63578D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "1 of 15",
+                "instructor": "William Deverell,Karin Huebner",
+                "location": "DML241"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CORE",
+        "course_num": "601",
+        "course_name": "Teaching Analytical Writing through Readings in the Humanities",
+        "units": "(1.0 units, max 4)",
+        "description": "Theories and practices in university-level teaching of close-reading and analytical writing, using texts central to Western tradition. Graduate student professionalization throught topical workshops and discussions. Open to assistant lecturers and teaching assistants only. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "63570D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "7 of 9",
+                "instructor": "Trisha Tucker",
+                "location": "AHF410G"
+            }
+        ]
+    }
+]

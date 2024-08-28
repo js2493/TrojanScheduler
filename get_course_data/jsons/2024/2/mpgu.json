@@ -1,0 +1,327 @@
+[
+    {
+        "term": "20242",
+        "department": "MPGU",
+        "course_number": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors. Recommended preparation: MPGU 101x.",
+        "sections": [
+            {
+                "section": "45200D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45201D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45205D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45206D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPGU",
+        "course_number": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principal instrument for music minors and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "45210D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45211D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45215D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45216D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPGU",
+        "course_number": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "45305D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45306D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45310D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45311D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45312D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPGU",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45345D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45346D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45347D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45350D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45351D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45352D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MPGU",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "45387D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45388D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45389D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Scott Tennant",
+                "location": "RHM104"
+            },
+            {
+                "section": "45390D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45391D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            },
+            {
+                "section": "45392D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Nick Stoubis",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

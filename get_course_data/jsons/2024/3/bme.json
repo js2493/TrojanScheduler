@@ -1,0 +1,1131 @@
+[
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "101",
+        "course_name": "Introduction to Biomedical Engineering",
+        "units": "(4.0 units)",
+        "description": "Historical development and survey of major areas comprising biomedical engineering: theoretical neurobiology and systems physiology, biomedical instrumentation, artificial organ and prosthetic devices, biomedical computer applications.",
+        "sections": [
+            {
+                "section": "29200D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Jesse Yen,William Yang",
+                "location": "VPD106"
+            },
+            {
+                "section": "29201R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "19 of 15",
+                "instructor": "",
+                "location": "GFS220"
+            },
+            {
+                "section": "29203R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 8,
+                "registered": "11 of 18",
+                "instructor": "",
+                "location": "KAP134"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "202",
+        "course_name": "Control and Communication in the Nervous System",
+        "units": "(4.0 units)",
+        "description": "Introduction to the structure and function of the nervous system for biomedical engineers. Modeling of neurophysiological processes at single neuron and systems levels.",
+        "sections": [
+            {
+                "section": "29209D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "31 of 34",
+                "instructor": "Bartlett Mel,William Yang",
+                "location": "WPHB28"
+            },
+            {
+                "section": "29215R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "11 of 22",
+                "instructor": "",
+                "location": "KAP141"
+            },
+            {
+                "section": "29219R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 22",
+                "instructor": "",
+                "location": "KAP141"
+            },
+            {
+                "section": "29208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "34 of 35",
+                "instructor": "Bartlett Mel,William Yang",
+                "location": "ZHS352"
+            },
+            {
+                "section": "29216R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "23 of 23",
+                "instructor": "",
+                "location": "GFS221"
+            },
+            {
+                "section": "29217R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "11 of 22",
+                "instructor": "",
+                "location": "GFS220"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "302",
+        "course_name": "Medical Electronics",
+        "units": "(4.0 units)",
+        "description": "Electronic design and measurements for medical applications. Use of integrated circuits, biopotential measurements, static and dynamic calibration of physiological transducers.",
+        "sections": [
+            {
+                "section": "29310D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "29 of 40",
+                "instructor": "Jean-Michel Maarek",
+                "location": "WPH102"
+            },
+            {
+                "section": "29231R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 570,
+                "end_time": 710,
+                "days": 2,
+                "registered": "13 of 14",
+                "instructor": "",
+                "location": "DRB351"
+            },
+            {
+                "section": "29232R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "DRB351"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "403",
+        "course_name": "Physiological Systems",
+        "units": "(4.0 units)",
+        "description": "A thorough bioengineering treatment of the physiological properties of various mammalian organ systems: e.g., cardiovascular, respiratory, renal, and musculoskeletal.",
+        "sections": [
+            {
+                "section": "29220D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "23 of 36",
+                "instructor": "Stan Yamashiro,William Yang",
+                "location": "KAP145"
+            },
+            {
+                "section": "29221R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 4,
+                "registered": "9 of 18",
+                "instructor": "",
+                "location": "DRB351"
+            },
+            {
+                "section": "29223R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 8,
+                "registered": "14 of 18",
+                "instructor": "",
+                "location": "DRB351"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "404",
+        "course_name": "Orthopaedic Biomechanics",
+        "units": "(4.0 units)",
+        "description": "Mechanical properties of biological tissues, application of statics and dynamics to assess loads within the musculoskeletal structures, and fundamentals of orthopaedic implant performance.",
+        "sections": [
+            {
+                "section": "29225D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 940,
+                "days": 20,
+                "registered": "21 of 35",
+                "instructor": "Francisco Valero-Cuevas",
+                "location": "KAP145"
+            },
+            {
+                "section": "29226R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 8,
+                "registered": "21 of 35",
+                "instructor": "",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "405",
+        "course_name": "Senior Projects: Measurements and Instrumentation",
+        "units": "(4.0 units)",
+        "description": "Application of instrumentation and measurement techniques to biomedical engineering projects involving measurement, replacement or augmentation of biomedical systems.",
+        "sections": [
+            {
+                "section": "29230D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "27 of 36",
+                "instructor": "John Mai",
+                "location": "DMC211"
+            },
+            {
+                "section": "29228R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "14 of 18",
+                "instructor": "",
+                "location": "DRB351"
+            },
+            {
+                "section": "29235R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "13 of 18",
+                "instructor": "",
+                "location": "DRB351"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "406",
+        "course_name": "Introduction to Bioengineering in Medicine",
+        "units": "(4.0 units)",
+        "description": "Bioengineering concepts and technologies applied to cancer diagnosis, drug discovery, immunotherapeutic development, stem cell techniques and therapies, mechanistic research.",
+        "sections": [
+            {
+                "section": "29238D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "17 of 28",
+                "instructor": "Keyue Shen",
+                "location": "WPH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "413",
+        "course_name": "Bioengineering Signals and Systems",
+        "units": "(4.0 units)",
+        "description": "Introduction to concepts relating to linear signals and systems theory, time and frequency domain analysis, and application of these concepts to problems in Biomedical Engineering.",
+        "sections": [
+            {
+                "section": "29241D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "24 of 25",
+                "instructor": "Shaoying Lu",
+                "location": "THH213"
+            },
+            {
+                "section": "29240D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "40 of 40",
+                "instructor": "Brent Liu",
+                "location": "ZHS352"
+            },
+            {
+                "section": "29242R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "38 of 40",
+                "instructor": "",
+                "location": "KAP158"
+            },
+            {
+                "section": "29243R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "26 of 31",
+                "instructor": "",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "415",
+        "course_name": "Regulation of Medical Products",
+        "units": "(2.0 units)",
+        "description": "An introduction to the process of medical product development with emphasis on the regulations that govern the design, fabrication and maintenance of medical products.",
+        "sections": [
+            {
+                "section": "29244D",
+                "session": "094",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "55 of 80",
+                "instructor": "Jerry Loeb,William Yang",
+                "location": "WPHB27"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "423",
+        "course_name": "Statistical Methods in Biomedical Engineering",
+        "units": "(4.0 units)",
+        "description": "Applications of parametric and nonparametric tests, analysis of variance, linear regression, time-series analysis, and autoregressive modeling, with biomedical applications to statistical analysis of biomedical data.",
+        "sections": [
+            {
+                "section": "29250D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "29 of 30",
+                "instructor": "Brittany Kay,William Yang",
+                "location": "GFS207"
+            },
+            {
+                "section": "29255D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "30 of 30",
+                "instructor": "David D'Argenio,William Yang",
+                "location": "KAP158"
+            },
+            {
+                "section": "29256R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 4,
+                "registered": "36 of 42",
+                "instructor": "",
+                "location": "GFS207"
+            },
+            {
+                "section": "29257R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 16,
+                "registered": "23 of 42",
+                "instructor": "",
+                "location": "GFS118"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "430",
+        "course_name": "Principles and Applications of Systems Biology",
+        "units": "(4.0 units)",
+        "description": "Computational methods for simulation and analysis of metabolic networks, cellular signaling pathways, and gene regulatory networks. Biochemical kinetics, differential equations, stability analysis, sensitivity analysis.",
+        "sections": [
+            {
+                "section": "29253D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "13 of 30",
+                "instructor": "Stacey Finley,William Yang",
+                "location": "DMC211"
+            },
+            {
+                "section": "29254R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 4,
+                "registered": "13 of 30",
+                "instructor": "",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "451",
+        "course_name": "Fundamentals of Biomedical Microdevices",
+        "units": "(4.0 units)",
+        "description": "Introduction to biomedical microdevices with emphasis on microtechnologies and biomedical microelectromechanical systems (bioMEMS). Principles for measurement of small-scale biological phenomena and clinical applications.",
+        "sections": [
+            {
+                "section": "29260R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "8 of 12",
+                "instructor": "Alexander Baldwin",
+                "location": "THH107"
+            },
+            {
+                "section": "29261R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "8 of 13",
+                "instructor": "",
+                "location": "BHEB8"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "452",
+        "course_name": "Introduction to Biomimetic Neural Engineering",
+        "units": "(2.0 units)",
+        "description": "Engineering principles, biology, technological challenges and state-of-the-art developments in the design of implantable biomimetic microelectronic devices that interface with the nervous system.",
+        "sections": [
+            {
+                "section": "29263R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "8 of 14",
+                "instructor": "Ted Berger",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "29270D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Megan McCain",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "501",
+        "course_name": "Advanced Topics in Biomedical Systems",
+        "units": "(4.0 units)",
+        "description": "Advanced topics in selected biomedical systems: cardiopulmonary, neuromuscular, renal and endocrine. Duplicates credit in BME 503ab.",
+        "sections": [
+            {
+                "section": "29275D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "14 of 20",
+                "instructor": "Stan Yamashiro",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29280D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "22 of 31",
+                "instructor": "Stan Yamashiro,William Yang",
+                "location": "RTH109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "502",
+        "course_name": "Advanced Studies of the Nervous System",
+        "units": "(4.0 units)",
+        "description": "Advanced topics on the structure and function of the nervous system examined from the viewpoint of computational systems science. Duplicates credit in BME 512.",
+        "sections": [
+            {
+                "section": "29285D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "2 of 10",
+                "instructor": "Jennifer Treweek",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29290D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "8 of 70",
+                "instructor": "Jennifer Treweek",
+                "location": "OHE120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "505A",
+        "course_name": "Laboratory Projects in Biomedical Engineering",
+        "units": "(4.0 units)",
+        "description": "Integration of biomedical science, engineering principles and state-of-the-art technology for the study of selected physiological systems in the laboratory setting. Laboratory.",
+        "sections": [
+            {
+                "section": "29282D",
+                "session": "048",
+                "type": "Lecture-Lab",
+                "start_time": 750,
+                "end_time": 860,
+                "days": 32,
+                "registered": "18 of 25",
+                "instructor": "Brent Liu",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "511",
+        "course_name": "Physiological Control Systems",
+        "units": "(4.0 units)",
+        "description": "Application of control theory to physiological systems; static analysis of closed-loop systems; time-domain analysis of linear control identification methods; nonlinear control.",
+        "sections": [
+            {
+                "section": "29296D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "5 of 70",
+                "instructor": "Michael Khoo",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29297R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "5 of 60",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29298D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "32 of 45",
+                "instructor": "Michael Khoo",
+                "location": "OHE100B"
+            },
+            {
+                "section": "29299R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "32 of 70",
+                "instructor": "",
+                "location": "OHE132"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "513",
+        "course_name": "Signal and Systems Analysis",
+        "units": "(4.0 units)",
+        "description": "Classification; representation; statistical analysis; orthogonal expansions; least-squares estimation; harmonic analysis; Fourier, Laplace and Z transforms; the linear system; filtering; modeling and simulation; linear control theory.",
+        "sections": [
+            {
+                "section": "29287D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "13 of 60",
+                "instructor": "Vasilis Marmarelis",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "527",
+        "course_name": "Integration of Medical Imaging Systems",
+        "units": "(4.0 units)",
+        "description": "Introduce basic concepts of Medical Imaging Informatics with an introduction to clinical information systems (eg, PACS, RIS, EMR) related to the imaging workflow in a clinical healthcare enterprise",
+        "sections": [
+            {
+                "section": "29305D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "3 of 20",
+                "instructor": "Brent Liu",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29306D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "25 of 28",
+                "instructor": "Brent Liu",
+                "location": "OHE120"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "533",
+        "course_name": "Seminar in Bioengineering",
+        "units": "(1.0 units, max 3)",
+        "description": "Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29315D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 720,
+                "days": 32,
+                "registered": "8 of 11",
+                "instructor": "Jennifer Treweek",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29316D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "10 of 45",
+                "instructor": "Jennifer Treweek",
+                "location": "RTH105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "535",
+        "course_name": "Ultrasonic Imaging",
+        "units": "(4.0 units)",
+        "description": "Introduce ultrasonic imaging and its biomedical applications, including ultrasonic transducers, ultrasound systems, Doppler flow measurements, Doppler imaging and photoacoustic imaging as well as labs.",
+        "sections": [
+            {
+                "section": "29322D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 34,
+                "registered": "11 of 15",
+                "instructor": "Qifa Zhou",
+                "location": "THH112"
+            },
+            {
+                "section": "29323R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "11 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "540",
+        "course_name": "Biofluid Mechanics: Transport and Circulatory Systems",
+        "units": "(4.0 units)",
+        "description": "An analytical and theoretical introduction to fluid dynamics and transport phenomena of the physiological systems such as cardiovascular, respiratory and renal system.",
+        "sections": [
+            {
+                "section": "28898R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "0 of 35",
+                "instructor": "Niema Pahlevan",
+                "location": "KAP156"
+            },
+            {
+                "section": "28933D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "0 of 20",
+                "instructor": "Niema Pahlevan",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "559",
+        "course_name": "Nanomedicine and Drug Delivery",
+        "units": "(4.0 units)",
+        "description": "Drug delivery and use of nanoengineered materials, including cutting-edge nanoparticle-based therapy, imaging and tissue engineering. Nanotoxicology and the regulatory landscape is introduced.",
+        "sections": [
+            {
+                "section": "29279D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Eun Ji Chung",
+                "location": "DRB145"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29330D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 28",
+                "instructor": "Megan McCain",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "29335D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "29340D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "29345D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Current trends and developments in the field of biomedical engineering.",
+        "sections": [
+            {
+                "section": "29368D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "10 of 16",
+                "instructor": "Peter Yingxiao Wang",
+                "location": "DRB145"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "608",
+        "course_name": "Wearable Technology",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of wearable technology; sensing, signal processing, RF communication, power sources, power management, energy harvesting, flexible substrates and electronics, and wearable algorithms.",
+        "sections": [
+            {
+                "section": "30406R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 35",
+                "instructor": "Eun Kim",
+                "location": "KAP147"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "650",
+        "course_name": "Biomedical Measurement and Instrumentation",
+        "units": "(4.0 units)",
+        "description": "Design of biomedical instrumentation and diagnostic devices (aspects such as mechanics, electronic architecture and chemical and biological components) used to measure physiological parameters",
+        "sections": [
+            {
+                "section": "29360D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "20 of 25",
+                "instructor": "Jerry Loeb,Maral Mousavi,William Yang",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research applicable to the doctorate. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29370D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "60 of 80",
+                "instructor": "Megan McCain",
+                "location": "OFFICE"
+            },
+            {
+                "section": "29371D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 50",
+                "instructor": "Megan McCain",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29395D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29396D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29397D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29398D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BME",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "29399D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

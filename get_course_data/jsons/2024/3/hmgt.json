@@ -1,0 +1,139 @@
+[
+    {
+        "term": "20243",
+        "department": "HMGT",
+        "course_num": "520",
+        "course_name": "Leading People and Health Care Organizations",
+        "units": "(4.0 units)",
+        "description": "Exploration of contemporary workforce issues and skills development in organizational design, performance measurement, teamwork, conflict resolution, leadership, and change management. Open to MHM students only.",
+        "sections": [
+            {
+                "section": "51712D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 10",
+                "instructor": "Lisa Ozaeta",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HMGT",
+        "course_num": "570",
+        "course_name": "Strategic Management",
+        "units": "(4.0 units)",
+        "description": "Provides skill development and application in the integrative discipline of strategic management including assessment, strategy formulation implementation and control. Open to MHM students only.",
+        "sections": [
+            {
+                "section": "51714D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 10",
+                "instructor": "Gary Blackard",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HMGT",
+        "course_num": "575",
+        "course_name": "Managing and Improving Health",
+        "units": "(4.0 units)",
+        "description": "Methods for monitoring and improving the health of populations. Topics include outcomes management, risk-adjustment, development and implementation of practice guidelines. Open to MHM students only.",
+        "sections": [
+            {
+                "section": "51715D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 25",
+                "instructor": "Glenn Melnick",
+                "location": "ONLINE"
+            },
+            {
+                "section": "51716D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "23 of 28",
+                "instructor": "Glenn Melnick",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HMGT",
+        "course_num": "600",
+        "course_name": "Managing Risk",
+        "units": "(2.0 units)",
+        "description": "Overview of reimbursement models in clinical and institutional settings; legal, financial and clinical assumption of risk pursuant to new and evolving federal and state statutory and regulatory provisions. Open only to EMHA students.",
+        "sections": [
+            {
+                "section": "51717D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 10",
+                "instructor": "Michael Harris",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HMGT",
+        "course_num": "601",
+        "course_name": "Operations Management for Accountability",
+        "units": "(4.0 units)",
+        "description": "Hospital operations in the inpatient/outpatient setting; special emphasis on the growing requirement to more effectively manage across the continuum of care while assuming greater accountability in the delivery of care. Open only to EMHA students.",
+        "sections": [
+            {
+                "section": "51718D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 17",
+                "instructor": "Michael Harris",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HMGT",
+        "course_num": "603",
+        "course_name": "Developing & Monitoring of Quality & Patient Safety Outcomes",
+        "units": "(2.0 units)",
+        "description": "Overview of contemporary methods used to develop and monitor patient quality and safety outcomes; develop skill in data collection and analysis of clinical care outcomes; focus on operationalizing outcomes that matter to payers, organizations, and clinicians. Open only to EMHA students.",
+        "sections": [
+            {
+                "section": "51720D",
+                "session": "820",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 8",
+                "instructor": "Michael Harris",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1068 @@
+[
+    {
+        "term": "20243",
+        "department": "BISC",
+        "course_num": "102",
+        "course_name": "Humans and Their Environment",
+        "units": "(4.0 units)",
+        "description": "An examination of the physical and biological laws that influence agriculture, pollution, population dynamics (including humans), climate, biodiversity and ecosystem structure and function. Not available for major credit.",
+        "sections": [
+            {
+                "section": "13000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "144 of 144",
+                "instructor": "Carly Kenkel",
+                "location": "THH301"
+            },
+            {
+                "section": "13101R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13104R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13106R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13107R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13108R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13109R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13111R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13112R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            },
+            {
+                "section": "13113R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS257"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BISC",
+        "course_num": "150",
+        "course_name": "The Nature of Human Health and Disease",
+        "units": "(4.0 units)",
+        "description": "The human organism; the nature of inherited and acquired diseases;the biological and societal basis for the AIDS epidemic; therapy,drug design and the future. Not available for major credit.",
+        "sections": [
+            {
+                "section": "13007R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "95 of 96",
+                "instructor": "Raffaella Ghittoni,Rory Spence",
+                "location": "ZHS159"
+            },
+            {
+                "section": "13212R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Hasti Asrari",
+                "location": "ZHS458"
+            },
+            {
+                "section": "13213R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Hasti Asrari",
+                "location": "ZHS458"
+            },
+            {
+                "section": "13214R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "Hasti Asrari",
+                "location": "ZHS458"
+            },
+            {
+                "section": "13215R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Yiming Zhao",
+                "location": "ZHS458"
+            },
+            {
+                "section": "13216R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Yiming Zhao",
+                "location": "ZHS458"
+            },
+            {
+                "section": "13220R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "Yiming Zhao",
+                "location": "ZHS458"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "BISC",
+        "course_num": "230",
+        "course_name": "The Biology of the Brain",
+        "units": "(4.0 units)",
+        "description": "Exploration of the unique properties of brain cells that allow complex perceptions and behaviors; examination of structure and activity of brain cells that underlie function.",
+        "sections": [
+            {
+                "section": "13250R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 42,
+                "registered": "48 of 48",
+                "instructor": "Rita Barakat",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "13253R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS372"
+            },
+            {
+                "section": "13254R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS372"
+            },
+            {
+                "section": "13256R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHS372"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CHEM",
+        "course_num": "205",
+        "course_name": "Chemical Forensics: The Science, and Its Impact",
+        "units": "(4.0 units)",
+        "description": "Scientific principles underlying forensic approaches to the investigation of crimes and its societal impact on law, culture and media. Not available for major credit.",
+        "sections": [
+            {
+                "section": "17356R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "90 of 90",
+                "instructor": "Thomas Bertolini,Rebecca Broyer",
+                "location": "SLH102"
+            },
+            {
+                "section": "17358R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17360R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 2,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17362R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17364R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17366R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            },
+            {
+                "section": "17368R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "",
+                "location": "SGM307"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "150",
+        "course_name": "Climate Change",
+        "units": "(4.0 units)",
+        "description": "Exploration of factors that influence climate and the scientific basis for concern about rising greenhouse gases, the threat to human society know as global warming.",
+        "sections": [
+            {
+                "section": "24920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "134 of 135",
+                "instructor": "Lowell Stott",
+                "location": "SAL101"
+            },
+            {
+                "section": "24923R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Tanaya Gondhalekar",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24925R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adit Ghosh",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24926R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Lily Dodd",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24928R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adit Ghosh",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24929R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "15 of 15",
+                "instructor": "Tanaya Gondhalekar",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24930R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "15 of 15",
+                "instructor": "Lily Dodd",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24931R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "15 of 15",
+                "instructor": "Adit Ghosh",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24932R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "Tanaya Gondhalekar",
+                "location": "ZHSB54"
+            },
+            {
+                "section": "24934R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "15 of 15",
+                "instructor": "Lily Dodd",
+                "location": "ZHSB54"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GEOL",
+        "course_num": "240",
+        "course_name": "Earthquakes",
+        "units": "(4.0 units)",
+        "description": "Causes of earthquakes and nature of large faults; earthquake hazard and risk; world's great earthquakes; understanding the Richter scale. Lecture, 3 hours; laboratory, 2 hours; one fieldtrip required.",
+        "sections": [
+            {
+                "section": "24950R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "93 of 96",
+                "instructor": "James Dolan",
+                "location": "SAL101"
+            },
+            {
+                "section": "24952D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24954R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24956D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24962R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24964R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24966R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "14 of 16",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24967R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "15 of 16",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24973D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "ZHSB63"
+            },
+            {
+                "section": "24974D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "2 of 15",
+                "instructor": "",
+                "location": "ZHSB63"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "200",
+        "course_name": "The Human Animal",
+        "units": "(4.0 units)",
+        "description": "Foundations of the human species. Examination of scientific evidence from Darwinian theory, primate behavior, fossils, and the behavior of modern people. Laboratory. Duplicates credit in former ANTH 200Lg.",
+        "sections": [
+            {
+                "section": "38511R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "143 of 144",
+                "instructor": "Craig Stanford",
+                "location": "MRF340"
+            },
+            {
+                "section": "38513R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38515R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "16 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38516R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "15 of 16",
+                "instructor": "David Meszaros",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38517R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38518R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38522R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 16,
+                "registered": "16 of 16",
+                "instructor": "Alexandria Koedel",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38528R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38537R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            },
+            {
+                "section": "38538R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 32,
+                "registered": "16 of 16",
+                "instructor": "Koray Yilmaz",
+                "location": "PEDB13"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HBIO",
+        "course_num": "205",
+        "course_name": "The Science of Sport",
+        "units": "(4.0 units)",
+        "description": "The physiological and nutritional basis of human performance. Factors that facilitate and limit athletic achievement. Lecture, 3 hours; laboratory, 2 hours. Not available for major credit. Duplicates credit in former EXSC 205Lxg.",
+        "sections": [
+            {
+                "section": "38411R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "79 of 90",
+                "instructor": "Helen (Eleni) Soultanakis",
+                "location": "WPHB27"
+            },
+            {
+                "section": "38420R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "86 of 90",
+                "instructor": "Helen (Eleni) Soultanakis",
+                "location": "WPHB27"
+            },
+            {
+                "section": "38412R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "18 of 18",
+                "instructor": "Helaine Lopes",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38413R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "18 of 18",
+                "instructor": "Helaine Lopes",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38414R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "17 of 18",
+                "instructor": "Lisa Le",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38415R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "15 of 18",
+                "instructor": "Lisa Le",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38416R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 4,
+                "registered": "17 of 18",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38422R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 8,
+                "registered": "18 of 18",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38423R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "12 of 18",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38424R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "14 of 18",
+                "instructor": "Joshua Carlos",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38425R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Gudrun Floyd",
+                "location": "PEDB16"
+            },
+            {
+                "section": "38426R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "18 of 18",
+                "instructor": "Charles (Kiki) Crawford",
+                "location": "PEDB16"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "110",
+        "course_name": "In a Word",
+        "units": "(4.0 units)",
+        "description": "Words as tools for discovering properties of the human mind. How words are formed of and form various units. Experiments exploring judgments about word interpretation.",
+        "sections": [
+            {
+                "section": "38802R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Hajime Hoji",
+                "location": "DMC100"
+            },
+            {
+                "section": "38808R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS207"
+            },
+            {
+                "section": "38809R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "285",
+        "course_name": "Human Language and Technology",
+        "units": "(4.0 units)",
+        "description": "Study of human linguistic competence and technologies that simulate it. Phonetics, vibration and signal processing, speech recognition, neural networks.",
+        "sections": [
+            {
+                "section": "38838D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "116 of 120",
+                "instructor": "Khalil Iskarous",
+                "location": "THH102"
+            },
+            {
+                "section": "38894R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 2,
+                "registered": "19 of 20",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "38896R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "38898R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "LVL3C"
+            },
+            {
+                "section": "38900R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 20",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "38902D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "38904R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "18 of 20",
+                "instructor": "",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PHYS",
+        "course_num": "200",
+        "course_name": "The Physics and Technology of Energy",
+        "units": "(4.0 units)",
+        "description": "Investigation of energy technologies, including development and implementation issues. Topics include the Industrial Revolution, electromagnetic induction, power transmission, combustion engines, fission and fusion. Not available for major credit.",
+        "sections": [
+            {
+                "section": "50490R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 42,
+                "registered": "18 of 24",
+                "instructor": "Peter Chung",
+                "location": "SLH100"
+            },
+            {
+                "section": "50491R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "13 of 14",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            },
+            {
+                "section": "50492R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "5 of 14",
+                "instructor": "Joseph Vandiver",
+                "location": "SGM314"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "265",
+        "course_name": "The Water Planet",
+        "units": "(4.0 units)",
+        "description": "An exploration of earth's water, ranging from water properties, chemistry, and pollution, to groundwater dynamics, watershed processes, and oceanic-atmospheric circulation. Implications for past and future societies. Lecture and laboratory.",
+        "sections": [
+            {
+                "section": "35637R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "John Wilson",
+                "location": "KAP158"
+            },
+            {
+                "section": "35641R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "VPDLL101"
+            },
+            {
+                "section": "35642R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "WPHB36"
+            }
+        ]
+    }
+]

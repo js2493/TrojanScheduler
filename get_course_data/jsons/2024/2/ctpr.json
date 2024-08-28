@@ -1,0 +1,622 @@
+[
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "240",
+        "course_name": "Practicum in Production",
+        "units": "(2.0-4.0 units)",
+        "description": "Basic production techniques; introduction to the cinematic elements, production techniques, and equipment; film and/or videotape production. Not available for major credit to CNTV majors.",
+        "sections": [
+            {
+                "section": "18471D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "21 of 21",
+                "instructor": "Bonnie Blake,Sam Rocco",
+                "location": "SCESTG1"
+            },
+            {
+                "section": "18473D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 42,
+                "registered": "15 of 21",
+                "instructor": "Petra Haffter,James Okeeffe",
+                "location": "SCESTG2"
+            },
+            {
+                "section": "18475D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 42,
+                "registered": "20 of 21",
+                "instructor": "Todd Louiso,Jeremy Royce",
+                "location": "SCESTG1"
+            },
+            {
+                "section": "18476D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 42,
+                "registered": "21 of 21",
+                "instructor": "Robert Kositchek,Seth Koury",
+                "location": "SCESTG1"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "428",
+        "course_name": "Summer Production Workshop",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "To investigate disciplines of Cinema-TV with emphasis on one of the following areas: writing, directing, editing, camera, sound, producing, interactive, computer animation or digital.",
+        "sections": [
+            {
+                "section": "18452D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 770,
+                "days": 20,
+                "registered": "8 of 14",
+                "instructor": "Uttera Singh",
+                "location": "SCESTG1"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "460",
+        "course_name": "Film Business Procedures and Distribution",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Financing, budgeting, management as applied to films; problems of distribution, including merchandising, cataloging, evaluation, and film library management.",
+        "sections": [
+            {
+                "section": "18487D",
+                "session": "287",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 950,
+                "days": 30,
+                "registered": "21 of 21",
+                "instructor": "David Maquiling",
+                "location": "SCA209"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "515",
+        "course_name": "Global Exchange Workshop",
+        "units": "(2.0 units, max 4)",
+        "description": "An intense workshop in documentary filmmaking. Student teams from USC and a Chinese university make short documentaries on Los Angeles and Beijing as global cities.",
+        "sections": [
+            {
+                "section": "18607D",
+                "session": "775",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 8",
+                "instructor": "Pablo Frasconi",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "540",
+        "course_name": "Intermediate Sound",
+        "units": "(2.0 units)",
+        "description": "Practical and aesthetic considerations relating to recording, editing and sound design.",
+        "sections": [
+            {
+                "section": "18610D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1320,
+                "days": 18,
+                "registered": "20 of 21",
+                "instructor": "Izumi Morocco",
+                "location": "SCAB130"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "573",
+        "course_name": "Developing and Producing the Advanced Project",
+        "units": "(2.0 units)",
+        "description": "An advanced preproduction workshop in which students complete the development and production planning of an advanced project to be executed in CTPR 581 or CTPR 582.",
+        "sections": [
+            {
+                "section": "18615D",
+                "session": "037",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 20,
+                "registered": "9 of 9",
+                "instructor": "Josie Andrews,",
+                "location": "SCA362"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "581A",
+        "course_name": "Individual Production Workshop",
+        "units": "(4.0 units)",
+        "description": "Individual experimental projects involving the creative use of visuals (live action or animated) and sound. Qualifying courses: CTPR 532 (for directors); CTPR 558 (for producers). Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18620D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 11",
+                "instructor": "Brenda Goodman",
+                "location": "TBA"
+            },
+            {
+                "section": "18621D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 10",
+                "instructor": "Helaine Head",
+                "location": "TBA"
+            },
+            {
+                "section": "18721D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "581B",
+        "course_name": "Individual Production Workshop",
+        "units": "(2.0 units)",
+        "description": "Individual experimental projects involving the creative use of visuals (live action or animated) and sound. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18628D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Brenda Goodman",
+                "location": "TBA"
+            },
+            {
+                "section": "18629D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 10",
+                "instructor": "Steven Albrezzi",
+                "location": "TBA"
+            },
+            {
+                "section": "18725D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "581C",
+        "course_name": "Individual Production Workshop",
+        "units": "(2.0 units)",
+        "description": "Individual experimental projects involving the creative use of visuals (live action or animated) and sound. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18636D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Brenda Goodman",
+                "location": "TBA"
+            },
+            {
+                "section": "18637D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "18638D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "581Z",
+        "course_name": "Individual Production Workshop",
+        "units": "(0.0 units)",
+        "description": "Individual experimental projects involving the creative use of visuals (live action or animated) and sound. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18645D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "18727D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "18729D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "18731D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "582A",
+        "course_name": "Advanced Production Seminar",
+        "units": "(2.0 units)",
+        "description": "Advanced individual film or video projects under the guidance of a faculty mentor, without benefit of university equipment or resources. Qualifying courses: CTPR 532 (for directors); CTPR 558 (for producers). Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18660D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Steven Albrezzi",
+                "location": "TBA"
+            },
+            {
+                "section": "18665D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Richard Burton",
+                "location": "TBA"
+            },
+            {
+                "section": "18668D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "John Watson",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "582B",
+        "course_name": "Advanced Production Seminar",
+        "units": "(2.0 units)",
+        "description": "Advanced individual film or video projects under the guidance of a faculty mentor, without benefit of university equipment or resources. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18631D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "18671D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "18673D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "18674D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "582Z",
+        "course_name": "Advanced Production Seminar",
+        "units": "(0.0 units)",
+        "description": "Advanced individual film or video projects under the guidance of a faculty mentor, without benefit of university equipment or resources. Open to Production students only.",
+        "sections": [
+            {
+                "section": "18681D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "18682D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "18735D",
+                "session": "044",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "585A",
+        "course_name": "Advanced Producing Project",
+        "units": "(2.0 units)",
+        "description": "Supervised, individual study leading to the creation of a producer's package. The package will include script, schedule, budget, finance and marketing plan. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18691D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "18692D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "585B",
+        "course_name": "Advanced Producing Project",
+        "units": "(2.0 units)",
+        "description": "Supervised, individual study leading to the creation of a producer's package. The package will include script, schedule, budget, finance and marketing plan. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18693D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Brenda Goodman",
+                "location": "TBA"
+            },
+            {
+                "section": "18794D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "585Z",
+        "course_name": "Advanced Producing Project",
+        "units": "(0.0 units)",
+        "description": "Supervised, individual study leading to the creation of a producer's package. The package will include script, schedule, budget, finance and marketing plan. Graded IP/Letter.",
+        "sections": [
+            {
+                "section": "18695D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "18696D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "587A",
+        "course_name": "Group Production Workshop",
+        "units": "(4.0 units)",
+        "description": "Advanced group project involving the creative use of visuals (live action or animated) and sound specifically designed for students who want to work in pairs. Qualifying courses: CTPR 532 (for directors); CTPR 558 (for producers).",
+        "sections": [
+            {
+                "section": "18697D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Everett Lewis",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "CTPR",
+        "course_number": "587B",
+        "course_name": "Group Production Workshop",
+        "units": "(2.0 units)",
+        "description": "Advanced group project involving the creative use of visuals (live action or animated) and sound specifically designed for students who want to work in pairs.",
+        "sections": [
+            {
+                "section": "18796D",
+                "session": "921",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Scott Kroopf",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,445 @@
+[
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "122",
+        "course_name": "Elementary Polish I",
+        "units": "(4.0 units)",
+        "description": "Structure of the language, pronunciation, basic communication, and reading in modern Polish.",
+        "sections": [
+            {
+                "section": "60205D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "4 of 12",
+                "instructor": "Andrzej Brylak",
+                "location": "WPH603"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "199",
+        "course_name": "Chess and Critical Thinking",
+        "units": "(2.0 units)",
+        "description": "Analysis of significant chess games, reflecting societal attitudes towards science, competition, art, gender, psychology, politics, and technology. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60212R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Jack Peters",
+                "location": "THH205"
+            },
+            {
+                "section": "60214R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "19 of 19",
+                "instructor": "Jack Peters",
+                "location": "THH205"
+            },
+            {
+                "section": "60215R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "19 of 19",
+                "instructor": "Jack Peters",
+                "location": "THH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "220",
+        "course_name": "Intermediate Polish I",
+        "units": "(4.0 units)",
+        "description": "Designed for students continuing their study of Polish language into the third semester. Aimed at motivated students who are already fluent at the basic level.",
+        "sections": [
+            {
+                "section": "60206R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1060,
+                "days": 20,
+                "registered": "3 of 12",
+                "instructor": "Andrzej Brylak",
+                "location": "DMC259"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "310",
+        "course_name": "The Eastern European Jewish Experience: Literature and Film",
+        "units": "(4.0 units)",
+        "description": "Analyzes works by different artists -- writers, filmmakers, painters -- in order to understand the significant contribution that the Jewish experience in Eastern Europe has made to Jewish communities worldwide.",
+        "sections": [
+            {
+                "section": "60221R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "28 of 28",
+                "instructor": "Andrzej Brylak",
+                "location": "DMC257"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "330",
+        "course_name": "Russian Thought and Civilization",
+        "units": "(4.0 units)",
+        "description": "Russian cultural identity from its beginnings until today. The Eastern Orthodox tradition, its traumatic confrontation with Western culture, and their continuous interaction.",
+        "sections": [
+            {
+                "section": "60231R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "Dmitrii Kuznetsov",
+                "location": "DMC105"
+            },
+            {
+                "section": "60232R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "Dmitrii Kuznetsov",
+                "location": "WPH203"
+            },
+            {
+                "section": "60228R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "49 of 50",
+                "instructor": "Peter Winsky",
+                "location": "VPD116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "345",
+        "course_name": "Literature and Philosophy: Dostoevsky",
+        "units": "(4.0 units)",
+        "description": "Dostoevsky's novels as psychological and philosophical analyses of modern alienated man. Readings in Dostoevsky and selections from Gide, Kafka, Camus, and Sartre. Conducted in English.",
+        "sections": [
+            {
+                "section": "60234D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "20 of 24",
+                "instructor": "Chloe Papadopoulos",
+                "location": "DMC207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "390",
+        "course_name": "Special Problems",
+        "units": "(1.0-4.0 units)",
+        "description": "Supervised, individual studies. No more than one registration permitted. Enrollment by petition only.",
+        "sections": [
+            {
+                "section": "60237R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 8",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "500",
+        "course_name": "Topics in Advanced Russian",
+        "units": "(2.0 units, max 8)",
+        "description": "Study of Russian required for graduate work and professional activities.",
+        "sections": [
+            {
+                "section": "60240R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "1 of 6",
+                "instructor": "Evgeny Dengub",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "501",
+        "course_name": "Proseminar in Russian Literature",
+        "units": "(3.0 units)",
+        "description": "Introduction to graduate study of Russian literature; research methods, bibliography, transliteration, development of critical writing skills.",
+        "sections": [
+            {
+                "section": "60244R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "0 of 8",
+                "instructor": "Colleen McQuillen",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "523",
+        "course_name": "Methods of Teaching Russian as a Foreign Language",
+        "units": "(2.0 units)",
+        "description": "Introduces future Assistant Lecturers to the communicative method of teaching Russian and focuses on theories and methods of teaching the language, as well as key concepts of second language acquisition.",
+        "sections": [
+            {
+                "section": "60248R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 4,
+                "registered": "1 of 7",
+                "instructor": "Evgeny Dengub",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "545",
+        "course_name": "19th Century Russian Poetry",
+        "units": "(3.0 units)",
+        "description": "Analysis of major works of nineteenth century Russian poetry in the context of developing aesthetic principles and cultural history. Prereq: 501 or consent of instructor.",
+        "sections": [
+            {
+                "section": "60254R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "4 of 12",
+                "instructor": "Sally Pratt",
+                "location": "WPH603"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60256R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "660",
+        "course_name": "Seminar on Single Author or Work",
+        "units": "(3.0 units, max 9)",
+        "description": "Theme varies from year to year. An author or major work will be selected for intensive study; research paper required. May be repeated, with departmental permission, if content of the seminar is different. Recommended preparation: one year of graduate study.",
+        "sections": [
+            {
+                "section": "60270R",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "2 of 8",
+                "instructor": "Alexander Zholkovsky",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "60276R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "60278R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "60280R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "60282R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "60284D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC",
+        "sections": [
+            {
+                "section": "60286R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

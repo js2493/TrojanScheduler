@@ -1,0 +1,195 @@
+[
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "102",
+        "course_name": "World Music",
+        "units": "(4.0 units)",
+        "description": "Exploration of music and cultures of the world. Engagement with international musicians, global issues, field work and musical diasporas in Los Angeles.",
+        "sections": [
+            {
+                "section": "47203R",
+                "session": "070",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 770,
+                "days": 28,
+                "registered": "21 of 50",
+                "instructor": "Scott Spencer",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "498",
+        "course_name": "Internship in Music",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty. Open only to Bachelor of Music and Bachelor of Arts, Music majors only. Not available for graduate credit. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47280D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47281D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47282D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "598",
+        "course_name": "Internship in Music",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty. Open only to music majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47286D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47287D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47288D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "798",
+        "course_name": "Internship in Music",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty. Open only to doctoral students in music. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47294D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47295D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47296D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUSC",
+        "course_number": "800",
+        "course_name": "Studies for the Qualifying Examination in Music",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Duplicates credit in GRSC-800. CR/NC.",
+        "sections": [
+            {
+                "section": "47297D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47298D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            },
+            {
+                "section": "47299D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

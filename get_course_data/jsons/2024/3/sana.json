@@ -1,0 +1,3238 @@
+[
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "181",
+        "course_name": "Disruptive Innovation",
+        "units": "(4.0 units)",
+        "description": "Critical approaches to social and cultural changes stemming from disruptive innovations in the arts, science, technology, communications, new media, politics and business. Open only to Arts, Technology and the Business of Innovation students.",
+        "sections": [
+            {
+                "section": "10209D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "67 of 67",
+                "instructor": "Chris Swain,Michael Kanazawa",
+                "location": "IYH210/211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "101",
+        "course_name": "Race and Class in Los Angeles",
+        "units": "(4.0 units)",
+        "description": "Analysis of race and the economic, political, gender, and social dimensions of contemporary Los Angeles including topics such as residential segregation, economic inequality, and city politics.",
+        "sections": [
+            {
+                "section": "10310R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Juan De Lara",
+                "location": "THH201"
+            },
+            {
+                "section": "10311R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Ana Briz",
+                "location": "KAP147"
+            },
+            {
+                "section": "10312R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Ana Briz",
+                "location": "SOSB41"
+            },
+            {
+                "section": "10313R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Cathleen Mejico",
+                "location": "ZHS360"
+            },
+            {
+                "section": "10314R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Cathleen Mejico",
+                "location": "ZHS360"
+            },
+            {
+                "section": "10315R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Irina Sandoval",
+                "location": "SGM601"
+            },
+            {
+                "section": "10316R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Irina Sandoval",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "135",
+        "course_name": "Peoples and Cultures of the Americas",
+        "units": "(4.0 units)",
+        "description": "An introduction to cultures and people in the Americas; the social, historical, economic and cultural formations that together make up the Latino/a American imaginary.",
+        "sections": [
+            {
+                "section": "10320R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Shawn McDaniel",
+                "location": "SGM101"
+            },
+            {
+                "section": "10321R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "10322R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SOSB41"
+            },
+            {
+                "section": "10323R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH112"
+            },
+            {
+                "section": "10324R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "10326R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "SOSB48"
+            },
+            {
+                "section": "10328R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "200",
+        "course_name": "Introduction to American Studies and Ethnicity",
+        "units": "(4.0 units)",
+        "description": "Introduction to American studies and ethnic studies. Provides an overview of major theories, concepts, and issues.",
+        "sections": [
+            {
+                "section": "10345R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "45 of 45",
+                "instructor": "Evelyn Alsultany",
+                "location": "THH114"
+            },
+            {
+                "section": "10348R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "24 of 26",
+                "instructor": "Nicole Oveisi",
+                "location": "MRF229"
+            },
+            {
+                "section": "10349R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "21 of 26",
+                "instructor": "Nicole Oveisi",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "204",
+        "course_name": "Introduction to Native Studies",
+        "units": "(4.0 units)",
+        "description": "Overview of Native American studies, including Indigenous intellectualism and resistance through language revitalization, film-making, and the recognition of one another.",
+        "sections": [
+            {
+                "section": "10356R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "30 of 30",
+                "instructor": "Chris Finley",
+                "location": "THH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "215",
+        "course_name": "Race and Mixed Race",
+        "units": "(4.0 units)",
+        "description": "Examines the politics of interracial marriage and intimacy, mixed race identities, and trans-racial adoption.",
+        "sections": [
+            {
+                "section": "10358R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Evelyn Alsultany",
+                "location": "THH114"
+            },
+            {
+                "section": "10357R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Meghan Tiller",
+                "location": "GFS107"
+            },
+            {
+                "section": "10359R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Meghan Tiller",
+                "location": "GFS107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "252",
+        "course_name": "Black Social Movements in the U.S.",
+        "units": "(4.0 units)",
+        "description": "This course examines black social movements for freedom, justice, equality, and self determination. Beginning with Reconstruction, movements include labor, civil rights, radical feminism, socialism, reparations, Black Nationalism, prisoners' rights, and Hip Hop.",
+        "sections": [
+            {
+                "section": "10381R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Francille Wilson",
+                "location": "THH202"
+            },
+            {
+                "section": "10382R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Maya McKeever",
+                "location": "GFS207"
+            },
+            {
+                "section": "10383R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "19 of 25",
+                "instructor": "Aaliyah Allen",
+                "location": "KAP165"
+            },
+            {
+                "section": "10384R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Aaliyah Allen",
+                "location": "KAP166"
+            },
+            {
+                "section": "10385R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Maya McKeever",
+                "location": "KAP163"
+            },
+            {
+                "section": "10386R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Julian Kuffour",
+                "location": "DMC155"
+            },
+            {
+                "section": "10387R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Julian Kuffour",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "101",
+        "course_name": "Body, Mind and Healing: Introduction to Medical Anthropology",
+        "units": "(4.0 units)",
+        "description": "The body, illness and healing from a cultural perspective, including comparative studies of folk healing systems, curing rituals and Western biomedical practices.",
+        "sections": [
+            {
+                "section": "10600R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP141"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "140",
+        "course_name": "Mesoamerican Cosmovision and Culture",
+        "units": "(4.0 units)",
+        "description": "An exploration of the nature and contributions of pre-Columbian high civilizations (Maya, Aztecs, etc.) and their descendants as they resist and assimilate to the modern world.",
+        "sections": [
+            {
+                "section": "10601R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Eric Heller",
+                "location": "THH102"
+            },
+            {
+                "section": "10602R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "THH112"
+            },
+            {
+                "section": "10603R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "THH112"
+            },
+            {
+                "section": "10604R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "GFS104"
+            },
+            {
+                "section": "10605R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Eric Heller",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "201",
+        "course_name": "Introduction to Sociocultural Anthropology",
+        "units": "(4.0 units)",
+        "description": "Introduction to sociocultural anthropology, emphasizing the study of human values and social structures across diverse examples. Readings in ethnography and social analysis. Gateway course for the Anthropology Major.",
+        "sections": [
+            {
+                "section": "10610R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 42,
+                "registered": "96 of 100",
+                "instructor": "Emily Zeamer,Joel Ferrall,Sook Lin Toh",
+                "location": "MRF340"
+            },
+            {
+                "section": "10611R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "23 of 25",
+                "instructor": "Joel Ferrall",
+                "location": "KAP159"
+            },
+            {
+                "section": "10612R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Joel Ferrall",
+                "location": "KAP159"
+            },
+            {
+                "section": "10613R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Sook Lin Toh",
+                "location": "KAP167"
+            },
+            {
+                "section": "10614R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Sook Lin Toh",
+                "location": "SOSB52"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "202",
+        "course_name": "Archaeology: Our Human Past",
+        "units": "(4.0 units)",
+        "description": "Archaeology as the means of investigating our shared human past, from the origins of humanity to the foundations of current civilization.",
+        "sections": [
+            {
+                "section": "10615D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "88 of 88",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS106"
+            },
+            {
+                "section": "10616R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "6 of 28",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10617R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10718R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            },
+            {
+                "section": "10719R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "29 of 29",
+                "instructor": "Tracie Mayfield",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "203",
+        "course_name": "Global Media",
+        "units": "(4.0 units)",
+        "description": "An anthropological approach to examine social and cultural practices of media production, circulation and consumption, engaging with a variety of multimedia.",
+        "sections": [
+            {
+                "section": "10902D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "24 of 24",
+                "instructor": "Jennifer Cool",
+                "location": "WPHB28"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "220",
+        "course_name": "Anthropology of the Environment",
+        "units": "(4.0 units)",
+        "description": "Introduces students to anthropological inquiry into human relationships with the environment and provides foundational training in qualitative research methods to investigate environmental issues.",
+        "sections": [
+            {
+                "section": "10769R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "22 of 22",
+                "instructor": "Luisa Reis Castro",
+                "location": "GFS222"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "263",
+        "course_name": "Exploring Culture through Film",
+        "units": "(4.0 units)",
+        "description": "Concepts of social anthropology, using filmic representations of societies throughout the world. Gateway course for the Anthropology major.",
+        "sections": [
+            {
+                "section": "10660R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "97 of 97",
+                "instructor": "Xochitl Ruiz,Brodie Quinn,Shaoyu Tang",
+                "location": "GFS106"
+            },
+            {
+                "section": "10661R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Brodie Quinn",
+                "location": "KAP167"
+            },
+            {
+                "section": "10662R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Brodie Quinn",
+                "location": "KAP166"
+            },
+            {
+                "section": "10663R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Shaoyu Tang",
+                "location": "KAP164"
+            },
+            {
+                "section": "10664R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "22 of 22",
+                "instructor": "Shaoyu Tang",
+                "location": "KAP164"
+            },
+            {
+                "section": "10665R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "97 of 98",
+                "instructor": "Jennifer Cool,Grace Simbulan,Guanyizhuo Yao",
+                "location": "WPHB27"
+            },
+            {
+                "section": "10666R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Grace Simbulan",
+                "location": "GFS108"
+            },
+            {
+                "section": "10667D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "20 of 21",
+                "instructor": "Guanyizhuo Yao",
+                "location": "THH207"
+            },
+            {
+                "section": "10668R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 16,
+                "registered": "32 of 32",
+                "instructor": "Guanyizhuo Yao",
+                "location": "WPH107"
+            },
+            {
+                "section": "10669R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "20 of 20",
+                "instructor": "Grace Simbulan",
+                "location": "THH207"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "316",
+        "course_name": "Native Americans in American Public Life",
+        "units": "(4.0 units)",
+        "description": "Role of Native Americans in American public life from colonial times to the present; Native American societies and governments and their relations to the U.S.",
+        "sections": [
+            {
+                "section": "10680R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "79 of 100",
+                "instructor": "Tok Thompson",
+                "location": "THH102"
+            },
+            {
+                "section": "10681R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH110"
+            },
+            {
+                "section": "10682R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH112"
+            },
+            {
+                "section": "10683R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            },
+            {
+                "section": "10684R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "5 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "324",
+        "course_name": "Contemporary China: Cultural Politics and Social Realities",
+        "units": "(4.0 units)",
+        "description": "Everyday life, politics, social transformations, and cultural practices in the People's Republic of China, from cultural studies and social science perspectives.",
+        "sections": [
+            {
+                "section": "10762R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 40,
+                "registered": "30 of 30",
+                "instructor": "Jenny Chio",
+                "location": "WPH206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "332",
+        "course_name": "Anthropology and Narrative Medicine",
+        "units": "(4.0 units)",
+        "description": "Exploration of illness, disability, and healing narratives, how narratives are culturally shaped, and their significance for western biomedical practices.",
+        "sections": [
+            {
+                "section": "10628D",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "22 of 23",
+                "instructor": "Kristiana Willsey",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "338",
+        "course_name": "Food in Culture and Society",
+        "units": "(4.0 units)",
+        "description": "An introduction to the field of food studies, as a historical and cross-disciplinary study of the place of food in culture and society.",
+        "sections": [
+            {
+                "section": "10687D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "23 of 23",
+                "instructor": "Xochitl Ruiz",
+                "location": "KAP140"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "190",
+        "course_name": "History of Science: Antiquity to the Scientific Revolution",
+        "units": "(4.0 units)",
+        "description": "Introduction to the history of premodern science and the social and intellectual processes and practices that have shaped the work of scientists.",
+        "sections": [
+            {
+                "section": "19895R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "43 of 50",
+                "instructor": "Alexandre Roberts",
+                "location": "THH116"
+            },
+            {
+                "section": "19896R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 25",
+                "instructor": "Harry Strawson",
+                "location": "DMC209"
+            },
+            {
+                "section": "19897R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Harry Strawson",
+                "location": "SOSB37"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "150",
+        "course_name": "East Asian Societies",
+        "units": "(4.0 units)",
+        "description": "Main patterns of change in modern China, Japan, and Korea;historical framework and the insights of geography, economics,political science, and other disciplines.",
+        "sections": [
+            {
+                "section": "25800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "200 of 200",
+                "instructor": "Kin Tak Raymond Tsang",
+                "location": "THH201"
+            },
+            {
+                "section": "25802R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC209"
+            },
+            {
+                "section": "25804R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KDC241"
+            },
+            {
+                "section": "25807R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Zerui Pan",
+                "location": "KDC241"
+            },
+            {
+                "section": "25810R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC211"
+            },
+            {
+                "section": "25812R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "25816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Zerui Pan",
+                "location": "DMC200"
+            },
+            {
+                "section": "25820R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH214"
+            },
+            {
+                "section": "25821R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "100",
+        "course_name": "Introduction to Environmental Studies",
+        "units": "(4.0 units)",
+        "description": "Gateway to the majors and minors in environmental studies. Provides students with an overview of how government agencies and societal institutions address (or fail to address) the interrelated social and scientific aspects of environmental problems and policies.",
+        "sections": [
+            {
+                "section": "33000D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "33 of 35",
+                "instructor": "Scott Applebaum",
+                "location": "THH118"
+            },
+            {
+                "section": "33001R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 620,
+                "days": 20,
+                "registered": "35 of 35",
+                "instructor": "Kritika Malhotra",
+                "location": "WPH207"
+            },
+            {
+                "section": "33002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "35 of 35",
+                "instructor": "Andres Sanchez",
+                "location": "WPH207"
+            },
+            {
+                "section": "33003R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 710,
+                "days": 20,
+                "registered": "32 of 32",
+                "instructor": "Victoria Campbell-Arvai",
+                "location": "DMC258"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENST",
+        "course_num": "150",
+        "course_name": "Environmental Issues in Society",
+        "units": "(4.0 units)",
+        "description": "Exploration of the major social, political, economic, religious, and philosophical disagreements that exist between scholars, leaders, and citizens concerning today's most serious environmental issues and problems. Not available for credit to environmental studies majors and minors.",
+        "sections": [
+            {
+                "section": "33005R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "80 of 80",
+                "instructor": "Shannon Gibson",
+                "location": "GFS116"
+            },
+            {
+                "section": "33007R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC106"
+            },
+            {
+                "section": "33008R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "33009R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC160"
+            },
+            {
+                "section": "33010R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "GFS114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GERO",
+        "course_num": "320",
+        "course_name": "Psychology of Adult Development",
+        "units": "(4.0 units)",
+        "description": "How psychologists study thinking, memory, emotions, personality, and behavior, and how people change in these throughout adulthood to old age.",
+        "sections": [
+            {
+                "section": "36220D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 30",
+                "instructor": "Deborah Fui-Yuen Hoe",
+                "location": "GER115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GESM",
+        "course_num": "130",
+        "course_name": "Seminar in Social Analysis",
+        "units": "(4.0 units)",
+        "description": "Individual and collective human action as it shapes and is shaped by economic organizations, political institutions, and broad social and cultural settings. (Satisfies GE-C, Social Analysis) Open only to Freshmen.",
+        "sections": [
+            {
+                "section": "35421R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Kristiana Willsey",
+                "location": "DMC151"
+            },
+            {
+                "section": "35423D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "14 of 15",
+                "instructor": "Lon Kurashige",
+                "location": "SOSB48"
+            },
+            {
+                "section": "35426R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Tracie Mayfield",
+                "location": "KAP138"
+            },
+            {
+                "section": "35427R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Elaine Bell Kaplan",
+                "location": "DMC105"
+            },
+            {
+                "section": "35429R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Elisabeth Shimada",
+                "location": "DMC105"
+            },
+            {
+                "section": "35430R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Sarah Benor",
+                "location": "LVL3B"
+            },
+            {
+                "section": "35431R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Francesca Ricciardelli",
+                "location": "THH205"
+            },
+            {
+                "section": "35432R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Elisabeth Shimada",
+                "location": "DMC106"
+            },
+            {
+                "section": "35433R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Monalisa Chatterjee",
+                "location": "OFFICE"
+            },
+            {
+                "section": "35434R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Eduardo Romero Dianderas",
+                "location": "GFS202"
+            },
+            {
+                "section": "35435R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Elisabeth Shimada",
+                "location": "DMC107"
+            },
+            {
+                "section": "35436R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Zuzanna Fuchs",
+                "location": "GFS114"
+            },
+            {
+                "section": "35437R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Jessica Kanoski",
+                "location": "GFS202"
+            },
+            {
+                "section": "35438R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Oded Marom",
+                "location": "GFS113"
+            },
+            {
+                "section": "35443R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Elaine Bell Kaplan",
+                "location": "DMC207"
+            },
+            {
+                "section": "35444R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Oded Marom",
+                "location": "GFS111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GESM",
+        "course_num": "131",
+        "course_name": "Seminar in Social Analysis",
+        "units": "(4.0 units)",
+        "description": "The causes and consequences of social phenomena; quantitative and qualitative methods of the social sciences; how people behave and influence the world through cultural forms. Offered by a professional school.",
+        "sections": [
+            {
+                "section": "35448R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Laura Castaneda,Caroline Cicero",
+                "location": "ANN209"
+            },
+            {
+                "section": "35449R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "15 of 16",
+                "instructor": "Emma Aguila Vega",
+                "location": "RGL215"
+            },
+            {
+                "section": "35450R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Laura Davis",
+                "location": "DMC208"
+            },
+            {
+                "section": "35451R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Eugenia Mora-Flores",
+                "location": "LVL3V"
+            },
+            {
+                "section": "35456R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "16 of 16",
+                "instructor": "Najmedin Meshkati",
+                "location": "GFS202"
+            },
+            {
+                "section": "35457R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "15 of 15",
+                "instructor": "Min-Kyoung Rhee",
+                "location": "DMC208"
+            },
+            {
+                "section": "35458R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Daniela Baroffio",
+                "location": "ASC328"
+            },
+            {
+                "section": "35459R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "15 of 15",
+                "instructor": "Stacy Smith",
+                "location": "ANN211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "211",
+        "course_name": "Race in America",
+        "units": "(4.0 units)",
+        "description": "Examines the origins of the idea of race and how this idea influenced the development of the United States from the colonial period to the present day.",
+        "sections": [
+            {
+                "section": "37028R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 20,
+                "registered": "93 of 100",
+                "instructor": "Andrew Shaler",
+                "location": "GFS106"
+            },
+            {
+                "section": "37033R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "Akane Takahashi",
+                "location": "THH215"
+            },
+            {
+                "section": "37034R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Jhelene Shaw",
+                "location": "DMC257"
+            },
+            {
+                "section": "37035R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Akane Takahashi",
+                "location": "WPH206"
+            },
+            {
+                "section": "37036R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jhelene Shaw",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "250",
+        "course_name": "Climate Change: Science, History and Solutions",
+        "units": "(4.0 units)",
+        "description": "History and science of anthropogenic climate change; climate dynamics; carbon cycle; climate modeling; fossil fuel economy; climate denial and political tactics; group research of solutions.",
+        "sections": [
+            {
+                "section": "37030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "100 of 100",
+                "instructor": "Joshua Goldstein,Victoria Petryshyn",
+                "location": "SLH102"
+            },
+            {
+                "section": "37031R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Spenser Carroll-Johnson",
+                "location": "DMC209"
+            },
+            {
+                "section": "37032R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Spenser Carroll-Johnson",
+                "location": "DMC207"
+            },
+            {
+                "section": "37041R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Basak Karaca",
+                "location": "WPHB30"
+            },
+            {
+                "section": "37042R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Basak Karaca",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37107R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Brett Sheehan",
+                "location": "SGM101"
+            },
+            {
+                "section": "37108R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ruohan Zhou",
+                "location": "DMC160"
+            },
+            {
+                "section": "37109R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ruohan Zhou",
+                "location": "DMC154"
+            },
+            {
+                "section": "37111R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sharon Salgado Martinez",
+                "location": "DMC211"
+            },
+            {
+                "section": "37112R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sharon Salgado Martinez",
+                "location": "DMC201"
+            },
+            {
+                "section": "37113R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kurt Woolford",
+                "location": "KAP167"
+            },
+            {
+                "section": "37114R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kurt Woolford",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HP",
+        "course_num": "365",
+        "course_name": "Culture, Lifestyle, and Health",
+        "units": "(4.0 units)",
+        "description": "Comparison of national and international differences in health status as influenced by cultural practices and lifestyles within geographic, economic, and political environments.",
+        "sections": [
+            {
+                "section": "40594D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "42 of 43",
+                "instructor": "Heather Wipfli",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "101",
+        "course_name": "International Relations",
+        "units": "(4.0 units)",
+        "description": "Basic concepts of world affairs for non-majors. Development ofcompetency to understand and critically evaluate global relationsand international events, stressing empirical approaches. Not available for major credit.",
+        "sections": [
+            {
+                "section": "37710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Douglas Becker",
+                "location": "MHP101"
+            },
+            {
+                "section": "37711R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC154"
+            },
+            {
+                "section": "37712R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "37713R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "26 of 26",
+                "instructor": "",
+                "location": "THH213"
+            },
+            {
+                "section": "37714R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC158"
+            },
+            {
+                "section": "37715R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH214"
+            },
+            {
+                "section": "37716R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "IR",
+        "course_num": "210",
+        "course_name": "International Relations: Introductory Analysis",
+        "units": "(4.0 units)",
+        "description": "Comprehensive introduction to contending theoretical and analytical approaches; development of critical, evaluative, cognitive, and analytical competencies regarding historical and contemporary issues.",
+        "sections": [
+            {
+                "section": "37729R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "37730R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC161"
+            },
+            {
+                "section": "37731R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "37720R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "200 of 200",
+                "instructor": "Alix Ziff",
+                "location": "SGM124"
+            },
+            {
+                "section": "37721R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH121"
+            },
+            {
+                "section": "37723R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH108"
+            },
+            {
+                "section": "37724R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC207"
+            },
+            {
+                "section": "37726R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC155"
+            },
+            {
+                "section": "37728R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC155"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "180",
+        "course_name": "Judaism",
+        "units": "(4.0 units)",
+        "description": "Jewish beliefs, practices, and history from the biblical period to the present; Judaic contributions to Western civilization.",
+        "sections": [
+            {
+                "section": "38261R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Sarah Benor,Leah Hochman",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "211",
+        "course_name": "The Holocaust",
+        "units": "(4.0 units)",
+        "description": "Historical background and responses to the Holocaust, withspecial emphasis on ethical implications.",
+        "sections": [
+            {
+                "section": "38255R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "99 of 100",
+                "instructor": "Michael Rom,Leah Hochman",
+                "location": "ZHS159"
+            },
+            {
+                "section": "38256R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "THH110"
+            },
+            {
+                "section": "38257R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "THH108"
+            },
+            {
+                "section": "38258R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "DMC200"
+            },
+            {
+                "section": "38259R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "Timothy Werlinger",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "379",
+        "course_name": "Mixing and Matching: Intermarriage in 21st Century",
+        "units": "(4.0 units)",
+        "description": "An investigation into inter-ethnic, interracial, and inter-religious marriage in the 21st century.",
+        "sections": [
+            {
+                "section": "38225R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Bruce Phillips,Leah Hochman",
+                "location": "DMC158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "115",
+        "course_name": "Language and Society",
+        "units": "(4.0 units)",
+        "description": "Discourse patterns among diverse social groups in institutional and interpersonal settings; interrelationships among language practices and gender, socioeconomic status, ethnicity; social structures and cultural values as reflected in language policies and practices.",
+        "sections": [
+            {
+                "section": "38812R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "120 of 120",
+                "instructor": "Andrew Simpson",
+                "location": "GFS106"
+            },
+            {
+                "section": "38813R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "38814R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "38815R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "38816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "GFS114"
+            },
+            {
+                "section": "38817R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "38819R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "38837R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "119 of 120",
+                "instructor": "Andrew Simpson",
+                "location": "GFS106"
+            },
+            {
+                "section": "38844R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "38846R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Andrew Simpson",
+                "location": "KAP134"
+            },
+            {
+                "section": "38848R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP137"
+            },
+            {
+                "section": "38850R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "38922R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "38924R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "38972R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "104 of 120",
+                "instructor": "Mary Byram Washburn",
+                "location": "ZHS159"
+            },
+            {
+                "section": "38925R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "THH115"
+            },
+            {
+                "section": "38930R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "THH115"
+            },
+            {
+                "section": "38931R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "38932R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "38937R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "DMC204"
+            },
+            {
+                "section": "38939R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "11 of 11",
+                "instructor": "",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "100",
+        "course_name": "Theory and Practice of American Democracy",
+        "units": "(4.0 units)",
+        "description": "Theoretical, institutional, and functional aspects of American national, state, and local government and politics; contemporary issues. Recommended for freshmen and sophomores.",
+        "sections": [
+            {
+                "section": "51900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "100 of 100",
+                "instructor": "Morris Levy",
+                "location": "THH102"
+            },
+            {
+                "section": "51901R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 4,
+                "registered": "23 of 25",
+                "instructor": "",
+                "location": "DMC200"
+            },
+            {
+                "section": "51902R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "27 of 27",
+                "instructor": "",
+                "location": "THH217"
+            },
+            {
+                "section": "51903R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC154"
+            },
+            {
+                "section": "51904R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "130",
+        "course_name": "Law, Politics and Public Policy",
+        "units": "(4.0 units)",
+        "description": "Interaction between law and politics; overview of the American legal system; value conflicts and public policy questions which arise within it.",
+        "sections": [
+            {
+                "section": "51920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "199 of 200",
+                "instructor": "Samuel Zacher",
+                "location": "SGM123"
+            },
+            {
+                "section": "51921R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC257"
+            },
+            {
+                "section": "51922R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC109"
+            },
+            {
+                "section": "51923R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH217"
+            },
+            {
+                "section": "51924R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC154"
+            },
+            {
+                "section": "51925R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB10"
+            },
+            {
+                "section": "51926R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC160"
+            },
+            {
+                "section": "51927R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 16,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "DMC205"
+            },
+            {
+                "section": "51928R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "POSC",
+        "course_num": "248",
+        "course_name": "Human Rights",
+        "units": "(4.0 units)",
+        "description": "Overview of human rights controversies across the globe. Introduction to techniques of analysis for social issues, interdisciplinary research methods, and interpretation of complex political problems.",
+        "sections": [
+            {
+                "section": "51945R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Steve Swerdlow",
+                "location": "THH201"
+            },
+            {
+                "section": "51932R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 510,
+                "end_time": 560,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "51933R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "51936R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC209"
+            },
+            {
+                "section": "51937R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPD",
+        "course_num": "240",
+        "course_name": "Citizenship and Public Ethics",
+        "units": "(4.0 units)",
+        "description": "Review of legal and ethical traditions of citizenship withemphasis on the latter; consideration of implications for currentpractice of public policy-making and management.",
+        "sections": [
+            {
+                "section": "51140D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "35 of 40",
+                "instructor": "Grace Bahng",
+                "location": "VPD116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PPD",
+        "course_num": "245",
+        "course_name": "The Urban Context",
+        "units": "(4.0 units)",
+        "description": "The urban context for planning and policy decisions. Socioeconomic, physical and spatial structure of cities; and the underlying demographic, economic and social processes that drive their ongoing transformation.",
+        "sections": [
+            {
+                "section": "51105D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "66 of 66",
+                "instructor": "Marlon Boarnet",
+                "location": "VPD105"
+            },
+            {
+                "section": "51127D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "60 of 65",
+                "instructor": "Todd Gish",
+                "location": "RGL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "353",
+        "course_name": "Close Relationships",
+        "units": "(4.0 units)",
+        "description": "Scientific perspective of close relationships: intimate relationships, friendships and others, evolutionary and biological bases of attraction and love, historical, social , cultural influences. Prerequisite: PSYC 100. (Duplicates credit in PSYC 359)",
+        "sections": [
+            {
+                "section": "52547R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Miranda Barone",
+                "location": "VPD105"
+            },
+            {
+                "section": "52548R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Miranda Barone",
+                "location": "VPD105"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PSYC",
+        "course_num": "367",
+        "course_name": "Stress, Health, and the Mind-Body Connection",
+        "units": "(4.0 units)",
+        "description": "Introduction to psychological, biological and behavioral processes affecting physical health, including stress, coping with disease, health behaviors and socioeconomic and cultural influences on health.",
+        "sections": [
+            {
+                "section": "52568R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "40 of 40",
+                "instructor": "Sourena Haj-Mohamadi",
+                "location": "DMC152"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SOCI",
+        "course_num": "169",
+        "course_name": "Changing Family Forms",
+        "units": "(4.0 units)",
+        "description": "The peculiarity of the \"modern\" Western family system in historical and cross-cultural perspective; focus on the \"postmodern\" family crisis in the United States.",
+        "sections": [
+            {
+                "section": "61430R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Daniela Urbina Julio",
+                "location": "SLH100"
+            },
+            {
+                "section": "61431R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Gianne Sheena Umemura",
+                "location": "GFS104"
+            },
+            {
+                "section": "61432R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Gianne Sheena Umemura",
+                "location": "THHB9"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SOCI",
+        "course_num": "200",
+        "course_name": "Introduction to Sociology",
+        "units": "(4.0 units)",
+        "description": "Basic concepts of sociology with special reference to group life,social institutions, and social processes.",
+        "sections": [
+            {
+                "section": "61440R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Robert Werth",
+                "location": "MHP101"
+            },
+            {
+                "section": "61441R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Zissis Marmarelis",
+                "location": "DMC205"
+            },
+            {
+                "section": "61442R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Nathan Tsang",
+                "location": "GFS220"
+            },
+            {
+                "section": "61443R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Arnab Chakraborty",
+                "location": "DMC161"
+            },
+            {
+                "section": "61444R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Arnab Chakraborty",
+                "location": "DMC209"
+            },
+            {
+                "section": "61455R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Nathan Tsang",
+                "location": "KAP166"
+            },
+            {
+                "section": "61456R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Zissis Marmarelis",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SOCI",
+        "course_num": "210",
+        "course_name": "Science, Technology, and Social Conflict",
+        "units": "(4.0 units)",
+        "description": "Science and technology change society and how we understand ourselves. In turn, social struggles influence science. We will explore the interplay between these forces.",
+        "sections": [
+            {
+                "section": "61445R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "50 of 50",
+                "instructor": "Dan Lainer-Vos",
+                "location": "THH212"
+            },
+            {
+                "section": "61446R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Adam Gill",
+                "location": "THHB9"
+            },
+            {
+                "section": "61447R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Adam Gill",
+                "location": "GFS213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SOCI",
+        "course_num": "242",
+        "course_name": "Sociology, Demography and Health",
+        "units": "(4.0 units)",
+        "description": "Sociological and demographic concepts focusing on the causes of disease, health and wellness. Empirical analysis of population composition and its connection to health.",
+        "sections": [
+            {
+                "section": "61540R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Juliana Mc Gene",
+                "location": "THH202"
+            },
+            {
+                "section": "61541R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Stephanie Wilson-Gonzalez",
+                "location": "DMC206"
+            },
+            {
+                "section": "61542R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Stephanie Wilson-Gonzalez",
+                "location": "THHB10"
+            },
+            {
+                "section": "61543R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "61544R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS108"
+            },
+            {
+                "section": "61545R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Marianne Knai",
+                "location": "KAP167"
+            },
+            {
+                "section": "61547R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Marianne Knai",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SOCI",
+        "course_num": "250",
+        "course_name": "Grassroots Participation in Global Perspective",
+        "units": "(4.0 units)",
+        "description": "Theory and history behind the ideal of \"the local, grassroots volunteer\": a direct link between theory and research using Los Angeles as a case study.",
+        "sections": [
+            {
+                "section": "61465D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Hajar Yazdiha",
+                "location": ""
+            },
+            {
+                "section": "61468R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "61469R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SOCI",
+        "course_num": "270",
+        "course_name": "Sociological Theory",
+        "units": "(4.0 units)",
+        "description": "Historical and contemporary approaches to sociological theory; analysis of conceptual frameworks applied to the study of society and social interaction.",
+        "sections": [
+            {
+                "section": "61508R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Robert Werth",
+                "location": "THH108"
+            },
+            {
+                "section": "61511R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Alexandra Brewer",
+                "location": "SOSB41"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "165",
+        "course_name": "Sustainability Science in the City",
+        "units": "(4.0 units)",
+        "description": "The influence of sustainability science on public policy and vice versa in the context of social/ethical theories, analytical methods and solutions.",
+        "sections": [
+            {
+                "section": "35628R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "115 of 120",
+                "instructor": "Robert Vos",
+                "location": "MRF340"
+            },
+            {
+                "section": "35629R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "David Flores Moctezuma",
+                "location": "THH205"
+            },
+            {
+                "section": "35630R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "20 of 20",
+                "instructor": "David Flores Moctezuma",
+                "location": "SGM226"
+            },
+            {
+                "section": "35631R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "19 of 20",
+                "instructor": "Junhong Duan",
+                "location": "THH113"
+            },
+            {
+                "section": "35632R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Junhong Duan",
+                "location": "DMC202"
+            },
+            {
+                "section": "35633R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "17 of 20",
+                "instructor": "Junhong Duan",
+                "location": "KAP138"
+            },
+            {
+                "section": "35634R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "David Flores Moctezuma",
+                "location": "DMC202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "175",
+        "course_name": "Food, Health and Place",
+        "units": "(4.0 units)",
+        "description": "The role of food systems in human nutrition and environmental health, and system transformations needed to achieve good health, equity and sustainability.",
+        "sections": [
+            {
+                "section": "35645R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Kayla de la Haye",
+                "location": "DMC102"
+            },
+            {
+                "section": "35650R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THH121"
+            },
+            {
+                "section": "35654R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SSCI",
+        "course_num": "214",
+        "course_name": "Human Populations and Natural Hazards",
+        "units": "(4.0 units)",
+        "description": "Introduction to the complex relationship between human development and natural hazards, which are increasingly causing damage and displacement to human populations throughout the world.",
+        "sections": [
+            {
+                "section": "35635R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Diana Ter-Ghazaryan",
+                "location": "THH102"
+            },
+            {
+                "section": "35620R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "DMC155"
+            },
+            {
+                "section": "35621R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "THHB10"
+            },
+            {
+                "section": "35636R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "WPH203"
+            },
+            {
+                "section": "35651R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Shengjie Liu",
+                "location": "WPH203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SWMS",
+        "course_num": "105",
+        "course_name": "Identity Development of the Contemporary Female",
+        "units": "(4.0 units)",
+        "description": "Exploration of identity development in terms of social, political, and cultural constructs; examination of collegiate athletics and the contributions of women of color.",
+        "sections": [
+            {
+                "section": "34920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "THH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SWMS",
+        "course_num": "210",
+        "course_name": "Social Analysis of Gender",
+        "units": "(4.0 units)",
+        "description": "Multidisciplinary survey of gender assumptions in relation to sexuality, mental health, social and political relations, and artistic expression.",
+        "sections": [
+            {
+                "section": "34900R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "149 of 150",
+                "instructor": "Chris Belcher",
+                "location": "MHP101"
+            },
+            {
+                "section": "34906D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "Ethan Trejo",
+                "location": "DMC109"
+            },
+            {
+                "section": "34907R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ethan Trejo",
+                "location": "THH112"
+            },
+            {
+                "section": "34908R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kelso Becktol",
+                "location": "DMC211"
+            },
+            {
+                "section": "34909R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kelso Becktol",
+                "location": "THH108"
+            },
+            {
+                "section": "34910R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Luka Fisher",
+                "location": "THH121"
+            },
+            {
+                "section": "34911R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Luka Fisher",
+                "location": "DMC161"
+            }
+        ]
+    }
+]

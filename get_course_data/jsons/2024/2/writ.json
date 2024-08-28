@@ -1,0 +1,264 @@
+[
+    {
+        "term": "20242",
+        "department": "WRIT",
+        "course_number": "150",
+        "course_name": "Writing and Critical Reasoning--Thematic Approaches",
+        "units": "(4.0 units)",
+        "description": "Academic writing, emphasizing analysis and argumentation, rhetorical judgment, critical reasoning, creative insight, the careful use of evidence, ethical perspectives, logical organization, stylistic and grammatical fluency. Duplicates credit in WRIT 130 and WRIT 140.",
+        "sections": [
+            {
+                "section": "64232R",
+                "session": "067",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 30,
+                "registered": "13 of 13",
+                "instructor": "Daniel Dissinger",
+                "location": "ONLINE"
+            },
+            {
+                "section": "64332R",
+                "session": "067",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 30,
+                "registered": "12 of 12",
+                "instructor": "Sean Cosgrove",
+                "location": "ONLINE"
+            },
+            {
+                "section": "64432R",
+                "session": "067",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 890,
+                "days": 30,
+                "registered": "14 of 15",
+                "instructor": "Arsalan ul Haq",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "WRIT",
+        "course_number": "340",
+        "course_name": "Advanced Writing",
+        "units": "(3.0-4.0 units)",
+        "description": "Instruction in writing for various audiences on topics related to a student's professional or disciplinary interests, with some emphasis on issues of broad public concern. Prerequisite: WRIT 130 or WRIT 150.",
+        "sections": [
+            {
+                "section": "65003R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 10,
+                "registered": "17 of 18",
+                "instructor": "Jessica Piazza",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65004R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 20,
+                "registered": "17 of 18",
+                "instructor": "Benjamin Pack",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65007R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 20,
+                "registered": "16 of 16",
+                "instructor": "Chris Belcher",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65013R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 770,
+                "days": 10,
+                "registered": "13 of 14",
+                "instructor": "Corinna Schroeder",
+                "location": "GFS108"
+            },
+            {
+                "section": "65123R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 770,
+                "days": 20,
+                "registered": "16 of 18",
+                "instructor": "Amanda Bloom",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65125R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 630,
+                "end_time": 770,
+                "days": 20,
+                "registered": "12 of 12",
+                "instructor": "Emily Artiano",
+                "location": "DMC105"
+            },
+            {
+                "section": "65127R",
+                "session": "058",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 830,
+                "days": 10,
+                "registered": "9 of 9",
+                "instructor": "Michael Bunn",
+                "location": "DMC105"
+            },
+            {
+                "section": "65133R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 830,
+                "days": 20,
+                "registered": "14 of 16",
+                "instructor": "Brent Chappelow",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65135R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 690,
+                "end_time": 830,
+                "days": 20,
+                "registered": "17 of 17",
+                "instructor": "Laurie Fisher",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65143R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 20,
+                "registered": "17 of 17",
+                "instructor": "Maddox Pennington",
+                "location": "ONLINE"
+            },
+            {
+                "section": "65145R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Liz Blomstedt",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66746R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 10,
+                "registered": "19 of 19",
+                "instructor": "Lee Cerling",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66750R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "17 of 19",
+                "instructor": "Lee Cerling",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66755R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 680,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Jolanta Aritz",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66761R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 20,
+                "registered": "18 of 19",
+                "instructor": "Naomi Warren",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66854R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 10,
+                "registered": "16 of 19",
+                "instructor": "Bart Skarzynski",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66865R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 725,
+                "days": 20,
+                "registered": "15 of 19",
+                "instructor": "Bart Skarzynski",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66877R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 875,
+                "days": 20,
+                "registered": "11 of 19",
+                "instructor": "Amy Schroeder",
+                "location": "ONLINE"
+            },
+            {
+                "section": "66879R",
+                "session": "081",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 875,
+                "days": 10,
+                "registered": "15 of 19",
+                "instructor": "Melanie Johnson",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

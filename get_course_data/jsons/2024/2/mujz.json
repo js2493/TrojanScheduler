@@ -1,0 +1,260 @@
+[
+    {
+        "term": "20242",
+        "department": "MUJZ",
+        "course_number": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors.",
+        "sections": [
+            {
+                "section": "44495D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44501D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44509D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUJZ",
+        "course_number": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principal instrument for music minors and B.S. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "44512D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44520D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44528D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUJZ",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. No available for graduate credit.",
+        "sections": [
+            {
+                "section": "44652D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44653D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44654D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUJZ",
+        "course_number": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instruction for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "44663D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44675D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44686D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUJZ",
+        "course_number": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44758D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44759D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44760D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "MUJZ",
+        "course_number": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "44797D",
+                "session": "050",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44798D",
+                "session": "051",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            },
+            {
+                "section": "44799D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Jason Goldman",
+                "location": "TMC118"
+            }
+        ]
+    }
+]

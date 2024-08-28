@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "NEUR",
+        "course_number": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-4.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit. Departmental approval.",
+        "sections": [
+            {
+                "section": "47600D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 10",
+                "instructor": "David McKemy",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

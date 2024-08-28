@@ -1,0 +1,171 @@
+[
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "500",
+        "course_name": "Foundations of Library and Information Science",
+        "units": "(3.0 units)",
+        "description": "History and evolution of libraries and information organizations, including their structure, funding, role in society, and impact on the communities they serve.",
+        "sections": [
+            {
+                "section": "16950D",
+                "session": "706",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "19 of 30",
+                "instructor": "Ruth Wallach",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16951D",
+                "session": "706",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "18 of 30",
+                "instructor": "Michaela Ullmann",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "503",
+        "course_name": "Information Organization and Description for User Engagement",
+        "units": "(3.0 units)",
+        "description": "Theories, standards, and tools for the organization and description of information with the goal of equitable and inclusive access for users.",
+        "sections": [
+            {
+                "section": "16990D",
+                "session": "740",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "16 of 30",
+                "instructor": "Joshua Hutchinson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "509",
+        "course_name": "Information Sources and Services",
+        "units": "(3.0 units)",
+        "description": "Developments in reference and user services, including tools and processes for ethical information evaluation, retrieval and delivery for users in diverse library settings.",
+        "sections": [
+            {
+                "section": "16958D",
+                "session": "740",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "19 of 30",
+                "instructor": "Renee Di Pilato",
+                "location": "ONLINE"
+            },
+            {
+                "section": "16959D",
+                "session": "740",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "18 of 30",
+                "instructor": "Shannon Robinson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "519",
+        "course_name": "Leading Values-Driven Information Organizations",
+        "units": "(3.0 units)",
+        "description": "Effective application of interdisciplinary, community-centered leadership concepts in libraries and information organizations, with a focus on mission-driven, inclusive strategic planning and change management.",
+        "sections": [
+            {
+                "section": "16966D",
+                "session": "706",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 16,
+                "registered": "16 of 30",
+                "instructor": "Melissa Miller",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "552",
+        "course_name": "Strategic Information and Competitive Analysis",
+        "units": "(3.0 units)",
+        "description": "Searching sophisticated for-fee and free sources of information unique to particular industry client groups, synthesizing and translating information ethically to critical intelligence.",
+        "sections": [
+            {
+                "section": "16979R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Eimmy Solis",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "593",
+        "course_name": "Independent Research in Library and Information Management",
+        "units": "(2.0 units, max 4)",
+        "description": "Opportunity to pursue independent research in an area of interest above and beyond normal course offerings. Proposal, research and written report/paper required.",
+        "sections": [
+            {
+                "section": "16994R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Ruth Wallach",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LIM",
+        "course_num": "598",
+        "course_name": "Capstone in Library and Information Management",
+        "units": "(3.0 units)",
+        "description": "Knowledge and skills gained throughout the MMLIS program are synthesized in a culminating capstone project, and deployed in service of career advancement.",
+        "sections": [
+            {
+                "section": "17000R",
+                "session": "390",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 5",
+                "instructor": "Jade Winn",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

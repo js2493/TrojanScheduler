@@ -1,0 +1,215 @@
+[
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "800A",
+        "course_name": "Studies for the Qualifying Examination",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Students may enroll in GRSC 800, once they have completed all other degree requirements, to prepare for their Qualifying Examination.",
+        "sections": [
+            {
+                "section": "36601R",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 100",
+                "instructor": "Meredith Drake Reitan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "800B",
+        "course_name": "Studies for the Qualifying Examination",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Students may enroll in GRSC 800, once they have completed all other degree requirements, to prepare for their Qualifying Examination.",
+        "sections": [
+            {
+                "section": "36602R",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 100",
+                "instructor": "Meredith Drake Reitan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "800Z",
+        "course_name": "Studies for the Qualifying Examination",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Students may enroll in GRSC 800, once they have completed all other degree requirements, to prepare for their Qualifying Examination.",
+        "sections": [
+            {
+                "section": "36604R",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "Meredith Drake Reitan",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "801",
+        "course_name": "Enrollment for Early-Arriving PhD Students",
+        "units": "(0.0 units)",
+        "description": "This course is administratively created to accommodate PhD students who arrive early, typically the summer, who begin efforts with their academic unit.",
+        "sections": [
+            {
+                "section": "36605R",
+                "session": "401",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 500",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "36606R",
+                "session": "401",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 300",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "36607R",
+                "session": "183",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 300",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "36608R",
+                "session": "183",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "36609R",
+                "session": "144",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "36610R",
+                "session": "144",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "802",
+        "course_name": "Summer Enrollment for Continuing PhD Students",
+        "units": "(0.0 units)",
+        "description": "This course is administratively created to acccommodate continuing PhD students who are on campus during the summer for specific sponsored activities with their academic unit or in specific university-wide programs.",
+        "sections": [
+            {
+                "section": "36660R",
+                "session": "401",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1149 of 2000",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "36661R",
+                "session": "401",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "49 of 500",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "803",
+        "course_name": "Enrollment for PhD Students on an Approved Health Leave",
+        "units": "(1.0 unit)",
+        "description": "This course is administratively created to ensure continuing PhD students have access to health insurance and other support while on an approved health leave.",
+        "sections": [
+            {
+                "section": "36655D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "GRSC",
+        "course_number": "804",
+        "course_name": "Enrollment for PhD students on an Approved Parental Leave",
+        "units": "(1.0 unit)",
+        "description": "This course is administratively created to ensure continuing PhD students have access to health insurance and other support while on an approved parental leave.",
+        "sections": [
+            {
+                "section": "36600D",
+                "session": "059",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 100",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

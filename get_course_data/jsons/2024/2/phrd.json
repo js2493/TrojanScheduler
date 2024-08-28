@@ -1,0 +1,440 @@
+[
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "627B",
+        "course_name": "Longitudinal Elective Pharmacy Practice",
+        "units": "(0.0 units)",
+        "description": "For Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to an Elective Introductory Pharmacy Practice Experience (IPPE) after registering for PHRD 627a. The P2 and P3 Elective IPPE provides the student with 80 hours of experiential learning to develop skills related to various aspects of the pharmacy profession in a variety of settings.",
+        "sections": [
+            {
+                "section": "48627D",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "76 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48629D",
+                "session": "517",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "629B",
+        "course_name": "Longitudinal Community Pharmacy Practice",
+        "units": "(0.0 units)",
+        "description": "For Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to a Community Introductory Pharmacy Practice Experience (IPPE) after registering for PHRD 629a. The P2 and P3 Community IPPE provides the student with 80 hours of experiential learning to develop skills related to aspects of the pharmacy profession in the Community pharmacy setting.",
+        "sections": [
+            {
+                "section": "48631D",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48633D",
+                "session": "517",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "68 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "631B",
+        "course_name": "Longitudinal Institutional Pharmacy Practice",
+        "units": "(0.0 units)",
+        "description": "This course is for Year 2 pharmacy (P2) and Year 3 pharmacy (P3) students who are assigned to an Institutional Introductory Pharmacy Practice Experience (IPPE) after registering for PHRD 631a. The P2 and P3 Institutional IPPE provides the student with 80 hours of experiential learning to develop skills related to aspects of the pharmacy profession in the institutional pharmacy setting.",
+        "sections": [
+            {
+                "section": "48635D",
+                "session": "515",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "78 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48637D",
+                "session": "517",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "26 of 200",
+                "instructor": "Brian Ma,Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "701",
+        "course_name": "Acute Care Clinical APPE",
+        "units": "(6.0 units)",
+        "description": "Application of pharmaceutical care principles to the adult patient population in an acute care environment. Clinical application and disease state management will be emphasized. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48730R",
+                "session": "519",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48731D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48732D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "704",
+        "course_name": "Primary Care APPE",
+        "units": "(6.0 units)",
+        "description": "Disease state management and a primary care setting. Modification and design of drug therapy regimens and primary patient care using a team based approach. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48741D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "18 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48742D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "705",
+        "course_name": "Community Pharmacy APPE",
+        "units": "(6.0 units)",
+        "description": "Pharmaceutical care principles applied in a community pharmacy environment. Participating in the development, implementation and outcome evaluation of patient care services in the community. Open only to Doctor of Pharmacy students.",
+        "sections": [
+            {
+                "section": "48751D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "34 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48752D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "19 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "714",
+        "course_name": "Nuclear Pharmacy APPE",
+        "units": "(6.0 units)",
+        "description": "Provides practical and theoretical aspects of radiopharmacy services delivery.",
+        "sections": [
+            {
+                "section": "48791D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48792D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "718",
+        "course_name": "Hospital Pharmacy Practice APPE",
+        "units": "(6.0 units)",
+        "description": "Practical experience in the practice of hospital pharmacy. Administrative, practice-based and therapeutic competencies emphasized.",
+        "sections": [
+            {
+                "section": "48761D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48762D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "725",
+        "course_name": "International Pharmacy Practice Experience",
+        "units": "(3.0-6.0 units)",
+        "description": "Practical experience in the practice of pharmacy in the international setting. Students will visit an international pharmacy practice setting and complete a project.",
+        "sections": [
+            {
+                "section": "48721D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48722D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "731",
+        "course_name": "Advanced Geriatrics APPE",
+        "units": "(6.0 units)",
+        "description": "Directed projects/practical experience in geriatric drug therapy.",
+        "sections": [
+            {
+                "section": "48763D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48764D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "738",
+        "course_name": "Pharmaceutical Industry APPE",
+        "units": "(6.0 units, max 12)",
+        "description": "Practical experience within a pharmaceutical company may include: clinical affairs, drug development, research and/or marketing process.",
+        "sections": [
+            {
+                "section": "48711D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "7 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48712D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "750",
+        "course_name": "Advanced Pharmacy Practice Elective (APPE)",
+        "units": "(6.0 units, max 12)",
+        "description": "Pharmacy practice experience (internship) course in a health care setting.",
+        "sections": [
+            {
+                "section": "48760R",
+                "session": "516",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48771D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48772D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20242",
+        "department": "PHRD",
+        "course_number": "751",
+        "course_name": "Non-traditional Advanced Pharmacy Elective (APPE)",
+        "units": "(6.0 units, max 12)",
+        "description": "Pharmacy practice experience (internship) course in a non-traditional or emerging setting.",
+        "sections": [
+            {
+                "section": "48781D",
+                "session": "500",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "21 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            },
+            {
+                "section": "48782D",
+                "session": "518",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 200",
+                "instructor": "Ying Wang",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

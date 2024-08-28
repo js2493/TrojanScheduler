@@ -1,0 +1,756 @@
+[
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "153",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45900D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "David Moore,",
+                "location": "AES138A"
+            },
+            {
+                "section": "45905D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "2 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "45910D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45915D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45920D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "163",
+        "course_name": "Class Harp",
+        "units": "(2.0 units, max 4)",
+        "description": "Basic instruction in the fundamentals of solo harp playing, note reading, and basic musicianship.",
+        "sections": [
+            {
+                "section": "45923R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "11 of 12",
+                "instructor": "Joann Turovsky",
+                "location": "AES138A"
+            },
+            {
+                "section": "45924R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 12",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "253",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "45925D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "1 of 15",
+                "instructor": "David Moore,",
+                "location": "AES138A"
+            },
+            {
+                "section": "45930D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "45935D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45940D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "300",
+        "course_name": "Non-Major Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction designed for non-music majors. Not available for credit to music majors. Recommended preparation: MPST 101x.",
+        "sections": [
+            {
+                "section": "45955D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45960D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "45965D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45970D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 25",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45975D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "301",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 16)",
+        "description": "Intermediate and advanced instruction on secondary instrument for music majors, on principal instrument for music minors and B.A. music majors. Open only to music majors and minors.",
+        "sections": [
+            {
+                "section": "45980D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45985D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "45990D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "45995D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46000D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "353",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46005D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "David Moore,",
+                "location": "AES138A"
+            },
+            {
+                "section": "46010D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "1 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "46015D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46020D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46025D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "453",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46060D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "0 of 15",
+                "instructor": "David Moore,",
+                "location": "AES138A"
+            },
+            {
+                "section": "46065D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1310,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "46070D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46075D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46080D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "472",
+        "course_name": "Orchestra Repertoire--Strings",
+        "units": "(2.0 units, max 8)",
+        "description": "Orchestral literature for string players, covering a broad spectrum of the repertoire; emphasis on preparation for auditions.",
+        "sections": [
+            {
+                "section": "46110D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 8,
+                "registered": "Canceled",
+                "instructor": "Ben Hong",
+                "location": ""
+            },
+            {
+                "section": "46112D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 4,
+                "registered": "1 of 12",
+                "instructor": "Karen Dreyfus",
+                "location": "MUS204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "46125D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "501",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "Secondary instrument for graduate music majors or instruction for graduate non-music majors.",
+        "sections": [
+            {
+                "section": "46135D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46140D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "46145D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46150D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46155D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "553",
+        "course_name": "Individual Instruction",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "",
+        "sections": [
+            {
+                "section": "46185D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46190D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "46195D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46200D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46205D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "554",
+        "course_name": "Graduate Certificate Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Graduate Certificate students.",
+        "sections": [
+            {
+                "section": "46208D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 30",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the Master's Degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "46210D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "653",
+        "course_name": "Performance",
+        "units": "(1.0-2.0 units, max 12)",
+        "description": "Individual or master class instruction for D.M.A. Performance majors.",
+        "sections": [
+            {
+                "section": "46220D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46225D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Joann Turovsky",
+                "location": "RHM104"
+            },
+            {
+                "section": "46230D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46235D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            },
+            {
+                "section": "46240D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 15",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "754",
+        "course_name": "Artist Diploma Performance",
+        "units": "(4.0 units, max 16)",
+        "description": "Individual instruction and related lab participation for Artist Diploma students.",
+        "sections": [
+            {
+                "section": "46255D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MPST",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "46260D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "Lina Bahn",
+                "location": "RHM104"
+            }
+        ]
+    }
+]

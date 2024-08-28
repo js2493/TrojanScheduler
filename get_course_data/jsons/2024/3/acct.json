@@ -1,0 +1,918 @@
+[
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "370",
+        "course_name": "External Financial Reporting Issues",
+        "units": "(4.0 units)",
+        "description": "Understanding of decision-making, problem solving, and research skills as a supplement to financial accounting knowledge for accounting professionals.",
+        "sections": [
+            {
+                "section": "14025D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "33 of 33",
+                "instructor": "Richard Simitian",
+                "location": "BRI8"
+            },
+            {
+                "section": "14026D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "33 of 33",
+                "instructor": "Taylor Wiesen",
+                "location": "BRI8"
+            },
+            {
+                "section": "14027D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "33 of 33",
+                "instructor": "Richard Simitian",
+                "location": "BRI8"
+            },
+            {
+                "section": "14029R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "97 of 100",
+                "instructor": "Taylor Wiesen",
+                "location": "HOHEDI"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "371",
+        "course_name": "Introduction to Accounting Systems",
+        "units": "(4.0 units)",
+        "description": "Understanding of technology and controls needed to capture data used by professionals in financial and managerial accounting, auditing and taxation.",
+        "sections": [
+            {
+                "section": "14040D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Andreas Simon",
+                "location": "BRI8"
+            },
+            {
+                "section": "14041D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Andreas Simon",
+                "location": "BRI8"
+            },
+            {
+                "section": "14044R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 32,
+                "registered": "72 of 80",
+                "instructor": "Andreas Simon",
+                "location": "HOHEDI"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "410",
+        "course_name": "Foundations of Accounting",
+        "units": "(4.0 units)",
+        "description": "Non-technical presentation of accounting for users of accounting information; introduction to financial and managerial accounting. Not open to students with course credits in accounting. Not available for unit or course credit toward a degree in Accounting or Business.",
+        "sections": [
+            {
+                "section": "14090R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "47 of 47",
+                "instructor": "James Leonetti",
+                "location": "ACC201"
+            },
+            {
+                "section": "14091R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "42 of 42",
+                "instructor": "James Leonetti",
+                "location": "BRI5"
+            },
+            {
+                "section": "14093R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "45 of 45",
+                "instructor": "Elizabeth Woo",
+                "location": "ACC303"
+            },
+            {
+                "section": "14095R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Tracie Majors",
+                "location": "ACC201"
+            },
+            {
+                "section": "14096R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "47 of 47",
+                "instructor": "Greg Kling",
+                "location": "ACC201"
+            },
+            {
+                "section": "14097R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "38 of 38",
+                "instructor": "Robert Buce",
+                "location": "ACC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "416",
+        "course_name": "Financial Statement Analysis",
+        "units": "(4.0 units)",
+        "description": "Analysis of corporate financial reports from a decision-maker's perspective.",
+        "sections": [
+            {
+                "section": "14105R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "39 of 39",
+                "instructor": "Tony Aaron",
+                "location": "ACC236"
+            },
+            {
+                "section": "14106R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "37 of 36",
+                "instructor": "Tony Aaron",
+                "location": "ACC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "451",
+        "course_name": "Tax Analysis with Data Analytics",
+        "units": "(4.0 units)",
+        "description": "Capabilities to identify and analyze relevant tax issues; apply research tools to find solutions and provide alternate approaches using data analytics. Duplicates credit in the former ACCT 374 and the former ACCT 474.",
+        "sections": [
+            {
+                "section": "14061R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "34 of 34",
+                "instructor": "Shiing-Wu Wang",
+                "location": "BRI8"
+            },
+            {
+                "section": "14062R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "35 of 35",
+                "instructor": "Shiing-Wu Wang",
+                "location": "BRI8"
+            },
+            {
+                "section": "14063R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "69 of 73",
+                "instructor": "Shiing-Wu Wang",
+                "location": "HOH2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "456",
+        "course_name": "Auditing with Data Analytics",
+        "units": "(4.0 units)",
+        "description": "Auditing with data analytics from the perspective of management and other users of financial statements including external auditors and assurance professionals. Duplicates credit in the former ACCT 373 and the former ACCT 473.",
+        "sections": [
+            {
+                "section": "14056R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "34 of 36",
+                "instructor": "Tracie Majors",
+                "location": "ACC201"
+            },
+            {
+                "section": "14057R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "35 of 36",
+                "instructor": "Tracie Majors",
+                "location": "ACC201"
+            },
+            {
+                "section": "14058R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "69 of 90",
+                "instructor": "Tracie Majors",
+                "location": "HOH2"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "470",
+        "course_name": "Advanced External Financial Reporting Issues",
+        "units": "(4.0 units)",
+        "description": "Develop capabilities to identify and resolve advanced external financial reporting challenges, focusing primarily on operating, financing, and investing activities of business enterprises.",
+        "sections": [
+            {
+                "section": "14120R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "41 of 42",
+                "instructor": "Smrity Randhawa",
+                "location": "ACC303"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "14180D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "494",
+        "course_name": "Marshall Honors Research and Thesis",
+        "units": "(2.0 units, max 4)",
+        "description": "Experience in conducting research and writing a thesis under supervision of a faculty adviser.",
+        "sections": [
+            {
+                "section": "14188D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 10",
+                "instructor": "Maria Ogneva",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Selected topics reflecting current trends and recent developments in the field of accounting. Topics vary each semester.",
+        "sections": [
+            {
+                "section": "14098R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "37 of 38",
+                "instructor": "Mohammad Rafi Wadan",
+                "location": "ACC310"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "505",
+        "course_name": "Business Sustainability Reporting and Analysis",
+        "units": "(3.0 units)",
+        "description": "A critical analysis of practices in business sustainability reporting. Provides guidance for synthesizing information from corporate sustainability disclosures into traditional financial and valuation analyses.",
+        "sections": [
+            {
+                "section": "14321R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "6 of 6",
+                "instructor": "Richard Sloan",
+                "location": "JKP202"
+            },
+            {
+                "section": "14322R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "15 of 38",
+                "instructor": "Richard Sloan",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "528",
+        "course_name": "Fair Value Accounting: GAAP, IFRS and Emerging Issues",
+        "units": "(1.5 units)",
+        "description": "Case study approach to explore fair value issues in accounting; research and analysis of causes of valuation differences.",
+        "sections": [
+            {
+                "section": "14206R",
+                "session": "431",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "26 of 26",
+                "instructor": "Michael Tully",
+                "location": "JKP202"
+            },
+            {
+                "section": "14208R",
+                "session": "442",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "19 of 26",
+                "instructor": "Michael Tully",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "529",
+        "course_name": "Tax Data Analytics",
+        "units": "(3.0 units)",
+        "description": "Tax analytics from management's perspective; sources of accounting data, introduction to database and ERP tools; application of data and analytics to tax issues.",
+        "sections": [
+            {
+                "section": "14205R",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "29 of 36",
+                "instructor": "Charles Swenson",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "531T",
+        "course_name": "Taxation of Cross-Border Transactions Using Data Analytics",
+        "units": "(3.0 units)",
+        "description": "Introduction to income taxation of cross-border transactions, state/local and multinational tax rules; application of data and analytics tools to multijurisdictional tax issues.",
+        "sections": [
+            {
+                "section": "14252R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "17 of 30",
+                "instructor": "Charles Swenson,Shiing-Wu Wang",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "532",
+        "course_name": "Financial Accounting for Mergers and Acquisitions",
+        "units": "(1.5 units)",
+        "description": "Practical problems in accounting for business combinations. Consolidated financial statements: fair value, acquisition and equity basis accounting. Duplicates credit in former ACCT 582.",
+        "sections": [
+            {
+                "section": "14216R",
+                "session": "442",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "32 of 32",
+                "instructor": "George Braunegg",
+                "location": "JKP102"
+            },
+            {
+                "section": "14217R",
+                "session": "415",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "12 of 12",
+                "instructor": "George Braunegg",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "533",
+        "course_name": "Mergers and Acquisitions: Tax Planning and Strategy",
+        "units": "(1.5 units)",
+        "description": "Tax planning and strategy in corporate restructuring including mergers, acquisitions, and divestitures. Tax background not required to be successful in this course. Duplicates credit in former ACCT 582.",
+        "sections": [
+            {
+                "section": "14218R",
+                "session": "431",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "32 of 32",
+                "instructor": "Shiing-Wu Wang",
+                "location": "JKP102"
+            },
+            {
+                "section": "14219R",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "8 of 8",
+                "instructor": "Shiing-Wu Wang",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "549",
+        "course_name": "Advanced Enterprise Systems and Technologies",
+        "units": "(3.0 units)",
+        "description": "Design, control and development of advanced enterprise systems, using reengineering, focusing on accounting and financial systems, using a wide range of emerging existing technologies.",
+        "sections": [
+            {
+                "section": "14241R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "35 of 39",
+                "instructor": "Daniel O'Leary",
+                "location": "JKP102"
+            },
+            {
+                "section": "14242R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "32 of 39",
+                "instructor": "Daniel O'Leary",
+                "location": "JKP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "551T",
+        "course_name": "Taxation of Partnerships",
+        "units": "(3.0 units)",
+        "description": "Federal taxation of flow-through entities including partnerships, limited liability partnerships (LLPs), and limited liability companies (LLCs).",
+        "sections": [
+            {
+                "section": "14244R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "18 of 36",
+                "instructor": "Michael Paranal",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "554T",
+        "course_name": "Research, Theory and Ethics in Taxation",
+        "units": "(3.0 units)",
+        "description": "Basic theories of tax law, application of research tools, interpretation of statutes, cases and rulings, within the context of the professional responsibilities of tax practice. Duplicates credit in ACCT 550T and ACCT 560T.",
+        "sections": [
+            {
+                "section": "14246D",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "8 of 35",
+                "instructor": "Jack Barcal,Diane Comi",
+                "location": "ONLINE"
+            },
+            {
+                "section": "14253R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "17 of 39",
+                "instructor": "Jack Barcal,Diane Comi",
+                "location": "ACC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "559",
+        "course_name": "Strategy and Operations Through CFO Lens",
+        "units": "(3.0 units)",
+        "description": "Examination of strategic objectives and operations within specific industries and companies. Chief Financial Officers present how they view the business as a whole and measure performance effectively.",
+        "sections": [
+            {
+                "section": "14260R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "12 of 12",
+                "instructor": "Herbert Perlmutter",
+                "location": "JKP110"
+            },
+            {
+                "section": "14261R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "10 of 10",
+                "instructor": "Herbert Perlmutter",
+                "location": "JKP202"
+            },
+            {
+                "section": "14262R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "23 of 25",
+                "instructor": "Herbert Perlmutter",
+                "location": "JKP110"
+            },
+            {
+                "section": "14263R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "24 of 26",
+                "instructor": "Herbert Perlmutter",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "561T",
+        "course_name": "Income Tax of Corporations and Their Shareholders",
+        "units": "(3.0 units)",
+        "description": "Concepts and principles governing the taxation of corporations and their shareholders; the effect of taxes on corporate formation, capital structure, distributions, and liquidations. Recommended preparation: ACCT-550T or ACCT 554T or ACCT 560T or LAW 600.",
+        "sections": [
+            {
+                "section": "14266R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "20 of 36",
+                "instructor": "Greg Kling",
+                "location": "ACC205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "567T",
+        "course_name": "Taxation of Transactions in Property",
+        "units": "(3.0 units)",
+        "description": "Taxation of gains and losses from sales, exchanges and other transactions involving property, especially real estate; tax planning.",
+        "sections": [
+            {
+                "section": "14276D",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 8,
+                "registered": "27 of 30",
+                "instructor": "Greg Kling",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "581",
+        "course_name": "Financial Statement Analysis",
+        "units": "(3.0 units)",
+        "description": "Analysis of corporate financial reports from a decision-maker's perspective. This course is case-and-applications-oriented. Applications include credit analysis, equity valuation, and financial distress. Duplicates credit in ACCT 527.",
+        "sections": [
+            {
+                "section": "14298R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "53 of 53",
+                "instructor": "Richard Sloan",
+                "location": "JKP202"
+            },
+            {
+                "section": "14302R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "41 of 41",
+                "instructor": "Richard Sloan",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "583",
+        "course_name": "Income Tax Accounting and Auditing",
+        "units": "(3.0 units)",
+        "description": "Examination of FAS 109 and roles of auditors, tax professionals and corporate financial personnel in preparing, analyzing and reviewing accrual of income taxes.",
+        "sections": [
+            {
+                "section": "14305D",
+                "session": "378",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1140,
+                "days": 4,
+                "registered": "7 of 30",
+                "instructor": "Paul Bader",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "585",
+        "course_name": "Professional Responsibilities in Accounting",
+        "units": "(3.0 units)",
+        "description": "A case study approach to the integration of accounting and auditing knowledge; research, communication, and interpersonal skills developed through extensive written and presentation requirements.",
+        "sections": [
+            {
+                "section": "14313R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 10,
+                "registered": "31 of 39",
+                "instructor": "Lori Smith",
+                "location": "JKP202"
+            },
+            {
+                "section": "14315R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 10,
+                "registered": "36 of 39",
+                "instructor": "Lori Smith",
+                "location": "JKP202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "593",
+        "course_name": "Independent Research in Accounting",
+        "units": "(0.5-4.0 units, max 12)",
+        "description": "Independent research beyond normal course offerings. Proposal, research and written report/paper required. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14317R",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "595",
+        "course_name": "Internship in Accounting",
+        "units": "(0.5-3.0 units, max 9)",
+        "description": "Supervised on-the-job business experience in the field of Accounting. (Curricular Practical Training). Application required. Recommended preparation: Completion of required MAcc or MBT coursework. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14320D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 2",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "602",
+        "course_name": "Judgment and Decision-Making Research in Accounting",
+        "units": "(1.5 units)",
+        "description": "Key psychological drivers of judgment and decision-making research in accounting, covering key research questions and frequently used methods. Departmental approval.",
+        "sections": [
+            {
+                "section": "14323R",
+                "session": "411",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 32,
+                "registered": "4 of 15",
+                "instructor": "Tracie Majors",
+                "location": "ACC312"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "611",
+        "course_name": "Selected Topics in Accounting Research",
+        "units": "(1.5 units, max 6)",
+        "description": "Advanced Seminar to address issues/topics covered in accounting research. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "14326D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 32,
+                "registered": "2 of 15",
+                "instructor": "Clive Lennox",
+                "location": "HOH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACCT",
+        "course_num": "621",
+        "course_name": "Research Forum",
+        "units": "(1.0 units, max 4)",
+        "description": "Seminar. Review and discuss current research in Accounting. Presentations by faculty, visiting researchers, and advanced students. Open only to Marshall Ph.D. students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "14327D",
+                "session": "033",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "1 of 12",
+                "instructor": "Clive Lennox",
+                "location": "HOH706"
+            }
+        ]
+    }
+]

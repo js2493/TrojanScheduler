@@ -1,0 +1,3985 @@
+[
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "100",
+        "course_name": "Explorations in Computing",
+        "units": "(4.0 units)",
+        "description": "A behind-the-scenes overview of the computational/algorithmic principles that form the basis of today's digital society. Exploration areas include social media, web search, videogames and location-based services.",
+        "sections": [
+            {
+                "section": "30211R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "60 of 60",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "ZHS352"
+            },
+            {
+                "section": "30212R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "THH112"
+            },
+            {
+                "section": "30213R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "KAP145"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "102",
+        "course_name": "Fundamentals of Computation",
+        "units": "(2.0 units)",
+        "description": "Fundamental concepts of algorithmic thinking as a primer to programming. Introduction to C++.",
+        "sections": [
+            {
+                "section": "29918D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 10,
+                "registered": "127 of 144",
+                "instructor": "Mark Redekopp",
+                "location": "GFS106"
+            },
+            {
+                "section": "30235D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 10,
+                "registered": "125 of 144",
+                "instructor": "Mark Redekopp",
+                "location": "GFS106"
+            },
+            {
+                "section": "30010R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "17 of 18",
+                "instructor": "",
+                "location": "GFS113"
+            },
+            {
+                "section": "30011R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "17 of 18",
+                "instructor": "",
+                "location": "DMC203"
+            },
+            {
+                "section": "30012R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "THH106"
+            },
+            {
+                "section": "30013R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "DMC107"
+            },
+            {
+                "section": "30018R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "16 of 18",
+                "instructor": "",
+                "location": "KAP140"
+            },
+            {
+                "section": "30021R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "14 of 18",
+                "instructor": "",
+                "location": "THH106"
+            },
+            {
+                "section": "30080R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "16 of 18",
+                "instructor": "",
+                "location": "WPH104"
+            },
+            {
+                "section": "30081R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "16 of 18",
+                "instructor": "",
+                "location": "DMC258"
+            },
+            {
+                "section": "30082R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 4,
+                "registered": "12 of 15",
+                "instructor": "",
+                "location": "LVL3C"
+            },
+            {
+                "section": "30083R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "14 of 15",
+                "instructor": "",
+                "location": "LVL3C"
+            },
+            {
+                "section": "30084R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "DMC258"
+            },
+            {
+                "section": "30086R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "13 of 15",
+                "instructor": "",
+                "location": "LVL3C"
+            },
+            {
+                "section": "30088R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "16 of 18",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "30163R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "14 of 15",
+                "instructor": "",
+                "location": "SOSB38"
+            },
+            {
+                "section": "30364R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "13 of 15",
+                "instructor": "",
+                "location": "LVL3C"
+            },
+            {
+                "section": "30365R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "15 of 18",
+                "instructor": "",
+                "location": "GFS210"
+            },
+            {
+                "section": "30370R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 4,
+                "registered": "14 of 18",
+                "instructor": "",
+                "location": "KAP144"
+            },
+            {
+                "section": "30328R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "252 of 288",
+                "instructor": "",
+                "location": "THH201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "103",
+        "course_name": "Introduction to Programming",
+        "units": "(4.0 units)",
+        "description": "Basic datatypes, assignments, control statements (if, switch, for, while), input/output (printf, scanf, cin, cout), functions, arrays, structures, recursion, dynamic memory, file handling. Programming in C/C++.",
+        "sections": [
+            {
+                "section": "29919R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "27 of 30",
+                "instructor": "Carter Slocum",
+                "location": "DMC101"
+            },
+            {
+                "section": "29920R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "130 of 130",
+                "instructor": "Andrew Goodney",
+                "location": "THH102"
+            },
+            {
+                "section": "29934R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "170 of 263",
+                "instructor": "Andrew Goodney",
+                "location": "SAL101"
+            },
+            {
+                "section": "29902R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 32,
+                "registered": "29 of 33",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "29913R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "29 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "29914R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "26 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "29924R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "28 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "29925R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "33 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "29926R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "32 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "29927R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "32 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30103R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 33",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "30104R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 32,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30180R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30193R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 32,
+                "registered": "19 of 33",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "30286R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "27 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30313R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "11 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30024R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "327 of 423",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "104",
+        "course_name": "Data Structures and Object Oriented Design",
+        "units": "(4.0 units)",
+        "description": "Introduces the student to standard data structures (linear structures such as linked lists, (balanced) trees, priority queues, and hashtables), using the C++ programming language.",
+        "sections": [
+            {
+                "section": "29903R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "172 of 172",
+                "instructor": "Aaron Cote",
+                "location": "THH201"
+            },
+            {
+                "section": "30397R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "97 of 172",
+                "instructor": "Aaron Cote",
+                "location": "SGM124"
+            },
+            {
+                "section": "29905R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "28 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "29907R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "29932R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "29933R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "29937R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "18 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "29938R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "12 of 30",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "30117R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 8,
+                "registered": "7 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30118R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30119R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "30210R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "30251R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "29 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30252R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "29 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30025R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 32,
+                "registered": "269 of 360",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "170",
+        "course_name": "Discrete Methods in Computer Science",
+        "units": "(4.0 units)",
+        "description": "Sets, functions, series. Big-O notation and algorithm analysis. Propositional and first-order logic. Counting and discrete probability. Graphs and basic graph algorithms. Basic number theory.",
+        "sections": [
+            {
+                "section": "29947D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 10,
+                "registered": "157 of 159",
+                "instructor": "Shahriar Shamsian",
+                "location": "SGM101"
+            },
+            {
+                "section": "30121D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "136 of 159",
+                "instructor": "Shahriar Shamsian",
+                "location": "SGM101"
+            },
+            {
+                "section": "29929R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "54 of 55",
+                "instructor": "",
+                "location": "KDC240"
+            },
+            {
+                "section": "29954R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "55 of 55",
+                "instructor": "",
+                "location": "THH210"
+            },
+            {
+                "section": "29980R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "54 of 55",
+                "instructor": "",
+                "location": "THH208"
+            },
+            {
+                "section": "30106R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "54 of 55",
+                "instructor": "",
+                "location": "DMC100"
+            },
+            {
+                "section": "30299R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "43 of 55",
+                "instructor": "",
+                "location": "SOSB44"
+            },
+            {
+                "section": "30300R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "33 of 55",
+                "instructor": "",
+                "location": "DMC150"
+            },
+            {
+                "section": "30027R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 4,
+                "registered": "293 of 326",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "201",
+        "course_name": "Principles of Software Development",
+        "units": "(4.0 units)",
+        "description": "Object-oriented paradigm for programming-in-the-large in Java; writing sophisticated concurrent applications with animation and graphic user interfaces; using professional tools on team project. Prerequisite: CSCI 104L.",
+        "sections": [
+            {
+                "section": "30389R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "182 of 319",
+                "instructor": "Marco Papa",
+                "location": "THH101"
+            },
+            {
+                "section": "29904R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "11 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30107R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "33 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30108R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "8 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30134R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "25 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30237R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "33 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30238R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 8,
+                "registered": "31 of 33",
+                "instructor": "",
+                "location": "SAL127"
+            },
+            {
+                "section": "30239R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "26 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30241R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30385R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "4 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30396R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "5 of 33",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30028R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 32,
+                "registered": "182 of 319",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "270",
+        "course_name": "Introduction to Algorithms and Theory of Computing",
+        "units": "(4.0 units)",
+        "description": "Algorithm analysis. Greedy algorithms, divide and conquer, dynamic programming, graph algorithms. NP-completeness and basic recursion theory and undecidability. Sorting lower bounds. Number-theory based cryptography.",
+        "sections": [
+            {
+                "section": "30109R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "224 of 230",
+                "instructor": "Aaron Cote,Mate Szabo",
+                "location": "THH101"
+            },
+            {
+                "section": "30361R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "115 of 115",
+                "instructor": "",
+                "location": "THH301"
+            },
+            {
+                "section": "30362R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "109 of 115",
+                "instructor": "",
+                "location": "THH102"
+            },
+            {
+                "section": "30029R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "224 of 230",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30190R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1050,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "55 of 70",
+                "instructor": "Jiapeng Zhang",
+                "location": "THH102"
+            },
+            {
+                "section": "30363R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "55 of 70",
+                "instructor": "",
+                "location": "THH301"
+            },
+            {
+                "section": "30222R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "55 of 70",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "29994D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "30245R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            },
+            {
+                "section": "30294R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 16,
+                "registered": "Canceled",
+                "instructor": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "299",
+        "course_name": "Special Topics",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Selected topics in Computer Science.",
+        "sections": [
+            {
+                "section": "30159R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 20,
+                "registered": "12 of 60",
+                "instructor": "Matthew Whiting,Andrew Goodney",
+                "location": "SOSB46"
+            },
+            {
+                "section": "30160R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "6 of 35",
+                "instructor": "Andrew Goodney",
+                "location": "THH119"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "310",
+        "course_name": "Software Engineering",
+        "units": "(4.0 units)",
+        "description": "Introduction to the software engineering process and software lifecycle. Covers project management, requirements, architecture, design, implementation, testing, and maintenance phase activities in team based projects. Prerequisites: CSCI 201. Duplicates credit in former CSCI 377.",
+        "sections": [
+            {
+                "section": "30113R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "175 of 294",
+                "instructor": "Chao Wang",
+                "location": "THH201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "350",
+        "course_name": "Introduction to Operating Systems",
+        "units": "(4.0 units)",
+        "description": "Basic issues in concurrency, deadlock control, synchronization scheduling, memory management, protection and access control, inter-process communication, and structured design. Laboratory experiences with Unix-like operating system. Duplicates credit in CSCI 402.",
+        "sections": [
+            {
+                "section": "29969R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "152 of 187",
+                "instructor": "Tanya Ryutov",
+                "location": "SLH200"
+            },
+            {
+                "section": "29970R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "152 of 187",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "353",
+        "course_name": "Introduction to Internetworking",
+        "units": "(4.0 units)",
+        "description": "Global Internet: design principles, layering, protocol design/analysis.Networked applications, Internet structure/architecture,Protocols for transport/congestion control, network layer/routing,link layer/MAC. Network security. Prerequisites: CSCI 201. Recommended preparation: Familiarity with C and C++.Duplicates credit in EE 450.",
+        "sections": [
+            {
+                "section": "30247R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "142 of 144",
+                "instructor": "Ramesh Govindan",
+                "location": "MRF340"
+            },
+            {
+                "section": "29977R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "142 of 145",
+                "instructor": "",
+                "location": "SGM101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "356",
+        "course_name": "Introduction to Computer Systems",
+        "units": "(4.0 units)",
+        "description": "Computer organization; entity abstraction and representation; program execution; code optimization; memory usage; exception handling; processing control; computer performance; hands-on work done in C and assembly.",
+        "sections": [
+            {
+                "section": "29912R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "57 of 154",
+                "instructor": "Mark Redekopp",
+                "location": "MHP101"
+            },
+            {
+                "section": "30002R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "84 of 121",
+                "instructor": "Marco Paolieri",
+                "location": "ZHS159"
+            },
+            {
+                "section": "29916R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "48 of 92",
+                "instructor": "",
+                "location": "MHP101"
+            },
+            {
+                "section": "30124R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "37 of 92",
+                "instructor": "",
+                "location": "MHP101"
+            },
+            {
+                "section": "30125R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "56 of 92",
+                "instructor": "",
+                "location": "MHP101"
+            },
+            {
+                "section": "30285R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "141 of 275",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "360",
+        "course_name": "Introduction to Artificial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Concepts and algorithms underlying the understanding and construction of intelligent systems. Agents, problem solving, search, representation, reasoning, planning, machine learning. Prerequisites: CSCI 104 and CSCI 170. Duplicates credit in former CSCI 460.",
+        "sections": [
+            {
+                "section": "30043R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "184 of 328",
+                "instructor": "Mohammad Reza Rajati",
+                "location": "SGM123"
+            },
+            {
+                "section": "29983R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "184 of 328",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "368",
+        "course_name": "Cross-Platform App Development",
+        "units": "(4.0 units)",
+        "description": "Programming applications with dynamic graphical user interfaces. Topics include events, controls, resources, data bindings, styles and user experience.",
+        "sections": [
+            {
+                "section": "31807R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "49 of 60",
+                "instructor": "Allen Almasi",
+                "location": "GFS101"
+            },
+            {
+                "section": "32054R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "12 of 28",
+                "instructor": "Barrett Koster",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "380",
+        "course_name": "Video Game Programming",
+        "units": "(4.0 units)",
+        "description": "Underlying concepts and principles required for programming video games (topics include vectors, transformations, 3-D math, geometric primitives, matrices). Prerequisite: CSCI-104 or ITP-365.",
+        "sections": [
+            {
+                "section": "32026R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "15 of 36",
+                "instructor": "Clark Kromenaker",
+                "location": "OHE540"
+            },
+            {
+                "section": "32083R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "36 of 37",
+                "instructor": "Sanjay Madhav",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "401",
+        "course_name": "Capstone: Design and Construction of Large Software Systems",
+        "units": "(4.0 units, max 8)",
+        "description": "Group project with an outside stakeholder to develop real-world software solutions to large-scale problems. Topics include software engineering, professional preparation, and recent computer science research. Duplicates credit in CSCI 477a and CSCI 477b.",
+        "sections": [
+            {
+                "section": "30227R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "158 of 319",
+                "instructor": "Victor Adamchik",
+                "location": "THH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "402",
+        "course_name": "Operating Systems",
+        "units": "(4.0 units)",
+        "description": "Concurrency, deadlock control, synchronization, process and thread scheduling, memory management, file systems, security and access control, communication and networking, distributed file systems, data management. Duplicates credit in CSCI 350.",
+        "sections": [
+            {
+                "section": "30197D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "32 of 75",
+                "instructor": "William Cheng",
+                "location": "MRF340"
+            },
+            {
+                "section": "30269R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "32 of 75",
+                "instructor": "",
+                "location": "SOSB46"
+            },
+            {
+                "section": "29945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "64 of 82",
+                "instructor": "William Cheng",
+                "location": "OHE132"
+            },
+            {
+                "section": "30267R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "64 of 82",
+                "instructor": "",
+                "location": "OHE132"
+            },
+            {
+                "section": "29946D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "11 of 30",
+                "instructor": "William Cheng",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30145R",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "11 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "420",
+        "course_name": "Computer Graphics",
+        "units": "(4.0 units)",
+        "description": "Computer graphics, OpenGL, 2D and 3D transformations, Bzier splines, computer animation, rendering including ray tracing, shading and lighting, artistic rendering, virtual reality, visualization.",
+        "sections": [
+            {
+                "section": "30230R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "29 of 60",
+                "instructor": "Oded Stein",
+                "location": "THH210"
+            },
+            {
+                "section": "30372R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 60",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "426",
+        "course_name": "Game Prototyping",
+        "units": "(4.0 units)",
+        "description": "Developing games or technology based on current and relevant special topics.",
+        "sections": [
+            {
+                "section": "30242R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 8,
+                "registered": "26 of 26",
+                "instructor": "Andrew Nealen",
+                "location": "SCB104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "430",
+        "course_name": "Introduction to Computer and Network Security",
+        "units": "(4.0 units)",
+        "description": "A broad overview of security threats and defenses, security systems and functionalities, as well as current security practices. Includes homeworks and in-class exercises to provide practical experience working with such systems. Prerequisite: CSCI 201.",
+        "sections": [
+            {
+                "section": "29997R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "49 of 50",
+                "instructor": "Jelena Mirkovic",
+                "location": "DMC102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "431",
+        "course_name": "Introduction to Functional Programming",
+        "units": "(4.0 units)",
+        "description": "An introduction to alternative programming paradigms including functional programming and logic programming.",
+        "sections": [
+            {
+                "section": "30154R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "11 of 30",
+                "instructor": "Mukund Raghothaman",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "435",
+        "course_name": "Professional C++",
+        "units": "(4.0 units)",
+        "description": "Applications of advanced concepts in C++ including lambda expressions, templates, secure coding, parallel programming, writing performant code, CMake and continuous integration.",
+        "sections": [
+            {
+                "section": "31994R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "70 of 70",
+                "instructor": "Sanjay Madhav",
+                "location": "THH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "445",
+        "course_name": "Introduction to Robotics",
+        "units": "(4.0 units)",
+        "description": "Designing, building and programming mobile robots; sensors, effectors, basic control theory, control architectures, some advanced topics, illustrations of state-of-the-art. Teamwork; final project tested in a robot contest. Junior standing or higher. Prerequisites: CSCI 103.",
+        "sections": [
+            {
+                "section": "30386R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "22 of 30",
+                "instructor": "Heather Culbertson",
+                "location": "WPH102"
+            },
+            {
+                "section": "29956R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "",
+                "location": "RTH419"
+            },
+            {
+                "section": "29958R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 780,
+                "end_time": 950,
+                "days": 16,
+                "registered": "8 of 15",
+                "instructor": "",
+                "location": "RTH419"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "450",
+        "course_name": "Introduction to Computer Networks",
+        "units": "(4.0 units)",
+        "description": "Network architectures; layered protocols, network service interface; local, wide area, wireless networks; Internet protocols; link protocols; addressing; routing; flow control; software defined network; multimedia networks.",
+        "sections": [
+            {
+                "section": "30623R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "35 of 40",
+                "instructor": "Corey Baker",
+                "location": "SOSB46"
+            },
+            {
+                "section": "30505R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "35 of 40",
+                "instructor": "Corey Baker",
+                "location": "GFS116"
+            },
+            {
+                "section": "30456R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "35 of 40",
+                "instructor": "Corey Baker",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30502R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "16 of 40",
+                "instructor": "Cauligi Raghavendra",
+                "location": "KAP146"
+            },
+            {
+                "section": "30783R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "16 of 40",
+                "instructor": "Cauligi Raghavendra",
+                "location": "KAP144"
+            },
+            {
+                "section": "30785R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 40",
+                "instructor": "Cauligi Raghavendra",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30454R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "29 of 40",
+                "instructor": "Ali Zahid",
+                "location": "WPHB28"
+            },
+            {
+                "section": "30500R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 560,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Ali Zahid",
+                "location": "OHE122"
+            },
+            {
+                "section": "30545D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 450,
+                "end_time": 560,
+                "days": 20,
+                "registered": "19 of 30",
+                "instructor": "Ali Zahid",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30503R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 1020,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "30 of 40",
+                "instructor": "Ali Zahid",
+                "location": "SGM601"
+            },
+            {
+                "section": "30504R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "29 of 30",
+                "instructor": "Ali Zahid",
+                "location": "OHE122"
+            },
+            {
+                "section": "30546D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 30",
+                "instructor": "Ali Zahid",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30535R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 40",
+                "instructor": "Ali Zahid",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30684R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1140,
+                "end_time": 1275,
+                "days": 32,
+                "registered": "36 of 40",
+                "instructor": "Ali Zahid",
+                "location": "OFFICE"
+            },
+            {
+                "section": "31186D",
+                "session": "014",
+                "type": "Quiz",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 32,
+                "registered": "18 of 30",
+                "instructor": "Ali Zahid",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "452",
+        "course_name": "Parallel and Distributed Computation",
+        "units": "(4.0 units)",
+        "description": "Introduction to parallel programming techniques, models and optimization strategies; Application mapping to multi-core, accelerator, GPU and cloud platforms; High Performance Computing and Data Science applications.",
+        "sections": [
+            {
+                "section": "30408R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "39 of 60",
+                "instructor": "Viktor Prasanna",
+                "location": "ZHS252"
+            },
+            {
+                "section": "30409R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 32,
+                "registered": "39 of 60",
+                "instructor": "Viktor Prasanna",
+                "location": "SOSB46"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "454",
+        "course_name": "Introduction to System-on-Chip",
+        "units": "(4.0 units)",
+        "description": "Design flow, tools, and issues related to System/Network-on-Chip (S/Noc) design for real-time embedded systems with applications in mobile, cloud, aerospace, and medical electronics. Prerequisite: EE 354.",
+        "sections": [
+            {
+                "section": "30911D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "38 of 45",
+                "instructor": "Shahin Nazarian",
+                "location": "KAP156"
+            },
+            {
+                "section": "30559R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 32,
+                "registered": "38 of 45",
+                "instructor": "Shahin Nazarian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "455",
+        "course_name": "Introduction to Programming Systems Design",
+        "units": "(4.0 units)",
+        "description": "Intensive introduction to programming principles, discrete mathematics for computing, software design and software engineering concepts. Not available for credit to computer sciencemajors, graduate or undergraduate.",
+        "sections": [
+            {
+                "section": "30100R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "61 of 100",
+                "instructor": "Claire Bono",
+                "location": "OHE122"
+            },
+            {
+                "section": "29950R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "24 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30192R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 16,
+                "registered": "30 of 30",
+                "instructor": "",
+                "location": "SAL126"
+            },
+            {
+                "section": "30205R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 16,
+                "registered": "1 of 30",
+                "instructor": "",
+                "location": "SAL109"
+            },
+            {
+                "section": "30262R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "DMC150"
+            },
+            {
+                "section": "29963D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "22 of 30",
+                "instructor": "Claire Bono",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29964R",
+                "session": "014",
+                "type": "Lab",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "22 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "457",
+        "course_name": "Computer Systems Organization",
+        "units": "(4.0 units)",
+        "description": "Register Transfer level machine organization; performance; arithmetic; pipelined processors; exceptions, out-of-order and speculative execution, cache, virtual memory, multi-core multi-threaded processors, cache coherence.",
+        "sections": [
+            {
+                "section": "30567R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "48 of 48",
+                "instructor": "Gandhi Puvvada",
+                "location": "KAP144"
+            },
+            {
+                "section": "31284D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "50 of 57",
+                "instructor": "Gandhi Puvvada",
+                "location": "GFS101"
+            },
+            {
+                "section": "31305D",
+                "session": "014",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "7 of 20",
+                "instructor": "Gandhi Puvvada",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31338R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "54 of 50",
+                "instructor": "Gandhi Puvvada",
+                "location": "OHE100D"
+            },
+            {
+                "section": "30569R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "72 of 80",
+                "instructor": "",
+                "location": "OHE132"
+            },
+            {
+                "section": "30605R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "80 of 80",
+                "instructor": "",
+                "location": "SLH200"
+            },
+            {
+                "section": "31285D",
+                "session": "014",
+                "type": "Discussion",
+                "start_time": 960,
+                "end_time": 1010,
+                "days": 8,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31336D",
+                "session": "014",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "7 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31337R",
+                "session": "001",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1260,
+                "days": 16,
+                "registered": "152 of 180",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "458",
+        "course_name": "Numerical Methods",
+        "units": "(4.0 units)",
+        "description": "Rounding errors in digital computation; solution of linear algebraic systems; Newton's method for nonlinear systems; matrix eigenvalues; polynomial approximation; numerical integration; numerical solution of ordinary differential equations.",
+        "sections": [
+            {
+                "section": "39679D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 42,
+                "registered": "40 of 40",
+                "instructor": "Cymra Haskell",
+                "location": "WPH207"
+            },
+            {
+                "section": "39680R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "VPD107"
+            },
+            {
+                "section": "39681R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 20,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "SOSB37"
+            },
+            {
+                "section": "39682D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 42,
+                "registered": "38 of 49",
+                "instructor": "Cymra Haskell",
+                "location": "LVL17"
+            },
+            {
+                "section": "39683R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "",
+                "location": "DMC206"
+            },
+            {
+                "section": "39684R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "",
+                "location": "THHB10"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "467",
+        "course_name": "Introduction to Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Methods for building intelligent and adaptive systems from statistical analyses; theoretical understanding of such methods and the computational implications.",
+        "sections": [
+            {
+                "section": "30277R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "44 of 70",
+                "instructor": "Jieyu Zhao",
+                "location": "THH210"
+            },
+            {
+                "section": "30278R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "44 of 70",
+                "instructor": "",
+                "location": "THH208"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "476",
+        "course_name": "Cryptography: Secure Communication and Computation",
+        "units": "(4.0 units)",
+        "description": "Introduction to modern Cryptography; Mathematical/algorithmic studies of methods for protecting information in computer and communication systems: Public-Key Cryptosystems, zero-knowledge proofs, data privacy. Prerequisites: CSCI 270.",
+        "sections": [
+            {
+                "section": "30030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 30",
+                "instructor": "Shanghua Teng",
+                "location": "THH215"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "30144D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "8 of 30",
+                "instructor": "William Halfond",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "491A",
+        "course_name": "Final Game Project",
+        "units": "(4.0 units)",
+        "description": "a: Design, iterative prototyping, and development of a 1st playable level. Open only to seniors.",
+        "sections": [
+            {
+                "section": "29989R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "47 of 50",
+                "instructor": "Scott Easley",
+                "location": "EGG108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "495",
+        "course_name": "Senior Project",
+        "units": "(2.0 units)",
+        "description": "An original project will be constructed applying computer technology (in either hardware or software) to produce a result useful in the physics classroom or laboratory.",
+        "sections": [
+            {
+                "section": "50526D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 10",
+                "instructor": "Vahe Peroomian",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "499",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Selected topics in computer science.",
+        "sections": [
+            {
+                "section": "30066R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "13 of 26",
+                "instructor": "Harsha Madhyastha",
+                "location": "SOSB41"
+            },
+            {
+                "section": "30115R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "25 of 30",
+                "instructor": "Jesse Thomason",
+                "location": "DMC157"
+            },
+            {
+                "section": "30323R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "7 of 28",
+                "instructor": "Souti Chattopadhyay",
+                "location": "DMC257"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "502A",
+        "course_name": "Numerical Analysis",
+        "units": "(3.0 units)",
+        "description": "Computational linear algebra; solution of general nonlinear systems of equations; approximation theory using functional analysis; numerical solution of ordinary and partial differential equations.",
+        "sections": [
+            {
+                "section": "39700R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 42,
+                "registered": "9 of 25",
+                "instructor": "Gary Rosen",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "505A",
+        "course_name": "Applied Probability",
+        "units": "(3.0 units)",
+        "description": "Populations, permutations, combinations, random variables, distribution and density functions, conditional probability and expectation,; binomial, poisson, and normal distributions; laws of large numbers, central limit theorem. Prerequisite: Consent of Instructor.",
+        "sections": [
+            {
+                "section": "39710R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 42,
+                "registered": "31 of 45",
+                "instructor": "Joshua Swanson",
+                "location": "KAP146"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "513",
+        "course_name": "Autonomous Cyber-Physical Systems",
+        "units": "(4.0 units)",
+        "description": "Components, software and applications of cyber-physical systems; autonomy; control techniques; development and testing; artificial intelligence and machine learning algorithms.",
+        "sections": [
+            {
+                "section": "30161R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 2,
+                "registered": "56 of 82",
+                "instructor": "Jyotirmoy Deshmukh",
+                "location": "GFS116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "517",
+        "course_name": "Research Methods and Analysis for User Studies",
+        "units": "(4.0 units)",
+        "description": "Introduction to research methods and data analysis techniques for human subject research; experimental research design, correlational research, data analysis, ensuring validity and ethics.",
+        "sections": [
+            {
+                "section": "32454D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 2,
+                "registered": "119 of 120",
+                "instructor": "Gale Lucas",
+                "location": "OHE122"
+            },
+            {
+                "section": "32456D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 680,
+                "days": 2,
+                "registered": "22 of 30",
+                "instructor": "Gale Lucas",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "522",
+        "course_name": "Game Engine Development",
+        "units": "(4.0 units)",
+        "description": "The principles of developing game engines targeted at modern PC and game console hardware.",
+        "sections": [
+            {
+                "section": "30183R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1340,
+                "days": 2,
+                "registered": "63 of 73",
+                "instructor": "Artjoms Kovalovs",
+                "location": "SLH102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "526",
+        "course_name": "Advanced Mobile Devices and Game Consoles",
+        "units": "(4.0 units)",
+        "description": "Explore the complex engineering process required to design and build a real-time graphics engine to support physical realism on mobile devices. Recommended preparation: CSCI 420 or CSCI 580 or an equivalent course in graphics.",
+        "sections": [
+            {
+                "section": "30039R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 4,
+                "registered": "84 of 90",
+                "instructor": "Scott Easley",
+                "location": "SCI108"
+            },
+            {
+                "section": "30130R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "42 of 90",
+                "instructor": "Scott Easley",
+                "location": "SCI108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "529A",
+        "course_name": "Advanced Game Projects",
+        "units": "(4.0 units)",
+        "description": "Team projects intended to address the multifaceted technical and creative challenges that are inherent to comprehensive game development. Recommended preparation: CSCI 522 or CTIN 488.",
+        "sections": [
+            {
+                "section": "29992D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 16,
+                "registered": "42 of 50",
+                "instructor": "Andrew Nealen",
+                "location": "EGG108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "530",
+        "course_name": "Security Systems",
+        "units": "(4.0 units)",
+        "description": "Protecting computer networks and systems using cryptography, authentication, authorization, intrusion detection and response. Includes lab to provide practical experience working with such systems.",
+        "sections": [
+            {
+                "section": "30015D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "114 of 120",
+                "instructor": "Clifford Neuman",
+                "location": "OHE122"
+            },
+            {
+                "section": "30017R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "114 of 120",
+                "instructor": "",
+                "location": "OHE122"
+            },
+            {
+                "section": "30014D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 32,
+                "registered": "31 of 31",
+                "instructor": "Clifford Neuman",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30016R",
+                "session": "034",
+                "type": "Lab",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "31 of 31",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "536",
+        "course_name": "Linear Programming and Extensions",
+        "units": "(4.0 units)",
+        "description": "Linear programming models for resource allocation; simplex and revised simplex methods; duality; sensitivity; transportation problems; selected extensions to large scale, multiobjective and special structured models.",
+        "sections": [
+            {
+                "section": "31536D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "16 of 25",
+                "instructor": "Stephen Stoyan",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "544",
+        "course_name": "Applied Natural Language Processing",
+        "units": "(4.0 units)",
+        "description": "Introduction to key components of human language technologies, including: information extraction, sentiment analysis, question answering, machine translation.",
+        "sections": [
+            {
+                "section": "30249D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "258 of 263",
+                "instructor": "Swabha Swayamdipta",
+                "location": "SAL101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "545",
+        "course_name": "Robotics",
+        "units": "(4.0 units)",
+        "description": "Fundamental skills for modeling and controlling of dynamic systems for robotic applications and graphics animations; control theory; kinematics; dynamics; sensor processing; real-time operating systems; robot labs. Recommended preparation: Basic knowledge in linear algebra (matrices and vectors), calculus, programming in C/C++ or any another language or permission of the instructor.",
+        "sections": [
+            {
+                "section": "29975D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "78 of 90",
+                "instructor": "Stefanos Nikolaidis",
+                "location": "WPHB27"
+            },
+            {
+                "section": "30226R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 32,
+                "registered": "78 of 90",
+                "instructor": "",
+                "location": "RTH419"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "547",
+        "course_name": "Robot Dynamics and Control",
+        "units": "(4.0 units)",
+        "description": "Introduction to dynamics and control of robotic systems including Model Predictive Control (MPC), Quadratic Program (QP)-based nonlinear control and trajectory optimization.",
+        "sections": [
+            {
+                "section": "29099D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "35 of 37",
+                "instructor": "Quan Nguyen",
+                "location": "VHE217"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "550",
+        "course_name": "Advanced Data Stores",
+        "units": "(4.0 units)",
+        "description": "Selected topics on highly available, elastic data stores. Topics include non-relational data models, simple interfaces and query languages, weak consistency and benchmarking techniques.",
+        "sections": [
+            {
+                "section": "30223R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "52 of 60",
+                "instructor": "Ibrahim Sabek",
+                "location": "DMC156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "551",
+        "course_name": "Computer Networking",
+        "units": "(4.0 units)",
+        "description": "Protocol design for computer communication networks, network routing, transport protocols, internetworking.",
+        "sections": [
+            {
+                "section": "29900R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "13 of 36",
+                "instructor": "John Heidemann",
+                "location": "OHE100D"
+            },
+            {
+                "section": "30009D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "4 of 30",
+                "instructor": "John Heidemann",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "554",
+        "course_name": "Cyber-Physical Systems: A Computing Perspective",
+        "units": "(4.0 units)",
+        "description": "Cyber-physical systems; models of computation; programming models; compiler analysis; automatic parallelization; heterogeneous computing and memory systems; multicores; interconnect; mapping; scheduling; real-time operating systems; reliability; fault-tolerance.",
+        "sections": [
+            {
+                "section": "30411R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "27 of 50",
+                "instructor": "Paul Bogdan",
+                "location": "ZHS352"
+            },
+            {
+                "section": "30413R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "27 of 50",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30412R",
+                "session": "048",
+                "type": "Lab",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "27 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "556",
+        "course_name": "Introduction to Cryptography",
+        "units": "(4.0 units)",
+        "description": "Modern secret codes. Public key cryptosystems of Rivest- Shamir-Adleman, Diffie-Hellman and others. The underlying number theory and computational complexity theory.",
+        "sections": [
+            {
+                "section": "30196D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "24 of 37",
+                "instructor": "Ming-Deh Huang",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "557",
+        "course_name": "Computer Systems Architecture",
+        "units": "(4.0 units)",
+        "description": "Computer architecture from a design perspective: Pipelined processors, speculative execution, VLIW, vector processors, GPU/GPGPU, memory technology and systems, interconnection networks, shared-memory and message-passing multiprocessors, chip multiprocessors.",
+        "sections": [
+            {
+                "section": "30628D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Murali Annavaram",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30630R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "41 of 80",
+                "instructor": "Murali Annavaram",
+                "location": "OHE132"
+            },
+            {
+                "section": "30564R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "13 of 40",
+                "instructor": "",
+                "location": "KAP163"
+            },
+            {
+                "section": "30629D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "4 of 20",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30631R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 32,
+                "registered": "28 of 40",
+                "instructor": "",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "561",
+        "course_name": "Foundations of Artificial Intelligence",
+        "units": "(4.0 units)",
+        "description": "Foundations of symbolic intelligent systems, search, logic, knowledge representation, planning, learning.",
+        "sections": [
+            {
+                "section": "30202D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "136 of 240",
+                "instructor": "Wei-Min Shen",
+                "location": "SGM124"
+            },
+            {
+                "section": "30295R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "136 of 240",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "29981R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "136 of 240",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30079D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "15 of 30",
+                "instructor": "Wei-Min Shen",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30305R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "15 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29982R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "566",
+        "course_name": "Deep Learning and Its Applications",
+        "units": "(4.0 units)",
+        "description": "Deep learning research in computer vision, natural language processing and robotics; neural networks; deep learning algorithms, tools and software.",
+        "sections": [
+            {
+                "section": "30122D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 4,
+                "registered": "228 of 319",
+                "instructor": "Yan Liu",
+                "location": "THH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "567",
+        "course_name": "Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Statistical methods for building intelligent and adaptive systems that improve performance from experiences; Focus on theoretical understanding of these methods and their computational implications. Recommended preparation: Undergraduate level training or coursework in linear algebra, multivariate calculus, basic probability and statistics; an undergraduate level course in Artificial Intelligence may be helpful but is not required.",
+        "sections": [
+            {
+                "section": "29995R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 32,
+                "registered": "127 of 170",
+                "instructor": "Dani Yogatama",
+                "location": "SGM124"
+            },
+            {
+                "section": "30151R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "127 of 170",
+                "instructor": "",
+                "location": "SGM124"
+            },
+            {
+                "section": "29984R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "127 of 170",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30259D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 32,
+                "registered": "6 of 30",
+                "instructor": "Dani Yogatama",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30272R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "29985R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "570",
+        "course_name": "Analysis of Algorithms",
+        "units": "(4.0 units)",
+        "description": "Explores fundamental techniques such as recursion, Fourier transform ordering, dynamic programming for efficient algorithm construction. Examples include arithmetic, algebraic, graph, pattern matching, sorting, searching algorithms.",
+        "sections": [
+            {
+                "section": "30101D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 2,
+                "registered": "294 of 330",
+                "instructor": "Victor Adamchik",
+                "location": "SGM123"
+            },
+            {
+                "section": "29928R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "294 of 330",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "29923R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "294 of 330",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30102D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "142 of 330",
+                "instructor": "Victor Adamchik",
+                "location": "SGM123"
+            },
+            {
+                "section": "30342R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "142 of 330",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "30379R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "142 of 330",
+                "instructor": "",
+                "location": "TBA"
+            },
+            {
+                "section": "30099D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "32 of 50",
+                "instructor": "Victor Adamchik",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30253R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1170,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "32 of 50",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30152R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "32 of 50",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30290D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 10,
+                "registered": "8 of 30",
+                "instructor": "Mate Szabo",
+                "location": "GFS222"
+            },
+            {
+                "section": "30291R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "DMC201"
+            },
+            {
+                "section": "30292R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": 1080,
+                "end_time": 1220,
+                "days": 32,
+                "registered": "8 of 30",
+                "instructor": "",
+                "location": "TBA"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "571",
+        "course_name": "Web Technologies",
+        "units": "(4.0 units)",
+        "description": "Advanced study of programming languages with application to the Web. Languages for client-side and server-side processing. Examples taken from: HTML, Java, JavaScript, Python, JSON, NodeJS and others.",
+        "sections": [
+            {
+                "section": "30221D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "182 of 240",
+                "instructor": "Marco Papa",
+                "location": "SGM124"
+            },
+            {
+                "section": "30143D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1250,
+                "days": 20,
+                "registered": "36 of 240",
+                "instructor": "Marco Papa",
+                "location": "SGM124"
+            },
+            {
+                "section": "30177D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 20,
+                "registered": "33 of 35",
+                "instructor": "Marco Papa",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "572",
+        "course_name": "Information Retrieval and Web Search Engines",
+        "units": "(4.0 units)",
+        "description": "Examines key aspects of information retrieval as they apply to search engines; web crawling, indexing, querying and quality of results are studied.",
+        "sections": [
+            {
+                "section": "30059D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 16,
+                "registered": "307 of 330",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "SGM123"
+            },
+            {
+                "section": "30349D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 4,
+                "registered": "303 of 330",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "SGM123"
+            },
+            {
+                "section": "30060D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 16,
+                "registered": "25 of 50",
+                "instructor": "Sathyanaraya Raghavachary",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "576",
+        "course_name": "Multimedia Systems Design",
+        "units": "(4.0 units)",
+        "description": "End-to-end multimedia systems - content creation, compression, distribution using modern standards, DRM solutions, Digital-Cinema pipeline, multimedia classification, virtual-augmented reality, natural-language multimedia queries, multimodal media analysis, stereoscopic-holographic technologies.",
+        "sections": [
+            {
+                "section": "30225R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "70 of 240",
+                "instructor": "Parag Havaldar",
+                "location": "SGM124"
+            },
+            {
+                "section": "30224D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1280,
+                "days": 2,
+                "registered": "18 of 30",
+                "instructor": "Parag Havaldar",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "578",
+        "course_name": "Software Architectures",
+        "units": "(4.0 units)",
+        "description": "Study of concepts, principles and scope of software system architectures, including architectural styles, languages, connectors, middleware, dynamism, analysis, testing and domain-specific approaches.",
+        "sections": [
+            {
+                "section": "30093D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "35 of 37",
+                "instructor": "Jae Young Bang",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30094D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "81 of 82",
+                "instructor": "Jae Young Bang",
+                "location": "OHE132"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "580",
+        "course_name": "3-D Graphics and Rendering",
+        "units": "(4.0 units)",
+        "description": "Course outlines the process of creating images from 3D models. Includes transformations, shading, lighting, rastorization, texturing, and other topics.",
+        "sections": [
+            {
+                "section": "30250D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "81 of 98",
+                "instructor": "Ulrich Neumann",
+                "location": "SOSB2"
+            },
+            {
+                "section": "29935R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 4,
+                "registered": "81 of 98",
+                "instructor": "",
+                "location": "HAR101"
+            },
+            {
+                "section": "30142D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "13 of 48",
+                "instructor": "Carter Slocum",
+                "location": "MHPB7B"
+            },
+            {
+                "section": "29939R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "13 of 48",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "585",
+        "course_name": "Database Systems",
+        "units": "(4.0 units)",
+        "description": "Database system architecture; conceptual database models; semantic, object-oriented, logic-based, and relational databases; user and program interfaces; database system implementation; integrity, security, concurrency and recovery. Recommended preparation: Knowledge of relational databases, SQL, relational algebra and physical database design is required. Open only to graduate students.",
+        "sections": [
+            {
+                "section": "30150R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 32,
+                "registered": "216 of 240",
+                "instructor": "Shahram Ghandeharizadeh",
+                "location": "SGM123"
+            },
+            {
+                "section": "30308R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "216 of 240",
+                "instructor": "",
+                "location": "SGM123"
+            },
+            {
+                "section": "30371R",
+                "session": "048",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "216 of 240",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "30149D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 32,
+                "registered": "16 of 30",
+                "instructor": "Shahram Ghandeharizadeh",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30092R",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 32,
+                "registered": "16 of 30",
+                "instructor": "",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "30148R",
+                "session": "034",
+                "type": "Quiz",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "16 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "587",
+        "course_name": "Geospatial Information Management",
+        "units": "(4.0 units)",
+        "description": "Techniques to efficiently store, manipulate, index and query geospatial information in support of real-world geographical and decision-making applications.",
+        "sections": [
+            {
+                "section": "30394R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "17 of 72",
+                "instructor": "Cyrus Shahabi",
+                "location": "THH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30162D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 20,
+                "registered": "4 of 100",
+                "instructor": "Stefanos Nikolaidis",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "591",
+        "course_name": "Computer Science Research Colloquium",
+        "units": "(1.0 units, max 2)",
+        "description": "Exploration and critical assessment of research activities in computer science. Course will serve as a forum for current research presentations from academia and industry. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "29965D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "48 of 75",
+                "instructor": "Nenad Medvidovic",
+                "location": "OHE136"
+            },
+            {
+                "section": "30157D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "19 of 30",
+                "instructor": "Nenad Medvidovic",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "30170D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "594B",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "30169D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "30171D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "596",
+        "course_name": "Scientific Computing and Visualization",
+        "units": "(4.0 units)",
+        "description": "Hands-on training on the basics of parallel computing and scientific visualization in the context of computer simulations in science and engineering. Recommended preparation: CSCI 455 and MATH 458 .",
+        "sections": [
+            {
+                "section": "30280D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "96 of 98",
+                "instructor": "Aiichiro Nakano",
+                "location": "SOSB2"
+            },
+            {
+                "section": "30146R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 32,
+                "registered": "96 of 98",
+                "instructor": "",
+                "location": "ZHS159"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "599",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 9)",
+        "description": "Course content to be selected each semester from recent developments in computer science.",
+        "sections": [
+            {
+                "section": "30067D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "26 of 31",
+                "instructor": "Seo Jin Park",
+                "location": "KAP140"
+            },
+            {
+                "section": "30155R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1160,
+                "days": 8,
+                "registered": "17 of 28",
+                "instructor": "Srivatsan Ravi",
+                "location": "SOSB52"
+            },
+            {
+                "section": "30312D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "Canceled",
+                "instructor": "Weihang Wang",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "612",
+        "course_name": "Optimization for the Information and Data Sciences",
+        "units": "(4.0 units)",
+        "description": "Convex sets, functions, and optimization problems. Basic convex analysis and theory of convex programming. Novel, efficient first-order algorithms. Applications in the information and data sciences.",
+        "sections": [
+            {
+                "section": "30999R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "41 of 60",
+                "instructor": "Michael Neely",
+                "location": "THH102"
+            },
+            {
+                "section": "31002R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "37 of 60",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "626",
+        "course_name": "Text as Data",
+        "units": "(4.0 units)",
+        "description": "Focuses on applications of natural language processing, guided by psychological theories, for identifying various social and cognitive properties evident in language.",
+        "sections": [
+            {
+                "section": "52750D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "17 of 21",
+                "instructor": "Morteza Dehghani",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "651",
+        "course_name": "Advanced Computer Networking",
+        "units": "(4.0 units)",
+        "description": "Computer communication protocols and systems, including classic and contemporary literature. The emphasis is on conceptual issues in the design and implementation of computer internetworks.",
+        "sections": [
+            {
+                "section": "30131R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "12 of 20",
+                "instructor": "John Heidemann",
+                "location": "OHE100D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "658",
+        "course_name": "Diagnosis and Design of Reliable Digital Systems",
+        "units": "(4.0 units)",
+        "description": "Fault models; test generation; fault simulation; self-checking and self-testing circuits; design for testability; fault tolerant design techniques; case studies; search techniques; memory testing.",
+        "sections": [
+            {
+                "section": "30787D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 890,
+                "days": 64,
+                "registered": "39 of 60",
+                "instructor": "Moe Tabar",
+                "location": "GFS101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "662",
+        "course_name": "Advanced Natural Language Processing",
+        "units": "(4.0 units)",
+        "description": "Computational models of natural language. Formalisms for describing structures of human language, and algorithms for learning language structures from data. Recommended preparation: Proficiency in programming, algorithms and data structures, discrete math, probability theory, and calculus. Open only to doctoral students. (Duplicates credit in former CSCI 562)",
+        "sections": [
+            {
+                "section": "30240R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "32 of 32",
+                "instructor": "Jonathan May",
+                "location": "DMC261"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "670",
+        "course_name": "Advanced Analysis of Algorithms",
+        "units": "(4.0 units)",
+        "description": "Fundamental techniques for design and analysis of algorithms. Dynamic programming; network flows; theory of NP-completeness; linear programming; approximation, randomized, and online algorithms; basic cryptography. Prerequisite: CSCI 570. Recommended preparation: familiarity with algorithms and discrete mathematics. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "30236D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "25 of 60",
+                "instructor": "Shanghua Teng",
+                "location": "THH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "677",
+        "course_name": "Advanced Computer Vision",
+        "units": "(4.0 units)",
+        "description": "Fundamental issues in computer vision: theory, algorithms and applications. Image formation, image segmentation, inference and measurement of 3-D, motion analysis, object and activity recognition.",
+        "sections": [
+            {
+                "section": "30228R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Ramakant Nevatia",
+                "location": "OHE136"
+            },
+            {
+                "section": "30229D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "4 of 20",
+                "instructor": "Ramakant Nevatia",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "678",
+        "course_name": "Theoretical Machine Learning",
+        "units": "(4.0 units)",
+        "description": "The mathematical foundation of machine learning with a focus on algorithm design for sequential prediction problems.",
+        "sections": [
+            {
+                "section": "30000R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "35 of 35",
+                "instructor": "Haipeng Luo",
+                "location": "VPD106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "697",
+        "course_name": "Seminar in Computer Science Research",
+        "units": "(1.0 units, max 2)",
+        "description": "Introduction of Ph.D. students to the broad range of computer science research. Two semesters registration required. Open to Computer Science doctoral students only. Graded CR/NC. Duplicates credit in former CSCI 597.",
+        "sections": [
+            {
+                "section": "30176R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "45 of 154",
+                "instructor": "Emilio Ferrara",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "698",
+        "course_name": "Practicum in Teaching Computer Science",
+        "units": "(1.0 units, max 2)",
+        "description": "Practical principles for the long-term development of effective teaching in Computer Science. Intended for teaching assistants for classes offered by the Computer Science department. Graded CR/NC. Open only to Computer Science doctoral students.",
+        "sections": [
+            {
+                "section": "30209R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "76 of 154",
+                "instructor": "Andrew Goodney",
+                "location": "MHP101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "699",
+        "course_name": "Special Topics",
+        "units": "(2.0-4.0 units, max 8)",
+        "description": "Course content to be selected each semester from recent developments in computer science.",
+        "sections": [
+            {
+                "section": "30068R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "28 of 51",
+                "instructor": "Yue Wang",
+                "location": "SOSB44"
+            },
+            {
+                "section": "30077R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "21 of 32",
+                "instructor": "Daniel Seita",
+                "location": "DMC203"
+            },
+            {
+                "section": "30116D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "39 of 39",
+                "instructor": "Robin Jia",
+                "location": "KAP158"
+            },
+            {
+                "section": "30174R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "17 of 31",
+                "instructor": "Evi Micha",
+                "location": "KAP145"
+            },
+            {
+                "section": "30293R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "16 of 26",
+                "instructor": "Lars Lindemann",
+                "location": "GFS222"
+            },
+            {
+                "section": "30314R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "14 of 30",
+                "instructor": "Sai praneeth reddy Karimireddy",
+                "location": "DMC200"
+            },
+            {
+                "section": "30325R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 980,
+                "days": 32,
+                "registered": "17 of 35",
+                "instructor": "Erdem Biyik",
+                "location": "KAP158"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30208D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "121 of 200",
+                "instructor": "Emilio Ferrara",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30214D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "29 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30215R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "15 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30216R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "12 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30217R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "11 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CSCI",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "30218R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "28 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

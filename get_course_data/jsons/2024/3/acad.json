@@ -1,0 +1,1222 @@
+[
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "174",
+        "course_name": "Innovators Forum",
+        "units": "(2.0 units, max 4)",
+        "description": "Leaders in diverse disciplines, industries and the arts present and discuss problems facing society and critique real-world projects that challenge the concept of innovation.",
+        "sections": [
+            {
+                "section": "10200D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 32,
+                "registered": "67 of 67",
+                "instructor": "Stephen Child",
+                "location": "IYH210/211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "176",
+        "course_name": "Rapid Visualization",
+        "units": "(4.0 units)",
+        "description": "Techniques, methods, concepts, tools, and materials that are used to quickly visualize and communicate ideas and develop problem-solving skills.",
+        "sections": [
+            {
+                "section": "10201D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "32 of 34",
+                "instructor": "Stephen Child",
+                "location": "IYH213"
+            },
+            {
+                "section": "10202R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 32",
+                "instructor": "Olamiposi Somoye",
+                "location": "IYH213"
+            },
+            {
+                "section": "10203D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "33 of 35",
+                "instructor": "Aaron Siegel",
+                "location": "IYH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "177",
+        "course_name": "Digital Toolbox: Design",
+        "units": "(2.0 units)",
+        "description": "Basics of industry-standard creative, analytical and presentation software. Applications include design, illustration, presentation and publishing.",
+        "sections": [
+            {
+                "section": "10204R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "40 of 40",
+                "instructor": "Stephen Child",
+                "location": "IYH210/211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "178",
+        "course_name": "Digital Toolbox: Motion Graphics",
+        "units": "(2.0 units)",
+        "description": "Basics of industry standard software for motion graphics, visual effects, animation design, generative art and interactive visual experiences.",
+        "sections": [
+            {
+                "section": "10206R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "35 of 40",
+                "instructor": "Aaron Siegel",
+                "location": "IYH210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "181",
+        "course_name": "Disruptive Innovation",
+        "units": "(4.0 units)",
+        "description": "Critical approaches to social and cultural changes stemming from disruptive innovations in the arts, science, technology, communications, new media, politics and business. Open only to Arts, Technology and the Business of Innovation students.",
+        "sections": [
+            {
+                "section": "10209D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "67 of 67",
+                "instructor": "Chris Swain,Michael Kanazawa",
+                "location": "IYH210/211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "182",
+        "course_name": "Case Studies in Innovation",
+        "units": "(4.0 units)",
+        "description": "Employing a case-study methodology, students analyze the artistic, technological, and entrepreneurial factors and address the conceptual, ethical, and logistical issues that lead to disruptive innovation.",
+        "sections": [
+            {
+                "section": "10211R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "21 of 40",
+                "instructor": "Chris Swain",
+                "location": "IYH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "188",
+        "course_name": "Modeling Products with Solidworks",
+        "units": "(2.0 units)",
+        "description": "Tools and techniques for Solidworks CAD design and design improvements, specially focused on the ideation and development of new products.",
+        "sections": [
+            {
+                "section": "10215R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "33 of 35",
+                "instructor": "Adam Hughes",
+                "location": "IYH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "190",
+        "course_name": "Making with Materials",
+        "units": "(2.0 units)",
+        "description": "Material properties, fabrication processes and their interdependencies; the transformation of ideas into reality through simulated and traditional fabrication techniques.",
+        "sections": [
+            {
+                "section": "10218D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 4,
+                "registered": "30 of 30",
+                "instructor": "Jacob Patapoff",
+                "location": "IYH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "203",
+        "course_name": "Statics",
+        "units": "(4.0 units)",
+        "description": "Analysis of forces acting on particles and rigid bodies in static equilibrium; equivalent systems of forces; friction; centroids and moments of inertia; introduction to energy methods.",
+        "sections": [
+            {
+                "section": "28709R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 540,
+                "end_time": 650,
+                "days": 10,
+                "registered": "65 of 65",
+                "instructor": "Akshay Potnuru",
+                "location": "THH208"
+            },
+            {
+                "section": "28752R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "46 of 48",
+                "instructor": "Oussama Safadi",
+                "location": "DMC102"
+            },
+            {
+                "section": "28958R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "49 of 49",
+                "instructor": "Ramtin Sheikhhassani",
+                "location": "SGM601"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "204",
+        "course_name": "Mechanics of Materials and Structures",
+        "units": "(4.0 units)",
+        "description": "Stress, strain and deflection of mechanical elements due to tension, shear, bending, or torsion; combined loads; plates, shells, statically indeterminate structures; strength-based design, trusses.",
+        "sections": [
+            {
+                "section": "28710R",
+                "session": "001",
+                "type": "Lecture-Discussion",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "27 of 30",
+                "instructor": "Oussama Safadi",
+                "location": "KAP144"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "206",
+        "course_name": "Communication and Culture",
+        "units": "(4.0 units)",
+        "description": "Examines cultural institutions, ideologies, artifacts, and productions; role of culture in everyday life; cultural studies as methodology; culture and power.",
+        "sections": [
+            {
+                "section": "20388R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "57 of 80",
+                "instructor": "Taj Frazier",
+                "location": "ASCG26"
+            },
+            {
+                "section": "20389R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 4,
+                "registered": "15 of 25",
+                "instructor": "Josh Widera",
+                "location": "ASCG34"
+            },
+            {
+                "section": "20390R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 4,
+                "registered": "9 of 25",
+                "instructor": "Glenn King",
+                "location": "ASCG34"
+            },
+            {
+                "section": "20391R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "9 of 25",
+                "instructor": "Alfonso Hegde",
+                "location": "ASC231"
+            },
+            {
+                "section": "20392R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "24 of 25",
+                "instructor": "Maria Fernanda Soria Cruz",
+                "location": "ASC231"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "207",
+        "course_name": "Narrative Technology and the Human Experience",
+        "units": "(4.0 units)",
+        "description": "Exploring craft and innovation in communicating concepts, products and experiences. Students employ video narration, interaction and augmented reality in service of engaging an audience.",
+        "sections": [
+            {
+                "section": "10223R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "33 of 40",
+                "instructor": "Carsten Becker",
+                "location": "IYH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "217",
+        "course_name": "Extended Reality Design",
+        "units": "(4.0 units)",
+        "description": "Students design and develop live immersive experiences in a variety of mediums including AR, VR and small- to large-scale interactive environments.",
+        "sections": [
+            {
+                "section": "10225R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 590,
+                "days": 10,
+                "registered": "22 of 30",
+                "instructor": "Carsten Becker",
+                "location": "IYH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "220",
+        "course_name": "Introduction to Data Innovation and Analytics",
+        "units": "(4.0 units)",
+        "description": "Introduction to data innovation and analytics, converting data to knowledge and insights, statistical techniques, analytics models, implementing data analytics through real-world examples and situations.",
+        "sections": [
+            {
+                "section": "10226R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "9 of 28",
+                "instructor": "Michael Crowley",
+                "location": "IYH212"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "230",
+        "course_name": "Introduction to Interactive Physical Computing",
+        "units": "(4.0 units)",
+        "description": "Design and development of physical computing prototypes within the intersection of electronics, computing, design, consumer electronics and product design.",
+        "sections": [
+            {
+                "section": "10227R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "22 of 30",
+                "instructor": "John Bruneau",
+                "location": "IYH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "245",
+        "course_name": "Fundamentals of Product Design",
+        "units": "(4.0 units)",
+        "description": "Introductory course in learning how to design physical products, including the processes for determining consumer need, market opportunity and competitive product analysis.",
+        "sections": [
+            {
+                "section": "10231R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 10,
+                "registered": "35 of 35",
+                "instructor": "Grant Delgatty",
+                "location": "IYH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "276",
+        "course_name": "Dev II",
+        "units": "(4.0 units)",
+        "description": "Fundamentals of server-side scripting and web templates. Design and creation of data structures and databases. Visualize analytics and data.",
+        "sections": [
+            {
+                "section": "10241R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "41 of 52",
+                "instructor": "Patrick Dent",
+                "location": "IYH210/211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "288",
+        "course_name": "Constructing Digital Worlds",
+        "units": "(4.0 units)",
+        "description": "The design and construction of digital twins for objects and environments with real-time rendering and collaboration; workflow optimization; 3D data aggregation.",
+        "sections": [
+            {
+                "section": "10247R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "Canceled",
+                "instructor": "Adam Hughes",
+                "location": "IYH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "306",
+        "course_name": "Innovation, Entertainment, and the Arts",
+        "units": "(4.0 units)",
+        "description": "Explorations of innovation in the entertainment business. The effects of digital mobile media on TV, movies, music, advertising, social networks and art.",
+        "sections": [
+            {
+                "section": "20478R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Robert Mejia",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "311",
+        "course_name": "Design for User Experience",
+        "units": "(4.0 units)",
+        "description": "Fundamental concepts, techniques, practices, workflows, and tools associated with the practice of user experience and interaction design in web and mobile applications.",
+        "sections": [
+            {
+                "section": "32029R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "19 of 30",
+                "instructor": "Estevan Benson",
+                "location": "WPHB36"
+            },
+            {
+                "section": "32035R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1250,
+                "days": 8,
+                "registered": "35 of 35",
+                "instructor": "Mikaila Weaver",
+                "location": "KDC236"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "312",
+        "course_name": "Materials Behavior and Processing",
+        "units": "(4.0 units)",
+        "description": "Mechanical behavior of metals, polymers, ceramics, and composites. Structure-process-property relationships. Mechanical testing, stress-strain relationships, microstructural characteristics and analysis. Material failure (fracture, fatigue, creep) and degradation.",
+        "sections": [
+            {
+                "section": "32110D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "34 of 34",
+                "instructor": "Lessa Grunenfelder",
+                "location": "KAP148"
+            },
+            {
+                "section": "32131D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "41 of 50",
+                "instructor": "Lessa Grunenfelder",
+                "location": "SSL202"
+            },
+            {
+                "section": "32117R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32139R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "5 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32109R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32113R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32119R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32123R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "11 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            },
+            {
+                "section": "32125R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "PCE201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "315",
+        "course_name": "Basics of Project and Operations Management for Non-Majors",
+        "units": "(2.0 units)",
+        "description": "Introduction to tools and methods for the design, production, and delivery of goods and services. Techniques for planning, monitoring, and controlling complex projects. Not available for degree or major credit for business and accounting majors. Duplicates credit in BUAD 311 and BUAD 313.",
+        "sections": [
+            {
+                "section": "14978R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "41 of 41",
+                "instructor": "Vitaly Glozman",
+                "location": "JFFLL103"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "324",
+        "course_name": "The Practice of Design: Ideation to Innovation",
+        "units": "(4.0 units)",
+        "description": "History and application of proven collaborative design processes and methodologies as they relate to ideation and innovation.",
+        "sections": [
+            {
+                "section": "10249D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 710,
+                "days": 20,
+                "registered": "52 of 62",
+                "instructor": "Davina Wolter",
+                "location": "IYH212/213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "342",
+        "course_name": "iOS App Development",
+        "units": "(4.0 units)",
+        "description": "Introduction to the Swift programming language, various frameworks, and design patterns needed to develop applications for iOS mobile devices such as iPhones and iPads.",
+        "sections": [
+            {
+                "section": "32022R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "34 of 60",
+                "instructor": "Bennett Lee",
+                "location": "THH114"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "365",
+        "course_name": "Managing Data in C++",
+        "units": "(4.0 units)",
+        "description": "Data structures in C++ including vectors, linked lists, stacks, queues, trees, hash tables, graphs, and parallelism.",
+        "sections": [
+            {
+                "section": "32041R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "26 of 36",
+                "instructor": "Gregory Pohlner",
+                "location": "DMC211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "375",
+        "course_name": "Business and Professional Communication",
+        "units": "(4.0 units)",
+        "description": "Oral and written communication skills demanded in the workplace including informative and persuasive speeches; interviewing; team communication; and training material preparation. Recommended preparation: COMM 204",
+        "sections": [
+            {
+                "section": "20577R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 18",
+                "instructor": "Karen North",
+                "location": "ANN209"
+            },
+            {
+                "section": "20578R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "13 of 18",
+                "instructor": "Michael Wissot",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "376",
+        "course_name": "Industry Practicum I: Designing and Implementing Real-World Solutions",
+        "units": "(4.0 units)",
+        "description": "Practicum through which students serve as design strategists for high-profile industry collaborators, and learn advanced methods and processes to solve problems in field-specific environments.",
+        "sections": [
+            {
+                "section": "10253D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "43 of 49",
+                "instructor": "Aaron Siegel",
+                "location": "IYH210/211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "382",
+        "course_name": "Mobile Game Development",
+        "units": "(4.0 units)",
+        "description": "Application of techniques used to develop games for mobile devices. Sprites, mobile input, mobile graphics and monetization.",
+        "sections": [
+            {
+                "section": "32056R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "18 of 28",
+                "instructor": "Matthew Whiting",
+                "location": "KAP267"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "404",
+        "course_name": "Advanced Front-End Web Development",
+        "units": "(4.0 units)",
+        "description": "The technologies, techniques, conventions and best practices used in contemporary front-end web development.",
+        "sections": [
+            {
+                "section": "31835R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 2,
+                "registered": "23 of 25",
+                "instructor": "David Tang",
+                "location": "GFS228"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "406",
+        "course_name": "Purpose-Driven Innovation Incubator",
+        "units": "(2.0 units)",
+        "description": "Evolve student projects into investor-ready ventures through exposure to industry best practices including market sizing, defining/pursuing key performance indicators, customer development, validated learning and innovation accounting.",
+        "sections": [
+            {
+                "section": "10256D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "12 of 30",
+                "instructor": "Chris Swain",
+                "location": "IYH210"
+            },
+            {
+                "section": "10257D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 16,
+                "registered": "13 of 25",
+                "instructor": "Chris Swain",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "419",
+        "course_name": "Professional Internship",
+        "units": "(1.0-2.0 units, max 8)",
+        "description": "An experiential/academic opportunity in an arts, technology and business related facility. Written analysis, evaluation, and working internship.",
+        "sections": [
+            {
+                "section": "10259D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Patrick Dent",
+                "location": "OFFICE"
+            },
+            {
+                "section": "10276D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 5",
+                "instructor": "Patrick Dent",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "422",
+        "course_name": "Cybersecurity, Privacy and Trust in Connective Healthcare",
+        "units": "(4.0 units)",
+        "description": "Digital health technologies, cybersecurity and privacy challenges of data, integrity of healthcare delivery systems, policies, regulations, and practices to protect healthcare data.",
+        "sections": [
+            {
+                "section": "10260R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 2,
+                "registered": "22 of 30",
+                "instructor": "Leslie Saxon",
+                "location": "IYH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "425",
+        "course_name": "Web Application Security",
+        "units": "(4.0 units)",
+        "description": "Examine web applications from an offensive security standpoint. Topics include information gathering, vulnerability discovery and validation, exploitation and privilege escalation techniques.",
+        "sections": [
+            {
+                "section": "32052R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "13 of 28",
+                "instructor": "Andy Portillo",
+                "location": "RRB101"
+            },
+            {
+                "section": "32008R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "25 of 33",
+                "instructor": "Howard Williamson",
+                "location": "OHE540"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "432",
+        "course_name": "Collaborative Prototyping in Health Innovation",
+        "units": "(4.0 units)",
+        "description": "Health innovation collaborative capstone project; ideating, prototyping and evaluating a health innovation prototype driven by an industry-based or community-based prompt/project.",
+        "sections": [
+            {
+                "section": "10262R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "5 of 30",
+                "instructor": "Malcolm Jones",
+                "location": "IYH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "444",
+        "course_name": "Designing Products for Industry",
+        "units": "(4.0 units)",
+        "description": "Develop desirable, feasible and viable solutions for specific industry prompts, implementing all aspects of R&D including consumer insights, competitive analysis, ideation, prototyping, testing and manufacturability.",
+        "sections": [
+            {
+                "section": "10280R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "21 of 32",
+                "instructor": "Grant Delgatty",
+                "location": "IYH111"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "449",
+        "course_name": "Applications of Machine Learning",
+        "units": "(4.0 units)",
+        "description": "Hands-on approach to the fundamental modeling techniques and machine learning algorithms that enable students to build robust predictive models of real-world data and test their validity.",
+        "sections": [
+            {
+                "section": "31822D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "59 of 60",
+                "instructor": "Reza Jafarkhani",
+                "location": "THH116"
+            },
+            {
+                "section": "31829R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "28 of 60",
+                "instructor": "Kristof Aldenderfer",
+                "location": "KAP160"
+            },
+            {
+                "section": "31874R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "31 of 60",
+                "instructor": "Kristof Aldenderfer",
+                "location": "KAP160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "460",
+        "course_name": "Web Application Project",
+        "units": "(4.0 units)",
+        "description": "Skills to plan, analyze, build, and launch professional Web sites with actual clients. Includes project management, documentation, technology assessment, security, UI, Q/A, and various methodologies.",
+        "sections": [
+            {
+                "section": "31912R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1220,
+                "days": 8,
+                "registered": "17 of 20",
+                "instructor": "Bo Wang",
+                "location": "KAP167"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "475A",
+        "course_name": "The Garage Experience",
+        "units": "(4.0 units)",
+        "description": "Academy capstone leading to innovative outcomes, including advanced research artifacts, operational prototypes, and breakthrough enterprises across multiple fields and industries.",
+        "sections": [
+            {
+                "section": "10286D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 40,
+                "registered": "34 of 36",
+                "instructor": "Matthew Manos",
+                "location": "IYH110"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "476",
+        "course_name": "Technologies for Interactive Marketing",
+        "units": "(4.0 units)",
+        "description": "Technologies, concepts and strategies in the emerging online advertising ecosystem. Strategies and tactics to drive traffic to a website and measure efficacy. Students will work with a real client and budget to craft and execute an online marketing plan.",
+        "sections": [
+            {
+                "section": "32072R",
+                "session": "001",
+                "type": "Lecture-Lab",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "17 of 40",
+                "instructor": "P.J. Leimgruber",
+                "location": "RTH115"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "10288D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 5",
+                "instructor": "Grant Delgatty",
+                "location": "OFFICE"
+            },
+            {
+                "section": "10289D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Alexander Titus",
+                "location": "OFFICE"
+            },
+            {
+                "section": "10290D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 1",
+                "instructor": "Matthew Manos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "521",
+        "course_name": "Designing Brand Identity for Startups",
+        "units": "(2.0 units)",
+        "description": "Introduction to branding; brand design and development of a brand identity; brand attributes; visual aspects; social and ethical implications; curation of brand identity.",
+        "sections": [
+            {
+                "section": "34075D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Stephen Child",
+                "location": "IYH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "539",
+        "course_name": "Extended Reality Development",
+        "units": "(4.0 units)",
+        "description": "Overview of modern XR programming practices; 3D UX, physics forces, animations, behaviors, visual effects and spatial audio; advancements in XR hardware and software APIs.",
+        "sections": [
+            {
+                "section": "34110D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1130,
+                "days": 10,
+                "registered": "Canceled",
+                "instructor": "John Bruneau",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "542",
+        "course_name": "Machine Intelligence",
+        "units": "(4.0 units)",
+        "description": "Concepts and applications of artificial intelligence and machine learning; topics include agents, knowledge representation, classification systems, training models, decision trees, decision trees and ensemble learning",
+        "sections": [
+            {
+                "section": "34197D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 900,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "16 of 25",
+                "instructor": "Michael Crowley",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "544",
+        "course_name": "Transformative Artificial Intelligence in Society",
+        "units": "(4.0 units)",
+        "description": "Building modern AI applications with a focus on societal impact; fostering critical thinking in AI development; emphasizing ethical considerations in AI integration.",
+        "sections": [
+            {
+                "section": "34199D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "11 of 25",
+                "instructor": "Alexander Titus",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ACAD",
+        "course_num": "581",
+        "course_name": "Introduction to the Global Fashion System",
+        "units": "(2.0 units)",
+        "description": "Analysis of the current fashion system exploring strategic interventions within existing models to imagine future systemic change; examines the role of seasonal structures.",
+        "sections": [
+            {
+                "section": "34169D",
+                "session": "060",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 740,
+                "days": 64,
+                "registered": "15 of 25",
+                "instructor": "Keanan Duffty",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

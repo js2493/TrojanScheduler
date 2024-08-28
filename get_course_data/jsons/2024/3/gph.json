@@ -1,0 +1,1611 @@
+[
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "120",
+        "course_name": "Foundations of Western Art: Prehistoric to Renaissance",
+        "units": "(4.0 units)",
+        "description": "Mediterranean and European art and architecture presented in historical, cultural and social context that introduces art history as a discipline.",
+        "sections": [
+            {
+                "section": "11805R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "93 of 100",
+                "instructor": "Ann Marie Yasin",
+                "location": "SGM101"
+            },
+            {
+                "section": "11806R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "18 of 25",
+                "instructor": "Meagan Mulkern",
+                "location": "WPH203"
+            },
+            {
+                "section": "11807R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Meagan Mulkern",
+                "location": "WPH107"
+            },
+            {
+                "section": "11808R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Cora Sperling",
+                "location": "WPH206"
+            },
+            {
+                "section": "11809R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Cora Sperling",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AHIS",
+        "course_num": "125",
+        "course_name": "Arts of Asia: Antiquity to 1300",
+        "units": "(4.0 units)",
+        "description": "An introduction to the major art forms and monuments of religious art in India, Southeast Asia, China and Japan from prehistory to1300.",
+        "sections": [
+            {
+                "section": "11838R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "49 of 50",
+                "instructor": "Sonya Lee",
+                "location": "DMC150"
+            },
+            {
+                "section": "11839R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jiyoon Park",
+                "location": "DMC161"
+            },
+            {
+                "section": "11840R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Jiyoon Park",
+                "location": "DMC109"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "AMST",
+        "course_num": "301",
+        "course_name": "America, the Frontier, and the New West",
+        "units": "(4.0 units)",
+        "description": "Introduction to an interdisciplinary study of American political, cultural and social life with a particular emphasis on the Western United States as a region. Recommended preparation: HIST 200, ENGL 263",
+        "sections": [
+            {
+                "section": "10408R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Chris Finley",
+                "location": "SGM101"
+            },
+            {
+                "section": "10409R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Dillon Sung",
+                "location": "KAP163"
+            },
+            {
+                "section": "10410R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Dillon Sung",
+                "location": "THH110"
+            },
+            {
+                "section": "10411R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Suiyi Tang",
+                "location": "KAP113"
+            },
+            {
+                "section": "10412R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Deena Naime",
+                "location": "KAP113"
+            },
+            {
+                "section": "10413R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Deena Naime",
+                "location": "GFS108"
+            },
+            {
+                "section": "10414R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Suiyi Tang",
+                "location": "GFS104"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ANTH",
+        "course_num": "316",
+        "course_name": "Native Americans in American Public Life",
+        "units": "(4.0 units)",
+        "description": "Role of Native Americans in American public life from colonial times to the present; Native American societies and governments and their relations to the U.S.",
+        "sections": [
+            {
+                "section": "10680R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "79 of 100",
+                "instructor": "Tok Thompson",
+                "location": "THH102"
+            },
+            {
+                "section": "10681R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH110"
+            },
+            {
+                "section": "10682R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "24 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "THH112"
+            },
+            {
+                "section": "10683R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            },
+            {
+                "section": "10684R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "5 of 25",
+                "instructor": "Kristiana Willsey",
+                "location": "MHP102"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "151",
+        "course_name": "The Legacy of Rome",
+        "units": "(4.0 units)",
+        "description": "Ancient Roman values, ideas, and institutions of relevance to later periods of civilization.",
+        "sections": [
+            {
+                "section": "19880R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "151 of 151",
+                "instructor": "Stefano Rebeggiani",
+                "location": "HAR101"
+            },
+            {
+                "section": "19881R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Raphael Deutsch",
+                "location": "THH121"
+            },
+            {
+                "section": "19882R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Raphael Deutsch",
+                "location": "THH121"
+            },
+            {
+                "section": "19883R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Francesco Senarega",
+                "location": "THH121"
+            },
+            {
+                "section": "19884R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Francesco Senarega",
+                "location": "DMC209"
+            },
+            {
+                "section": "19885R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "26 of 25",
+                "instructor": "Jonathan Tao",
+                "location": "DMC206"
+            },
+            {
+                "section": "19886R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jonathan Tao",
+                "location": "DMC209"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CLAS",
+        "course_num": "280",
+        "course_name": "Classical Mythology in Art and Literature",
+        "units": "(4.0 units)",
+        "description": "Classical Greek and Roman mythology as inspiration for literature, art, music, and film in various historical contexts.",
+        "sections": [
+            {
+                "section": "19870R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "91 of 100",
+                "instructor": "Lucas Herchenroeder",
+                "location": "THH301"
+            },
+            {
+                "section": "19872R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "Lehman Schwab",
+                "location": "SOSB37"
+            },
+            {
+                "section": "19873R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "21 of 25",
+                "instructor": "Lehman Schwab",
+                "location": "SOSB37"
+            },
+            {
+                "section": "19875R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Madelaine Wheeler",
+                "location": "THH213"
+            },
+            {
+                "section": "19876R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Madelaine Wheeler",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "101",
+        "course_name": "Masterpieces and Masterminds: Literature and Thought",
+        "units": "(4.0 units)",
+        "description": "A broad introduction to the great works of Western culture from antiquity to 1800.",
+        "sections": [
+            {
+                "section": "22000R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "99 of 100",
+                "instructor": "Adam Spanos",
+                "location": "SOSB2"
+            },
+            {
+                "section": "22001R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "WPH205"
+            },
+            {
+                "section": "22002R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC203"
+            },
+            {
+                "section": "22003R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "WPH205"
+            },
+            {
+                "section": "22004R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC256"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COLT",
+        "course_num": "360",
+        "course_name": "Fictions of Africa",
+        "units": "(4.0 units)",
+        "description": "Introduction to African cultural history by way of a comparative study of major literary works and intellectual thought from representative regions and countries in Africa.",
+        "sections": [
+            {
+                "section": "22030R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "50 of 50",
+                "instructor": "Mlondolozi Zondi",
+                "location": "WPH207"
+            },
+            {
+                "section": "22006R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jayson Lantz",
+                "location": "WPH106"
+            },
+            {
+                "section": "22007R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jayson Lantz",
+                "location": "WPH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "COMM",
+        "course_num": "330",
+        "course_name": "Rhetoric in Classical Culture",
+        "units": "(4.0 units)",
+        "description": "Theories of communication and persuasion in ancient Greece and Rome; cultural and social contexts of classical rhetorical theory; major historical figures and concepts.",
+        "sections": [
+            {
+                "section": "20531R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "7 of 25",
+                "instructor": "Daniel Durbin",
+                "location": "ANN406"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "CRIT",
+        "course_num": "150",
+        "course_name": "Histories of Art, Design and Visual Culture",
+        "units": "(4.0 units)",
+        "description": "A loosely chronological, thematic survey of art, visual culture, design, and critical theory from the early modern period through modernism (1500 1950).",
+        "sections": [
+            {
+                "section": "33815R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "90 of 112",
+                "instructor": "Kyle Stephan",
+                "location": "HAR101"
+            },
+            {
+                "section": "33816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "21 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33817R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "28 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33818R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            },
+            {
+                "section": "33819R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "17 of 28",
+                "instructor": "Kyle Stephan",
+                "location": "HAR112D"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "DANC",
+        "course_num": "342",
+        "course_name": "International and Historical Perspectives on Dance",
+        "units": "(4.0 units)",
+        "description": "Exploration of dance as an art form in its artistic, political, and socio-cultural climate. Studies of the continuum of dance within its historical context.",
+        "sections": [
+            {
+                "section": "22487D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 940,
+                "days": 20,
+                "registered": "42 of 60",
+                "instructor": "Alison D'Amato",
+                "location": "KDC235"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EALC",
+        "course_num": "110",
+        "course_name": "East Asian Humanities: The Great Tradition",
+        "units": "(4.0 units)",
+        "description": "Introduction to the major humanities traditions of China, Japan, and Korea through an examination of representative works drawnfrom literature, aesthetics, philosophy, religion, and historicalwriting.",
+        "sections": [
+            {
+                "section": "25420R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "36 of 36",
+                "instructor": "Wanmeng Li",
+                "location": "DMC207"
+            },
+            {
+                "section": "25421R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "18 of 18",
+                "instructor": "Douglas Cavers",
+                "location": "THH121"
+            },
+            {
+                "section": "25422R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "18 of 18",
+                "instructor": "Douglas Cavers",
+                "location": "DMC203"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EALC",
+        "course_num": "342",
+        "course_name": "Japanese Literature and Culture",
+        "units": "(4.0 units)",
+        "description": "Japanese literature from the earliest times to the present; development of prose, poetry and the novel; evolution of theatre; Japanese literature under Western influence. Conducted in English.",
+        "sections": [
+            {
+                "section": "25685R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "48 of 49",
+                "instructor": "David Bialock",
+                "location": "ZHS159"
+            },
+            {
+                "section": "25686R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "23 of 24",
+                "instructor": "Tian Jing Teh",
+                "location": "DMC209"
+            },
+            {
+                "section": "25687R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Tian Jing Teh",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EALC",
+        "course_num": "344",
+        "course_name": "Korean Culture from Ancient to Modern Times",
+        "units": "(4.0 units)",
+        "description": "The history of Korean literature and culture from the ancient to the modern era. Recommended preparation: HIST 105g.",
+        "sections": [
+            {
+                "section": "25565R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 10,
+                "registered": "49 of 49",
+                "instructor": "Sunyoung Park",
+                "location": "SOSB2"
+            },
+            {
+                "section": "25566R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Caitlyn Chung",
+                "location": "THH217"
+            },
+            {
+                "section": "25568R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Caitlyn Chung",
+                "location": "THH214"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EALC",
+        "course_num": "350",
+        "course_name": "Chinese Civilization",
+        "units": "(4.0 units)",
+        "description": "Characteristics and aspects of Chinese civilization;interpretation of philosophy, literature, religion, art, music.Conducted in English.",
+        "sections": [
+            {
+                "section": "25307R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 800,
+                "days": 40,
+                "registered": "47 of 49",
+                "instructor": "Bettine Birge",
+                "location": "DMC150"
+            },
+            {
+                "section": "25308R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 2,
+                "registered": "22 of 24",
+                "instructor": "Di Wang",
+                "location": "WPH101"
+            },
+            {
+                "section": "25309R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "Di Wang",
+                "location": "DMC161"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EASC",
+        "course_num": "150",
+        "course_name": "East Asian Societies",
+        "units": "(4.0 units)",
+        "description": "Main patterns of change in modern China, Japan, and Korea;historical framework and the insights of geography, economics,political science, and other disciplines.",
+        "sections": [
+            {
+                "section": "25800R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "199 of 200",
+                "instructor": "Kin Tak Raymond Tsang",
+                "location": "THH201"
+            },
+            {
+                "section": "25802R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "DMC209"
+            },
+            {
+                "section": "25804R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KDC241"
+            },
+            {
+                "section": "25807R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Zerui Pan",
+                "location": "KDC241"
+            },
+            {
+                "section": "25810R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "DMC211"
+            },
+            {
+                "section": "25812R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "THHB9"
+            },
+            {
+                "section": "25816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 16,
+                "registered": "25 of 25",
+                "instructor": "Zerui Pan",
+                "location": "DMC200"
+            },
+            {
+                "section": "25820R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH214"
+            },
+            {
+                "section": "25821R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Nicole Colvett",
+                "location": "THH112"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "211",
+        "course_name": "Race in America",
+        "units": "(4.0 units)",
+        "description": "Examines the origins of the idea of race and how this idea influenced the development of the United States from the colonial period to the present day.",
+        "sections": [
+            {
+                "section": "37028R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1160,
+                "days": 20,
+                "registered": "93 of 100",
+                "instructor": "Andrew Shaler",
+                "location": "GFS106"
+            },
+            {
+                "section": "37033R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "22 of 25",
+                "instructor": "Akane Takahashi",
+                "location": "THH215"
+            },
+            {
+                "section": "37034R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Jhelene Shaw",
+                "location": "DMC257"
+            },
+            {
+                "section": "37035R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Akane Takahashi",
+                "location": "WPH206"
+            },
+            {
+                "section": "37036R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Jhelene Shaw",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "240",
+        "course_name": "History of California",
+        "units": "(4.0 units)",
+        "description": "A thematic approach to California history from precontact to present; focus on peoples, environment, economic, social, and cultural development, politics, and rise to global influence.",
+        "sections": [
+            {
+                "section": "37040R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 480,
+                "end_time": 560,
+                "days": 20,
+                "registered": "99 of 100",
+                "instructor": "Andrew Shaler",
+                "location": "THH102"
+            },
+            {
+                "section": "37029R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Amber Santoro",
+                "location": "WPH103"
+            },
+            {
+                "section": "37037R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Amber Santoro",
+                "location": "THH110"
+            },
+            {
+                "section": "37038R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Hana Cordero Rothstein",
+                "location": "THH108"
+            },
+            {
+                "section": "37039R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Hana Cordero Rothstein",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "HIST",
+        "course_num": "266",
+        "course_name": "Business and East Asian Culture, 1800-Present",
+        "units": "(4.0 units)",
+        "description": "Business history of East Asia (China, Japan, Korea, Taiwan, and Hong Kong) as related to culture, politics, and society.",
+        "sections": [
+            {
+                "section": "37107R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "149 of 150",
+                "instructor": "Brett Sheehan",
+                "location": "SGM101"
+            },
+            {
+                "section": "37108R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Ruohan Zhou",
+                "location": "DMC160"
+            },
+            {
+                "section": "37109R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Ruohan Zhou",
+                "location": "DMC154"
+            },
+            {
+                "section": "37111R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sharon Salgado Martinez",
+                "location": "DMC211"
+            },
+            {
+                "section": "37112R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Sharon Salgado Martinez",
+                "location": "DMC201"
+            },
+            {
+                "section": "37113R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kurt Woolford",
+                "location": "KAP167"
+            },
+            {
+                "section": "37114R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Kurt Woolford",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "100",
+        "course_name": "Jewish History",
+        "units": "(4.0 units)",
+        "description": "Major ideas, personalities, and movements in Jewish history from antiquity to the present in light of the interaction of the Jews with the general culture.",
+        "sections": [
+            {
+                "section": "38250R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 10,
+                "registered": "62 of 100",
+                "instructor": "Ariel Berger,Leah Hochman",
+                "location": "THH201"
+            },
+            {
+                "section": "38251R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Julia Knobloch",
+                "location": "SOSB37"
+            },
+            {
+                "section": "38252R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 930,
+                "end_time": 980,
+                "days": 2,
+                "registered": "25 of 25",
+                "instructor": "David Gonzalez",
+                "location": "WPH106"
+            },
+            {
+                "section": "38253R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 2,
+                "registered": "8 of 25",
+                "instructor": "David Gonzalez",
+                "location": "WPH106"
+            },
+            {
+                "section": "38260R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 990,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "4 of 25",
+                "instructor": "Charles Mays",
+                "location": "THH106"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "JS",
+        "course_num": "180",
+        "course_name": "Judaism",
+        "units": "(4.0 units)",
+        "description": "Jewish beliefs, practices, and history from the biblical period to the present; Judaic contributions to Western civilization.",
+        "sections": [
+            {
+                "section": "38261R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "30 of 30",
+                "instructor": "Sarah Benor,Leah Hochman",
+                "location": "DMC151"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LAW",
+        "course_num": "210",
+        "course_name": "Fundamentals of the U.S. Legal System",
+        "units": "(4.0 units)",
+        "description": "Introduces the U.S. legal system and its relationship to basic principles of the rule of law. Examines lawmaking institutions, judicial processes and contemporary legal issues.",
+        "sections": [
+            {
+                "section": "02665R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "160 of 160",
+                "instructor": "Donald Scotten",
+                "location": "LAW3"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MDES",
+        "course_num": "345",
+        "course_name": "Power and Authority in the Middle East",
+        "units": "(4.0 units)",
+        "description": "A comparative examination of social relations of power and institutions with a special focus on intellectual traditions, the law, and social movements.",
+        "sections": [
+            {
+                "section": "41537R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Bandar Alsaeed",
+                "location": "DMC154"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "115",
+        "course_name": "Western Music as Sounding History",
+        "units": "(4.0 units)",
+        "description": "An introduction to Western art music and culture from the Medieval, Renaissance, Baroque, Classical, Romantic and Modern eras through reading, listening, analyzing and writing about music.",
+        "sections": [
+            {
+                "section": "47208R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "100 of 100",
+                "instructor": "Adam Gilbert",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "125",
+        "course_name": "Introduction to Christianity: Antiquity to 1500",
+        "units": "(4.0 units)",
+        "description": "Survey of the changing beliefs and practices of the Christian religion from its origins through early modernity (100 CE - 1500 CE), with special attention to different varieties of Christian literature.",
+        "sections": [
+            {
+                "section": "60027R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "145 of 150",
+                "instructor": "David Albertson",
+                "location": "THH301"
+            },
+            {
+                "section": "60028R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "24 of 25",
+                "instructor": "Emily Stolken",
+                "location": "DMC155"
+            },
+            {
+                "section": "60029D",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "28 of 28",
+                "instructor": "Emily Stolken",
+                "location": "DMC158"
+            },
+            {
+                "section": "60030R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jon Garcia",
+                "location": "DMC154"
+            },
+            {
+                "section": "60031R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jon Garcia",
+                "location": "DMC155"
+            },
+            {
+                "section": "60032R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "23 of 25",
+                "instructor": "Brian Frastaci",
+                "location": "SOSB41"
+            },
+            {
+                "section": "60036R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 25",
+                "instructor": "Brian Frastaci",
+                "location": "SOSB41"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "REL",
+        "course_num": "345",
+        "course_name": "Islamic Spirituality: Mysticism and the Sufi Tradition",
+        "units": "(4.0 units)",
+        "description": "Examination of the origins, development, and basic concepts and practices of Sufism, as well as its relationship to other areas of Islamic life.",
+        "sections": [
+            {
+                "section": "60077R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "19 of 19",
+                "instructor": "Arjun Nair",
+                "location": "ACB238"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "RXRS",
+        "course_num": "201",
+        "course_name": "The History and Geography of Drugs",
+        "units": "(4.0 units)",
+        "description": "Global perspectives; discovery and use of drugs (legal/illegal); poisons. How they helped shape, modify or change history as described in classical literature through present day.",
+        "sections": [
+            {
+                "section": "49261R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 10,
+                "registered": "52 of 125",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "MRF340"
+            },
+            {
+                "section": "49265R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "63 of 94",
+                "instructor": "Terry Church,Daryl Davies",
+                "location": "WPHB27"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SLL",
+        "course_num": "330",
+        "course_name": "Russian Thought and Civilization",
+        "units": "(4.0 units)",
+        "description": "Russian cultural identity from its beginnings until today. The Eastern Orthodox tradition, its traumatic confrontation with Western culture, and their continuous interaction.",
+        "sections": [
+            {
+                "section": "60231R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 24",
+                "instructor": "Dmitrii Kuznetsov",
+                "location": "DMC105"
+            },
+            {
+                "section": "60232R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 26",
+                "instructor": "Dmitrii Kuznetsov",
+                "location": "WPH203"
+            },
+            {
+                "section": "60228R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "49 of 50",
+                "instructor": "Peter Winsky",
+                "location": "VPD116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SPAN",
+        "course_num": "290",
+        "course_name": "Introduction to Latin American and Iberian Studies",
+        "units": "(4.0 units)",
+        "description": "Introduction to the cultural history of Spain, Portugal and Latin America with a focus on literature and visual works from the early-modern period to the twenty-first century.",
+        "sections": [
+            {
+                "section": "62279R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "99 of 99",
+                "instructor": "Samuel Steinberg",
+                "location": "GFS106"
+            },
+            {
+                "section": "62282R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Catherine Bedoya",
+                "location": "DMC161"
+            },
+            {
+                "section": "62283R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Catherine Bedoya",
+                "location": "DMC161"
+            },
+            {
+                "section": "62284R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Pascual Brodsky",
+                "location": "DMC160"
+            },
+            {
+                "section": "62285R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Pascual Brodsky",
+                "location": "DMC160"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "SWMS",
+        "course_num": "219",
+        "course_name": "Introduction to Feminist Theory",
+        "units": "(4.0 units)",
+        "description": "Emergence of feminist thought from the Enlightenment to the present; historical development of female subjectivity; advancement of womens rights; feminisms from alternative ideological perspectives.",
+        "sections": [
+            {
+                "section": "34912R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "148 of 150",
+                "instructor": "Diana Blaine",
+                "location": "THH202"
+            },
+            {
+                "section": "34913R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Rebecca M Kantor",
+                "location": "THHB10"
+            },
+            {
+                "section": "34914R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Rebecca M Kantor",
+                "location": "WPH203"
+            },
+            {
+                "section": "34916R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Clancy Tripp",
+                "location": "THH108"
+            },
+            {
+                "section": "34917R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Clancy Tripp",
+                "location": "SOSB37"
+            },
+            {
+                "section": "34926R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 840,
+                "end_time": 890,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "Seoyeon Lee",
+                "location": "DMC160"
+            },
+            {
+                "section": "34928R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 900,
+                "end_time": 950,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "Seoyeon Lee",
+                "location": "DMC160"
+            }
+        ]
+    }
+]

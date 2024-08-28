@@ -1,0 +1,1217 @@
+[
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "110",
+        "course_name": "In a Word",
+        "units": "(4.0 units)",
+        "description": "Words as tools for discovering properties of the human mind. How words are formed of and form various units. Experiments exploring judgments about word interpretation.",
+        "sections": [
+            {
+                "section": "38802R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "49 of 50",
+                "instructor": "Hajime Hoji",
+                "location": "DMC100"
+            },
+            {
+                "section": "38808R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "24 of 25",
+                "instructor": "",
+                "location": "GFS207"
+            },
+            {
+                "section": "38809R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "25 of 25",
+                "instructor": "",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "115",
+        "course_name": "Language and Society",
+        "units": "(4.0 units)",
+        "description": "Discourse patterns among diverse social groups in institutional and interpersonal settings; interrelationships among language practices and gender, socioeconomic status, ethnicity; social structures and cultural values as reflected in language policies and practices.",
+        "sections": [
+            {
+                "section": "38812R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "120 of 120",
+                "instructor": "Andrew Simpson",
+                "location": "GFS106"
+            },
+            {
+                "section": "38813R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "38814R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP165"
+            },
+            {
+                "section": "38815R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP148"
+            },
+            {
+                "section": "38816R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "GFS114"
+            },
+            {
+                "section": "38817R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "38819R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "38837R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 20,
+                "registered": "119 of 120",
+                "instructor": "Andrew Simpson",
+                "location": "GFS106"
+            },
+            {
+                "section": "38844R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC255"
+            },
+            {
+                "section": "38846R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "Andrew Simpson",
+                "location": "KAP134"
+            },
+            {
+                "section": "38848R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP137"
+            },
+            {
+                "section": "38850R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 480,
+                "end_time": 530,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "38922R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "38924R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "DMC202"
+            },
+            {
+                "section": "38972R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "104 of 120",
+                "instructor": "Mary Byram Washburn",
+                "location": "ZHS159"
+            },
+            {
+                "section": "38925R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "THH115"
+            },
+            {
+                "section": "38930R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "THH115"
+            },
+            {
+                "section": "38931R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "38932R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP134"
+            },
+            {
+                "section": "38937R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 32,
+                "registered": "12 of 12",
+                "instructor": "",
+                "location": "DMC204"
+            },
+            {
+                "section": "38939R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 32,
+                "registered": "11 of 11",
+                "instructor": "",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "120",
+        "course_name": "American Sign Language I",
+        "units": "(4.0 units)",
+        "description": "Familiarization with ASL and fingerspelling. Covers visual and gestural communication, comprehension through receptive language skills, basic conversational proficiency, general insights into American Deaf culture.",
+        "sections": [
+            {
+                "section": "38960R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1040,
+                "days": 10,
+                "registered": "5 of 25",
+                "instructor": "Karen Ruiz",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "150",
+        "course_name": "American Sign Language II",
+        "units": "(4.0 units)",
+        "description": "Increased development of inflectional and non-manual behavior patterns presented with incorporation of selected aspects of Deaf culture and community within receptive and expressive conversations.",
+        "sections": [
+            {
+                "section": "38961D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "0 of 25",
+                "instructor": "Karen Ruiz",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "210",
+        "course_name": "Introduction to Linguistics",
+        "units": "(4.0 units)",
+        "description": "Empirical study of the sounds and structures of human language;syntax and semantics; language change; linguistic universals.",
+        "sections": [
+            {
+                "section": "38818R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "27 of 48",
+                "instructor": "Sandra Disner",
+                "location": "DMC100"
+            },
+            {
+                "section": "38830R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "18 of 24",
+                "instructor": "",
+                "location": "THH106"
+            },
+            {
+                "section": "38831R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "9 of 24",
+                "instructor": "",
+                "location": "GFS222"
+            },
+            {
+                "section": "38990R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1010,
+                "days": 20,
+                "registered": "35 of 50",
+                "instructor": "Canaan Breiss",
+                "location": "DMC152"
+            },
+            {
+                "section": "38927R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 32,
+                "registered": "15 of 25",
+                "instructor": "",
+                "location": "VHE206"
+            },
+            {
+                "section": "38928R",
+                "session": "001",
+                "type": "Discussion",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 32,
+                "registered": "20 of 25",
+                "instructor": "",
+                "location": "DMC101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "285",
+        "course_name": "Human Language and Technology",
+        "units": "(4.0 units)",
+        "description": "Study of human linguistic competence and technologies that simulate it. Phonetics, vibration and signal processing, speech recognition, neural networks.",
+        "sections": [
+            {
+                "section": "38838D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 650,
+                "days": 20,
+                "registered": "117 of 120",
+                "instructor": "Khalil Iskarous",
+                "location": "THH102"
+            },
+            {
+                "section": "38894R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 2,
+                "registered": "19 of 20",
+                "instructor": "",
+                "location": "KAP113"
+            },
+            {
+                "section": "38896R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 510,
+                "end_time": 590,
+                "days": 32,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "KAP138"
+            },
+            {
+                "section": "38898R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "20 of 20",
+                "instructor": "",
+                "location": "LVL3C"
+            },
+            {
+                "section": "38900R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "16 of 20",
+                "instructor": "",
+                "location": "VHE214"
+            },
+            {
+                "section": "38902D",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 2,
+                "registered": "23 of 24",
+                "instructor": "",
+                "location": "KOH208"
+            },
+            {
+                "section": "38904R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "19 of 20",
+                "instructor": "",
+                "location": "KAP166"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "302",
+        "course_name": "Introduction to Syntax",
+        "units": "(4.0 units)",
+        "description": "A survey of topics in syntax.",
+        "sections": [
+            {
+                "section": "38845R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 10,
+                "registered": "11 of 25",
+                "instructor": "Carolina Fraga",
+                "location": "GFS222"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "303",
+        "course_name": "Introduction to Semantics and Pragmatics",
+        "units": "(4.0 units)",
+        "description": "Introduction to meaning in natural language and the methods from logic applied to its study.",
+        "sections": [
+            {
+                "section": "38839R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 810,
+                "end_time": 890,
+                "days": 20,
+                "registered": "18 of 25",
+                "instructor": "Deniz Rudin",
+                "location": "DMC206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "307",
+        "course_name": "Linguistic Theory and Communication Disorders",
+        "units": "(4.0 units)",
+        "description": "Introduces the breadth of possible communication disorders with a particular focus on the duties of the professionals who assist people with these disorders. Explores both the diagnostic criteria and common interventions for disorders such as Language Impairment, stuttering, swallowing and dementia.",
+        "sections": [
+            {
+                "section": "38906R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "17 of 25",
+                "instructor": "Mary Byram Washburn",
+                "location": "VHE210"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "385",
+        "course_name": "Human Language as Computation",
+        "units": "(4.0 units)",
+        "description": "Study of language as a complex natural system that requires elaborate mental computation.",
+        "sections": [
+            {
+                "section": "38828R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 920,
+                "days": 20,
+                "registered": "22 of 50",
+                "instructor": "Khalil Iskarous",
+                "location": "DMC100"
+            },
+            {
+                "section": "38841R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 32,
+                "registered": "7 of 25",
+                "instructor": "",
+                "location": "KAP159"
+            },
+            {
+                "section": "38926R",
+                "session": "001",
+                "type": "Lab",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 32,
+                "registered": "15 of 25",
+                "instructor": "",
+                "location": "GFS223"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "406",
+        "course_name": "Psycholinguistics",
+        "units": "(4.0 units)",
+        "description": "Experimental and theoretical aspects of how spoken and written language is produced and understood, learned during childhood, and affected by brain damage.",
+        "sections": [
+            {
+                "section": "38861R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "25 of 25",
+                "instructor": "Elsi Kaiser",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "412",
+        "course_name": "Language and Law",
+        "units": "(4.0 units)",
+        "description": "Linguistic principles which bear on the interpretation of government statutes and the litigation of legal disputes. Speech act theory; ambiguity; courtroom discourse; contracts and advertisements; jury instructions; the Plain Language Movement.",
+        "sections": [
+            {
+                "section": "38871R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1020,
+                "end_time": 1100,
+                "days": 20,
+                "registered": "22 of 25",
+                "instructor": "Sandra Disner",
+                "location": "DMC211"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "433",
+        "course_name": "Children's Learning and Cognitive Development",
+        "units": "(4.0 units)",
+        "description": "Principles of cognitive development, learning, and motivation applied to the development of literacy; includes tutoring a child 2 hours per week. Prerequisite: PSYC 336L.",
+        "sections": [
+            {
+                "section": "52626R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "25 of 25",
+                "instructor": "Sandy LaTourrette",
+                "location": "KAP165"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "490",
+        "course_name": "Directed Research",
+        "units": "(1.0-8.0 units, max 12)",
+        "description": "Individual research and readings. Not available for graduate credit.",
+        "sections": [
+            {
+                "section": "38881D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "497",
+        "course_name": "Honors Thesis",
+        "units": "(4.0 units)",
+        "description": "Writing of the honors thesis. Registration is restricted to honors students.",
+        "sections": [
+            {
+                "section": "38883D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "2 of 10",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "505A",
+        "course_name": "Seminar in Linguistics",
+        "units": "(1.0 unit)",
+        "description": "(LING-505abc) Exploration of the professional world of linguistics for first semestr graduate students.Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38891D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 840,
+                "days": 4,
+                "registered": "3 of 20",
+                "instructor": "Khalil Iskarous",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "505B",
+        "course_name": "Seminar in Linguistics",
+        "units": "(1.0 unit)",
+        "description": "Preparation and presentation of M.A./Ph.D. screening papers; discussion of student research. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38892D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1020,
+                "days": 4,
+                "registered": "6 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "505C",
+        "course_name": "Seminar in Linguistics",
+        "units": "(1.0 unit)",
+        "description": "Colloquium for presentation and discussion of student research paper. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38893D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 860,
+                "days": 16,
+                "registered": "0 of 15",
+                "instructor": "Khalil Iskarous",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "506",
+        "course_name": "Practicum in Phonetics and Phonology",
+        "units": "(1.0 units, max 10)",
+        "description": "Professional development in phonetics and phonology. Skills workshops, discussion of emerging research in the literature, and internal and external presentations of work in progress.",
+        "sections": [
+            {
+                "section": "38944D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 840,
+                "days": 2,
+                "registered": "4 of 25",
+                "instructor": "Louis Goldstein",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "507",
+        "course_name": "Practicum in Syntax and Semantics",
+        "units": "(1.0 units, max 10)",
+        "description": "Professional development in syntax and semantics. Skills workshops, discussion of emerging research in the literature, and internal and external presentations of work in progress.",
+        "sections": [
+            {
+                "section": "38945D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 900,
+                "days": 8,
+                "registered": "4 of 25",
+                "instructor": "Deniz Rudin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "508",
+        "course_name": "Practicum in Psycholinguistics",
+        "units": "(1.0 units, max 10)",
+        "description": "Professional development in psycholinguistics. Skills workshops, discussion of emerging research in the literature, and internal and external presentations of work in progress.",
+        "sections": [
+            {
+                "section": "38946D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 630,
+                "days": 4,
+                "registered": "7 of 25",
+                "instructor": "Zuzanna Fuchs",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "530",
+        "course_name": "Generative Syntax",
+        "units": "(3.0 units)",
+        "description": "Introduction to syntax ; transformational-generative syntax.",
+        "sections": [
+            {
+                "section": "38907D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1040,
+                "days": 8,
+                "registered": "4 of 15",
+                "instructor": "Travis Major",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "531A",
+        "course_name": "Phonology",
+        "units": "(3.0 units)",
+        "description": "Traditional views of phonology; generative phonology; current developments in phonological research and theory.",
+        "sections": [
+            {
+                "section": "38908D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 680,
+                "days": 10,
+                "registered": "4 of 15",
+                "instructor": "Stephanie Shih",
+                "location": "DMC204"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "532",
+        "course_name": "Current Issues in Syntactic Theory",
+        "units": "(3.0 units)",
+        "description": "Original literature, focusing whenever possible on issues in comparative syntax and their implications for universal grammar. Course complements LING 530.",
+        "sections": [
+            {
+                "section": "38943D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 750,
+                "end_time": 830,
+                "days": 10,
+                "registered": "6 of 15",
+                "instructor": "Andrew Simpson",
+                "location": "KAP137"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "534",
+        "course_name": "Semantics",
+        "units": "(3.0 units)",
+        "description": "Current linguistic approaches to the semantics of natural language; analysis of concepts of meaning and reference.",
+        "sections": [
+            {
+                "section": "38915D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 740,
+                "days": 20,
+                "registered": "6 of 15",
+                "instructor": "Deniz Rudin",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "576",
+        "course_name": "Psycholinguistics",
+        "units": "(3.0 units)",
+        "description": "Theories of acquisition; sentence and discourse processing; language and thought.",
+        "sections": [
+            {
+                "section": "38951D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 16,
+                "registered": "5 of 15",
+                "instructor": "Elsi Kaiser",
+                "location": "VHE206"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "580",
+        "course_name": "General Phonetics",
+        "units": "(3.0 units)",
+        "description": "Familiarization with articulation, transcription, production, and acoustic analysis of the speech sounds found in the world's languages. Also speech technology, perception, and disorders. Includes laboratory exercises.",
+        "sections": [
+            {
+                "section": "38955D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 980,
+                "days": 4,
+                "registered": "5 of 25",
+                "instructor": "Louis Goldstein",
+                "location": "GFS330"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "593",
+        "course_name": "Practicum in Teaching the Liberal Arts: Linguistics",
+        "units": "(2.0 units)",
+        "description": "Practical principles for the long-term development of effective teaching within college disciplines. Graded CR/NC. Open only to doctoral students.",
+        "sections": [
+            {
+                "section": "38968D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1020,
+                "days": 8,
+                "registered": "6 of 15",
+                "instructor": "Stephanie Shih",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "595",
+        "course_name": "Directed Readings",
+        "units": "(1.0-4.0 units)",
+        "description": "Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "38970D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "4 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "610",
+        "course_name": "Seminar in Linguistic Theory",
+        "units": "(3.0 units, max 12)",
+        "description": "",
+        "sections": [
+            {
+                "section": "38973D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 930,
+                "end_time": 1070,
+                "days": 16,
+                "registered": "4 of 15",
+                "instructor": "Louis Goldstein",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "631",
+        "course_name": "Seminar in Phonological Theory",
+        "units": "(3.0 units, max 12)",
+        "description": "",
+        "sections": [
+            {
+                "section": "38979D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 860,
+                "days": 8,
+                "registered": "3 of 15",
+                "instructor": "Stephanie Shih",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "635",
+        "course_name": "Seminar in Syntax",
+        "units": "(3.0 units, max 12)",
+        "description": "",
+        "sections": [
+            {
+                "section": "38983D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 570,
+                "end_time": 710,
+                "days": 8,
+                "registered": "5 of 15",
+                "instructor": "Travis Major",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "676",
+        "course_name": "Seminar in Psycholinguistics",
+        "units": "(3.0 units, max 12)",
+        "description": "",
+        "sections": [
+            {
+                "section": "38991D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 740,
+                "days": 16,
+                "registered": "7 of 12",
+                "instructor": "Zuzanna Fuchs",
+                "location": "KAP150"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38993D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            },
+            {
+                "section": "38994D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38995D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38996D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38997D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38998D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "LING",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "38999D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

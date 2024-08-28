@@ -1,0 +1,456 @@
+[
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "102",
+        "course_name": "World Music",
+        "units": "(4.0 units)",
+        "description": "Exploration of music and cultures of the world. Engagement with international musicians, global issues, field work and musical diasporas in Los Angeles.",
+        "sections": [
+            {
+                "section": "47203R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "150 of 150",
+                "instructor": "Scott Spencer",
+                "location": "THH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "105",
+        "course_name": "Exploring Our Musical Campus",
+        "units": "(4.0 units)",
+        "description": "Exploration of musical styles and elements, creative process and social context through active listening and engagement with live performances on the USC campus.",
+        "sections": [
+            {
+                "section": "47205R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "21 of 70",
+                "instructor": "Robert Cutietta",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "115",
+        "course_name": "Western Music as Sounding History",
+        "units": "(4.0 units)",
+        "description": "An introduction to Western art music and culture from the Medieval, Renaissance, Baroque, Classical, Romantic and Modern eras through reading, listening, analyzing and writing about music.",
+        "sections": [
+            {
+                "section": "47208R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "99 of 100",
+                "instructor": "Adam Gilbert",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "200",
+        "course_name": "The Broadway Musical: Reflections of American Diversity",
+        "units": "(4.0 units)",
+        "description": "A uniquely American genre, the Broadway musical serves as a catalyst for inquiry into human diversity, cross-culturalism, and significant social and political issues.",
+        "sections": [
+            {
+                "section": "47213R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Daniel Lincoln",
+                "location": "THH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "210",
+        "course_name": "Electronic Music and Dance Culture",
+        "units": "(4.0 units)",
+        "description": "The origins and development of EDM and its relatives such as disco, house, techno, rave and electronica, focusing on cultural and technological influences.",
+        "sections": [
+            {
+                "section": "47216R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 10,
+                "registered": "143 of 150",
+                "instructor": "Sean Nye",
+                "location": "THH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "250",
+        "course_name": "The Music of Black Americans",
+        "units": "(4.0 units)",
+        "description": "A chronicle of the musical contribution of Africans and African Americans to American society and to the foundations of musical genres and styles throughout the world.",
+        "sections": [
+            {
+                "section": "47220R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "55 of 60",
+                "instructor": "Ron Mc Curdy",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "255",
+        "course_name": "Songwriting I",
+        "units": "(2.0 units)",
+        "description": "Development of musical and lyrical skills, composing, listening, analysis, and critiques of popular original music.",
+        "sections": [
+            {
+                "section": "47223D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 2,
+                "registered": "21 of 25",
+                "instructor": "Natasha Pasternak",
+                "location": "TMCG102B"
+            },
+            {
+                "section": "47225R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "22 of 25",
+                "instructor": "David Poe",
+                "location": "TMCG102B"
+            },
+            {
+                "section": "47226R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 16,
+                "registered": "12 of 25",
+                "instructor": "David Poe",
+                "location": "TMCG102B"
+            },
+            {
+                "section": "47227R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 8,
+                "registered": "9 of 25",
+                "instructor": "Natasha Pasternak",
+                "location": "TMCG102B"
+            },
+            {
+                "section": "47228R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 4,
+                "registered": "25 of 25",
+                "instructor": "Haleigh Bowers",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "320",
+        "course_name": "Hip-hop Music and Culture",
+        "units": "(4.0 units)",
+        "description": "A history of hip-hop music from its inception to the present: its musical processes and styles, as well as attendant social, political and cultural issues.",
+        "sections": [
+            {
+                "section": "47229R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 20,
+                "registered": "150 of 150",
+                "instructor": "Wyann Vaughn",
+                "location": "THH202"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "355",
+        "course_name": "Songwriting II",
+        "units": "(2.0 units)",
+        "description": "Continuation of Songwriting I; particular emphasis on the analysis of the techniques of important popular songwriters and the application of these techniques to original songs.",
+        "sections": [
+            {
+                "section": "47234D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "19 of 25",
+                "instructor": "Haleigh Bowers",
+                "location": "TMCG102B"
+            },
+            {
+                "section": "47235R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 4,
+                "registered": "23 of 25",
+                "instructor": "Haleigh Bowers",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "372",
+        "course_name": "Music, Turmoil and Nationalism",
+        "units": "(4.0 units)",
+        "description": "An exploration of musical practices and styles which reflect and shape national identities and which focus on those created in response to political turmoil in many forms.",
+        "sections": [
+            {
+                "section": "47240R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "52 of 70",
+                "instructor": "Lisa Vest",
+                "location": "BMH100"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "373",
+        "course_name": "Writing About Popular Music",
+        "units": "(4.0 units)",
+        "description": "Immerses students in criticism, scholarship, and creative writing dealing with popular music. Students participate in that discourse through developing their own authorial voices.",
+        "sections": [
+            {
+                "section": "47293R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 830,
+                "days": 20,
+                "registered": "53 of 70",
+                "instructor": "Joanna Demers",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "374",
+        "course_name": "Beatles, Stones, Bowie: Empire and Masculinity",
+        "units": "(4.0 units)",
+        "description": "Historical survey of the Beatles, the Rolling Stones and David Bowie that explores their contributions to contemporary notions of \"masculinity,\" \"Empire,\" and \"classic rock.\"",
+        "sections": [
+            {
+                "section": "47245R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "104 of 140",
+                "instructor": "Joanna Demers",
+                "location": "MRF340"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "455",
+        "course_name": "Songwriting III: The Performing Songwriter",
+        "units": "(2.0 units)",
+        "description": "Continuation of Songwriting I and II with emphasis on the development of performance skills of original popular music in preparation for songwriting showcases.",
+        "sections": [
+            {
+                "section": "47263R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1190,
+                "days": 8,
+                "registered": "10 of 25",
+                "instructor": "David Poe",
+                "location": "TMCG102B"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "460",
+        "course_name": "Film Music: History and Function From 1930 to the Present",
+        "units": "(4.0 units)",
+        "description": "A survey of the art and craft of film music as practiced by outstanding composers in motion pictures.",
+        "sections": [
+            {
+                "section": "47266R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 20,
+                "registered": "18 of 60",
+                "instructor": "Tim Greiving",
+                "location": "TMCG156"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "481",
+        "course_name": "Young Artist Project II",
+        "units": "(2.0 units)",
+        "description": "Refinement, execution and reflection on unique individualized, mentored projects related to students' diversified and often hybrid work as classical musicians.",
+        "sections": [
+            {
+                "section": "47276D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 2,
+                "registered": "30 of 35",
+                "instructor": "Veronika Krausas",
+                "location": "KDC240"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "498",
+        "course_name": "Internship in Music",
+        "units": "(1.0-4.0 units, max 8)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty. Open only to Bachelor of Music and Bachelor of Arts, Music majors only. Not available for graduate credit. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47280D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "598",
+        "course_name": "Internship in Music",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty. Open only to music majors. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47286D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 20",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "798",
+        "course_name": "Internship in Music",
+        "units": "(1.0-4.0 units, max 4)",
+        "description": "Practical work experience in the student's field of study, at an off-campus location. Students are individually supervised by faculty. Open only to doctoral students in music. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "47294D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "MUSC",
+        "course_num": "800",
+        "course_name": "Studies for the Qualifying Examination in Music",
+        "units": "(0.0 units)",
+        "description": "Studies for the Qualifying Examination. Duplicates credit in GRSC-800. CR/NC.",
+        "sections": [
+            {
+                "section": "47297D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "24 of 30",
+                "instructor": "Brian Head",
+                "location": "MUS317"
+            }
+        ]
+    }
+]

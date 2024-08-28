@@ -1,0 +1,302 @@
+[
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "500",
+        "course_name": "Foundations of Higher, Adult and Professional Education",
+        "units": "(3.0 units)",
+        "description": "Contemporary issues in higher, adult and professional education in the United States; analytic perspectives from various disciplines (history, philosophy, sociology); implications for policy practice.",
+        "sections": [
+            {
+                "section": "27039D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 16,
+                "registered": "15 of 20",
+                "instructor": "Minh Tran",
+                "location": "WPH206"
+            },
+            {
+                "section": "27042D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "17 of 20",
+                "instructor": "Sheila Banuelos",
+                "location": "WPH107"
+            },
+            {
+                "section": "27045D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 16,
+                "registered": "19 of 19",
+                "instructor": "Sheila Banuelos",
+                "location": "WPH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "503",
+        "course_name": "Curriculum, Teaching, and Learning in Higher, Adult, and Professional Education",
+        "units": "(3.0 units)",
+        "description": "Curriculum, teaching, and learning strategies for general, vocational, and professional education; planning for lifelong learning; theories, policies, and practices for higher, adult and professional education.",
+        "sections": [
+            {
+                "section": "26896D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 8,
+                "registered": "6 of 22",
+                "instructor": "Darnell Cole",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27163D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "13 of 23",
+                "instructor": "Darnell Cole",
+                "location": "WPH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "587",
+        "course_name": "Fieldwork in Higher, Adult and Professional Education",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Structured participation in supervised teaching or administrative activities. Assignments matched with student's goals, training, experience. Graded CR/NC. Recommended preparation: EDHP 563, EDHP 565",
+        "sections": [
+            {
+                "section": "27029D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1180,
+                "days": 2,
+                "registered": "9 of 20",
+                "instructor": "Atheneus Ocampo",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "593A",
+        "course_name": "Master's Seminar",
+        "units": "(2.0 units)",
+        "description": "An examination and analysis of research and literature in the student's area of focus. Required for all master's candidates who do not enroll in the Master's Thesis (594abz). Graded CR/NC.",
+        "sections": [
+            {
+                "section": "27047D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "20 of 21",
+                "instructor": "Sheila Banuelos",
+                "location": "WPH103"
+            },
+            {
+                "section": "27193D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 4,
+                "registered": "15 of 20",
+                "instructor": "Sheila Banuelos",
+                "location": "WPH101"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "594A",
+        "course_name": "Master's Thesis",
+        "units": "(2.0 units)",
+        "description": "Required for all master's candidates who do not enroll in the Master's Seminar (593ab). Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "27079D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1000,
+                "days": 2,
+                "registered": "4 of 8",
+                "instructor": "Atheneus Ocampo",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27088D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1000,
+                "days": 2,
+                "registered": "5 of 5",
+                "instructor": "Adrian Huerta",
+                "location": "OFFICE"
+            },
+            {
+                "section": "27158D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1000,
+                "days": 2,
+                "registered": "5 of 7",
+                "instructor": "Sheila Banuelos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "594Z",
+        "course_name": "Master's Thesis",
+        "units": "(0.0 units)",
+        "description": "Required for all master's candidates who do not enroll in the Master's Seminar (593ab). Credit on acceptance of thesis. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "26893D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 960,
+                "days": 2,
+                "registered": "1 of 3",
+                "instructor": "Sheila Banuelos",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "679",
+        "course_name": "Legal Issues in the Administration of Higher Education",
+        "units": "(3.0 units)",
+        "description": "Analysis of legal issues related to the administration of higher education; emphasis on relations with students, faculty, staff, alumni, and campus communities.",
+        "sections": [
+            {
+                "section": "26898D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 4,
+                "registered": "16 of 22",
+                "instructor": "Shafiqa Ahmadi",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27152D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 16,
+                "registered": "22 of 22",
+                "instructor": "Shafiqa Ahmadi",
+                "location": "WPH201"
+            },
+            {
+                "section": "27153D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 16,
+                "registered": "12 of 22",
+                "instructor": "Shafiqa Ahmadi",
+                "location": "WPH201"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDHP",
+        "course_num": "687",
+        "course_name": "Student Development in Higher Education",
+        "units": "(3.0 units)",
+        "description": "Theories of college student development and application of developmental models to program design, interventions, outreach, and research programs.",
+        "sections": [
+            {
+                "section": "26894D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1080,
+                "days": 2,
+                "registered": "18 of 22",
+                "instructor": "Mark Pearson",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27026D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "23 of 23",
+                "instructor": "Mark Pearson",
+                "location": "WPH203"
+            },
+            {
+                "section": "27027D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "20 of 23",
+                "instructor": "Mark Pearson",
+                "location": "WPH206"
+            },
+            {
+                "section": "27046D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 8,
+                "registered": "24 of 24",
+                "instructor": "Adrian Huerta",
+                "location": "WPHB36"
+            },
+            {
+                "section": "27083D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 8,
+                "registered": "25 of 25",
+                "instructor": "Jonathan Wang",
+                "location": "WPH203"
+            }
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "523",
+        "course_name": "Physiochemical Processes in Environmental Engineering",
+        "units": "(4.0 units)",
+        "description": "Concepts and applications of physicochemical processes in engineered systems, including coagulation, sedimentation, filtration, adsorption and membrane processes.",
+        "sections": [
+            {
+                "section": "29736R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 770,
+                "days": 10,
+                "registered": "4 of 30",
+                "instructor": "Amy Childress",
+                "location": "DMC260"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "527",
+        "course_name": "Climate Change and Atmospheric Aerosols",
+        "units": "(4.0 units)",
+        "description": "Climate change; climate science fundamentals; Earth's energy balance and atmosphere; greenhouse gas dynamics; fundamentals of airborne particles; climate-aerosol interactions; particle-radiation and particle-cloud interactions.",
+        "sections": [
+            {
+                "section": "31420R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "27 of 30",
+                "instructor": "Jiachen Zhang",
+                "location": "OHE120"
+            },
+            {
+                "section": "31422D",
+                "session": "034",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1100,
+                "days": 16,
+                "registered": "4 of 10",
+                "instructor": "Jiachen Zhang",
+                "location": "DEN@Viterbi"
+            },
+            {
+                "section": "31421R",
+                "session": "048",
+                "type": "Discussion",
+                "start_time": 1110,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "27 of 30",
+                "instructor": "Jiachen Zhang",
+                "location": "OHE120"
+            },
+            {
+                "section": "31424D",
+                "session": "034",
+                "type": "Discussion",
+                "start_time": 1110,
+                "end_time": 1160,
+                "days": 16,
+                "registered": "4 of 10",
+                "instructor": "Jiachen Zhang",
+                "location": "DEN@Viterbi"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "553",
+        "course_name": "Biological Processes in Environmental Engineering",
+        "units": "(4.0 units)",
+        "description": "Design of aerobic and anaerobic biological treatment processes for organic and inorganic pollutant removal and resource recovery from waste streams.",
+        "sections": [
+            {
+                "section": "29760R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1070,
+                "days": 10,
+                "registered": "4 of 35",
+                "instructor": "Adam Smith",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "562",
+        "course_name": "Aquatic Chemistry",
+        "units": "(4.0 units)",
+        "description": "Quantitative prediction of chemical speciation in aquatic systems, including acid-base chemistry, precipitation/dissolution, complexation, oxidation/reduction and phase partitioning of organics. Applications to water treatment.",
+        "sections": [
+            {
+                "section": "31415R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 20,
+                "registered": "11 of 30",
+                "instructor": "Adam Simpson",
+                "location": "WPHB36"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": ". Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "31434D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department.",
+        "sections": [
+            {
+                "section": "31439D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "10 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31440D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "3 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31441R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31442R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "1 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31443R",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "ENE",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of Dissertation.",
+        "sections": [
+            {
+                "section": "31444D",
+                "session": "048",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 15",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

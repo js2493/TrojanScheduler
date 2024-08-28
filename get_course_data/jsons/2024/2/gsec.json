@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "GSEC",
+        "course_number": "597",
+        "course_name": "Global Security Practicum",
+        "units": "(8.0 units)",
+        "description": "Immersion in an off-site internship coupled with a problem-based learning component in policy implementation under faculty direction.",
+        "sections": [
+            {
+                "section": "38103D",
+                "session": "057",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "5 of 8",
+                "instructor": "Steven Lamy",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]

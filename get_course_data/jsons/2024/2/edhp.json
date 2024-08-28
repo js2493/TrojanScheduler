@@ -1,0 +1,23 @@
+[
+    {
+        "term": "20242",
+        "department": "EDHP",
+        "course_number": "587",
+        "course_name": "Fieldwork in Higher, Adult and Professional Education",
+        "units": "(1.0-8.0 units, max 8)",
+        "description": "Structured participation in supervised teaching or administrative activities. Assignments matched with student's goals, training, experience. Graded CR/NC. Recommended preparation: EDHP 563, EDHP 565",
+        "sections": [
+            {
+                "section": "26729D",
+                "session": "118",
+                "type": "Lecture",
+                "start_time": 1080,
+                "end_time": 1180,
+                "days": 4,
+                "registered": "14 of 15",
+                "instructor": "Sheila Banuelos",
+                "location": "WPH104"
+            }
+        ]
+    }
+]

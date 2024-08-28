@@ -1,0 +1,272 @@
+[
+    {
+        "term": "20243",
+        "department": "EDCO",
+        "course_num": "503",
+        "course_name": "Ethical and Legal Issues in Counseling",
+        "units": "(3.0 units)",
+        "description": "Examination of current legal, ethical, and other professional issues in the practice of counseling and psychotherapy.",
+        "sections": [
+            {
+                "section": "27044D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "23 of 24",
+                "instructor": "Adrienne Ann Mullen",
+                "location": "WPH102"
+            },
+            {
+                "section": "27099D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "15 of 21",
+                "instructor": "Tiffany Fuller",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27173D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 16,
+                "registered": "21 of 21",
+                "instructor": "Tamara Barron",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27196D",
+                "session": "340",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 4,
+                "registered": "24 of 24",
+                "instructor": "Drew Yamanishi",
+                "location": "WPH205"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDCO",
+        "course_num": "541",
+        "course_name": "Theories in Counseling",
+        "units": "(3.0 units)",
+        "description": "Theory, research, and practice of psychological counseling. Includes laboratory experience.",
+        "sections": [
+            {
+                "section": "27000D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 2,
+                "registered": "17 of 17",
+                "instructor": "Jennifer Gold",
+                "location": "WPH107"
+            },
+            {
+                "section": "27001D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1120,
+                "days": 2,
+                "registered": "17 of 17",
+                "instructor": "Rudy Roman",
+                "location": "SOSB49"
+            },
+            {
+                "section": "27100D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "16 of 17",
+                "instructor": "Miriam Barillas",
+                "location": "WPH107"
+            },
+            {
+                "section": "27101D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1230,
+                "days": 8,
+                "registered": "17 of 25",
+                "instructor": "Charles Nassar",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27171D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 1140,
+                "end_time": 1300,
+                "days": 2,
+                "registered": "17 of 17",
+                "instructor": "Eva Estrada",
+                "location": "SOSB49"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDCO",
+        "course_num": "574",
+        "course_name": "Practicum",
+        "units": "(2.0 units)",
+        "description": "Supervised practice in school counseling.",
+        "sections": [
+            {
+                "section": "27110D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 4,
+                "registered": "10 of 10",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27174D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 4,
+                "registered": "7 of 10",
+                "instructor": "Marsha Riggio",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDCO",
+        "course_num": "575A",
+        "course_name": "Internship",
+        "units": "(2.0 units)",
+        "description": "Supervised practicum experience in a clinical setting.",
+        "sections": [
+            {
+                "section": "27132D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27147D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 8,
+                "registered": "10 of 12",
+                "instructor": "Taqueena Quintana",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27159D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 8,
+                "registered": "4 of 12",
+                "instructor": "Taqueena Quintana",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27160D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Taqueena Quintana",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27180D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 630,
+                "days": 8,
+                "registered": "12 of 12",
+                "instructor": "Marsha Riggio",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27184D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Michele Pinellas",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27185D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 8,
+                "registered": "9 of 12",
+                "instructor": "Gregoire Francois",
+                "location": "ONLINE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "EDCO",
+        "course_num": "575B",
+        "course_name": "Internship",
+        "units": "(2.0 units)",
+        "description": "Supervised practicum experience in a clinical setting.",
+        "sections": [
+            {
+                "section": "27117D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 960,
+                "end_time": 1050,
+                "days": 8,
+                "registered": "7 of 12",
+                "instructor": "Sonia Gooden-Alexis",
+                "location": "ONLINE"
+            },
+            {
+                "section": "27134D",
+                "session": "594",
+                "type": "Lecture",
+                "start_time": 1110,
+                "end_time": 1200,
+                "days": 16,
+                "registered": "12 of 12",
+                "instructor": "Gregoire Francois",
+                "location": "ONLINE"
+            }
+        ]
+    }
+]

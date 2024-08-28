@@ -1,0 +1,140 @@
+[
+    {
+        "term": "20243",
+        "department": "GERM",
+        "course_num": "101",
+        "course_name": "German I",
+        "units": "(4.0 units)",
+        "description": "Introduction to modern German. Oral practice, listening and reading comprehension. Basic structures necessary for simple spoken and written expression.",
+        "sections": [
+            {
+                "section": "36003D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 540,
+                "end_time": 590,
+                "days": 0,
+                "registered": "8 of 19",
+                "instructor": "Eve Lee",
+                "location": "THH213"
+            },
+            {
+                "section": "36004D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "10 of 12",
+                "instructor": "Britta Bothe",
+                "location": "WPH603"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GERM",
+        "course_num": "102",
+        "course_name": "German II",
+        "units": "(4.0 units)",
+        "description": "Continuation of German I. Introduction to German culture. Prerequisite: 101.",
+        "sections": [
+            {
+                "section": "36009R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 650,
+                "days": 0,
+                "registered": "7 of 19",
+                "instructor": "Eve Lee",
+                "location": "THH213"
+            },
+            {
+                "section": "36010R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "2 of 19",
+                "instructor": "Eve Lee",
+                "location": "THH213"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GERM",
+        "course_num": "201",
+        "course_name": "German III, Conversation and Composition",
+        "units": "(4.0 units)",
+        "description": "Intermediate German. Increasing emphasis on listening and speaking skills and a review of basic structures of German. Discussion of cultural aspects. Prerequisite: 101 and 102.",
+        "sections": [
+            {
+                "section": "36015R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 720,
+                "end_time": 770,
+                "days": 0,
+                "registered": "7 of 19",
+                "instructor": "",
+                "location": "WPH107"
+            },
+            {
+                "section": "36016R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 780,
+                "end_time": 830,
+                "days": 0,
+                "registered": "6 of 19",
+                "instructor": "",
+                "location": "WPH107"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GERM",
+        "course_num": "221",
+        "course_name": "Conversational German IV",
+        "units": "(4.0 units)",
+        "description": "Conversational German in a variety of topical settings and vocabulary domains. Prerequisite: 3rd semester German or equivalent.",
+        "sections": [
+            {
+                "section": "36020R",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 660,
+                "end_time": 710,
+                "days": 0,
+                "registered": "3 of 19",
+                "instructor": "",
+                "location": "THH108"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "GERM",
+        "course_num": "470",
+        "course_name": "Advanced Composition and Stylistics",
+        "units": "(4.0 units)",
+        "description": "Development of competence in written expression; fundamentals of style in expository writing. In German.",
+        "sections": [
+            {
+                "section": "36030D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 10,
+                "registered": "2 of 19",
+                "instructor": "Britta Bothe",
+                "location": "THH110"
+            }
+        ]
+    }
+]

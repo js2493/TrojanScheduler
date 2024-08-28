@@ -1,0 +1,275 @@
+[
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "509",
+        "course_name": "Research Design",
+        "units": "(4.0 units)",
+        "description": "Introduction to the concept of research design and examples of the variant research methods utilized in the field. Both the conceptual and practical issues of research including development of the research question, selection of appropriate methods, data sources and analytic approaches to address the research question will be addressed.",
+        "sections": [
+            {
+                "section": "48954D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 2,
+                "registered": "5 of 30",
+                "instructor": "Geoffrey Joyce",
+                "location": "DMC200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "510",
+        "course_name": "Foundations of Health Economics",
+        "units": "(4.0 units)",
+        "description": "Introduction to the foundations of economic theory, including economic efficiency, market power, insurance and information, with a focus on applications to health policy.",
+        "sections": [
+            {
+                "section": "48955D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 8,
+                "registered": "5 of 30",
+                "instructor": "Seth Seabury",
+                "location": "DMC200"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "525",
+        "course_name": "Pharmacoeconomics I",
+        "units": "(4.0 units)",
+        "description": "Introduction to pharmacoeconomics with special emphasis on the role of pharmaceuticals and the pharmaceutical industry, insurance, managed care, regulation and pricing.",
+        "sections": [
+            {
+                "section": "48950D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 1070,
+                "days": 4,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "KAP138"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "547",
+        "course_name": "Programming Methods for Empirical Analysis of Health Data",
+        "units": "(4.0 units)",
+        "description": "Introduction to methods for analysis of large health data sets, including data selection, SAS/Stata programming under Linux, and review of claims and survey data.",
+        "sections": [
+            {
+                "section": "48957D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 950,
+                "days": 20,
+                "registered": "5 of 30",
+                "instructor": "Sarah Axeen",
+                "location": "DMC157"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "552",
+        "course_name": "Advanced Health Econometrics I",
+        "units": "(4.0 units)",
+        "description": "The expansion of students' knowledge of econometric methods emphasizing, but not limited to, applications to health economics. Serves as a prelude to the advanced study of microeconomics.",
+        "sections": [
+            {
+                "section": "48952D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": 600,
+                "end_time": 710,
+                "days": 10,
+                "registered": "0 of 10",
+                "instructor": "",
+                "location": "THH219"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "590",
+        "course_name": "Directed Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the master's degree. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "48961D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "698",
+        "course_name": "Seminar in Pharmaceutical Economics and Policy",
+        "units": "(1.0 units, max 4)",
+        "description": "Current research in pharmaceutical economics and policy presented by outside scholars, faculty and students. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "48968D",
+                "session": "001",
+                "type": "Lecture",
+                "start_time": 840,
+                "end_time": 925,
+                "days": 4,
+                "registered": "5 of 25",
+                "instructor": "",
+                "location": "VPD116"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "790",
+        "course_name": "Research",
+        "units": "(1.0-12.0 units)",
+        "description": "Research leading to the doctorate. Maximum units which may be applied to the degree to be determined by the department. Graded CR/NC.",
+        "sections": [
+            {
+                "section": "48970D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "6 of 50",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "794A",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "48980D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 20",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "794B",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "48982D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "794C",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "48984D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "794D",
+        "course_name": "Doctoral Dissertation",
+        "units": "(2.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "48986D",
+                "session": "046",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 25",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    },
+    {
+        "term": "20243",
+        "department": "PMEP",
+        "course_num": "794Z",
+        "course_name": "Doctoral Dissertation",
+        "units": "(0.0 units)",
+        "description": "Credit on acceptance of dissertation. Graded IP/CR/NC.",
+        "sections": [
+            {
+                "section": "48988D",
+                "session": "005",
+                "type": "Lecture",
+                "start_time": -1,
+                "end_time": -1,
+                "days": 0,
+                "registered": "0 of 30",
+                "instructor": "",
+                "location": "OFFICE"
+            }
+        ]
+    }
+]
