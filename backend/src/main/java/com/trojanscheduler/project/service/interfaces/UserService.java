@@ -2,6 +2,8 @@ package com.trojanscheduler.project.service.interfaces;
 
 import com.trojanscheduler.project.model.Calendar;
 import com.trojanscheduler.project.model.TrojanUser;
+import com.trojanscheduler.project.payload.LoginDTO;
+import org.springframework.http.ResponseEntity;
 
 import java.util.List;
 
@@ -15,5 +17,7 @@ public interface UserService {
 
     List<Calendar> getCalendars(String username);
     void deleteUser(String username);
+
+    ResponseEntity<?> login(LoginDTO loginDTO);
 
 }
