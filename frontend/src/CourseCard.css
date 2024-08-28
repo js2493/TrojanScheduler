@@ -33,6 +33,9 @@
     padding: 15px;
     background-color: #f9f9f9;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 50%;
+    width: 50%;
+    margin: 0 auto;
 }
 
 /* Header of each course card (e.g., course ID, name, and units) */
@@ -93,10 +96,10 @@
 }
 
 /* Hover effect for each course card */
-.course-card:hover {
+/* .course-card:hover {
     background-color: #f1f1f1;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-}
+} */
 
 /* Style for the course rating and GPA, if needed */
 .course-rating, .course-gpa {
@@ -120,4 +123,28 @@
     .course-header span {
         margin-top: 5px;
     }
+}
+
+
+.sections-table {
+    width: 100%; /* Make the table take up the full width of the container */
+    border-collapse: collapse; /* Ensure borders collapse into a single border */
+}
+
+.sections-table tr {
+    border-bottom: 1px solid #ccc; /* Faint line between rows */
+}
+
+.sections-table tr.section-full {
+    color: red; /* Example styling for full sections */
+}
+
+.sections-table tr:hover {
+    background-color: #e47a7a; /* Highlight row on hover */
+}
+
+
+
+.sections-table td:last-child {
+    border-right: none; /* Remove border from the last column */
 }
