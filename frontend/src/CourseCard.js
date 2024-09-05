@@ -25,6 +25,11 @@ function CourseCard({ course }) {
         return result;
     }
 
+    function handleRowClick(sectionId) {
+        console.log(sectionId + " clicked");
+        
+    }
+
     function convertTimeToString(startTime, endTime) {
         let start_h = Math.floor(startTime / 60)
         let end_h = Math.floor (endTime / 60)
@@ -41,7 +46,7 @@ function CourseCard({ course }) {
         <div className="course-card">
             <div className="course-header">
                 {/* <span className="course-id">{course.id}</span> */}
-                <span className="course-name">{course.department} {course.courseNumber} {course.courseName}</span>
+                <span id={`course-${course.department}${course.courseNumber}`} className="course-name">{course.department} {course.courseNumber} {course.courseName}</span>
                 <span className="course-units">{course.units}</span>
             </div>
             <div className="course-desc-wrapper">
@@ -61,7 +66,7 @@ function CourseCard({ course }) {
                     </thead>
                     <tbody>
                         {course.sections.map((section) => (
-                            <tr key={section.id} className={section.isFull ? "section-full" : ""}>
+                            <tr key={section.id} id={`section-${section.id}`} onClick={() => handleRowClick(section.id)}>
                                 <td>{section.section}</td>
                                 <td>{section.type}</td>
                                 <td>{convertDaysToString(section.days)}</td>

@@ -1,6 +1,6 @@
-.container {
+.search-container {
     padding: 20px;
-    max-width: 500px;
+    max-width: 95%;
     margin: 0 auto;
 }
 
@@ -10,12 +10,11 @@
 }
 
 .field {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .label {
     display: block;
-    margin-bottom: 5px;
 }
 
 .select,
@@ -65,14 +64,7 @@
     display: block;
 }
 
-.react-time-picker__inputGroup {
-    height: 100px;
-}
 
-.react-time-picker__inputGroup__hour {
-    height: 100%;
-    width: 300px;
-}
 
 .flex-time {
     display: flex;
@@ -104,7 +96,7 @@
     flex-direction: column; /* Stack the checkboxes vertically */
     align-items: flex-start; /* Align all items to the left */
     gap: 10px; /* Space between each checkbox item */
-    padding-top: 10px; /* Add some padding around the form */
+    padding-top: 0px; /* Add some padding around the form */
     padding-left: 20%;
 }
 
@@ -125,7 +117,7 @@
     min-width: 100px; /* Ensures all checkboxes start at the same vertical position */
     text-align: left; /* Align text to the left */
     font-size: 16px; /* Adjust font size as needed */
-    line-height: 1.5; /* Increase line height for better readability */
+    line-height: 0; /* Increase line height for better readability */
 }
 
 .flex-2 {
@@ -141,8 +133,21 @@
 }
 
 .scrollable-container {
-    overflow-y: scroll;  /* Enables vertical scrolling */
+    overflow-y: scroll;  
     overflow-x: hidden;
     height: 100vh;
 }
 
+@media (max-width: 768px) {
+    .field {
+        margin-bottom: 0px;
+    }
+
+    .header {
+        margin-bottom: 10px;
+    }
+
+    .search-container {
+        padding: 0px 15px;
+    }
+}

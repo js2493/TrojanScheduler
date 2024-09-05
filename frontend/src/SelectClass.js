@@ -109,6 +109,7 @@ function ClassSelector(){
         setCourseNumber('');
         setStartTime('6:00am');
         setEndTime('11:00pm');
+        setDays(0);
     };
 
     const handleBack = () => {
@@ -117,13 +118,11 @@ function ClassSelector(){
     };
 
     const handleCheckboxChange = (dayValue) => {
-        console.log(dayValue);
-        console.log(days ^ dayValue)
         setDays(days ^ dayValue); 
     };
    
     const courseSearchForm = (
-        <div className="container">
+        <div className="search-container">
             <h2 className="header">Schedule of Classes</h2>
             <div className="field">
                 <label className="label">Term</label>
@@ -171,7 +170,7 @@ function ClassSelector(){
                             className="course-input"
                         />
                     </div>
-                    <div className="course-num">
+                    {/* <div className="course-num">
                         <label className="label">Course Code</label>
                         <input
                             type="text"
@@ -180,7 +179,7 @@ function ClassSelector(){
                             placeholder="ex. 14200, 29000-29100"
                             className="course-input"
                         />
-                    </div>
+                    </div> */}
                     <div className="flex-time">
                         <TimeSelector name="Start Time" value={startTime} className="startTime" onChange={setStartTime}/>
                         <TimeSelector name="End Time" value={endTime} className="endTime" onChange={setEndTime}/>
@@ -231,7 +230,7 @@ function ClassSelector(){
         </div>
     )
 
-    return searchActive ? courseSearchForm : courseResults;
+    return (<div id="course-search-container">{searchActive ? courseSearchForm : courseResults}</div>)
     
 }
 

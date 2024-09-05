@@ -1,0 +1,39 @@
+#body-outer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#body-inner {
+    display: flex;
+    width: 100%; 
+}
+
+#body-inner > * {
+    flex: 1; 
+    max-width: 50%; 
+}
+
+.toggle-button {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    #body-inner {
+        flex-direction: column; 
+    }
+
+    #body-inner > * {
+        max-width: 100%; 
+    }
+
+    .toggle-button {
+        display: block;
+        margin: 10px;
+        width: 25%
+    }
+
+    .hidden-mobile {
+        display: none; 
+    }
+}

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import ClassSelector from './SelectClass';
+import Body from './Body';
 import LoginPopup from './LoginPopup';
 
 function App() {
@@ -41,7 +41,7 @@ function App() {
                 Log Out
             </button>
             Hello, {username}
-            <ClassSelector />
+            <Body />
         </div>
     ) : (
         <div className="App">
@@ -49,7 +49,7 @@ function App() {
                 Log In / Sign Up
             </button>
             <LoginPopup isOpen={isPopupOpen} togglePopup={togglePopup} onLoginSuccess={handleLoginSuccess} />
-            <ClassSelector />
+            <Body />
         </div>
     ) ;
 }
