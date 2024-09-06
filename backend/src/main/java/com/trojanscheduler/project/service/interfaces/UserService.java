@@ -6,6 +6,7 @@ import com.trojanscheduler.project.payload.LoginDTO;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
+import java.util.Map;
 
 public interface UserService {
 
@@ -18,6 +19,6 @@ public interface UserService {
     List<Calendar> getCalendars(String username);
     void deleteUser(String username);
 
-    ResponseEntity<?> login(LoginDTO loginDTO);
+    ResponseEntity<Map<String, String>> login(LoginDTO loginDTO);
 
 }

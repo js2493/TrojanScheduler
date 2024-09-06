@@ -160,7 +160,7 @@ function ClassSelector(){
             <div className="field input-group">
                 
                 <div className="flex-1">
-                    <div class="course-num">
+                    <div className="course-num">
                         <label className="label">Course Number</label>
                         <input
                             type="text"

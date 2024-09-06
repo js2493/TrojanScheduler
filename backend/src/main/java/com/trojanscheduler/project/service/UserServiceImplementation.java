@@ -10,6 +10,7 @@ import com.trojanscheduler.project.repository.TrojanUserRepository;
 import com.trojanscheduler.project.service.interfaces.UserService;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -19,9 +20,7 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.provisioning.UserDetailsManager;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
-import java.util.NoSuchElementException;
-import java.util.Optional;
+import java.util.*;
 
 @Service
 public class UserServiceImplementation implements UserService {
@@ -104,15 +103,19 @@ public class UserServiceImplementation implements UserService {
     }
 
     @Override
-    public ResponseEntity<?> login(LoginDTO loginDTO) {
+    public ResponseEntity<Map<String, String>> login(LoginDTO loginDTO) {
         try {
             Authentication authentication = authenticationManager.authenticate(
                     new UsernamePasswordAuthenticationToken(loginDTO.getUsername(), loginDTO.getPassword())
             );
             SecurityContextHolder.getContext().setAuthentication(authentication);
-            return ResponseEntity.ok().body("Login successful");
+            Map<String, String> response = new HashMap<>();
+            response.put("username", loginDTO.getUsername());
+            return new ResponseEntity<>(response, HttpStatus.OK);
         } catch (AuthenticationException e) {
-            return ResponseEntity.status(401).body("Invalid username or password");
+            Map<String, String> response = new HashMap<>();
+            response.put("message", "Login failed: Invalid credentials");
+            return new ResponseEntity<>(response, HttpStatus.UNAUTHORIZED);
         }
     }
 

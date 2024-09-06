@@ -125,7 +125,6 @@
     }
 }
 
-
 .sections-table {
     width: 100%; /* Make the table take up the full width of the container */
     border-collapse: collapse; /* Ensure borders collapse into a single border */
@@ -142,7 +141,6 @@
 .sections-table tr:hover {
     background-color: #e47a7a; /* Highlight row on hover */
 }
-
 
 
 .sections-table td:last-child {

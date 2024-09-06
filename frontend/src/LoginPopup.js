@@ -1,9 +1,12 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
+import { AuthContext } from './AuthContext'; // Import the AuthContext
 import './LoginPopup.css'; // Include the CSS styles
 
-function LoginPopup({ isOpen, togglePopup, onLoginSuccess}) {
+function LoginPopup({ isOpen, togglePopup }) {
 
     const BASE_URL = "http://localhost:8080";
+
+    const { login } = useContext(AuthContext);
 
     const [isLogin, setIsLogin] = useState(true);
     const [username, setUsername] = useState('');
@@ -19,12 +22,7 @@ function LoginPopup({ isOpen, togglePopup, onLoginSuccess}) {
     };
 
     const handleSubmit = async (e) => {
-        const test = JSON.stringify({
-            username,
-            password,
-            ...(isLogin ? {} : { email }), // Include email if registering
-        });
-        console.log(test);
+        
         e.preventDefault();
         setError('');
         try {
@@ -41,8 +39,9 @@ function LoginPopup({ isOpen, togglePopup, onLoginSuccess}) {
             });
 
             if (response.ok) {
-                onLoginSuccess(username);
-                togglePopup();
+                const userData = await response.json();
+                login(userData); // Call login function from AuthContext
+                togglePopup(); // Close the popup after successful login
             } else {
                 const errorData = await response.json();
                 setError(errorData.message || "Failed to authenticate");
